@@ -1,0 +1,284 @@
+{
+  "slug": "blog/bilingual-website-development-uae",
+  "name": "bilingual-website-development-uae",
+  "published_at": "2026-07-23T12:00:00.000Z",
+  "content": {
+    "_uid": "bilingual-website-development-uae-page",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "bilingual-website-development-uae-seo",
+        "component": "seo",
+        "title": "Bilingual Website Development UAE | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "article",
+        "keywords": "bilingual website UAE, Arabic website development Dubai, RTL website UAE, hreflang Arabic English, multilingual web development UAE",
+        "og_image": {
+          "filename": "/assets/images/web-development-uae.webp",
+          "alt": "Bilingual English and Arabic website development for UAE businesses",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "Bilingual Website Development in the UAE: English and Arabic Done Right",
+        "publisher": "IGENTX",
+        "description": "Build bilingual English and Arabic websites for the UAE with RTL layout, hreflang, localised content and performance-first Next.js development.",
+        "article_tags": "bilingual website UAE, Arabic website development Dubai, RTL website UAE, hreflang Arabic English, multilingual web development UAE",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/blog/bilingual-website-development-uae",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/web-development-uae.webp",
+          "alt": "Bilingual English and Arabic website development for UAE businesses",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "Bilingual Website Development in the UAE: English and Arabic Done Right",
+        "article_author": "IGENTX Digital Team",
+        "og_description": "Build bilingual English and Arabic websites for the UAE with RTL layout, hreflang, localised content and performance-first Next.js development.",
+        "article_section": "Web Development",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Build bilingual English and Arabic websites for the UAE with RTL layout, hreflang, localised content and performance-first Next.js development.",
+        "structured_data_type": "BlogPosting",
+        "article_modified_time": "2026-07-23 00:00",
+        "article_published_time": "2026-07-23 00:00",
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BlogPosting\",\"headline\":\"Bilingual Website Development in the UAE: English and Arabic Done Right\",\"description\":\"Build bilingual English and Arabic websites for the UAE with RTL layout, hreflang, localised content and performance-first Next.js development.\",\"url\":\"https://www.igentx.com/blog/bilingual-website-development-uae\",\"datePublished\":\"2026-07-23T00:00:00+00:00\",\"dateModified\":\"2026-07-23T00:00:00+00:00\",\"author\":{\"@type\":\"Person\",\"name\":\"IGENTX Digital Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"IGENTX\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"}},\"image\":\"https://www.igentx.com/assets/images/web-development-uae.webp\",\"articleSection\":\"Web Development\",\"keywords\":\"bilingual website UAE, Arabic website development Dubai, RTL website UAE, hreflang Arabic English, multilingual web development UAE\",\"inLanguage\":\"en\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.igentx.com/blog/bilingual-website-development-uae\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Bilingual Website Development in the UAE: English and Arabic Done Right\",\"item\":\"https://www.igentx.com/blog/bilingual-website-development-uae\"}]}]}"
+      },
+      {
+        "_uid": "bilingual-website-development-uae-hero",
+        "component": "blog_hero",
+        "title": "Bilingual Website Development in the UAE: English and Arabic Done Right",
+        "excerpt": "UAE audiences search and buy in both English and Arabic. This guide covers RTL design, hreflang, content localisation, language switchers and the technical patterns that help bilingual sites rank and convert.",
+        "category": "Web Development",
+        "author_name": "IGENTX Digital Team",
+        "publish_date": "2026-07-23",
+        "reading_time": "7 min read",
+        "back_link": {
+          "url": "/blog",
+          "linktype": "url",
+          "cached_url": "/blog"
+        },
+        "featured_image": {
+          "filename": "/assets/images/web-development-uae.webp",
+          "alt": "Bilingual English and Arabic website development for UAE businesses",
+          "fieldtype": "asset",
+          "is_external_url": false
+        }
+      },
+      {
+        "_uid": "bilingual-website-development-uae-detail",
+        "component": "blog_detail",
+        "category": "Web Development",
+        "author_name": "IGENTX Digital Team",
+        "author_role": "Digital Strategy & Engineering",
+        "author_bio": "The IGENTX Digital Team writes practical guides on web development, AI, SEO, vertical products and digital growth for businesses in the UAE and worldwide.",
+        "publish_date": "2026-07-23",
+        "reading_time": "7 min read",
+        "show_toc": true,
+        "key_takeaways": [
+          "Bilingual UAE sites need proper hreflang, lang attributes and RTL-ready layouts, not machine-translated duplicates.",
+          "Language switchers should preserve page context so users do not lose their place when switching.",
+          "Localised copy and performance-first builds improve both SEO and conversion in Dubai and Abu Dhabi."
+        ],
+        "tags": "bilingual website UAE, Arabic website development Dubai, RTL website UAE, hreflang Arabic English, multilingual web development UAE",
+        "related_posts": [
+          {
+            "_uid": "bilingual-website-development-uae-rel-0",
+            "component": "blog_card",
+            "title": "Web Development in the UAE: A Practical Guide",
+            "excerpt": "Planning and building high-performance websites for UAE businesses.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-11-06",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/web-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Web Development in the UAE: A Practical Guide",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "bilingual-website-development-uae-rel-1",
+            "component": "blog_card",
+            "title": "Local SEO in Dubai and the UAE",
+            "excerpt": "Google Business Profile, citations and bilingual local pages.",
+            "category": "SEO",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/local-seo-dubai-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/seo-og.webp",
+              "alt": "Local SEO in Dubai and the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "bilingual-website-development-uae-rel-2",
+            "component": "blog_card",
+            "title": "Moduluxe Group: 300% Organic Traffic Growth",
+            "excerpt": "Bilingual SEO and performance results for a UAE real estate brand.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/moduluxe-group-seo-case-study"
+            },
+            "featured_image": {
+              "filename": "/assets/images/moduluxegroup.webp",
+              "alt": "Moduluxe Group: 300% Organic Traffic Growth",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ],
+        "cta_section_title": "Need a bilingual website in the UAE?",
+        "cta_section_text": "IGENXT builds Arabic and English websites on Next.js with RTL support, hreflang and SEO foundations from day one.",
+        "cta_button_text": "Explore Web Development UAE",
+        "cta_button_link": {
+          "url": "/services/web-development-uae",
+          "linktype": "url",
+          "cached_url": "services/web-development-uae"
+        },
+        "content_blocks": [
+          {
+            "_uid": "bilingual-website-development-uae-h-0",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Why bilingual websites matter in the UAE"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-b-0",
+            "component": "blog_body",
+            "content": "<p>The UAE is a multilingual market. Customers search in English and Arabic, often on mobile, and expect content in their preferred language. A site that serves only one language leaves visibility and revenue on the table.</p><p>Bilingual development is more than translation. It requires <strong>RTL layout</strong>, culturally appropriate copy, consistent branding and technical signals so search engines serve the correct language version. Done well, bilingual sites improve trust, time on site and qualified enquiries.</p>"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-h-1",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "URL structure and hreflang"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-b-1",
+            "component": "blog_body",
+            "content": "<p>Choose a URL pattern and stick to it. Common approaches include language subdirectories (<code>/en/</code> and <code>/ar/</code>) or subdomains. Each English page should have a matching Arabic counterpart where content exists.</p><p>Implement <code>hreflang</code> tags linking language alternates, set correct <code>lang</code> attributes on the HTML element, and use canonical tags to avoid duplicate content issues. Test with Google Search Console after launch.</p><p>Our <a href=\"/blog/technical-seo-checklist-uae\">technical SEO checklist</a> covers hreflang validation and indexation checks for UAE sites.</p>"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-img-1",
+            "component": "blog_image",
+            "image": {
+              "filename": "/assets/images/seo-optimisation.webp",
+              "alt": "SEO optimisation for bilingual UAE websites"
+            },
+            "caption": "Hreflang and canonical tags help Google serve the right language to UAE searchers.",
+            "width": "large",
+            "alignment": "center"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-h-2",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "RTL design and UX"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-b-2",
+            "component": "blog_body",
+            "content": "<p>Arabic interfaces read right to left. Mirror navigation, icons and form layouts where appropriate, but do not flip logos or media that should stay LTR. Typography, line height and button placement need RTL testing on real devices.</p><p>Language switchers should preserve context: switching from an English service page should land on the Arabic equivalent, not the homepage. Avoid auto-redirecting by IP alone without a clear user override.</p>"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-h-3",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Localisation, not literal translation"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-b-3",
+            "component": "blog_body",
+            "content": "<p>Effective Arabic content reflects how customers in Dubai and Abu Dhabi describe your services. Work with professional localisation or native copywriters rather than machine translation for customer-facing pages.</p><p>Meta titles, headings, schema and alt text should be localised where they affect search and accessibility. IGENTX clients such as <a href=\"/case-studies/moduluxe-group\">Moduluxe Group</a> improved organic visibility by ranking in both Arabic and English searches after a bilingual SEO-ready rebuild.</p>"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-h-4",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Build on a performance-first stack"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-b-4",
+            "component": "blog_body",
+            "content": "<p>Next.js with static generation or ISR delivers fast bilingual pages at scale. Pair with a CMS that supports field-level translation workflows so marketing teams can update both languages without developer bottlenecks.</p><p><a href=\"/services/web-development-uae\">IGENXT web development in the UAE</a> includes bilingual architecture, RTL theming and SEO setup. <a href=\"/contact\">Book a free consultation</a> to plan your English and Arabic site.</p>"
+          }
+        ]
+      },
+      {
+        "_uid": "bilingual-website-development-uae-faq",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Questions about bilingual and Arabic website development in the UAE.",
+        "initial_visible_count": 5,
+        "faqs": [
+          {
+            "_uid": "bilingual-website-development-uae-faq-0",
+            "component": "faq_item",
+            "question": "Should Arabic be the default language on a UAE website?",
+            "answer": "Default language depends on your primary audience and brand strategy. Many businesses default to English with a prominent Arabic switcher. The key is consistent URLs, hreflang and equal quality in both languages.",
+            "category": "General"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-faq-1",
+            "component": "faq_item",
+            "question": "Can you add Arabic to an existing English-only site?",
+            "answer": "Yes. We audit structure, implement RTL theming, add hreflang and migrate content into a bilingual routing pattern. Major redesigns may be faster than patching legacy templates.",
+            "category": "General"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-faq-2",
+            "component": "faq_item",
+            "question": "Does bilingual content hurt SEO?",
+            "answer": "Not when hreflang and unique localised pages are implemented correctly. Duplicate thin translation hurts SEO; thoughtful localisation improves visibility in both language markets.",
+            "category": "General"
+          },
+          {
+            "_uid": "bilingual-website-development-uae-faq-3",
+            "component": "faq_item",
+            "question": "Which CMS works best for bilingual UAE sites?",
+            "answer": "We often use Storyblok or similar headless CMS with field-level translation. The CMS should support workflow for both languages and preview before publish.",
+            "category": "General"
+          }
+        ]
+      },
+      {
+        "_uid": "bilingual-website-development-uae-cta",
+        "component": "igentx_cta_band",
+        "title": "Ready for a bilingual site that ranks in both languages?",
+        "description": "Book a free consultation to plan your English and Arabic website structure, content and launch roadmap.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "Read Local SEO Guide",
+        "secondary_cta_link": {
+          "url": "/blog/local-seo-dubai-uae-guide",
+          "linktype": "url",
+          "cached_url": "blog/local-seo-dubai-uae-guide"
+        }
+      }
+    ]
+  }
+}

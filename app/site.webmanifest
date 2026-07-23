@@ -1,0 +1,43 @@
+{
+  "name": "IGENTX - AI-Driven Web & Branding Solutions",
+  "short_name": "IGENTX",
+  "description": "AI-Driven Web & Branding Solutions for Fast-Growing Businesses in the UAE. Modern web development with Next.js, React, and cutting-edge CMS platforms.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "productivity",
+    "technology"
+  ],
+  "icons": [
+    {
+      "src": "/icon1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

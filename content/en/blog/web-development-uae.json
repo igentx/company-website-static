@@ -1,0 +1,1641 @@
+{
+  "slug": "blog/web-development-uae",
+  "name": "web-development-uae",
+  "published_at": "2025-11-11T06:48:06.380Z",
+  "content": {
+    "_uid": "6bf19350-24c2-4c0a-a47b-3c6c9f1ce2fd",
+    "body": [
+      {
+        "_uid": "80e0b406-e0ee-4414-bc3e-3e0e886481f5",
+        "title": "Web Development in the UAE: A Practical Guide | IGENTX Blog",
+        "author": "igentx Digital Team",
+        "og_type": "article",
+        "keywords": "web development UAE, web development company UAE, web development Dubai, web design UAE, website development company Dubai, digital agency UAE, best web development company in Dubai",
+        "og_image": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "source": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset",
+          "meta_data": {}
+        },
+        "og_title": "Web Development in the UAE: A Practical Guide | IGENTX",
+        "component": "seo",
+        "publisher": "igentx",
+        "description": "A practical guide to planning, building and optimising high-performance websites for businesses in Dubai, Abu Dhabi and across the UAE.",
+        "article_tags": "",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/blog/web-development-uae",
+        "robots_follow": true,
+        "twitter_image": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "source": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset",
+          "meta_data": {}
+        },
+        "twitter_title": "Web Development in the UAE: A Practical Guide | IGENTX",
+        "article_author": "IGENTX Digital Team",
+        "og_description": "A practical guide to web development for UAE businesses: planning, technology choices, bilingual sites, SEO foundations, and launch timelines.",
+        "article_section": "Web Development",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Practical web development guidance for Dubai, Abu Dhabi and the UAE: performance, SEO, bilingual delivery and measurable growth.",
+        "structured_data_type": "BlogPosting",
+        "article_modified_time": "2025-11-06 00:00",
+        "article_published_time": "2025-11-06 00:00",
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Web Development in the UAE: A Practical Guide\",\"item\":\"https://www.igentx.com/blog/web-development-uae\"}]}"
+      },
+      {
+        "_uid": "44cd3d87-a251-4173-810b-3a2109cc47ca",
+        "title": "Web Development in the UAE: A Practical Guide for Growing Businesses",
+        "excerpt": "A practical guide to planning, building and optimising high-performance websites for businesses in Dubai, Abu Dhabi and across the UAE.",
+        "category": "Web Development",
+        "back_link": {
+          "url": "/blog",
+          "linktype": "url",
+          "cached_url": "/blog"
+        },
+        "component": "blog_hero",
+        "author_name": "IGENTX Digital Team",
+        "publish_date": "2025-11-06",
+        "reading_time": "8 min read",
+        "featured_image": {
+          "id": null,
+          "alt": "Web development guide for UAE businesses",
+          "name": "",
+          "focus": null,
+          "title": null,
+          "source": null,
+          "filename": "/assets/images/web-development-uae.webp",
+          "copyright": null,
+          "fieldtype": "asset",
+          "meta_data": {}
+        }
+      },
+      {
+        "_uid": "8445442e-ab66-45a0-8446-2c1195dd45ea",
+        "tags": "",
+        "category": "Web Development",
+        "component": "blog_detail",
+        "author_name": "IGENTX Digital Team",
+        "publish_date": "2025-11-06",
+        "reading_time": "8 min read",
+        "updated_date": "",
+        "author_avatar": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "source": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset",
+          "meta_data": {}
+        },
+        "related_posts": [
+          {
+            "_uid": "rel-importance",
+            "component": "blog_card",
+            "title": "Why Every UAE Business Needs a Strong Website",
+            "excerpt": "The business case for a professional site.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-10-28",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/importance-of-website-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Why Every UAE Business Needs a Strong Website",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "rel-how-to-choose",
+            "component": "blog_card",
+            "title": "How to Choose a Web Development Agency in the UAE",
+            "excerpt": "Evaluation criteria for UAE vendors.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-10-28",
+            "reading_time": "4 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/how-to-choose-best-web-development-agency-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/best-web-development-agency-uae-og.webp",
+              "alt": "How to Choose a Web Development Agency in the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "rel-ai-web",
+            "component": "blog_card",
+            "title": "How AI Is Changing Web Development in the UAE",
+            "excerpt": "AI-assisted delivery and smarter UX.",
+            "category": "AI",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-11-30",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/ai-in-web-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/ai-in-web-development.webp",
+              "alt": "How AI Is Changing Web Development in the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ],
+        "content_blocks": [
+          {
+            "_uid": "75ca4392-3080-4cff-bad3-44c5ce078de3",
+            "text": "This guide helps UAE businesses plan high-performance websites. For hands-on delivery, see our UAE web development services or global web development services.",
+            "author": "",
+            "component": "blog_quote",
+            "author_role": "",
+            "background_color": ""
+          },
+          {
+            "_uid": "wd-blog-intro-link",
+            "component": "blog_body",
+            "content": "<p>Ready to move from planning to delivery? Explore <a href=\"/services/web-development-uae\">UAE web development services</a> or <a href=\"/services/web-development\">global web development</a> from IGENTX.</p>"
+          },
+          {
+            "_uid": "b4eb3f38-2d8f-4a5d-9aeb-9c1ab6a23725",
+            "text": "What Web Development Means for UAE Businesses",
+            "level": "h2",
+            "alignment": "",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "063f783f-13fa-4f1e-b8cf-f9203dccab4b",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "The UAE’s digital landscape is evolving faster than ever. From startups to enterprises, every business is embracing technology to stay competitive and your website is the center of that transformation.",
+                      "type": "text"
+                    },
+                    {
+                      "text": "   ",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "textStyle",
+                          "attrs": {
+                            "color": "#24335A"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "At igentx, we believe web development isn’t just about coding. It’s about crafting digital experiences that engage your audience, represent your brand, and perform flawlessly across every device.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "𝗔 𝘄𝗲𝗹𝗹-𝗯𝘂𝗶𝗹𝘁 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗰𝗮𝗻 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂:",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "  • Build trust and credibility in competitive UAE markets",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "  • Improve visibility through SEO-optimized performance",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "  • Integrate with CRMs, payment gateways, and analytics tools",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "  • Deliver multi-language content (English + Arabic) effortlessly",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            "alignment": "",
+            "component": "blog_body"
+          },
+          {
+            "_uid": "d215c173-1d25-4e70-b816-afa1a4062a20",
+            "text": "Why UAE Businesses Choose igentx",
+            "level": "h2",
+            "alignment": "",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "d9fa2f39-43b3-4ebe-8a66-9b97b9e3be0b",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "When it comes to ",
+                      "type": "text"
+                    },
+                    {
+                      "text": "web development in UAE",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": ", you need a partner who understands both technology and local business culture.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "igentx",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " combines deep technical expertise with creative design thinking. We don't use templates. We create ",
+                      "type": "text"
+                    },
+                    {
+                      "text": "custom, composable web experiences",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " that scale with your business.",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            "alignment": "",
+            "component": "blog_body"
+          },
+          {
+            "_uid": "4c5ef0ac-7609-4f97-89d4-70c6624d99d2",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "What Sets Us Apart:",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": " • 𝗖𝗼𝗺𝗽𝗼𝘀𝗮𝗯𝗹𝗲 & 𝗛𝗲𝗮𝗱𝗹𝗲𝘀𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 - ",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "Fast, flexible, and future-proof.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "• 𝗠𝘂𝗹𝘁𝗶𝗹𝗶𝗻𝗴𝘂𝗮𝗹 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 - ",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "English + Arabic CMS integration made simple.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "• 𝗦𝗘𝗢-𝗗𝗿𝗶𝘃𝗲𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 - ",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "Optimized structure and metadata for top rankings.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "• 𝗖𝗹𝗼𝘂𝗱 𝗛𝗼𝘀𝘁𝗶𝗻𝗴 & 𝗖𝗜/𝗖𝗗 - ",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "Vercel-powered deployments for reliability and speed.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "• 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗙𝗶𝗿𝘀𝘁 - ",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "SSL, accessibility, and data protection best practices.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "• 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗖𝗼𝗻𝘃𝗲𝗿𝘀𝗶𝗼𝗻 𝗧𝗿𝗮𝗰𝗸𝗶𝗻𝗴 - ",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "Insights that drive measurable growth.",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            "alignment": "",
+            "component": "blog_body"
+          },
+          {
+            "_uid": "abf2dfc7-7ede-4d57-8ddd-f75974170cd5",
+            "text": "Our Web Development Services in UAE",
+            "level": "h2",
+            "alignment": "",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "2878babb-3897-4f1e-9dcf-88152fabe6c9",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "From strategy to maintenance, we provide ",
+                      "type": "text"
+                    },
+                    {
+                      "text": "end-to-end web development services",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " tailored to your goals.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3,
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Custom Website Development",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Tailor-made websites built to match your brand identity, user journey, and conversion goals.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3,
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Ecommerce Development",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Secure, scalable online stores with optimized checkout flows and integrations like Shopify, Magento, or custom headless commerce.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3,
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Web Application Development",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Custom web apps that streamline operations, from dashboards to CRMs and booking systems.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3,
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "UI/UX Design",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Intuitive, user-centric designs that improve engagement and retention.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3,
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "CMS Integration",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Easily manage and publish content using ",
+                      "type": "text"
+                    },
+                    {
+                      "text": "Storyblok",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": ", ",
+                      "type": "text"
+                    },
+                    {
+                      "text": "WordPress",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": ", or ",
+                      "type": "text"
+                    },
+                    {
+                      "text": "Headless CMS",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " platforms.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3,
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Performance & SEO Optimization",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "We fine-tune every element code, images, structure - for ",
+                      "type": "text"
+                    },
+                    {
+                      "text": "speed, ranking, and conversions",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": ".",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            "alignment": "",
+            "component": "blog_body"
+          },
+          {
+            "_uid": "0a50c047-77c1-4590-87f9-562dbc3334ea",
+            "text": "Our Proven Development Process",
+            "level": "h2",
+            "alignment": "",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "bfd7abbd-793f-4021-a92f-60e7920d8444",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "table",
+                  "content": [
+                    {
+                      "type": "tableRow",
+                      "content": [
+                        {
+                          "type": "tableHeader",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              54
+                            ]
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "Step",
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableHeader",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              186
+                            ]
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Phase",
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableHeader",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Description",
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tableRow",
+                      "content": [
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              54
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "1",
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              186
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Discovery & Strategy",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": null,
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Understand your goals, target audience, and business model.",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tableRow",
+                      "content": [
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              54
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "2",
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              186
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     UI/UX Design",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": null,
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Craft intuitive interfaces aligned with brand identity.",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tableRow",
+                      "content": [
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              54
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "3",
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              186
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Development",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": null,
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Build scalable, secure solutions using modern tech stacks.",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tableRow",
+                      "content": [
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              54
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "4",
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              186
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Testing & QA",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": null,
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Rigorously test across browsers and devices for flawless performance.",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tableRow",
+                      "content": [
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              54
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "5",
+                                  "type": "text",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": [
+                              186
+                            ],
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Launch & Optimization",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tableCell",
+                          "attrs": {
+                            "colspan": 1,
+                            "rowspan": 1,
+                            "colwidth": null,
+                            "backgroundColor": null
+                          },
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "attrs": {
+                                "textAlign": null
+                              },
+                              "content": [
+                                {
+                                  "text": "     Deploy, monitor, and continuously improve.",
+                                  "type": "text"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "alignment": "",
+            "component": "blog_body"
+          },
+          {
+            "_uid": "3357327c-60d1-4a6f-8f05-2220fd9277b1",
+            "text": "Our goal is simple: build websites that perform, scale, and inspire trust.",
+            "author": "",
+            "component": "blog_quote",
+            "author_role": "",
+            "background_color": ""
+          },
+          {
+            "_uid": "d79f1555-7681-4ea7-afd1-05fe41f98bd4",
+            "text": "Web Development Trends Shaping the UAE",
+            "level": "h2",
+            "alignment": "",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "2538cdcf-94e2-4ce2-8278-cd8001dbf31c",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Staying ahead of the curve is what defines leading UAE businesses.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3,
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "Key Trends in 2025 & Beyond:",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "1 - AI-Driven Personalization",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " – Tailor digital experiences based on behavior and intent.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "2 - Composable Commerce",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " – Integrate headless CMS and modular eCommerce solutions.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "3 - Arabic + English Localization",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " – Expand your reach across diverse audiences.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "4 - Ultra-Fast Performance",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " – Google Core Web Vitals as a ranking factor.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "5 - Cloud-Native Hosting",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " – Scalability with reduced infrastructure costs.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "6 - Sustainability in Design",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " – Lightweight websites that use less energy and load faster.",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "attrs": {
+                    "textAlign": null
+                  },
+                  "content": [
+                    {
+                      "text": "igentx",
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " stays at the forefront of these innovations, ensuring your digital presence evolves with the UAE market.",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            "alignment": "",
+            "component": "blog_body"
+          },
+          {
+            "_uid": "a5e4da7c-f2fc-4405-96ce-6d4c3587253b",
+            "text": "Client Success Stories",
+            "level": "h2",
+            "alignment": "",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "ad01c6a2-5fcf-4cce-8b0e-5ec65ad9bbec",
+            "text": "The new website transformed our online presence. We started getting quality leads from day one, and the bilingual SEO setup helped us rank in both Arabic and English searches - Murshid CK (Operations Head - Moduluxe)\n\n",
+            "author": "",
+            "component": "blog_quote",
+            "author_role": "",
+            "background_color": ""
+          },
+          {
+            "_uid": "f987305a-c44a-410d-887a-fb8eea4f5244",
+            "text": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place - Ajas Muhammed (Managing Director - BloomWave Learning & Daycare)\n\n",
+            "author": "",
+            "component": "blog_quote",
+            "author_role": "",
+            "background_color": ""
+          }
+        ],
+        "cta_button_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "/contact"
+        },
+        "cta_button_text": "Book a Free Consultation",
+        "cta_section_text": "Our team builds high-performance websites and AI solutions for businesses in the UAE and worldwide.",
+        "cta_section_title": "Need help implementing this?",
+        "author_role": "Digital Strategy & Engineering",
+        "author_bio": "The IGENTX Digital Team writes practical guides on web development, AI, SEO and digital growth. We combine hands-on delivery experience with outcome-first advice for businesses in the UAE and worldwide.",
+        "show_toc": true,
+        "key_takeaways": [
+          "Plan your website around business goals: leads, credibility and operational efficiency.",
+          "Performance, mobile UX and technical SEO should be built in from day one.",
+          "Choose a stack that scales as your content, traffic and integrations grow."
+        ]
+      },
+      {
+        "_uid": "faq-web-development-uae",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about this topic.",
+        "initial_visible_count": 5,
+        "faqs": [
+          {
+            "_uid": "faq-item-web-development-uae-0",
+            "component": "faq_item",
+            "question": "What is involved in web development for UAE businesses?",
+            "answer": "A typical project includes discovery, UX design, development on a modern stack, SEO setup, testing and launch. Ongoing optimisation helps maintain speed, security and search visibility.",
+            "category": "General"
+          },
+          {
+            "_uid": "faq-item-web-development-uae-1",
+            "component": "faq_item",
+            "question": "Which technologies work best for UAE business websites?",
+            "answer": "Next.js and React are popular for performance, SEO and flexibility. The right choice depends on your integrations, content workflow and long-term growth plans.",
+            "category": "General"
+          },
+          {
+            "_uid": "faq-item-web-development-uae-2",
+            "component": "faq_item",
+            "question": "How long does it take to build a business website in the UAE?",
+            "answer": "Timelines depend on scope. A focused marketing site may launch in weeks, while larger platforms with custom features require more planning. Clear requirements and agile delivery reduce delays.",
+            "category": "General"
+          }
+        ]
+      },
+      {
+        "_uid": "cta-web-development-uae",
+        "component": "igentx_cta_band",
+        "title": "Ready to turn these insights into results?",
+        "description": "Book a free consultation with IGENTX, or explore our UAE web development services for bilingual delivery, local SEO and proven regional case studies.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "UAE Web Development Services",
+        "secondary_cta_link": {
+          "url": "/services/web-development-uae",
+          "linktype": "url",
+          "cached_url": "services/web-development-uae"
+        }
+      }
+    ],
+    "component": "page"
+  }
+}

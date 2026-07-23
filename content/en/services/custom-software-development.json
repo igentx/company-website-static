@@ -1,0 +1,296 @@
+{
+  "slug": "services/custom-software-development",
+  "name": "Custom Software Development",
+  "published_at": "2026-07-23T00:00:00.000Z",
+  "content": {
+    "_uid": "cs-page-root",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "cs-seo-001",
+        "component": "seo",
+        "title": "Custom Software Development | Bespoke Web Apps & Platforms | IGENTX",
+        "description": "Bespoke web applications, internal tools and product platforms built to fit your workflows and growth goals. Global delivery from an AI-accelerated studio.",
+        "keywords": "custom software development, bespoke web applications, internal tools, API integrations, product platforms",
+        "canonical_url": "https://www.igentx.com/services/custom-software-development",
+        "robots_index": true,
+        "robots_follow": true,
+        "og_type": "website",
+        "og_title": "Custom Software Development | IGENTX",
+        "og_description": "Custom software that fits your business: portals, dashboards, APIs and integrations built with modern stacks for efficiency and scale.",
+        "og_image": {
+          "filename": "/assets/images/custom-software-development.webp",
+          "alt": "Custom software development by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_card_type": "summary_large_image",
+        "twitter_title": "Custom Software Development | IGENTX",
+        "twitter_description": "Bespoke web applications and platforms tailored to your workflows, built for measurable operational efficiency and growth.",
+        "twitter_image": {
+          "filename": "/assets/images/custom-software-development.webp",
+          "alt": "Custom software development by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "structured_data_type": "Service",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Custom Software Development\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"Bespoke web applications, internal tools, portals, dashboards and API integrations built with modern technology stacks.\"\n}"
+      },
+      {
+        "_uid": "cs-hero-001",
+        "component": "service_hero",
+        "badge_text": "IGENTX Service",
+        "title": "Bespoke software built for your workflows and growth",
+        "summary": "Off-the-shelf tools rarely fit how your team actually works. We design and build custom web applications, internal tools and product platforms with modern stacks: portals, dashboards, APIs and integrations tailored to your business logic.",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "back_link": {
+          "url": "/services",
+          "linktype": "url",
+          "cached_url": "services"
+        },
+        "back_link_label": "Back to Services",
+        "featured_image": {
+          "filename": "/assets/images/custom-software-development.webp",
+          "alt": "Custom software development",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "Custom portals and admin dashboards\nInternal tools that match your workflows\nAPI integrations and automation\nScalable architecture with modern stacks",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "cs-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Built by IGENTX",
+        "title": "Custom-built software, delivered globally",
+        "description": "We build software around your processes, not the other way around. Conservative engineering, clear milestones and ongoing support from discovery through launch.",
+        "partner_logos": [
+          {
+            "_uid": "cs-p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "cs-p-react",
+            "component": "trust_band_partner",
+            "name": "React",
+            "icon": {
+              "filename": "/assets/icons/react-icon.svg",
+              "alt": "React"
+            }
+          },
+          {
+            "_uid": "cs-p-aws",
+            "component": "trust_band_partner",
+            "name": "AWS",
+            "icon": {
+              "filename": "/assets/icons/aws-icon.svg",
+              "alt": "AWS"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "cs-m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built",
+            "description": "Tailored to your business, not templates",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "cs-m2",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "cs-m3",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Delivery",
+            "description": "Serving teams worldwide",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "cs-m4",
+            "component": "trust_band_metric",
+            "value": "API",
+            "label": "First Integrations",
+            "description": "Connect your existing tools and data",
+            "icon_key": "layers"
+          }
+        ]
+      },
+      {
+        "_uid": "cs-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "What We Build",
+        "title": "Software that fits how you operate",
+        "description": "From customer-facing portals to internal operations tools, we scope and build software that improves efficiency, data flow and long-term scalability.",
+        "features": [
+          {
+            "_uid": "cs-f1",
+            "component": "differentiator_feature",
+            "title": "Custom Portals",
+            "highlight": "Admin and client access",
+            "description": "Role-based portals for admins, staff and customers with workflows designed around your permissions and approval paths.",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Custom portals",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "cs-f2",
+            "component": "differentiator_feature",
+            "title": "Internal Tools",
+            "highlight": "Replace spreadsheets",
+            "description": "Dashboards, reporting views and operational tools that replace manual processes and disconnected spreadsheets.",
+            "icon": {
+              "filename": "/assets/icons/ai-workflows-icon.svg",
+              "alt": "Internal tools",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "cs-f3",
+            "component": "differentiator_feature",
+            "title": "API Integrations",
+            "highlight": "Connect your stack",
+            "description": "Integrate CRMs, payment gateways, ERPs, marketing tools and third-party APIs so data flows where your team needs it.",
+            "icon": {
+              "filename": "/assets/icons/api-integrations-icon.svg",
+              "alt": "API integrations",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "cs-f4",
+            "component": "differentiator_feature",
+            "title": "Product Platforms",
+            "highlight": "SaaS-ready builds",
+            "description": "Multi-tenant or single-tenant product platforms with authentication, billing hooks and scalable infrastructure from day one.",
+            "icon": {
+              "filename": "/assets/icons/headless-cms-icon.svg",
+              "alt": "Product platforms",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "cs-f5",
+            "component": "differentiator_feature",
+            "title": "Scalable Architecture",
+            "highlight": "Built to grow",
+            "description": "Modern stacks with Next.js, React, TypeScript and cloud-native hosting designed for performance and maintainability.",
+            "icon": {
+              "filename": "/assets/icons/cicd-icon.svg",
+              "alt": "Scalable architecture",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "cs-f6",
+            "component": "differentiator_feature",
+            "title": "Security and Access Control",
+            "highlight": "Enterprise-ready",
+            "description": "Role-based access, audit trails and secure authentication patterns suited to business-critical applications.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Security",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "cs-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to build software that fits your business?",
+        "description": "Book a free consultation to discuss your workflows, integrations and goals. We will scope a realistic roadmap from MVP to full platform.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        }
+      },
+      {
+        "_uid": "cs-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about custom software development, timelines, technology and ongoing support.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "cs-faq-q1",
+            "component": "faq_item",
+            "question": "What is custom software development?",
+            "answer": "Custom software development is the process of designing and building applications tailored to your business workflows, data and growth goals. Unlike off-the-shelf tools, custom software fits how your team operates and can evolve with your business.",
+            "category": "General"
+          },
+          {
+            "_uid": "cs-faq-q2",
+            "component": "faq_item",
+            "question": "When should I choose custom software over off-the-shelf tools?",
+            "answer": "Custom software makes sense when existing products force workarounds, create data silos, limit integrations or cannot scale with your operations. If your competitive advantage depends on unique workflows or a proprietary platform, bespoke development is often the better long-term investment.",
+            "category": "General"
+          },
+          {
+            "_uid": "cs-faq-q3",
+            "component": "faq_item",
+            "question": "What types of custom software does IGENTX build?",
+            "answer": "We build customer and admin portals, internal dashboards, workflow automation tools, API integrations, SaaS platforms and vertical products. Examples include childcare management platforms, client portals and operational tools for growing businesses.",
+            "category": "General"
+          },
+          {
+            "_uid": "cs-faq-q4",
+            "component": "faq_item",
+            "question": "How long does a custom software project take?",
+            "answer": "Timelines depend on scope. Focused internal tools or MVPs often take 4-8 weeks. Larger platforms with multiple roles, integrations and billing may take 8-16 weeks. We provide a realistic timeline after discovery based on features, integrations and content readiness.",
+            "category": "Process"
+          },
+          {
+            "_uid": "cs-faq-q5",
+            "component": "faq_item",
+            "question": "What technology stack do you use?",
+            "answer": "We typically use Next.js, React, TypeScript and modern cloud infrastructure on AWS or Vercel. Integrations are API-first, with headless CMS, payment gateways and third-party services connected as needed for your product.",
+            "category": "Technology"
+          },
+          {
+            "_uid": "cs-faq-q6",
+            "component": "faq_item",
+            "question": "Can you integrate with our existing systems?",
+            "answer": "Yes. We integrate with CRMs, ERPs, payment providers, marketing tools and internal databases through REST APIs, webhooks and documented integration patterns. Connecting your stack is often a core part of custom software projects.",
+            "category": "Technology"
+          },
+          {
+            "_uid": "cs-faq-q7",
+            "component": "faq_item",
+            "question": "Do you provide maintenance after launch?",
+            "answer": "Yes. We offer ongoing support covering security updates, performance monitoring, feature iterations and integration changes. Support can be scoped as ad-hoc hours or a monthly retainer with agreed response times.",
+            "category": "Support"
+          },
+          {
+            "_uid": "cs-faq-q8",
+            "component": "faq_item",
+            "question": "Do you work with startups and enterprises?",
+            "answer": "Yes. For startups we focus on fast MVP delivery with foundations that scale. For enterprises we emphasise architecture, security, integrations and phased rollouts. Our process adapts to your team size, budget and timeline.",
+            "category": "General"
+          }
+        ]
+      }
+    ]
+  }
+}

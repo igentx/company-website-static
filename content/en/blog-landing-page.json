@@ -1,0 +1,553 @@
+{
+  "slug": "blog-landing-page",
+  "name": "Blogs Landing Page",
+  "published_at": "2025-11-30T18:15:16.769Z",
+  "content": {
+    "_uid": "7d72c1e4-fc5e-49ed-a8bf-e6f3af6cf2fb",
+    "body": [
+      {
+        "_uid": "blog-seo-001",
+        "title": "Insights & Articles | Web Development & SEO Blog | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "website",
+        "keywords": "igentx blog, web development articles, seo blog uae, ecommerce insights, ai web design uae, digital agency dubai",
+        "og_image": {
+          "filename": "/assets/blog/web-development-og.webp",
+          "alt": "IGENTX blog: web development, AI and SEO insights",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "IGENTX Blog | Web Development, AI & SEO Insights",
+        "component": "seo",
+        "publisher": "IGENTX",
+        "description": "Practical articles on web development, AI, SEO and digital growth from the IGENTX team. UAE-focused strategies with global applicability for businesses ready to generate more leads and conversions.",
+        "article_tags": "web development uae, seo dubai, ai web development, digital growth blog",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/blog",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/blog/web-development-og.webp",
+          "alt": "IGENTX blog: web development, AI and SEO insights",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "IGENTX Blog | Web Development, AI & SEO Insights",
+        "article_author": "IGENTX Digital Team",
+        "og_description": "Explore expert articles on AI-powered web development, SEO and digital growth. Outcome-first strategies for UAE businesses and global brands.",
+        "article_section": "Blog",
+        "robots_nosnippet": false,
+        "robots_noarchive": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Expert articles on web development, AI, SEO and measurable digital growth from the IGENTX team.",
+        "structured_data_type": "Custom",
+        "article_modified_time": "2025-11-30 00:00",
+        "article_published_time": "2025-10-27 00:00",
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"IGENTX Blog Articles\",\"description\":\"Articles on web development, AI, SEO and digital growth from IGENTX.\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Local SEO in Dubai and the UAE\",\"url\":\"https://www.igentx.com/blog/local-seo-dubai-uae-guide\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Technical SEO Checklist for UAE Websites\",\"url\":\"https://www.igentx.com/blog/technical-seo-checklist-uae\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Ecommerce Website Development in Dubai and the UAE\",\"url\":\"https://www.igentx.com/blog/ecommerce-website-development-dubai-uae\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Bilingual Website Development in the UAE\",\"url\":\"https://www.igentx.com/blog/bilingual-website-development-uae\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"Custom Software Development UAE Guide\",\"url\":\"https://www.igentx.com/blog/custom-software-development-uae-guide\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"Branding for UAE Startups\",\"url\":\"https://www.igentx.com/blog/branding-uae-startups-guide\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"Childcare Management Software UAE Buyer Guide\",\"url\":\"https://www.igentx.com/blog/childcare-management-software-uae-guide\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"Opening a Nursery in Dubai Digital Tools\",\"url\":\"https://www.igentx.com/blog/opening-nursery-dubai-digital-tools\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"Moduluxe Group SEO Case Study\",\"url\":\"https://www.igentx.com/blog/moduluxe-group-seo-case-study\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"BloomWave DaycareMate Digital Transformation\",\"url\":\"https://www.igentx.com/blog/bloomwave-daycaremate-digital-transformation\"},{\"@type\":\"ListItem\",\"position\":11,\"name\":\"AI Customer Service Agent with Smart Lead Generation\",\"url\":\"https://www.igentx.com/blog/ai-customer-service-agent-uae\"},{\"@type\":\"ListItem\",\"position\":12,\"name\":\"Why Every UAE Business Needs a Strong Website in 2025\",\"url\":\"https://www.igentx.com/blog/importance-of-website-uae\"},{\"@type\":\"ListItem\",\"position\":13,\"name\":\"How AI Is Revolutionizing Web Development in the UAE\",\"url\":\"https://www.igentx.com/blog/ai-in-web-development-uae\"},{\"@type\":\"ListItem\",\"position\":14,\"name\":\"How to Choose the Best Web Development Agency in the UAE\",\"url\":\"https://www.igentx.com/blog/how-to-choose-best-web-development-agency-uae\"},{\"@type\":\"ListItem\",\"position\":15,\"name\":\"Web Development in the UAE: A Practical Guide\",\"url\":\"https://www.igentx.com/blog/web-development-uae\"},{\"@type\":\"ListItem\",\"position\":16,\"name\":\"DaycareMate Childcare Centre Management Software Guide\",\"url\":\"https://www.igentx.com/blog/daycaremate-childcare-management-software-guide\"}]}"
+      },
+      {
+        "_uid": "blog-grid-001",
+        "component": "blog_grid",
+        "badge_text": "Latest Articles",
+        "title": "Explore our latest insights",
+        "description": "Browse articles by topic or start with our featured guide to childcare centre management software.",
+        "intro_text": "Our articles are written for business owners, marketing leaders and operations teams who need clear, actionable guidance. Every post connects strategy to outcomes: more enquiries, better SEO visibility, faster launches and stronger conversion rates.\n\nStart here for web development in the UAE: (1) Why Every UAE Business Needs a Strong Website, (2) How to Choose a Web Development Agency, (3) Web Development Practical Guide, (4) How AI Is Changing Web Development.",
+        "columns": "3",
+        "show_filters": true,
+        "filter_categories": "Web Development, AI, SEO, Ecommerce, Products, Branding",
+        "cta_text": "Ready to turn insights into results?",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "/contact"
+        },
+        "featured_blog": {
+          "_uid": "card-daycaremate-guide",
+          "component": "blog_card",
+          "title": "DaycareMate: A Practical Guide to Childcare Centre Management Software",
+          "excerpt": "What childcare centre management software should deliver, from admissions and attendance to family communication and billing, with DaycareMate by IGENTX.",
+          "category": "Products",
+          "author_name": "IGENTX Digital Team",
+          "publish_date": "2026-07-23",
+          "reading_time": "8 min read",
+          "link": {
+            "url": "",
+            "linktype": "story",
+            "cached_url": "blog/daycaremate-childcare-management-software-guide"
+          },
+          "featured_image": {
+            "filename": "/assets/images/daycaremate-dashboard.webp",
+            "alt": "DaycareMate dashboard showing attendance, admissions and billing for childcare centres",
+            "fieldtype": "asset",
+            "is_external_url": false
+          }
+        },
+        "topic_links": [
+          {
+            "_uid": "topic-web-dev",
+            "component": "blog_topic_link",
+            "title": "Web Development UAE",
+            "description": "Custom websites and applications built for performance, SEO and conversions.",
+            "link": {
+              "url": "/services/web-development-uae",
+              "linktype": "url",
+              "cached_url": "services/web-development-uae"
+            }
+          },
+          {
+            "_uid": "topic-seo",
+            "component": "blog_topic_link",
+            "title": "SEO Services UAE",
+            "description": "Technical SEO and ongoing optimisation to grow organic traffic.",
+            "link": {
+              "url": "/services/seo-service-uae",
+              "linktype": "url",
+              "cached_url": "services/seo-service-uae"
+            }
+          },
+          {
+            "_uid": "topic-ai",
+            "component": "blog_topic_link",
+            "title": "AI Customer Service Agent",
+            "description": "24/7 multilingual enquiry assistant with one-line website integration.",
+            "link": {
+              "url": "/products/ai-customer-service-agent",
+              "linktype": "url",
+              "cached_url": "products/ai-customer-service-agent"
+            }
+          },
+          {
+            "_uid": "topic-daycaremate",
+            "component": "blog_topic_link",
+            "title": "DaycareMate",
+            "description": "Childcare centre management: admissions, attendance, messaging and billing.",
+            "link": {
+              "url": "/products/daycaremate",
+              "linktype": "url",
+              "cached_url": "products/daycaremate"
+            }
+          },
+          {
+            "_uid": "topic-ecommerce",
+            "component": "blog_topic_link",
+            "title": "Ecommerce Development UAE",
+            "description": "Online stores with UAE payment gateways and conversion-focused checkout.",
+            "link": {
+              "url": "/services/ecommerce-website-development-uae",
+              "linktype": "url",
+              "cached_url": "services/ecommerce-website-development-uae"
+            }
+          },
+          {
+            "_uid": "topic-branding",
+            "component": "blog_topic_link",
+            "title": "Branding & Design UAE",
+            "description": "Logo, brand identity and marketing creative for UAE businesses.",
+            "link": {
+              "url": "/services/graphic-design-uae",
+              "linktype": "url",
+              "cached_url": "services/graphic-design-uae"
+            }
+          }
+        ],
+        "blogs": [
+          {
+            "_uid": "card-bloomwave-blog",
+            "component": "blog_card",
+            "title": "BloomWave: Digital Transformation with Website, AI and DaycareMate",
+            "excerpt": "How one UAE centre launched website, AI enquiries and operations software.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/bloomwave-daycaremate-digital-transformation"
+            },
+            "featured_image": {
+              "filename": "/assets/images/bloomwave-homepage.jpg",
+              "alt": "BloomWave digital transformation case study",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-moduluxe-blog",
+            "component": "blog_card",
+            "title": "How Moduluxe Group Grew Organic Traffic by 300%",
+            "excerpt": "Bilingual SEO and performance results for a UAE real estate brand.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/moduluxe-group-seo-case-study"
+            },
+            "featured_image": {
+              "filename": "/assets/images/moduluxegroup.webp",
+              "alt": "Moduluxe Group SEO case study",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-nursery-tools",
+            "component": "blog_card",
+            "title": "Opening a Nursery in Dubai: Essential Digital Tools for Launch",
+            "excerpt": "Website, enquiry capture, centre software and parent communication checklist.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "7 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/opening-nursery-dubai-digital-tools"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-dashboard.webp",
+              "alt": "Digital tools for opening a nursery in Dubai",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-childcare-buyer",
+            "component": "blog_card",
+            "title": "How to Choose Childcare Management Software in the UAE",
+            "excerpt": "Buyer guide for evaluating nursery and preschool software in the UAE.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "8 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/childcare-management-software-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-hero.webp",
+              "alt": "Childcare management software buyer guide for UAE centres",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-branding",
+            "component": "blog_card",
+            "title": "Branding for UAE Startups: Logo, Identity and Digital Presence",
+            "excerpt": "Visual identity and digital touchpoints that help UAE startups convert.",
+            "category": "Branding",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/branding-uae-startups-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/branding-og.webp",
+              "alt": "Branding guide for UAE startups",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-custom-sw",
+            "component": "blog_card",
+            "title": "Custom Software Development in the UAE: A Practical Guide",
+            "excerpt": "When custom software makes sense for UAE workflows and integrations.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/custom-software-development-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/custom-software-development.webp",
+              "alt": "Custom software development guide for UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-bilingual",
+            "component": "blog_card",
+            "title": "Bilingual Arabic and English Website Development in the UAE",
+            "excerpt": "RTL design, hreflang and localisation patterns for bilingual UAE sites.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/bilingual-website-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Bilingual website development for UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-ecommerce",
+            "component": "blog_card",
+            "title": "Ecommerce Website Development in Dubai and the UAE",
+            "excerpt": "Platform selection, checkout UX, local payments and SEO for UAE online stores.",
+            "category": "Ecommerce",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "7 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/ecommerce-website-development-dubai-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/ecommerce-og.webp",
+              "alt": "Ecommerce website development guide for Dubai and UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-tech-seo",
+            "component": "blog_card",
+            "title": "Technical SEO Checklist for UAE Websites in 2026",
+            "excerpt": "Audit Core Web Vitals, mobile performance, schema, hreflang and crawlability.",
+            "category": "SEO",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/technical-seo-checklist-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/seo-banner.webp",
+              "alt": "Technical SEO checklist for UAE websites",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-local-seo",
+            "component": "blog_card",
+            "title": "Local SEO in Dubai and the UAE: A Practical Guide for 2026",
+            "excerpt": "Google Business Profile, bilingual landing pages, citations and technical foundations for local search in the Emirates.",
+            "category": "SEO",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "7 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/local-seo-dubai-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/seo-og.webp",
+              "alt": "Local SEO guide for Dubai and UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-importance",
+            "component": "blog_card",
+            "title": "Why Every UAE Business Needs a Strong Website in 2025",
+            "excerpt": "In a competitive, tech-driven market, your website is your engine for growth, trust and visibility. Here is what to prioritise.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-10-28",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/importance-of-website-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Why UAE businesses need a strong website in 2025",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-ai-web",
+            "component": "blog_card",
+            "title": "How AI Is Revolutionizing Web Development in the UAE",
+            "excerpt": "Discover how AI is transforming website design, SEO and user experience for UAE businesses building smarter digital platforms.",
+            "category": "AI",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-10-28",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/ai-in-web-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/ai-in-web-development.webp",
+              "alt": "How AI is revolutionizing web development in the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-agency",
+            "component": "blog_card",
+            "title": "How to Choose the Best Web Development Agency in the UAE",
+            "excerpt": "Choosing the right web development agency can define your business success. Here is how to evaluate partners and what to look for.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-10-28",
+            "reading_time": "4 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/how-to-choose-best-web-development-agency-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/best-web-development-agency-uae-og.webp",
+              "alt": "How to choose the best web development agency in the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-web-dev-uae",
+            "component": "blog_card",
+            "title": "Web Development in the UAE: A Practical Guide for Growing Businesses",
+            "excerpt": "A practical guide to planning, building and optimising high-performance websites for businesses in Dubai, Abu Dhabi and across the UAE.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-11-06",
+            "reading_time": "8 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/web-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Web development guide for UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-ai-agent",
+            "component": "blog_card",
+            "title": "AI Customer Service Agent with Smart Lead Generation",
+            "excerpt": "Automate your website chat and lead generation with the IGENTX AI Customer Service Agent. 24/7 multilingual support built for UAE businesses and global brands.",
+            "category": "AI",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-11-30",
+            "reading_time": "3 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/ai-customer-service-agent-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/igentchat.webp",
+              "alt": "IGENTX AI Customer Service Agent for website lead generation",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "blog-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Trusted Partner",
+        "title": "Insights backed by real delivery",
+        "description": "Our blog reflects the same outcome-first approach we bring to client projects: measurable growth, conservative claims and practical guidance you can act on.",
+        "partner_logos": [
+          {
+            "_uid": "blog-p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "blog-p-react",
+            "component": "trust_band_partner",
+            "name": "React",
+            "icon": {
+              "filename": "/assets/icons/react-icon.svg",
+              "alt": "React"
+            }
+          },
+          {
+            "_uid": "blog-p-vercel",
+            "component": "trust_band_partner",
+            "name": "Vercel",
+            "icon": {
+              "filename": "/assets/icons/vercel-icon.svg",
+              "alt": "Vercel"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "blog-m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built Solutions",
+            "description": "Tailored to each client, not templates",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "blog-m2",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "blog-m3",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Multi-Country Delivery",
+            "description": "UAE expertise with worldwide reach",
+            "icon_key": "global"
+          }
+        ]
+      },
+      {
+        "_uid": "blog-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to put these insights into action?",
+        "description": "Book a free consultation with our team. We will help you plan a website, AI solution or growth strategy tailored to your business goals.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View Case Studies",
+        "secondary_cta_link": {
+          "url": "/case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
+      }
+    ],
+    "component": "page"
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "slug": "services/seo-service-uae",
+  "name": "SEO Service UAE",
+  "published_at": "2025-11-11T15:37:12.294Z",
+  "content": {
+    "_uid": "871ab8d7-bf0c-4229-bbde-22abc95b9f13",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "9e1670df-6254-485b-ae32-d6f8c7f409b0",
+        "component": "seo",
+        "title": "SEO Services in UAE | Local & Technical SEO | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "website",
+        "keywords": "SEO services UAE, local SEO Dubai, SEO agency UAE, Google Maps SEO Dubai, Arabic SEO",
+        "og_image": {
+          "filename": "/assets/blog/seo-og.webp",
+          "alt": "SEO services in the UAE by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "SEO Services in UAE | Local & Technical SEO | IGENTX",
+        "publisher": "IGENTX",
+        "description": "SEO for UAE businesses: Google Maps local SEO, technical audits, Arabic and English content strategy, and monthly reporting.",
+        "article_tags": "seo uae, seo dubai, seo services uae, on-page optimisation, local seo, technical seo, igentx seo",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/services/seo-service-uae",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/blog/seo-og.webp",
+          "alt": "SEO services in the UAE by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "SEO Services UAE | IGENTX",
+        "article_author": "IGENTX",
+        "og_description": "Technical and local SEO for UAE businesses. Google Maps visibility, bilingual keyword strategy and performance reporting from IGENTX.",
+        "article_section": "Search Engine Optimisation",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "SEO for UAE businesses: local search, technical audits, and bilingual content strategy. Book a free consultation for a tailored plan.",
+        "structured_data_type": "Service",
+        "article_published_time": "2025-10-27 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Search Engine Optimisation in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"description\": \"SEO services for UAE businesses including on-page optimisation, technical audits, keyword strategy, and local SEO.\"\n}"
+      },
+      {
+        "_uid": "58fe7ae8-7dbd-4446-b1d0-b31a7d5f5e54",
+        "component": "service_hero",
+        "badge_text": "IGENTX Service · UAE",
+        "title": "Rank higher in Dubai, Abu Dhabi and across the UAE",
+        "summary": "Local SEO for Google Maps, bilingual Arabic and English keyword strategy, and technical foundations that help UAE businesses capture more qualified search traffic.",
+        "category": "SEO Services in UAE",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "duration": "Ongoing Monthly Plans",
+        "back_link": {
+          "url": "/services",
+          "linktype": "url",
+          "cached_url": "services"
+        },
+        "back_link_label": "Back to Services",
+        "featured_image": {
+          "filename": "/assets/blog/seo-banner.webp",
+          "alt": "SEO services in the UAE",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "Google Maps and local SEO for UAE cities\nBilingual Arabic and English keyword strategy\nTechnical audits and Core Web Vitals fixes\nMonthly reporting with clear next steps",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "seo-uae-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "UAE Growth Partner",
+        "title": "Local search visibility built on technical foundations",
+        "description": "We help UAE businesses rank in both English and Arabic searches with technical SEO, local listings optimisation and content that converts visitors into enquiries.",
+        "partner_logos": [
+          {
+            "_uid": "seo-uae-p-gsc",
+            "component": "trust_band_partner",
+            "name": "Search Console",
+            "icon": {
+              "filename": "/assets/icons/google-search-console-icon.svg",
+              "alt": "Google Search Console"
+            }
+          },
+          {
+            "_uid": "seo-uae-p-ga",
+            "component": "trust_band_partner",
+            "name": "Analytics",
+            "icon": {
+              "filename": "/assets/icons/google-analytics-icon.svg",
+              "alt": "Google Analytics"
+            }
+          },
+          {
+            "_uid": "seo-uae-p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "seo-uae-p-seo",
+            "component": "trust_band_partner",
+            "name": "SEO-First",
+            "icon": {
+              "filename": "/assets/icons/seo-first.svg",
+              "alt": "SEO-first development"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "seo-uae-m1",
+            "component": "trust_band_metric",
+            "value": "300%",
+            "label": "Case Study Growth",
+            "description": "Moduluxe Group organic traffic increase",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "seo-uae-m2",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "seo-uae-m3",
+            "component": "trust_band_metric",
+            "value": "EN + AR",
+            "label": "Bilingual SEO",
+            "description": "Rank in English and Arabic searches",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "seo-uae-m4",
+            "component": "trust_band_metric",
+            "value": "Monthly",
+            "label": "Reporting",
+            "description": "Transparent progress and next steps",
+            "icon_key": "layers"
+          }
+        ]
+      },
+      {
+        "_uid": "seo-uae-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "UAE SEO Capabilities",
+        "title": "SEO programmes for the Emirates",
+        "description": "From Google Business Profile optimisation to bilingual content and technical fixes, we scope SEO around your UAE markets and competition.",
+        "features": [
+          {
+            "_uid": "seo-uae-f1",
+            "component": "differentiator_feature",
+            "title": "Local SEO for UAE Cities",
+            "highlight": "Get found on Maps",
+            "description": "Google Business Profile optimisation, local citations and location pages for Dubai, Abu Dhabi, Sharjah and Ajman.",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Local SEO UAE",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-uae-f2",
+            "component": "differentiator_feature",
+            "title": "Bilingual Arabic and English SEO",
+            "highlight": "Rank in both languages",
+            "description": "Hreflang setup, Arabic RTL pages and keyword research for how UAE audiences search in English and Arabic.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Bilingual SEO",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-uae-f3",
+            "component": "differentiator_feature",
+            "title": "Technical SEO Audits",
+            "highlight": "Fix what blocks rankings",
+            "description": "Crawlability, indexing, site speed, Core Web Vitals and structured data fixes for UAE-hosted and global sites.",
+            "icon": {
+              "filename": "/assets/icons/seo-first.svg",
+              "alt": "Technical SEO",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-uae-f4",
+            "component": "differentiator_feature",
+            "title": "On-Page Optimisation",
+            "highlight": "Pages that rank",
+            "description": "Title tags, meta descriptions, heading structure and schema markup aligned to UAE search intent.",
+            "icon": {
+              "filename": "/assets/icons/google-search-console-icon.svg",
+              "alt": "On-page SEO",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-uae-f5",
+            "component": "differentiator_feature",
+            "title": "Content Strategy",
+            "highlight": "Topics that convert",
+            "description": "Keyword research and content briefs focused on qualified UAE traffic, not vanity rankings.",
+            "icon": {
+              "filename": "/assets/icons/headless-cms-icon.svg",
+              "alt": "Content strategy",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-uae-f6",
+            "component": "differentiator_feature",
+            "title": "Reporting and Analytics",
+            "highlight": "Measure what matters",
+            "description": "Monthly reports on rankings, traffic, conversions and technical health with clear priorities for the next cycle.",
+            "icon": {
+              "filename": "/assets/icons/google-analytics-icon.svg",
+              "alt": "SEO reporting",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "seo-uae-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to improve your UAE search visibility?",
+        "description": "Book a free consultation for a local SEO overview, bilingual keyword opportunities and a realistic growth plan for your UAE markets.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View Moduluxe Case Study",
+        "secondary_cta_link": {
+          "url": "case-studies/moduluxe-group",
+          "linktype": "url",
+          "cached_url": "case-studies/moduluxe-group"
+        }
+      },
+      {
+        "_uid": "seo-uae-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about SEO services in the UAE, local search, bilingual content and how we measure growth.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "seo-uae-faq-q1",
+            "component": "faq_item",
+            "question": "What SEO services does IGENTX provide in the UAE?",
+            "answer": "We provide technical SEO audits, on-page optimisation, bilingual content strategy, Google Maps local SEO and monthly performance reporting for businesses targeting Dubai, Abu Dhabi and the wider UAE.",
+            "category": "General"
+          },
+          {
+            "_uid": "seo-uae-faq-q2",
+            "component": "faq_item",
+            "question": "Do you provide local SEO for Dubai and the UAE?",
+            "answer": "Yes. We optimise Google Business Profile, local citations, location pages and bilingual schema markup. Local search in the UAE benefits from mobile-first performance, relevant Arabic and English content, and strong technical foundations.",
+            "category": "Local"
+          },
+          {
+            "_uid": "seo-uae-faq-q3",
+            "component": "faq_item",
+            "question": "Can you help us rank in both Arabic and English?",
+            "answer": "Yes. We plan hreflang tags, URL structures and keyword strategies for bilingual sites so you can rank in both languages without duplicate content issues.",
+            "category": "Bilingual"
+          },
+          {
+            "_uid": "seo-uae-faq-q4",
+            "component": "faq_item",
+            "question": "How long does SEO take to show results in the UAE?",
+            "answer": "Technical improvements can show gains within weeks. Competitive keyword rankings typically take 3-6 months with consistent content and authority building. Local SEO for city-specific queries may show faster results.",
+            "category": "Process"
+          },
+          {
+            "_uid": "seo-uae-faq-q5",
+            "component": "faq_item",
+            "question": "Do you have UAE SEO case studies?",
+            "answer": "Yes. Moduluxe Group achieved 300% organic traffic growth after a bilingual, performance-first Next.js rebuild and SEO foundation by IGENTX. Read the full case study at /case-studies/moduluxe-group.",
+            "category": "Proof"
+          },
+          {
+            "_uid": "seo-uae-faq-q6",
+            "component": "faq_item",
+            "question": "Do you provide ongoing SEO support?",
+            "answer": "Yes. SEO is ongoing work. We offer monthly retainers covering content updates, technical monitoring and performance reviews tailored to UAE competition levels.",
+            "category": "Support"
+          },
+          {
+            "_uid": "seo-uae-faq-q7",
+            "component": "faq_item",
+            "question": "Do you also provide global SEO services?",
+            "answer": "Yes. IGENTX delivers SEO worldwide as well as in the UAE. See our global SEO services page for international and multi-market engagements.",
+            "category": "General"
+          },
+          {
+            "_uid": "seo-uae-faq-q8",
+            "component": "faq_item",
+            "question": "How do I get started with IGENTX SEO in the UAE?",
+            "answer": "Book a free consultation via our contact form or WhatsApp. We will review your site, discuss your UAE markets and share a scoped proposal within 24 hours.",
+            "category": "Process"
+          }
+        ]
+      }
+    ]
+  }
+}

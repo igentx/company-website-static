@@ -1,0 +1,415 @@
+{
+  "slug": "services/graphic-design-uae",
+  "name": "Graphic Design UAE",
+  "published_at": "2025-11-11T15:39:23.733Z",
+  "content": {
+    "_uid": "972bd927-db06-4b35-8e50-50670f6b9baa",
+    "body": [
+      {
+        "_uid": "6166110a-4325-47d8-aa34-fd735f58ec44",
+        "title": "Branding & Graphic Design in UAE | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "website",
+        "keywords": "branding UAE, graphic design Dubai, logo design UAE, brand identity Dubai, creative agency UAE",
+        "og_image": {
+          "id": 106017945830757,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/blog/branding-meta.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "og_title": "Branding & Graphic Design Services in UAE | IGENTX",
+        "component": "seo",
+        "publisher": "IGENTX",
+        "description": "Branding and graphic design for UAE businesses: logo, identity systems, bilingual brand assets, and marketing creative.",
+        "article_tags": "branding UAE, logo design Dubai, visual identity UAE, brand strategy, creative design UAE, corporate branding, igentx branding",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/services/graphic-design-uae",
+        "robots_follow": true,
+        "twitter_image": {
+          "id": 106601555303855,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/blog/branding-og.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "twitter_title": "Branding & Graphic Design UAE | IGENTX",
+        "article_author": "IGENTX",
+        "og_description": "Build a brand that connects and inspires. IGENTX provides complete branding and design services: logos, identity systems, and creative visuals tailored for UAE businesses.",
+        "article_section": "Branding & Graphic Design",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Logo design, brand identity, and creative design solutions for UAE businesses. Stand out with consistent, impactful branding from IGENTX.",
+        "structured_data_type": "Service",
+        "article_modified_time": "",
+        "article_published_time": "",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Branding & Graphic Design in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"hasOfferCatalog\": {\n    \"@type\": \"OfferCatalog\",\n    \"name\": \"branding projects\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Startup Brand\",\n          \"description\": \"Logo, stationery, and basic brand setup for small businesses.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Business Identity\",\n          \"description\": \"Full identity design with brand guidelines and marketing materials.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Corporate Identity Suite\",\n          \"description\": \"Comprehensive brand system for enterprises including print and digital assets.\"\n        }\n      }\n    ]\n  }\n}"
+      },
+      {
+        "_uid": "f95b49ac-8f44-42db-8654-1b4676e9883c",
+        "title": "Build a Brand That Connects & Inspires",
+        "summary": "Strategic branding for UAE businesses: bilingual Arabic/English assets, guidelines, and creative that builds trust locally.",
+        "category": "Branding & Graphic Design in UAE",
+        "cta_link": {
+          "id": "",
+          "url": "/contact",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "contact"
+        },
+        "cta_text": "Book a Free Consultation",
+        "duration": "From 1 week",
+        "back_link": {
+          "id": "",
+          "url": "/services",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "/services"
+        },
+        "component": "service_hero",
+        "featured_image": {
+          "id": 106005235909079,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/blog/branding-banner.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "quick_features": "Logo, stationery and business card design\nBilingual Arabic and English brand assets\nBrand guidelines and visual identity systems\nMarketing and social media creative for UAE markets",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "brand-uae-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "UAE Creative Studio",
+        "title": "Design that connects strategy with execution",
+        "description": "We combine brand strategy with practical design deliverables so your UAE identity works across websites, social channels, print and presentations.",
+        "partner_logos": [
+          {
+            "_uid": "brand-uae-p-ai",
+            "component": "trust_band_partner",
+            "name": "Illustrator",
+            "icon": {
+              "filename": "/assets/icons/adobe-illustrator-icon.svg",
+              "alt": "Adobe Illustrator"
+            }
+          },
+          {
+            "_uid": "brand-uae-p-ps",
+            "component": "trust_band_partner",
+            "name": "Photoshop",
+            "icon": {
+              "filename": "/assets/icons/adobe-photoshop-icon.svg",
+              "alt": "Adobe Photoshop"
+            }
+          },
+          {
+            "_uid": "brand-uae-p-corel",
+            "component": "trust_band_partner",
+            "name": "CorelDRAW",
+            "icon": {
+              "filename": "/assets/icons/corel-draw-icon.svg",
+              "alt": "CorelDRAW"
+            }
+          },
+          {
+            "_uid": "brand-uae-p-flex",
+            "component": "trust_band_partner",
+            "name": "Multi-format",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Flexible deliverables"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "brand-uae-m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built",
+            "description": "Unique identities, not template logos",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "brand-uae-m2",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "brand-uae-m3",
+            "component": "trust_band_metric",
+            "value": "EN + AR",
+            "label": "Bilingual Assets",
+            "description": "Arabic and English brand systems",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "brand-uae-m4",
+            "component": "trust_band_metric",
+            "value": "Print",
+            "label": "and Digital",
+            "description": "Assets ready for every channel",
+            "icon_key": "layers"
+          }
+        ]
+      },
+      {
+        "_uid": "brand-uae-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "What We Deliver",
+        "title": "Brand systems for UAE businesses",
+        "description": "From startup identities to corporate refreshes, we scope branding projects around your UAE audience and the channels where your brand needs to perform.",
+        "features": [
+          {
+            "_uid": "brand-uae-f1",
+            "component": "differentiator_feature",
+            "title": "Logo and Identity Design",
+            "highlight": "Memorable first impression",
+            "description": "Distinctive logo concepts with colour palettes, typography and visual language tailored to UAE markets.",
+            "icon": {
+              "filename": "/assets/icons/adobe-illustrator-icon.svg",
+              "alt": "Logo design",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-uae-f2",
+            "component": "differentiator_feature",
+            "title": "Bilingual Brand Assets",
+            "highlight": "Arabic and English",
+            "description": "Identity systems designed for bilingual markets with culturally appropriate typography and layout.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Bilingual branding",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-uae-f3",
+            "component": "differentiator_feature",
+            "title": "Brand Guidelines",
+            "highlight": "Consistent everywhere",
+            "description": "Documented rules for logo usage, colours, fonts and tone so your team applies the brand correctly.",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Brand guidelines",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-uae-f4",
+            "component": "differentiator_feature",
+            "title": "Marketing Collateral",
+            "highlight": "Ready to publish",
+            "description": "Business cards, stationery, brochures and presentations designed for UAE business culture.",
+            "icon": {
+              "filename": "/assets/icons/adobe-photoshop-icon.svg",
+              "alt": "Marketing collateral",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-uae-f5",
+            "component": "differentiator_feature",
+            "title": "Social Media Creative",
+            "highlight": "On-brand content",
+            "description": "Profile assets, post templates and campaign visuals for Instagram, LinkedIn and other UAE platforms.",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Social media creative",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-uae-f6",
+            "component": "differentiator_feature",
+            "title": "Brand Refresh",
+            "highlight": "Modernise without losing essence",
+            "description": "Rebranding and identity updates that modernise your look while preserving recognition in the UAE market.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Brand refresh",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "brand-uae-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to build a UAE brand that connects?",
+        "description": "Book a free consultation to discuss your positioning, bilingual deliverables and timeline. We scope projects from logo-only to full identity systems.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View Case Studies",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
+      },
+      {
+        "_uid": "0f36bca9-5322-4df8-8f76-9ee3c5c4fcd2",
+        "faqs": [
+          {
+            "_uid": "a2ca168d-adc8-4a75-832e-8ce1006d9e19",
+            "answer": "A branding and graphic design agency helps businesses create a strong visual identity through logos, color schemes, typography, and marketing materials that represent their brand personality and values.",
+            "question": "What does a branding and graphic design agency do?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "556c6e2e-b3c8-4757-bd38-c8acd26571ec",
+            "answer": "Branding builds trust and recognition in a competitive UAE market. A strong brand identity helps attract customers, increase loyalty, and differentiate your business from competitors.",
+            "question": "Why is branding important for UAE businesses?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "f73a33da-cd4d-4038-9810-ae4a583301a4",
+            "answer": "Branding is scoped to deliverables and revision rounds. Book a Free Consultation for a tailored proposal.",
+            "question": "How do I get a quote for branding in the UAE?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "35a8fe36-30d8-46ec-a36a-ee4377308887",
+            "answer": "Typical projects include logo design, brand guidelines, stationery design, social media assets, and strategy consultation, all tailored to your business goals and audience.",
+            "question": "What’s included in your branding projects?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "8fd9d7a7-0bb8-491e-836e-b128a4d4fafe",
+            "answer": "A standard branding project usually takes 1–3 weeks, depending on the complexity, number of revisions, and brand assets required.",
+            "question": "How long does it take to complete a branding project?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "bb074239-bfde-47e6-b6a9-cba088d14994",
+            "answer": "Yes! We specialize in brand refresh and rebranding services to modernize your logo, visuals, and messaging while keeping your brand’s essence intact.",
+            "question": "Can you redesign an existing brand identity?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "74d1554f-6869-48bc-a060-92e09781f500",
+            "answer": "A logo is a visual mark or symbol, while a brand identity includes the full visual system: colors, fonts, tone, and design elements that create a consistent brand experience.",
+            "question": "What’s the difference between a logo and a brand identity?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "d57e46a7-6d47-4e8b-a8b1-7dc397a61ffd",
+            "answer": "Yes, we deliver a complete Brand Guidelines Document that outlines how to use your logo, fonts, and colors consistently across digital and print media.",
+            "question": "Do you provide brand guidelines and usage rules?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "b05937f3-1204-43ae-9b30-1d0cccea8913",
+            "answer": "Absolutely! We design multilingual brand identities suitable for both English and Arabic markets, ensuring cultural alignment and legibility.",
+            "question": "Can you create bilingual branding for English and Arabic?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "92529619-9f7a-462a-8195-7f26e4a86f19",
+            "answer": "Yes, our branding projects include social media display assets and templates for platforms like Instagram, LinkedIn, and Facebook to maintain consistency.",
+            "question": "Do you provide social media branding and templates?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "ff16015c-abd5-4b2f-aabe-e8be1ae2ee1a",
+            "answer": "Yes, we can include flyers, posters, business cards, and email banners as part of your Business or Corporate branding project.",
+            "question": "Can I get marketing materials with my branding project?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "cf6c3286-f3a8-41aa-b66f-ccb454e98568",
+            "answer": "We provide print- and web-ready formats including AI, EPS, PNG, JPG, SVG, and PDF for maximum flexibility.",
+            "question": "What file formats do you deliver for logos and designs?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "d41f5e4d-a198-4818-b3d8-f1730dde6a06",
+            "answer": "Yes, every project includes a brand strategy session to align your visual identity with your business goals and audience expectations.",
+            "question": "Do you offer brand strategy consultation?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "c6860e24-1f69-4f3b-b059-b2afe60e",
+            "answer": "You’ll receive 3–4 unique logo concepts, and you can request revisions until your final design perfectly matches your vision.",
+            "question": "How many logo concepts do I get to choose from?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "f8376adf-e47d-4c69-baf0-a4b6488ffb19",
+            "answer": "Yes, we offer 1-month priority support for minor design tweaks, updates, or additional asset requests.",
+            "question": "Do you provide support after the branding project is completed?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "17022faa-444c-4701-a531-e6834e8cb6cc",
+            "answer": "Definitely. We work with startups on focused identity projects. Book a Free Consultation to discuss scope.",
+            "question": "Can you design branding for startups and small businesses?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "f6e8f039-30a0-49c1-a932-4ac941b62065",
+            "answer": "Yes, our Corporate Identity Suite is fully customizable for enterprises needing multi-channel branding, print collateral, and dedicated design support.",
+            "question": "Do you offer custom corporate identity projects?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "2b6d5f54-a04a-4722-9a33-8d38a119b97d",
+            "answer": "You can start by requesting a custom quote or chatting with us on WhatsApp. Our team will guide you through consultation and design phases.",
+            "question": "How do I start my branding project with IGENTX?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "d51643ae-dcf9-473d-9a80-c2a2e761e283",
+            "answer": "Yes, we ensure your brand looks professional and consistent across digital platforms, print materials, and physical spaces.",
+            "question": "Do you handle both digital and print branding?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "59967cbb-2a08-47ae-b5a1-f4233a7b4d75",
+            "answer": "IGENTX combines strategic positioning with practical design delivery for UAE businesses. We build identities that work across the digital products and marketing channels we also develop.",
+            "question": "Why choose IGENTX for branding in the UAE?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "brand-uae-global-link",
+            "answer": "Yes. IGENTX delivers branding and graphic design globally as well as in the UAE. See our global branding page for international identity projects.",
+            "question": "Do you also provide global branding services?",
+            "component": "faq_item"
+          }
+        ],
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions – Branding & Graphic Design",
+        "faq_description": "Find clear answers to the most common questions about our branding and graphic design services in the UAE. Learn what’s included in a typical project, how our creative process works, and why businesses trust IGENTX to build brands that connect, inspire, and stand out across every touchpoint.",
+        "background_color": "#FFFFFF"
+      }
+    ],
+    "component": "page"
+  }
+}

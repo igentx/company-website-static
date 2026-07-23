@@ -1,0 +1,291 @@
+{
+  "slug": "blog/bloomwave-daycaremate-digital-transformation",
+  "name": "bloomwave-daycaremate-digital-transformation",
+  "published_at": "2026-07-23T12:00:00.000Z",
+  "content": {
+    "_uid": "bloomwave-daycaremate-digital-transformation-page",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "bloomwave-daycaremate-digital-transformation-seo",
+        "component": "seo",
+        "title": "BloomWave DaycareMate Case Study | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "article",
+        "keywords": "BloomWave case study, DaycareMate case study, nursery digital transformation UAE, childcare website UAE, AI enquiry assistant nursery",
+        "og_image": {
+          "filename": "/assets/images/bloomwave-homepage.jpg",
+          "alt": "BloomWave Learning and Daycare website and digital transformation",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "BloomWave: Digital Transformation with Website, AI Enquiries and DaycareMate",
+        "publisher": "IGENTX",
+        "description": "How BloomWave Learning and Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform in one integrated UAE rollout.",
+        "article_tags": "BloomWave case study, DaycareMate case study, nursery digital transformation UAE, childcare website UAE, AI enquiry assistant nursery",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/blog/bloomwave-daycaremate-digital-transformation",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/bloomwave-homepage.jpg",
+          "alt": "BloomWave Learning and Daycare website and digital transformation",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "BloomWave: Digital Transformation with Website, AI Enquiries and DaycareMate",
+        "article_author": "IGENTX Digital Team",
+        "og_description": "How BloomWave Learning and Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform in one integrated UAE rollout.",
+        "article_section": "Products",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "How BloomWave Learning and Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform in one integrated UAE rollout.",
+        "structured_data_type": "BlogPosting",
+        "article_modified_time": "2026-07-23 00:00",
+        "article_published_time": "2026-07-23 00:00",
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BlogPosting\",\"headline\":\"BloomWave: Digital Transformation with Website, AI Enquiries and DaycareMate\",\"description\":\"How BloomWave Learning and Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform in one integrated UAE rollout.\",\"url\":\"https://www.igentx.com/blog/bloomwave-daycaremate-digital-transformation\",\"datePublished\":\"2026-07-23T00:00:00+00:00\",\"dateModified\":\"2026-07-23T00:00:00+00:00\",\"author\":{\"@type\":\"Person\",\"name\":\"IGENTX Digital Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"IGENTX\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"}},\"image\":\"https://www.igentx.com/assets/images/bloomwave-homepage.jpg\",\"articleSection\":\"Products\",\"keywords\":\"BloomWave case study, DaycareMate case study, nursery digital transformation UAE, childcare website UAE, AI enquiry assistant nursery\",\"inLanguage\":\"en\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.igentx.com/blog/bloomwave-daycaremate-digital-transformation\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"BloomWave: Digital Transformation with Website, AI Enquiries and DaycareMate\",\"item\":\"https://www.igentx.com/blog/bloomwave-daycaremate-digital-transformation\"}]}]}"
+      },
+      {
+        "_uid": "bloomwave-daycaremate-digital-transformation-hero",
+        "component": "blog_hero",
+        "title": "BloomWave: Digital Transformation with Website, AI Enquiries and DaycareMate",
+        "excerpt": "BloomWave Learning and Daycare needed a professional web presence, 24/7 parent enquiries and centre operations software. IGENTX delivered bloomwave.ae, an AI enquiry assistant and DaycareMate in one coordinated rollout for the Abu Dhabi centre.",
+        "category": "Products",
+        "author_name": "IGENTX Digital Team",
+        "publish_date": "2026-07-23",
+        "reading_time": "6 min read",
+        "back_link": {
+          "url": "/blog",
+          "linktype": "url",
+          "cached_url": "/blog"
+        },
+        "featured_image": {
+          "filename": "/assets/images/bloomwave-homepage.jpg",
+          "alt": "BloomWave Learning and Daycare website and digital transformation",
+          "fieldtype": "asset",
+          "is_external_url": false
+        }
+      },
+      {
+        "_uid": "bloomwave-daycaremate-digital-transformation-detail",
+        "component": "blog_detail",
+        "category": "Products",
+        "author_name": "IGENTX Digital Team",
+        "author_role": "Digital Strategy & Engineering",
+        "author_bio": "The IGENTX Digital Team writes practical guides on web development, AI, SEO, vertical products and digital growth for businesses in the UAE and worldwide.",
+        "publish_date": "2026-07-23",
+        "reading_time": "6 min read",
+        "show_toc": true,
+        "key_takeaways": [
+          "Integrated rollout beats stitching together unrelated vendors for website, enquiries and centre software.",
+          "An AI enquiry assistant captures parent interest outside office hours, with manual lead conversion by centre staff.",
+          "DaycareMate centralises admissions and daily operations so teams stop juggling disconnected tools."
+        ],
+        "tags": "BloomWave case study, DaycareMate case study, nursery digital transformation UAE, childcare website UAE, AI enquiry assistant nursery",
+        "related_posts": [
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-rel-0",
+            "component": "blog_card",
+            "title": "How to Choose Childcare Management Software in the UAE",
+            "excerpt": "Buyer guide for nursery and preschool software evaluation.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/childcare-management-software-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-hero.webp",
+              "alt": "How to Choose Childcare Management Software in the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-rel-1",
+            "component": "blog_card",
+            "title": "Opening a Nursery in Dubai: Essential Digital Tools",
+            "excerpt": "Digital checklist for new nursery launches in the UAE.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/opening-nursery-dubai-digital-tools"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-dashboard.webp",
+              "alt": "Opening a Nursery in Dubai: Essential Digital Tools",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-rel-2",
+            "component": "blog_card",
+            "title": "DaycareMate: Childcare Centre Management Software Guide",
+            "excerpt": "Platform features for admissions, attendance and billing.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/daycaremate-childcare-management-software-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-hero.webp",
+              "alt": "DaycareMate: Childcare Centre Management Software Guide",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ],
+        "cta_section_title": "Want an integrated centre digital stack?",
+        "cta_section_text": "Read the full BloomWave case study for project scope, results and how IGENTX coordinates website, AI and DaycareMate delivery.",
+        "cta_button_text": "View Full Case Study",
+        "cta_button_link": {
+          "url": "/case-studies/bloomwave-learning-daycare",
+          "linktype": "url",
+          "cached_url": "case-studies/bloomwave-learning-daycare"
+        },
+        "content_blocks": [
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-h-0",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Centre background and goals"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-b-0",
+            "component": "blog_body",
+            "content": "<p><strong>BloomWave Learning and Daycare</strong> is an early learning centre in Abu Dhabi. Leadership wanted parents to see a professional, trustworthy brand online, capture enquiries outside office hours and run admissions and daily care from one operations platform.</p><p>Fragmented tools would slow staff and confuse families. BloomWave chose IGENTX for an integrated delivery: marketing website, optional AI enquiry assistant and <a href=\"/products/daycaremate\">DaycareMate</a> centre management software.</p>"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-h-1",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Website: bloomwave.ae"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-b-1",
+            "component": "blog_body",
+            "content": "<p>IGENXT launched <strong>bloomwave.ae</strong> on Next.js with Storyblok CMS so the centre can update content without developer dependency. The site presents programmes, trust signals and clear enquiry paths optimised for mobile parents researching childcare options.</p><p>A fast, credible website supports admissions before families ever call. See our <a href=\"/blog/opening-nursery-dubai-digital-tools\">digital tools guide for opening a nursery in Dubai</a> for a similar launch checklist.</p>"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-img-1",
+            "component": "blog_image",
+            "image": {
+              "filename": "/assets/images/bloomwave-homepage.jpg",
+              "alt": "BloomWave Learning and Daycare homepage"
+            },
+            "caption": "bloomwave.ae gives parents a professional presence they can trust.",
+            "width": "large",
+            "alignment": "center"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-h-2",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "AI enquiry assistant with manual lead conversion"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-b-2",
+            "component": "blog_body",
+            "content": "<p>BloomWave deployed an <strong>IGENTX AI enquiry assistant</strong> on the website to answer common parent questions 24/7. The assistant helps capture enquiry intent through conversation when staff are unavailable.</p><p>Qualified conversations are <strong>reviewed by centre admins</strong> and converted to pipeline leads manually. The assistant does not auto-create enrolments or CRM records without staff oversight. Embeddable enquiry forms on the site complement chat for structured lead capture.</p>"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-h-3",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "DaycareMate for admissions and operations"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-b-3",
+            "component": "blog_body",
+            "content": "<p>DaycareMate handles admissions workflows, attendance, family messaging and billing in dedicated Admin, Teacher and Family portals. BloomWave uses the platform to keep daily operations aligned with the brand experience promised on the website.</p><p>For feature depth, read the <a href=\"/blog/daycaremate-childcare-management-software-guide\">DaycareMate product guide</a> or the <a href=\"/blog/childcare-management-software-uae-guide\">UAE buyer's guide</a> for evaluation criteria.</p>"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-q-3",
+            "component": "blog_quote",
+            "text": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+            "author": "Ajas Muhammed",
+            "author_role": "Managing Director, BloomWave Learning and Daycare"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-h-4",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Lessons for other UAE centres"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-b-4",
+            "component": "blog_body",
+            "content": "<p>BloomWave shows that early learning centres benefit when website, enquiry capture and operations software share one delivery partner and timeline. Parents experience consistent communication; staff avoid duplicate data entry across disconnected systems.</p><p><a href=\"/case-studies/bloomwave-learning-daycare\">Read the full BloomWave case study</a>, explore <a href=\"/products/daycaremate\">DaycareMate</a>, or <a href=\"/contact\">book a free consultation</a> with IGENTX to plan your centre's digital foundation.</p>"
+          }
+        ]
+      },
+      {
+        "_uid": "bloomwave-daycaremate-digital-transformation-faq",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Questions about the BloomWave digital transformation case study.",
+        "initial_visible_count": 5,
+        "faqs": [
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-faq-0",
+            "component": "faq_item",
+            "question": "How long did the BloomWave rollout take?",
+            "answer": "The published case study notes a two-week project duration for the integrated website, AI assistant and DaycareMate configuration scope agreed with the centre.",
+            "category": "General"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-faq-1",
+            "component": "faq_item",
+            "question": "Is the AI assistant included with every DaycareMate subscription?",
+            "answer": "The AI enquiry assistant is optional and environment-gated for subscribers who want website chat. It complements embeddable enquiry forms; leads are converted manually by staff.",
+            "category": "General"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-faq-2",
+            "component": "faq_item",
+            "question": "Can IGENTX deliver only the website without DaycareMate?",
+            "answer": "Yes. We also deliver standalone websites and AI agents for centres using other operations tools. Integrated rollout is recommended when you want one team and timeline.",
+            "category": "General"
+          },
+          {
+            "_uid": "bloomwave-daycaremate-digital-transformation-faq-3",
+            "component": "faq_item",
+            "question": "Does BloomWave use visit booking on their website?",
+            "answer": "Enquiry and admission forms capture leads for staff follow-up. IGENTX embeddable forms are lead capture, not a hosted visit-booking page.",
+            "category": "General"
+          }
+        ]
+      },
+      {
+        "_uid": "bloomwave-daycaremate-digital-transformation-cta",
+        "component": "igentx_cta_band",
+        "title": "Planning digital tools for your centre?",
+        "description": "This article summarises the BloomWave rollout. Read the full case study for outcomes and testimonial, or book a consultation to plan your centre's digital foundation.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "Read Full Case Study",
+        "secondary_cta_link": {
+          "url": "/case-studies/bloomwave-learning-daycare",
+          "linktype": "url",
+          "cached_url": "case-studies/bloomwave-learning-daycare"
+        }
+      }
+    ]
+  }
+}

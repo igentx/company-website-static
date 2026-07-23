@@ -1,0 +1,175 @@
+{
+    "hero_slide_component": {
+        "name": "hero_slide",
+        "display_name": "Hero Slide",
+        "description": "Individual slide matching ServiceHero fields exactly",
+        "schema": {
+            "category": {
+                "type": "text",
+                "pos": 0,
+                "display_name": "Category",
+                "description": "Category or service label (e.g., 'Web Development')",
+                "translatable": true,
+                "required": false,
+                "max_length": 50
+            },
+            "title": {
+                "type": "text",
+                "pos": 1,
+                "display_name": "Title",
+                "description": "Main slide title",
+                "translatable": true,
+                "required": true,
+                "max_length": 120
+            },
+            "summary": {
+                "type": "textarea",
+                "pos": 2,
+                "display_name": "Summary",
+                "description": "Supporting description text",
+                "translatable": true,
+                "required": false,
+                "max_length": 500
+            },
+            "featured_image": {
+                "type": "asset",
+                "pos": 3,
+                "display_name": "Featured Image",
+                "filetypes": [
+                    "images"
+                ],
+                "description": "Main slide image (1200x1200px recommended)"
+            },
+            "quick_features": {
+                "type": "text",
+                "pos": 4,
+                "display_name": "Quick Features",
+                "description": "Add 3-5 feature bullet points (one per line or as array)",
+                "translatable": true,
+                "required": false,
+                "allow_multiple": true
+            },
+            "pricing_preview": {
+                "type": "text",
+                "pos": 5,
+                "display_name": "Pricing Preview",
+                "description": "Starting price (e.g., 'AED 4,999')",
+                "translatable": true,
+                "required": false,
+                "max_length": 50
+            },
+            "duration": {
+                "type": "text",
+                "pos": 6,
+                "display_name": "Duration / Timeline",
+                "description": "Project timeline (e.g., '2-3 weeks')",
+                "translatable": true,
+                "required": false,
+                "max_length": 50
+            },
+            "cta_text": {
+                "type": "text",
+                "pos": 7,
+                "display_name": "CTA Button Text",
+                "description": "Button label (e.g., 'Get a Quote')",
+                "translatable": true,
+                "required": false,
+                "max_length": 30
+            },
+            "cta_link": {
+                "type": "multilink",
+                "pos": 8,
+                "display_name": "CTA Button Link",
+                "description": "Button destination URL"
+            }
+        },
+        "is_root": false,
+        "is_nestable": true,
+        "real_name": "hero_slide",
+        "component_group_uuid": ""
+    },
+    "igentx_hero_additional_fields": {
+        "slides": {
+            "type": "bloks",
+            "pos": 20,
+            "display_name": "Slides",
+            "description": "Add multiple slides for the hero carousel (leave empty for single hero mode)",
+            "restrict_components": true,
+            "component_whitelist": [
+                "hero_slide"
+            ],
+            "translatable": false
+        },
+        "enable_autoplay": {
+            "type": "boolean",
+            "pos": 21,
+            "display_name": "Enable Autoplay",
+            "description": "Automatically advance slides",
+            "default_value": true
+        },
+        "autoplay_delay": {
+            "type": "number",
+            "pos": 22,
+            "display_name": "Autoplay Delay (ms)",
+            "description": "Time between slide transitions in milliseconds",
+            "default_value": 5000
+        }
+    },
+    "usage_instructions": {
+        "step_1": "Create a new nestable block called 'hero_slide' with the schema above",
+        "step_2": "Add the three additional fields (slides, enable_autoplay, autoplay_delay) to your existing 'igentx_hero' component",
+        "step_3": "Add 2 or more 'hero_slide' blocks to the 'slides' field in your content",
+        "step_4": "Configure autoplay settings as needed",
+        "note": "If no slides are added, the component falls back to single hero mode using root-level fields"
+    },
+    "example_configuration": {
+        "slide_1": {
+            "badge_text": "🚀 New Feature",
+            "headline_part1": "AI-Driven Web &",
+            "headline_part2": "Branding Solutions",
+            "headline_part3": "for Fast-Growing Businesses in the UAE",
+            "subheadline": "Transform your digital presence with cutting-edge AI technology",
+            "quick_features": [
+                "Lightning-fast development",
+                "SEO-optimized by default",
+                "Mobile-first design"
+            ],
+            "primary_cta_text": "Get Started",
+            "primary_cta_link": {
+                "url": "/contact",
+                "linktype": "story"
+            },
+            "secondary_cta_text": "View Portfolio",
+            "secondary_cta_link": {
+                "url": "/case-studies",
+                "linktype": "story"
+            }
+        },
+        "slide_2": {
+            "badge_text": "⚡ Limited Offer",
+            "headline_part1": "Premium Web Development",
+            "headline_part2": "Starting at AED 4,999",
+            "headline_part3": "Launch Your Business Online Today",
+            "subheadline": "Professional websites with modern design and powerful features",
+            "quick_features": [
+                "Custom design & development",
+                "Responsive on all devices",
+                "Free hosting for 1 year"
+            ],
+            "primary_cta_text": "Claim Offer",
+            "primary_cta_link": {
+                "url": "/pricing",
+                "linktype": "story"
+            },
+            "secondary_cta_text": "Learn More",
+            "secondary_cta_link": {
+                "url": "/services",
+                "linktype": "story"
+            }
+        },
+        "autoplay_config": {
+            "enable_autoplay": true,
+            "autoplay_delay": 5000
+        }
+    }
+}

@@ -1,0 +1,291 @@
+{
+  "slug": "blog/moduluxe-group-seo-case-study",
+  "name": "moduluxe-group-seo-case-study",
+  "published_at": "2026-07-23T12:00:00.000Z",
+  "content": {
+    "_uid": "moduluxe-group-seo-case-study-page",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "moduluxe-group-seo-case-study-seo",
+        "component": "seo",
+        "title": "Moduluxe Group SEO Case Study 300% Traffic | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "article",
+        "keywords": "Moduluxe Group case study, SEO case study UAE, bilingual website SEO, organic traffic growth Dubai, Next.js SEO UAE",
+        "og_image": {
+          "filename": "/assets/images/moduluxegroup.webp",
+          "alt": "Moduluxe Group website and SEO case study",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "How Moduluxe Group Grew Organic Traffic by 300% with Bilingual SEO",
+        "publisher": "IGENTX",
+        "description": "Case study: Moduluxe Group achieved 300% organic traffic growth with a bilingual, performance-first Next.js website and SEO foundation built by IGENTX in the UAE.",
+        "article_tags": "Moduluxe Group case study, SEO case study UAE, bilingual website SEO, organic traffic growth Dubai, Next.js SEO UAE",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/blog/moduluxe-group-seo-case-study",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/moduluxegroup.webp",
+          "alt": "Moduluxe Group website and SEO case study",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "How Moduluxe Group Grew Organic Traffic by 300% with Bilingual SEO",
+        "article_author": "IGENTX Digital Team",
+        "og_description": "Case study: Moduluxe Group achieved 300% organic traffic growth with a bilingual, performance-first Next.js website and SEO foundation built by IGENTX in the UAE.",
+        "article_section": "Web Development",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Case study: Moduluxe Group achieved 300% organic traffic growth with a bilingual, performance-first Next.js website and SEO foundation built by IGENTX in the UAE.",
+        "structured_data_type": "BlogPosting",
+        "article_modified_time": "2026-07-23 00:00",
+        "article_published_time": "2026-07-23 00:00",
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BlogPosting\",\"headline\":\"How Moduluxe Group Grew Organic Traffic by 300% with Bilingual SEO\",\"description\":\"Case study: Moduluxe Group achieved 300% organic traffic growth with a bilingual, performance-first Next.js website and SEO foundation built by IGENTX in the UAE.\",\"url\":\"https://www.igentx.com/blog/moduluxe-group-seo-case-study\",\"datePublished\":\"2026-07-23T00:00:00+00:00\",\"dateModified\":\"2026-07-23T00:00:00+00:00\",\"author\":{\"@type\":\"Person\",\"name\":\"IGENTX Digital Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"IGENTX\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"}},\"image\":\"https://www.igentx.com/assets/images/moduluxegroup.webp\",\"articleSection\":\"Web Development\",\"keywords\":\"Moduluxe Group case study, SEO case study UAE, bilingual website SEO, organic traffic growth Dubai, Next.js SEO UAE\",\"inLanguage\":\"en\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.igentx.com/blog/moduluxe-group-seo-case-study\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"How Moduluxe Group Grew Organic Traffic by 300% with Bilingual SEO\",\"item\":\"https://www.igentx.com/blog/moduluxe-group-seo-case-study\"}]}]}"
+      },
+      {
+        "_uid": "moduluxe-group-seo-case-study-hero",
+        "component": "blog_hero",
+        "title": "How Moduluxe Group Grew Organic Traffic by 300% with Bilingual SEO",
+        "excerpt": "Moduluxe Group, a UAE rental brand, needed quality leads from organic search in English and Arabic. IGENTX rebuilt their site on Next.js with bilingual SEO and performance optimisation, delivering 300% organic traffic growth and stronger conversions.",
+        "category": "Web Development",
+        "author_name": "IGENTX Digital Team",
+        "publish_date": "2026-07-23",
+        "reading_time": "6 min read",
+        "back_link": {
+          "url": "/blog",
+          "linktype": "url",
+          "cached_url": "/blog"
+        },
+        "featured_image": {
+          "filename": "/assets/images/moduluxegroup.webp",
+          "alt": "Moduluxe Group website and SEO case study",
+          "fieldtype": "asset",
+          "is_external_url": false
+        }
+      },
+      {
+        "_uid": "moduluxe-group-seo-case-study-detail",
+        "component": "blog_detail",
+        "category": "Web Development",
+        "author_name": "IGENTX Digital Team",
+        "author_role": "Digital Strategy & Engineering",
+        "author_bio": "The IGENTX Digital Team writes practical guides on web development, AI, SEO, vertical products and digital growth for businesses in the UAE and worldwide.",
+        "publish_date": "2026-07-23",
+        "reading_time": "6 min read",
+        "show_toc": true,
+        "key_takeaways": [
+          "A performance-first rebuild with bilingual SEO helped Moduluxe rank in English and Arabic searches.",
+          "Organic traffic growth of 300% translated into quality leads from day one of the new site.",
+          "Technical SEO, local signals and fast page loads compounded visibility for a competitive UAE market."
+        ],
+        "tags": "Moduluxe Group case study, SEO case study UAE, bilingual website SEO, organic traffic growth Dubai, Next.js SEO UAE",
+        "related_posts": [
+          {
+            "_uid": "moduluxe-group-seo-case-study-rel-0",
+            "component": "blog_card",
+            "title": "Local SEO in Dubai and the UAE",
+            "excerpt": "Google Business Profile, citations and bilingual local pages.",
+            "category": "SEO",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/local-seo-dubai-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/seo-og.webp",
+              "alt": "Local SEO in Dubai and the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-rel-1",
+            "component": "blog_card",
+            "title": "Technical SEO Checklist for UAE Websites",
+            "excerpt": "Core Web Vitals, schema, hreflang and performance checks.",
+            "category": "SEO",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/technical-seo-checklist-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/seo-banner.webp",
+              "alt": "Technical SEO Checklist for UAE Websites",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-rel-2",
+            "component": "blog_card",
+            "title": "Bilingual Website Development in the UAE",
+            "excerpt": "English and Arabic implementation patterns for UAE sites.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/bilingual-website-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Bilingual Website Development in the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ],
+        "cta_section_title": "Want similar SEO results in the UAE?",
+        "cta_section_text": "Read the full Moduluxe case study for project details, metrics and the technology stack behind the results.",
+        "cta_button_text": "View Full Case Study",
+        "cta_button_link": {
+          "url": "/case-studies/moduluxe-group",
+          "linktype": "url",
+          "cached_url": "case-studies/moduluxe-group"
+        },
+        "content_blocks": [
+          {
+            "_uid": "moduluxe-group-seo-case-study-h-0",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Client background and challenge"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-b-0",
+            "component": "blog_body",
+            "content": "<p><strong>Moduluxe Group</strong> operates in the UAE rental market from Abu Dhabi. Their previous web presence did not reflect the brand quality they delivered offline, and organic visibility in English and Arabic searches was limited.</p><p>The goal was clear: generate <strong>quality leads from organic search</strong>, improve trust on first visit and build a foundation for long-term SEO growth without sacrificing performance on mobile.</p>"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-h-1",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Strategy: bilingual SEO on a modern stack"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-b-1",
+            "component": "blog_body",
+            "content": "<p>IGENXT rebuilt the site on <strong>Next.js</strong> with Tailwind CSS and Storyblok CMS for flexible content management. The architecture prioritised Core Web Vitals, clean URL structure and bilingual pages with proper SEO signals.</p><p>Technical work included schema markup, optimised metadata, image performance and crawl-friendly sitemaps. Content structure supported both English and Arabic discovery, aligned with our <a href=\"/blog/bilingual-website-development-uae\">bilingual development guide</a>.</p>"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-img-1",
+            "component": "blog_image",
+            "image": {
+              "filename": "/assets/images/moduluxegroup.webp",
+              "alt": "Moduluxe Group bilingual website built by IGENTX"
+            },
+            "caption": "Performance-first bilingual architecture supported SEO gains for Moduluxe Group.",
+            "width": "large",
+            "alignment": "center"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-h-2",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Results: 300% organic traffic growth"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-b-2",
+            "component": "blog_body",
+            "content": "<p>Within three months of launch, Moduluxe achieved <strong>300% organic traffic growth</strong>. Performance scores reached 95+ through Next.js optimisation and caching. The site ranked more effectively in both Arabic and English searches, feeding a steady pipeline of enquiries.</p><p>These metrics come from the published <a href=\"/case-studies/moduluxe-group\">Moduluxe Group case study</a>. Results vary by industry and starting point, but the pattern holds: technical SEO plus bilingual content on a fast site drives measurable visibility.</p>"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-q-2",
+            "component": "blog_quote",
+            "text": "The new website transformed our online presence. We started getting quality leads from day one, and the bilingual SEO setup helped us rank in both Arabic and English searches.",
+            "author": "Murshid CK",
+            "author_role": "Operations Head, Moduluxe UAE"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-h-3",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "What other UAE businesses can learn"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-b-3",
+            "component": "blog_body",
+            "content": "<p>Three lessons apply beyond real estate:</p><ul><li><strong>Performance is SEO:</strong> Fast pages improve engagement signals and rankings.</li><li><strong>Bilingual equals broader reach:</strong> UAE markets search in two languages; serve both properly.</li><li><strong>CMS flexibility supports SEO:</strong> Marketing teams need to publish and optimise without developer delays.</li></ul><p>Pair this case with our <a href=\"/blog/local-seo-dubai-uae-guide\">local SEO guide</a> and <a href=\"/blog/technical-seo-checklist-uae\">technical SEO checklist</a> to audit your own site.</p>"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-h-4",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Work with IGENTX on SEO and web development"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-b-4",
+            "component": "blog_body",
+            "content": "<p>IGENXT delivers SEO-ready websites for UAE startups and established brands. Services include technical audits, bilingual implementation and ongoing optimisation.</p><p><a href=\"/case-studies/moduluxe-group\">Read the full Moduluxe case study</a>, explore <a href=\"/services/seo-service-uae\">SEO services in the UAE</a>, or <a href=\"/contact\">book a free consultation</a> to discuss your goals.</p>"
+          }
+        ]
+      },
+      {
+        "_uid": "moduluxe-group-seo-case-study-faq",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Questions about the Moduluxe Group SEO case study.",
+        "initial_visible_count": 5,
+        "faqs": [
+          {
+            "_uid": "moduluxe-group-seo-case-study-faq-0",
+            "component": "faq_item",
+            "question": "How was 300% traffic growth measured?",
+            "answer": "Organic traffic was tracked before and after launch over a three-month window, as documented in the Moduluxe Group case study. Baselines and analytics setup were part of the engagement.",
+            "category": "General"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-faq-1",
+            "component": "faq_item",
+            "question": "What technology stack did Moduluxe use?",
+            "answer": "Next.js, Tailwind CSS and Storyblok CMS on a performance-optimised hosting setup. The stack supports bilingual content, fast loads and flexible marketing updates.",
+            "category": "General"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-faq-2",
+            "component": "faq_item",
+            "question": "Can similar results be guaranteed for my business?",
+            "answer": "No agency can guarantee specific rankings or traffic multiples. Moduluxe results reflect their market, content investment and technical starting point. We scope realistic KPIs during discovery.",
+            "category": "General"
+          },
+          {
+            "_uid": "moduluxe-group-seo-case-study-faq-3",
+            "component": "faq_item",
+            "question": "Does IGENTX provide ongoing SEO after launch?",
+            "answer": "Yes. We offer technical SEO, content support and reporting for UAE clients who want compounding organic growth after the initial build.",
+            "category": "General"
+          }
+        ]
+      },
+      {
+        "_uid": "moduluxe-group-seo-case-study-cta",
+        "component": "igentx_cta_band",
+        "title": "Ready to grow organic traffic in the UAE?",
+        "description": "This article summarises the Moduluxe project. Read the full case study for metrics, process and testimonial, or book a consultation to discuss your goals.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "Read Full Case Study",
+        "secondary_cta_link": {
+          "url": "/case-studies/moduluxe-group",
+          "linktype": "url",
+          "cached_url": "case-studies/moduluxe-group"
+        }
+      }
+    ]
+  }
+}

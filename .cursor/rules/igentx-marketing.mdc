@@ -1,0 +1,31 @@
+---
+description: IGENTX marketing site copy rules and product truth
+globs: content/**/*,components/blocks/**/*
+alwaysApply: true
+---
+
+# IGENTX marketing site
+
+**First step:** Read `docs/agent-context.md` before changing copy, testimonials, or homepage blocks.
+
+## Copy rules
+
+1. **No em dashes (`—`)** in public copy under `content/en/`. Use commas, colons, or periods.
+2. **Outcome-first** messaging: leads, conversions, efficiency, measurable growth.
+3. **Conservative trust metrics** (100% custom-built, 10+ years combined team experience, etc.). Do not inflate project volume without evidence.
+4. **Trust band:** light contrast section (badge, partner icons, metrics with descriptions, value props); no client logo marquee.
+5. **Verified testimonials** (`verified: true`) only when backed by a case study. Sync homepage quotes with `content/en/case-studies/*.json` `testimonial_*` fields.
+6. Primary CTA: **"Book a Free Consultation"** → contact.
+
+## DaycareMate product truth
+
+All DaycareMate feature claims must match `daycare-management-system/docs/product-features.md`. Do not invent features.
+
+- ECE-inclusive language (centre, classroom, family), not daycare-only.
+- Global positioning; UAE is primary market, not product limit.
+- AI enquiry assistant: deployable for subscribers; manual lead conversion, not auto-logged.
+- Embeddable forms are enquiry/lead capture, not "visit booking" (no hosted `/visit` page).
+
+## Implementation
+
+Maintain existing design system (Tailwind, dark theme with intentional light trust band). Reuse blocks: `IGENTXHero`, `IGENTXTrustBand`, `IGENTXProducts`, `IGENTXServices`, `IGENTXPortfolio`, `IGENTXCtaBand`, `FAQ`, etc. Register new blocks in `lib/blocks.tsx` and `lib/types.ts`.

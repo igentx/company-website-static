@@ -1,0 +1,307 @@
+{
+  "slug": "products-landing-page",
+  "name": "Products",
+  "published_at": "2025-10-28T14:35:39.986Z",
+  "content": {
+    "_uid": "5ec98fe7-84b4-492e-8002-3d50cb630d31",
+    "body": [
+      {
+        "_uid": "8f9d5683-31c4-4850-ad8a-247c6cce9708",
+        "title": "IGENTX Products | AI Customer Service Agent & DaycareMate",
+        "author": "IGENTX Digital Team",
+        "og_type": "website",
+        "keywords": "AI customer service agent, website chatbot, childcare management software, nursery management system, igentx products",
+        "og_image": {
+          "filename": "/assets/images/ai-solutions.webp",
+          "alt": "IGENTX software products: AI Customer Service Agent and DaycareMate",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "IGENTX Products | AI Agent & DaycareMate",
+        "component": "seo",
+        "publisher": "IGENTX",
+        "description": "Purpose-built software from IGENTX: AI Customer Service Agent for 24/7 website support and lead capture, plus DaycareMate for childcare centre operations. Deployable globally.",
+        "article_tags": "AI chatbot, customer service agent, childcare software, nursery management, igentx products",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/products",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/ai-solutions.webp",
+          "alt": "IGENTX software products: AI Customer Service Agent and DaycareMate",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "IGENTX Products | AI Agent & DaycareMate",
+        "article_author": "IGENTX",
+        "og_description": "AI-powered customer support for any website, plus childcare management software for early education centres. Built and supported by IGENTX.",
+        "article_section": "Products",
+        "robots_nosnippet": false,
+        "robots_noarchive": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Explore IGENTX software products: 24/7 AI customer service for websites and DaycareMate for admissions, attendance, and family communication.",
+        "structured_data_type": "WebSite",
+        "article_modified_time": "",
+        "article_published_time": "2025-10-26 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ItemList\",\n  \"name\": \"IGENTX Products\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"Product\",\n      \"name\": \"AI Customer Service Agent\",\n      \"description\": \"24/7 multilingual AI support agent trained on your content with one-line website integration.\"\n    },\n    {\n      \"@type\": \"Product\",\n      \"name\": \"DaycareMate\",\n      \"description\": \"Childcare management platform for admissions, attendance, family communication, and billing.\"\n    }\n  ]\n}"
+      },
+      {
+        "_uid": "pl-hero-001",
+        "component": "service_hero",
+        "badge_text": "Built by IGENTX",
+        "title": "Software products built to drive growth",
+        "summary": "From a 24/7 AI sales and support assistant for your website to a complete childcare centre management platform, IGENTX builds software that captures leads, reduces workload and helps teams scale with confidence.",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "Explore products",
+        "secondary_cta_link": {
+          "url": "#our-products",
+          "linktype": "url"
+        },
+        "featured_image": {
+          "filename": "/assets/images/ai-solutions.webp",
+          "alt": "IGENTX software products",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "Multilingual AI customer service agent\nOne-line website integration\nChildcare centre management from enquiry to billing\nDedicated Admin, Teacher, and Family portals",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "pl-trust-band-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Built by IGENTX",
+        "title": "Purpose-built software, delivered globally",
+        "description": "IGENTX designs, builds and supports software products for growing businesses and early childhood education centres. Conservative engineering, measurable outcomes, and ongoing support from our team.",
+        "partner_logos": [
+          {
+            "_uid": "pl-p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "pl-p-react",
+            "component": "trust_band_partner",
+            "name": "React",
+            "icon": {
+              "filename": "/assets/icons/react-icon.svg",
+              "alt": "React"
+            }
+          },
+          {
+            "_uid": "pl-p-aws",
+            "component": "trust_band_partner",
+            "name": "AWS",
+            "icon": {
+              "filename": "/assets/icons/aws-icon.svg",
+              "alt": "AWS"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "pl-m1",
+            "component": "trust_band_metric",
+            "value": "2",
+            "label": "Live Products",
+            "description": "AI agent and childcare platform",
+            "icon_key": "layers"
+          },
+          {
+            "_uid": "pl-m2",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built",
+            "description": "Tailored software, not templates",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "pl-m3",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Deployment",
+            "description": "Serving teams worldwide",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "pl-m4",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          }
+        ]
+      },
+      {
+        "_uid": "pl-products-001",
+        "component": "igentx_products",
+        "badge_text": "Built by IGENTX",
+        "title": "Explore our products",
+        "description": "Purpose-built software that helps businesses automate operations, improve customer experiences and scale with confidence.",
+        "featured_product": {
+          "badge_text": "Featured Product",
+          "logo": {
+            "filename": "/assets/images/daycaremate-vertical-logo.webp",
+            "alt": "DaycareMate logo"
+          },
+          "title": "DaycareMate",
+          "tagline": "Complete Childcare Management Platform",
+          "description": "DaycareMate gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform.",
+          "brand_link": {
+            "text": "DaycareMate",
+            "url": "https://www.daycaremate.com"
+          },
+          "feature_pills": [
+            { "label": "Admissions", "icon": "admissions" },
+            { "label": "Attendance", "icon": "attendance" },
+            { "label": "Activity Feed", "icon": "activity_feed" },
+            { "label": "Family Portal", "icon": "parent_app" },
+            { "label": "Messaging", "icon": "messaging" },
+            { "label": "Billing", "icon": "billing" },
+            { "label": "Reports", "icon": "reports" }
+          ],
+          "trust_banner": "Built for childcare centres to simplify operations and improve family engagement.",
+          "cta_text": "Explore DaycareMate",
+          "cta_link": {
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": "products/daycaremate"
+          },
+          "screenshot": {
+            "filename": "/assets/images/daycaremate-dashboard.webp",
+            "alt": "DaycareMate childcare management dashboard"
+          }
+        },
+        "ai_product": {
+          "badge_text": "AI Solution",
+          "title": "AI Customer Service Agent",
+          "description": "Turn your website into a 24/7 AI sales and support assistant that answers questions instantly, qualifies leads and reduces support workload.",
+          "feature_pills": [
+            "Instant Replies",
+            "Learns Your Content",
+            "Multilingual",
+            "One-Line Integration"
+          ],
+          "stats": [
+            { "value": "Available in Minutes" },
+            { "value": "Multilingual" },
+            { "value": "No Code Required" }
+          ],
+          "cta_text": "View Demo",
+          "cta_link": {
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": "products/ai-customer-service-agent"
+          },
+          "image": {
+            "filename": "/assets/images/ai-customer-service.webp",
+            "alt": "AI Customer Service Agent illustration"
+          }
+        },
+        "coming_soon": {
+          "badge_text": "Coming Soon",
+          "title": "More Products On The Way",
+          "description": "We're building more AI-powered solutions to help businesses automate, scale and grow.",
+          "category_pills": [
+            "AI Automation",
+            "Analytics Platform",
+            "Commerce Tools",
+            "And More"
+          ],
+          "image": {
+            "filename": "/assets/images/more-products-on-the-way.webp",
+            "alt": "More IGENTX products coming soon"
+          }
+        }
+      },
+      {
+        "_uid": "pl-cta-band-001",
+        "component": "igentx_cta_band",
+        "title": "Not sure which product fits your business?",
+        "description": "Book a free consultation and our team will help you choose the right path: AI Customer Service Agent for your website, DaycareMate for your centre, or a custom build tailored to your goals.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        }
+      },
+      {
+        "_uid": "pl-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about IGENTX products, who they are for, and how we support implementation.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "pl-faq-q1",
+            "component": "faq_item",
+            "question": "What products does IGENTX offer?",
+            "answer": "IGENTX currently offers two live products: AI Customer Service Agent, a 24/7 website chat assistant for businesses, and DaycareMate, a childcare centre management platform for early childhood education providers. More AI-powered products are in development.",
+            "category": "General"
+          },
+          {
+            "_uid": "pl-faq-q2",
+            "component": "faq_item",
+            "question": "Who are IGENTX products for?",
+            "answer": "The AI Customer Service Agent suits any business that wants more leads, faster support and better website engagement. DaycareMate serves preschools, nurseries, childcare centres and early learning providers that need admissions, daily care, family communication and billing in one system.",
+            "category": "General"
+          },
+          {
+            "_uid": "pl-faq-q3",
+            "component": "faq_item",
+            "question": "How does the AI Customer Service Agent work?",
+            "answer": "The agent is trained on your website content, documents and FAQs using retrieval-augmented generation. It answers visitor questions instantly, qualifies leads and supports multilingual conversations. Integration takes one line of code on any website.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "pl-faq-q4",
+            "component": "faq_item",
+            "question": "Is the AI Customer Service Agent multilingual?",
+            "answer": "Yes. The agent supports multilingual conversations so visitors can get accurate responses in their preferred language. This is valuable for global businesses and teams serving diverse local and international audiences.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "pl-faq-q5",
+            "component": "faq_item",
+            "question": "What is DaycareMate?",
+            "answer": "DaycareMate is a complete childcare management platform built by IGENTX. It covers admissions with magic-link onboarding, attendance, activity feed, messaging, invoice-first billing and dedicated Admin, Teacher and Family portals.",
+            "category": "DaycareMate"
+          },
+          {
+            "_uid": "pl-faq-q6",
+            "component": "faq_item",
+            "question": "Is DaycareMate only for UAE centres?",
+            "answer": "No. DaycareMate is built for early childhood education providers worldwide. Currency, timezone and tax settings are configurable per deployment. The UAE is our primary market, not the geographic limit of the product.",
+            "category": "DaycareMate"
+          },
+          {
+            "_uid": "pl-faq-q7",
+            "component": "faq_item",
+            "question": "Can I try a product before committing?",
+            "answer": "Yes. You can explore the AI Customer Service Agent demo on its product page, visit daycaremate.com for DaycareMate, or book a free consultation with IGENTX to see which product fits your goals and walk through setup options.",
+            "category": "General"
+          },
+          {
+            "_uid": "pl-faq-q8",
+            "component": "faq_item",
+            "question": "Does IGENTX provide setup and ongoing support?",
+            "answer": "Yes. IGENTX builds, deploys and supports its products. Our team helps with implementation, configuration and ongoing optimisation so you get measurable results from day one.",
+            "category": "Support"
+          }
+        ]
+      }
+    ],
+    "component": "page"
+  }
+}

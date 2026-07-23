@@ -1,0 +1,450 @@
+{
+  "slug": "case-studies-landing-page",
+  "name": "Case Studies Landing Page",
+  "published_at": "2025-11-06T05:28:32.649Z",
+  "content": {
+    "_uid": "0fa823d1-42fe-4851-993f-1b49d05e80cf",
+    "body": [
+      {
+        "_uid": "cs-seo-001",
+        "component": "seo",
+        "title": "Case Studies | Web, AI & Product Success Stories | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "website",
+        "keywords": "web development case studies, AI agent case study, childcare digital transformation, igentx portfolio, UAE web development success stories, Next.js case studies",
+        "og_image": {
+          "filename": "/assets/images/bloomwave-homepage.jpg",
+          "alt": "IGENTX case studies: BloomWave, Moduluxe Group and DrDoor",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "Case Studies | Real Results from IGENTX Clients",
+        "publisher": "IGENTX",
+        "description": "Explore verified IGENTX case studies: traffic growth, AI enquiry assistants, childcare platform launches and high-performance websites for businesses worldwide, with the UAE as our primary market.",
+        "article_tags": "case studies, web development, AI solutions, DaycareMate, portfolio, igentx",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/case-studies",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/bloomwave-homepage.jpg",
+          "alt": "IGENTX case studies: BloomWave, Moduluxe Group and DrDoor",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "Case Studies | IGENTX Success Stories",
+        "article_author": "IGENTX",
+        "og_description": "Real projects with measurable outcomes: organic traffic growth, 24/7 AI enquiries, platform launches and performance-first websites.",
+        "article_section": "Case Studies",
+        "robots_nosnippet": false,
+        "robots_noarchive": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "See how IGENTX clients achieved faster launches, stronger SEO, AI-powered enquiries and measurable business growth.",
+        "structured_data_type": "WebSite",
+        "article_modified_time": "",
+        "article_published_time": "2025-11-06 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ItemList\",\n  \"name\": \"IGENTX Case Studies\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 1,\n      \"name\": \"BloomWave: Website, AI Agent & DaycareMate\",\n      \"url\": \"https://www.igentx.com/case-studies/bloomwave-learning-daycare\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 2,\n      \"name\": \"Moduluxe Group: 300% Organic Traffic Growth\",\n      \"url\": \"https://www.igentx.com/case-studies/moduluxe-group\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 3,\n      \"name\": \"DrDoor: Digital Transformation\",\n      \"url\": \"https://www.igentx.com/case-studies/dr-door\"\n    }\n  ]\n}"
+      },
+      {
+        "_uid": "cs-hero-001",
+        "component": "service_hero",
+        "badge_text": "Success Stories",
+        "title": "Real projects, measurable outcomes",
+        "summary": "From bilingual websites that triple organic traffic to AI enquiry assistants and childcare platform rollouts, explore how IGENTX helps businesses generate more leads, automate operations and launch with confidence. Global delivery, with the UAE as our primary market.",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "Explore case studies",
+        "secondary_cta_link": {
+          "url": "#our-case-studies",
+          "linktype": "url"
+        },
+        "hero_images": [
+          {
+            "filename": "/assets/images/bloomwave-homepage.jpg",
+            "alt": "BloomWave Learning & Daycare website with AI enquiry assistant",
+            "title": "BloomWave Learning & Daycare"
+          },
+          {
+            "filename": "/assets/images/moduluxegroup.webp",
+            "alt": "Moduluxe Group UAE website",
+            "title": "Moduluxe Group"
+          },
+          {
+            "filename": "/assets/images/drdoor.webp",
+            "alt": "DrDoor website",
+            "title": "DrDoor"
+          }
+        ],
+        "enable_image_autoplay": true,
+        "image_autoplay_delay": "6000",
+        "quick_features": "Verified client testimonials backed by published case studies\nTraffic growth, performance scores and conversion uplift\nWeb development, AI agents and vertical product launches\nOutcomes-first delivery from strategy through launch",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "cs-trust-band-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Trusted Partner",
+        "title": "Trusted by Growing Businesses",
+        "description": "Every case study on this page reflects a real client engagement with documented results, conservative metrics and verified endorsements where published.",
+        "partner_logos": [
+          {
+            "_uid": "cs-p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "cs-p-react",
+            "component": "trust_band_partner",
+            "name": "React",
+            "icon": {
+              "filename": "/assets/icons/react-icon.svg",
+              "alt": "React"
+            }
+          },
+          {
+            "_uid": "cs-p-vercel",
+            "component": "trust_band_partner",
+            "name": "Vercel",
+            "icon": {
+              "filename": "/assets/icons/vercel-icon.svg",
+              "alt": "Vercel"
+            }
+          },
+          {
+            "_uid": "cs-p-aws",
+            "component": "trust_band_partner",
+            "name": "AWS",
+            "icon": {
+              "filename": "/assets/icons/aws-icon.svg",
+              "alt": "AWS"
+            }
+          },
+          {
+            "_uid": "cs-p-storyblok",
+            "component": "trust_band_partner",
+            "name": "Storyblok",
+            "icon": {
+              "filename": "/assets/icons/storyblok_icon.svg",
+              "alt": "Storyblok"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "cs-m1",
+            "component": "trust_band_metric",
+            "value": "3",
+            "label": "Published Case Studies",
+            "description": "Documented client outcomes",
+            "icon_key": "layers"
+          },
+          {
+            "_uid": "cs-m2",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built Solutions",
+            "description": "Tailored to each client, not templates",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "cs-m3",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Client Satisfaction",
+            "description": "Long-term partnerships built on trust",
+            "icon_key": "satisfaction"
+          },
+          {
+            "_uid": "cs-m4",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Multi-Country Delivery",
+            "description": "UAE expertise with worldwide reach",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "cs-m5",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          }
+        ]
+      },
+      {
+        "_uid": "cs-portfolio-001",
+        "title": "Explore our case studies",
+        "component": "igentx_portfolio",
+        "badge_text": "Success Stories",
+        "description": "Real projects with measurable business outcomes, from traffic growth and performance scores to AI enquiry capture and platform launches.",
+        "case_studies": [
+          {
+            "_uid": "a8f2c91e-4b3d-4e17-9c6a-1d7e5f0b2a84",
+            "image": {
+              "id": null,
+              "alt": "BloomWave Learning & Daycare website with AI enquiry assistant",
+              "filename": "/assets/images/bloomwave-homepage.jpg",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "title": "BloomWave: Website, AI Agent & DaycareMate",
+            "results": [
+              {
+                "_uid": "bw1",
+                "value": "24/7",
+                "metric": "AI Enquiries",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "bw2",
+                "value": "3-in-1",
+                "metric": "Website + AI + Platform",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "bw3",
+                "value": "bloomwave.ae",
+                "metric": "Live Site",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "bw4",
+                "value": "DaycareMate",
+                "metric": "Operations Platform",
+                "component": "result_metric"
+              }
+            ],
+            "category": "Full Solution",
+            "live_url": "https://bloomwave.ae",
+            "component": "case_study_item",
+            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.",
+            "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nDaycareMate",
+            "case_study_url": "/case-studies/bloomwave-learning-daycare",
+            "industry": "Childcare & Education",
+            "country": "UAE",
+            "challenge": "BloomWave needed a trustworthy marketing presence, after-hours parent enquiry capture, and a single system for centre operations."
+          },
+          {
+            "_uid": "b12da0cb-57c4-4db6-8e91-97c81a9063a4",
+            "image": {
+              "filename": "/assets/images/moduluxegroup.webp",
+              "alt": "Moduluxe Group UAE website",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "title": "Moduluxe Group: 300% organic traffic growth",
+            "results": [
+              {
+                "_uid": "cbf560a6-5cde-4bba-8e30-f6f0e11ed36d",
+                "value": "300%",
+                "metric": "Organic Traffic",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "0c0423ee-09df-4c33-89e7-6a0fe91cf05b",
+                "value": "0.8s",
+                "metric": "Load Time",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "565ca5f9-5ce4-49d3-9544-ae2a329ffb24",
+                "value": "95%",
+                "metric": "Performance Score",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "1e683ec1-6cb5-42e8-a8cc-a1793150ea94",
+                "value": "150%",
+                "metric": "Conversion Rate",
+                "component": "result_metric"
+              }
+            ],
+            "category": "Web Development",
+            "live_url": "https://www.moduluxegroup.com/",
+            "component": "case_study_item",
+            "description": "A bilingual, AI-accelerated website with advanced SEO optimisation that helped Moduluxe rank in Arabic and English search and convert more qualified leads.",
+            "technologies": "Next.js\nStoryblok\nTailwind CSS\nTypeScript\nVercel",
+            "case_study_url": "/case-studies/moduluxe-group",
+            "industry": "Real Estate",
+            "country": "UAE",
+            "challenge": "Moduluxe needed a multilingual website that ranked in Arabic and English search and converted visitors into qualified leads."
+          },
+          {
+            "_uid": "2823179b-b2fd-46a6-816f-d28a69fae1db",
+            "image": {
+              "filename": "/assets/images/drdoor.webp",
+              "alt": "DrDoor website",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "title": "DrDoor: 200% Organic Growth with SEO-First Website",
+            "results": [
+              {
+                "_uid": "d6122ac0-72d7-4e14-b1a9-d3bd375eb69e",
+                "value": "200%",
+                "metric": "Organic Traffic",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "c0590f0b-57b9-43e7-ab8a-3df3ff1bd38b",
+                "value": "0.6s",
+                "metric": "Load Time",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "3667adab-40c0-4e22-ad97-66df4cd45823",
+                "value": "96%",
+                "metric": "Performance",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "d8750fc1-5d27-4f58-930c-0437f34e32be",
+                "value": "4.9",
+                "metric": "Customer Rating",
+                "component": "result_metric"
+              }
+            ],
+            "category": "Web Development",
+            "live_url": "https://drdoor.in/",
+            "component": "case_study_item",
+            "description": "How IGENTX helped DrDoor, an India-based FRP door manufacturer, achieve 200% organic traffic growth with a fast, SEO-optimised website.",
+            "technologies": "Next.js\nTailwind CSS\nVercel\nSEO",
+            "case_study_url": "/case-studies/dr-door",
+            "industry": "Manufacturing",
+            "country": "India",
+            "challenge": "DrDoor required a high-performance digital platform to maximise lead generation and build brand credibility in a competitive market."
+          }
+        ],
+        "testimonials": [
+          {
+            "_uid": "t-murshid",
+            "component": "testimonial_item",
+            "name": "Murshid CK",
+            "position": "Operations Head",
+            "company": "Moduluxe",
+            "country": "UAE",
+            "verified": true,
+            "rating": "5",
+            "content": "The new website transformed our online presence. We started getting quality leads from day one, and the bilingual SEO setup helped us rank in both Arabic and English searches.",
+            "avatar": {
+              "filename": "",
+              "alt": ""
+            }
+          },
+          {
+            "_uid": "t-ajas-bloomwave",
+            "component": "testimonial_item",
+            "name": "Ajas Muhammed",
+            "position": "Managing Director",
+            "company": "BloomWave Learning & Daycare",
+            "country": "UAE",
+            "verified": true,
+            "rating": "5",
+            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+            "avatar": {
+              "filename": "",
+              "alt": ""
+            }
+          },
+          {
+            "_uid": "t-ashraf-drdoor",
+            "component": "testimonial_item",
+            "name": "Muhammed Ashraf",
+            "position": "Managing Director",
+            "company": "DrDoor",
+            "country": "India",
+            "verified": true,
+            "rating": "5",
+            "content": "The new website transformed our business image and lead generation. Within weeks, we started receiving qualified inquiries, and our ranking performance improved drastically. The speed and SEO improvements exceeded our expectations.",
+            "avatar": {
+              "filename": "",
+              "alt": ""
+            }
+          }
+        ],
+        "show_demo_cta": false,
+        "testimonials_title": "What Our Clients Say",
+        "testimonials_description": "Verified endorsements from clients with published case studies",
+        "show_performance_comparison": false
+      },
+      {
+        "_uid": "cs-cta-band-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to become our next success story?",
+        "description": "Whether you need a high-performance website, an AI enquiry assistant, a childcare platform rollout or a full digital transformation, our team will scope a realistic plan around your goals, timeline and market.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "Explore Our Services",
+        "secondary_cta_link": {
+          "url": "services",
+          "linktype": "url",
+          "cached_url": "services"
+        }
+      },
+      {
+        "_uid": "cs-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about our case studies, how we measure results, and what to expect when working with IGENTX.",
+        "initial_visible_count": 6,
+        "faqs": [
+          {
+            "_uid": "cs-faq-q1",
+            "component": "faq_item",
+            "question": "Are these case study results verified?",
+            "answer": "Yes. Every case study on this page documents a real IGENTX client engagement. Metrics such as traffic growth, load times and performance scores come from project delivery and analytics where available. Client quotes marked as verified are backed by the matching published case study.",
+            "category": "General"
+          },
+          {
+            "_uid": "cs-faq-q2",
+            "component": "faq_item",
+            "question": "What types of projects do you showcase?",
+            "answer": "Our published case studies cover web development, SEO-driven growth, AI enquiry assistants and vertical product rollouts such as DaycareMate. We focus on outcomes that matter to businesses: leads, conversions, operational efficiency and launch speed.",
+            "category": "General"
+          },
+          {
+            "_uid": "cs-faq-q3",
+            "component": "faq_item",
+            "question": "Do you only work with UAE businesses?",
+            "answer": "No. IGENTX delivers globally, with deep experience in the UAE market including bilingual Arabic and English websites, local SEO and compliance-aware delivery. Our case studies include UAE and international clients.",
+            "category": "General"
+          },
+          {
+            "_uid": "cs-faq-q4",
+            "component": "faq_item",
+            "question": "How long did these projects take to launch?",
+            "answer": "Timelines vary by scope. Focused marketing websites typically take 2 to 4 weeks. Larger projects with AI integrations, multilingual content or platform rollouts take longer. Each case study page outlines the challenge, approach and measurable results so you can see what is realistic for similar scope.",
+            "category": "Process"
+          },
+          {
+            "_uid": "cs-faq-q5",
+            "component": "faq_item",
+            "question": "Can IGENTX deliver a website and AI agent together?",
+            "answer": "Yes. The BloomWave case study is an example of a combined rollout: marketing website, 24/7 AI enquiry assistant and DaycareMate centre operations platform delivered by one team. We regularly combine web development with AI solutions when it supports lead capture and operational efficiency.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "cs-faq-q6",
+            "component": "faq_item",
+            "question": "How do I get a proposal for a similar project?",
+            "answer": "Book a free consultation through our contact page or email hello@igentx.com. We will discuss your goals, audience, timeline and budget, then recommend the right mix of web development, SEO, AI integration or custom software for your business.",
+            "category": "General"
+          }
+        ]
+      }
+    ],
+    "component": "page"
+  }
+}

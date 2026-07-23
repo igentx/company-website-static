@@ -1,0 +1,557 @@
+{
+  "slug": "services/web-development-uae",
+  "name": "Web Development",
+  "published_at": "2025-10-29T05:24:15.582Z",
+  "content": {
+    "_uid": "1ed03c11-58c8-4170-9ee3-611b955ac45c",
+    "body": [
+      {
+        "_uid": "2942068e-3ba7-499a-848d-3150b28cb0f5",
+        "title": "Web Development in UAE | AI-Powered, Fast & Multilingual | IGENTX",
+        "author": "IGENTX Team",
+        "og_type": "website",
+        "keywords": "web development UAE, AI web development Dubai, multilingual websites UAE, Next.js developers UAE, website design Dubai",
+        "og_image": {
+          "id": 106601555299758,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/blog/web-development-og.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "og_title": "Web Development in UAE | Fast, Secure & Multilingual | IGENTX",
+        "component": "seo",
+        "publisher": "IGENTX",
+        "description": "AI-driven web development in the UAE with Next.js. Multilingual, SEO-optimized websites for Dubai, Abu Dhabi, and the Emirates.",
+        "article_tags": "web development UAE, AI websites, Next.js UAE, SEO web design, digital agency UAE, multilingual website development",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/services/web-development-uae",
+        "robots_follow": true,
+        "twitter_image": {
+          "id": 106601555299758,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/blog/web-development-og.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "twitter_title": "Web Development in UAE | IGENTX",
+        "article_author": "IGENTX Team",
+        "og_description": "Build fast, SEO-first websites with IGENTX for the UAE. Next.js, Tailwind, and Vercel for performance, bilingual delivery, and measurable growth.",
+        "articel_section": "Web Development",
+        "article_section": "Web Development",
+        "rebots_nosnippet": true,
+        "robots_noarchive": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "AI-powered web development in the UAE with IGENTX. Multilingual, SEO-optimised sites built for performance and scalability.",
+        "structured_data_type": "Service",
+        "article_modified_time": "",
+        "article_published_time": "2025-10-26 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Web Development in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"description\": \"AI-powered multilingual web development with Next.js, Tailwind, and SEO optimization.\",\n    \"availability\": \"https://schema.org/InStock\"\n  },\n  \"hasOfferCatalog\": {\n    \"@type\": \"OfferCatalog\",\n    \"name\": \"Web Development Services\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Startup\",\n          \"description\": \"Fast, SEO-optimized starter website for small businesses.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Business\",\n          \"description\": \"Scalable multilingual web development for growing companies.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Enterprise\",\n          \"description\": \"Custom enterprise-grade web platform with advanced integrations.\"\n        }\n      }\n    ]\n  }\n}"
+      },
+      {
+        "_uid": "e367b00e-a5ed-43f8-a33b-38733b090fd2",
+        "title": "Fast, Secure & Multilingual",
+        "summary": "Bilingual Arabic and English websites for UAE businesses: local SEO for Dubai and Abu Dhabi, UAE payment gateway integration, and proven regional case studies including Moduluxe Group.",
+        "category": "Web Development in UAE",
+        "cta_link": {
+          "id": "",
+          "url": "/contact",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "contact"
+        },
+        "cta_text": "Book a Free Consultation",
+        "duration": "From 1 week",
+        "back_link": {
+          "id": "",
+          "url": "/services",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "/services"
+        },
+        "component": "service_hero",
+        "featured_image": {
+          "id": 106005235896789,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/blog/web-development-banner.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "quick_features": "Bilingual Arabic and English websites\nLocal SEO for Dubai, Abu Dhabi and Sharjah\nUAE payment gateway integration\nProven UAE case studies including Moduluxe Group",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "4cfd74ef-9443-4217-ba15-72b4f00d3ece",
+        "title": "Get a tailored quote",
+        "packages": [],
+        "component": "igentx_pricing",
+        "badge_text": "",
+        "description": "Tell us your UAE project goals: bilingual needs, integrations, and launch timeline. We provide a tailored proposal.",
+        "value_props": [],
+        "toggle_option1": "",
+        "toggle_option2": "",
+        "whatsapp_number": "",
+        "custom_quote_cta": "Book a Free Consultation",
+        "show_custom_quote": true,
+        "value_props_title": "Why Our Packages Stand Out",
+        "custom_quote_title": "Talk to our team",
+        "show_pricing_toggle": false,
+        "custom_quote_cta_link": {
+          "id": "",
+          "url": "/contact",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "contact"
+        },
+        "value_props_description": "every project includes features that traditional agencies charge extra for.",
+        "custom_quote_description": "Every project is scoped to your requirements. Book a Free Consultation for a tailored proposal."
+      },
+      {
+        "_uid": "a8933dff-59dc-4974-aa08-7b382f1da5bb",
+        "title": "Why Choose IGENTX?",
+        "features": [
+          {
+            "_uid": "d48e1e13-cc85-42a2-b954-752b9d6ebd72",
+            "icon": {
+              "id": 102186617606048,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/icons/ai-powered.svg",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "title": "  AI-Powered Development for Faster Delivery",
+            "component": "differentiator_feature",
+            "highlight": "60% Faster",
+            "description": "Our intelligent development workflow accelerates project timelines by up to 60%, without compromising quality."
+          },
+          {
+            "_uid": "015ce43b-4345-4063-adb3-f715aeb92af5",
+            "icon": {
+              "id": 102191835852763,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/icons/lightning-fast.svg",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "title": "Vercel Edge Hosting for Lightning Speed",
+            "component": "differentiator_feature",
+            "highlight": "<100ms Load Time",
+            "description": "Experience sub-100ms load times with global CDN and edge computing tuned for the UAE and Middle East."
+          },
+          {
+            "_uid": "06ae5e34-5b74-480b-8bae-36c152b0ffe3",
+            "icon": {
+              "id": 102194072502280,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/icons/seo-first.svg",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "title": "SEO-First Websites that Rank Higher",
+            "component": "differentiator_feature",
+            "highlight": "Top 3 Rankings",
+            "description": "Every project is built with performance, structure, and multilingual SEO best practices, helping you reach top positions on Google."
+          },
+          {
+            "_uid": "525da79a-d072-433e-b0b4-57bfa7d0736e",
+            "icon": {
+              "id": 102195500974118,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/icons/accessible.svg",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "title": "  Accessible, Responsive & PWA-Ready",
+            "component": "differentiator_feature",
+            "highlight": "WCAG 2.1 AA",
+            "description": "We build future-proof websites that load fast, adapt beautifully across all devices, and meet international accessibility standards."
+          },
+          {
+            "_uid": "95084607-c8ae-438f-a704-f5a86362fd5b",
+            "icon": {
+              "id": 102201135255647,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "title": "From Design to Deployment – All in One Place",
+            "component": "differentiator_feature",
+            "highlight": "Complete Solution",
+            "description": "From custom web apps to ecommerce and brand identity, we offer an end-to-end digital solution for modern businesses."
+          },
+          {
+            "_uid": "64db6f8e-97ed-4640-b3d7-2a469435fb68",
+            "icon": {
+              "id": 102201476948068,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/icons/chat.svg",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "title": "WhatsApp + AI Chatbots that Convert",
+            "component": "differentiator_feature",
+            "highlight": "24/7 Support",
+            "description": "Engage visitors instantly with automated WhatsApp and AI chatbot integration, delivering 24/7 customer support."
+          }
+        ],
+        "component": "why_choose_igentx",
+        "badge_text": "Why IGENTX?",
+        "description": "Empowering UAE businesses with AI-driven web solutions that deliver speed, performance, and growth.",
+        "uae_signals": [
+          {
+            "_uid": "a9d3ecd8-8640-4d82-b106-105e71030f10",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "title": "UAE Sales Presence",
+            "component": "uae_signal_item",
+            "description": "We’re locally based to ensure smooth communication and project understanding."
+          },
+          {
+            "_uid": "4c9b993a-a23c-4bce-856d-cee02fa10701",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "title": "Arabic + English Support",
+            "component": "uae_signal_item",
+            "description": "Native bilingual capability to help you connect with both local and global audiences."
+          },
+          {
+            "_uid": "28f2508a-eaf9-4e67-80cf-f5e68788d805",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "title": "UAE-Compliant Solutions",
+            "component": "uae_signal_item",
+            "description": "All projects follow local data protection and digital business regulations."
+          }
+        ],
+        "uae_signals_title": "Trusted by UAE Businesses",
+        "igentx_approach_title": "AI-Driven Development",
+        "show_speed_comparison": true,
+        "igentx_advantage_label": "IGENTX Advantage",
+        "igentx_approach_points": [
+          {
+            "_uid": "82fe2d56-be68-4e41-9bfc-26d903bd7921",
+            "text": "1-3 weeks delivery time",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "9215b3a0-6982-4df8-a59e-1ac0fbbf5a90",
+            "text": "AI-assisted optimization",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "b3dae592-a0cb-426f-80a3-c8a6196397c5",
+            "text": "Built for scale from day 1",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "fe34acd9-dde9-4f0b-b626-c0f0e05b0281",
+            "text": "Proactive maintenance",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "speed_comparison_title": "Speed is Everything in the UAE Market",
+        "uae_signals_description": "Local expertise. Global development excellence.",
+        "traditional_approach_title": "Traditional Approach",
+        "traditional_approach_points": [
+          {
+            "_uid": "3f883c85-3bdd-4ac8-ab01-df3c41b6eaaa",
+            "text": "6-12 weeks development time",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "ed62a48d-74e7-4277-b3e1-d318ead3779c",
+            "text": "Manual coding & testing",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "235a4bdf-af48-44fa-96eb-a04a70261f31",
+            "text": "Limited scalability",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "ce43b2a7-f2b2-4af3-ac3d-8d662f3e6948",
+            "text": "Higher maintenance costs",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "speed_comparison_description": "Our AI-driven workflow consistently outperforms traditional web development, delivering faster, more reliable websites built for growth."
+      },
+      {
+        "_uid": "a7c978c1-b91b-472e-a0a5-47338e3d4101",
+        "faqs": [
+          {
+            "_uid": "176b21b5-ceff-4573-96c1-5fbe80d654ef",
+            "answer": "We use modern frameworks like Next.js, TypeScript, and Tailwind CSS, integrated with the Storyblok CMS for easy content management. This ensures your site is fast, secure, SEO-optimized, and future-ready.",
+            "question": "What technologies do you use to build websites?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "b12345e7-7aee-4e0e-b4f8-2ea46ae74248",
+            "answer": "Our Startup web package includes a 3–5 page website, logo design, free domain registration (1 year), hosting on Vercel Hobby, Storyblok CMS, Mailjet contact form, WhatsApp chat integration, and up to 10 professional email accounts.",
+            "question": "What is included in your Startup Web Package?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "5dba9e1d-1903-4272-9686-5fa68ae01102",
+            "answer": "The Business web package adds more pages, blog, PWA support, accessibility checks, up to 25 business emails, CMS training, and 1 month post-launch support - perfect for growing SMEs.",
+            "question": "How is the Business Package different from the Startup Package?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "955b068b-bdde-4504-b570-0e0583168bda",
+            "answer": "The Enterprise web package offers custom integrations (CRM, ERP, APIs), unlimited pages, enterprise hosting, 50+ business emails, SLA-backed support, multilingual CMS, and dedicated project management. Customise everything based on your needs.",
+            "question": "What does the enterprise project include?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "9f9a7b1f-fd5e-4962-84b4-e1c38f983ca0",
+            "answer": "Yes! You’ll get 1 year of free domain registration for standard (.com, .ae, etc.) domains. Premium domains or special TLDs (like .ai or .app) are excluded.",
+            "question": "Do I really get free domain registration?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "71e1a512-1d53-4fba-b6a6-8b5cc895a2f6",
+            "answer": "All websites are hosted on Vercel, a leading global platform optimized for Next.js. The Hobby plan is free and included in projects. You can upgrade to Vercel Pro for higher performance and traffic.",
+            "question": "Where is my website hosted?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "9c79a25a-04d8-4620-8540-19a53a79a988",
+            "answer": "Yes, we use the Storyblok Starter plan for most small and medium projects. For enterprise needs (team workflows, roles, and permissions), we can help you upgrade to a paid plan.",
+            "question": "Is the Storyblok CMS really free?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "5575d46a-8b0d-4ad9-86ae-81a1b16d8fad",
+            "answer": "Absolutely. projects come with bilingual (English + Arabic) support. The enterprise project supports multiple languages and advanced RTL styling for Arabic.",
+            "question": "Do you support both Arabic and English websites?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "64297440-9cd5-4bac-8018-a480fd7120ec",
+            "answer": "Yes. Every site is built SEO-optimized from the ground up - clean code, meta tags, sitemap, robots.txt, and structured data (JSON-LD). larger projects include advanced SEO and Lighthouse performance tuning.",
+            "question": "Do you include SEO optimization?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "20445b31-cd40-43a7-a71a-d3fb1b66225f",
+            "answer": "Yes. You can use your existing domain or hosting. We recommend Vercel for best performance, but we can deploy to other platforms if needed.",
+            "question": "Can I use my own domain or hosting provider?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "dfcedd32-8c1d-482e-b25b-fac38ba69a77",
+            "answer": "In the Startup and Business plans, you own the content and design but the source code is licensed to IGENTX. Full code ownership and repository access are available only with the enterprise project.",
+            "question": "Do I own the website and source code?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "aec2e091-bcf7-4953-a05d-7a3b331b54fe",
+            "answer": "Yes, projects include professional email accounts.",
+            "question": "Do you provide email hosting and setup?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "2479ab37-0dfe-49eb-872c-5db12f6e7c89",
+            "answer": "Yes, projects include a WhatsApp chat integration. Visitors can message you instantly via WhatsApp Web or mobile app using a floating “Chat with us” icon.",
+            "question": "Can I have a WhatsApp chat button on my website?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "e2aee95f-4250-47a5-9469-19712718beb5",
+            "answer": "Yes, we offer content writing and Arabic translation as optional add-ons. Our content is SEO-optimized and tailored for your target audience in the UAE.",
+            "question": "Do you provide content writing or Arabic translation?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "c9081c69-1ff3-4e1d-9e16-5f0a572d4004",
+            "answer": "Startup: Standard support until launch completion\nBusiness: 1 month of post-launch support\nEnterprise: 3 months of SLA-backed support\nExtended maintenance and SEO retainer plans are available.",
+            "question": "What ongoing support do you provide after launch?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "a506bc95-a505-47c0-817e-b0e901be5e20",
+            "answer": "We accept bank transfers. Payments are typically split into milestones (e.g., 50% upfront, 50% on completion).",
+            "question": "What payment methods do you accept?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "7afd5896-2f33-4e6c-8772-bd14c0dfb60b",
+            "answer": "Yes. We build bilingual English and Arabic sites with proper RTL layout, localised meta tags and hreflang setup so you can rank in both languages across Dubai, Abu Dhabi and the wider UAE.",
+            "question": "Do you support bilingual SEO for Dubai and the UAE?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "wd-uae-rtl-faq",
+            "answer": "Yes. We implement RTL typography, navigation and component layouts for Arabic pages, tested across common UAE mobile devices and browsers.",
+            "question": "Do you build proper Arabic RTL websites?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "wd-uae-payments-faq",
+            "answer": "Yes. We integrate UAE-friendly payment gateways and checkout flows, including support for local cards, Apple Pay where available, and Arabic catalogue experiences.",
+            "question": "Can you integrate UAE payment gateways?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "wd-uae-moduluxe-faq",
+            "answer": "Moduluxe Group achieved 300% organic traffic growth after a bilingual, performance-first Next.js rebuild by IGENTX. Read the full case study at /case-studies/moduluxe-group.",
+            "question": "Do you have UAE web development case studies?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "157d49a3-b51f-4c1e-848d-580b8cea3bea",
+            "answer": "Website development timelines and investment depend on scope, features and integrations. IGENTX provides transparent proposals tailored to UAE business goals after a discovery call.",
+            "question": "How do I get a quote for web development in the UAE?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "0986a319-1091-4255-814d-85ab88ab9b79",
+            "answer": "We combine a UAE-based sales team with an experienced offshore development team in India, delivering premium quality at efficient delivery. Our sites are built with Next.js, Tailwind, and Storyblok for exceptional performance.",
+            "question": "Why choose IGENTX for web development in UAE?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "e6583bcb-f8d3-4136-be9e-02ce8c7b26ce",
+            "answer": "IGENTX websites are built using Next.js, a modern React framework that generates static, SEO-optimized pages for lightning-fast load times and superior Google indexing.\n\nOur development approach ensures:\n\nStatic Site Generation (SSG) - your pages are pre-rendered as static HTML, which Google can crawl and index instantly.\n\nOptimized Page Speed - Next.js + Vercel delivers global CDN caching, improving Core Web Vitals and boosting SEO rankings.\n\nClean, Semantic Code - every page follows best practices for meta tags, schema markup, and accessibility.\n\nAutomatic Sitemap & Robots - generated for every deployment.\n\nStructured Data (JSON-LD) - added to improve search visibility with rich snippets.\n\nMobile-First & Responsive Design - optimized for all screen sizes to meet Google’s mobile-first indexing.\n\nTogether, these make IGENTX websites lightning-fast, secure, and SEO-ready out of the box - helping your business rank higher in search results from day one.",
+            "question": "What makes IGENTX websites SEO-friendly?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "8fb85e80-856d-4b20-a7d1-790b23609df9",
+            "answer": "Published case studies show measurable enquiry growth: Moduluxe Group tripled organic traffic within three months, and DrDoor achieved 200% organic traffic growth. Results vary by industry and starting baseline. We focus on conversions, not just design.",
+            "question": "What’s the typical ROI on a professional website?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "45a57fb2-0e2c-48df-9957-3ac638ff97d4",
+            "answer": "You can request a quote through our contact form (Mailjet integrated) or via WhatsApp chat directly from our website. Our UAE sales team will respond within 24 hours.",
+            "question": "How do I request a quote?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "c9760e86-9fc9-496b-89c5-f01637763b41",
+            "answer": "Yes. We set up Google Analytics 4, Search Console, and performance tracking dashboards. Enterprise clients receive quarterly reports.",
+            "question": "Do you provide analytics and reports?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "1bfba628-4508-472e-bf92-ecf918ceaeb4",
+            "answer": "We blend cutting-edge tech (Next.js + Storyblok) with UAE local understanding and offshore efficiency - offering faster delivery and superior quality at strong value.",
+            "question": "What makes IGENTX different from other web agencies in UAE?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "33a598d4-63c6-40e9-ba81-3fde0a251bf5",
+            "answer": "Simply contact us via the form or WhatsApp. We’ll discuss your goals, recommend the right scope, and share a timeline and proposal within 24 hours.",
+            "question": "How can I get started with IGENTX?",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "wd-uae-global-link",
+            "answer": "Yes. IGENTX delivers web development globally as well as in the UAE. See our global web development page for international and multi-market projects.",
+            "question": "Do you serve businesses outside the UAE?",
+            "component": "faq_item"
+          }
+        ],
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions - Web Development",
+        "faq_description": "Find clear answers to the most common questions about our web development services and process. Learn what’s included in your proposal, how hosting and support work, and why IGENTX is trusted by businesses across the UAE for modern, high-performance websites.",
+        "background_color": "#f7f7f7"
+      }
+    ],
+    "component": "page"
+  }
+}

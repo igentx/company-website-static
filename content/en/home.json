@@ -1,0 +1,1647 @@
+{
+  "slug": "home",
+  "name": "Home",
+  "published_at": "2026-04-18T09:20:06.351Z",
+  "content": {
+    "_uid": "570d84eb-2513-42a3-a9cf-4ca3ded68f77",
+    "body": [
+      {
+        "_uid": "358ea5a6-d937-408b-993a-7de94392d5f6",
+        "slides": [
+          {
+            "_uid": "slide-01-web-dev",
+            "title": "AI-Powered Websites & Software That Grow Businesses",
+            "summary": "We design, build and scale high-performance websites, AI-powered applications and digital products that help businesses generate more leads, automate operations and accelerate growth. Built with modern technologies and trusted by businesses worldwide, with the UAE as our primary market.",
+            "category": "Web Development",
+            "cta_link": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "contact"
+            },
+            "cta_text": "Book a Free Consultation",
+            "secondary_cta_link": {
+              "id": "",
+              "url": "case-studies",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "case-studies"
+            },
+            "secondary_cta_text": "View Our Work",
+            "component": "hero_slide",
+            "featured_image": {
+              "id": null,
+              "alt": "AI-powered web development",
+              "filename": "/assets/images/web-development.webp",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "quick_features": "High-performance websites built for speed and SEO\nAI-powered automation that saves time\nEnterprise-grade security & cloud hosting\nEnglish & Arabic ready",
+            "pricing_preview": "",
+            "duration": ""
+          },
+          {
+            "_uid": "slide-02-ai-agent",
+            "title": "Your AI Employee That Never Sleeps",
+            "summary": "Transform your website into a 24/7 sales and support assistant. Our AI Customer Service Agent answers questions instantly, qualifies leads, supports multiple languages, and integrates with your existing website in minutes.",
+            "category": "AI Solutions",
+            "cta_link": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "products/ai-customer-service-agent"
+            },
+            "cta_text": "Request a Demo",
+            "component": "hero_slide",
+            "featured_image": {
+              "id": 116534859224011,
+              "alt": "AI Customer Service Agent",
+              "filename": "/assets/images/ai-customer-service-agent-home.webp",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "quick_features": "Instant AI responses\nLearns from your website & documents\nOne-line integration\nEnglish & Arabic support",
+            "pricing_preview": "",
+            "duration": ""
+          },
+          {
+            "_uid": "slide-03-daycaremate",
+            "title": "Complete Childcare Management Platform",
+            "summary": "Simplify admissions, attendance, parent communication, billing and daily operations with DaycareMate, our all-in-one management platform for nurseries, preschools, childcare centres and early learning providers.",
+            "category": "IGENTX Product",
+            "cta_link": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "products/daycaremate"
+            },
+            "cta_text": "Explore DaycareMate",
+            "component": "hero_slide",
+            "badge_text": "Built by IGENTX",
+            "featured_image": {
+              "id": null,
+              "alt": "DaycareMate childcare management platform",
+              "filename": "/assets/images/daycaremate-hero.webp",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "quick_features": "Admissions & enrolment\nParent communication\nAttendance & daily reports\nBilling & invoicing",
+            "pricing_preview": "",
+            "duration": ""
+          },
+          {
+            "_uid": "slide-04-ecommerce",
+            "title": "Faster Ecommerce. Better Performance. More Sales.",
+            "summary": "Build modern ecommerce experiences using composable architecture, headless commerce and blazing-fast storefronts that increase conversions and deliver exceptional customer experiences.",
+            "category": "Ecommerce Development",
+            "cta_link": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "services/ecommerce-development"
+            },
+            "cta_text": "Explore Ecommerce",
+            "component": "hero_slide",
+            "featured_image": {
+              "id": 105982073801678,
+              "alt": "Headless ecommerce development",
+              "filename": "/assets/images/ecommerce-development.webp",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "quick_features": "Shopify & BigCommerce\nHeadless Commerce\nAPI-first architecture\nOptimised for Core Web Vitals",
+            "pricing_preview": "",
+            "duration": ""
+          },
+          {
+            "_uid": "slide-05-seo",
+            "title": "Rank Higher. Generate More Leads. Grow Faster.",
+            "summary": "Our technical SEO and content strategies help businesses improve visibility, increase qualified traffic and generate measurable business growth across the UAE and international markets.",
+            "category": "SEO Optimization",
+            "cta_link": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "services/seo"
+            },
+            "cta_text": "Explore SEO Services",
+            "component": "hero_slide",
+            "featured_image": {
+              "id": 106001663082745,
+              "alt": "SEO services UAE",
+              "filename": "/assets/images/seo.webp",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "quick_features": "Technical SEO\nLocal UAE SEO\nContent Strategy\nPerformance Optimisation",
+            "pricing_preview": "",
+            "duration": ""
+          },
+          {
+            "_uid": "slide-06-branding",
+            "title": "Build a Brand Customers Remember",
+            "summary": "From logo design to complete brand identity systems, we create memorable visual experiences that build trust, improve recognition and strengthen your business across every customer touchpoint.",
+            "category": "Branding & Graphic Design",
+            "cta_link": {
+              "id": "",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "services/branding-graphic-design"
+            },
+            "cta_text": "Explore Branding",
+            "component": "hero_slide",
+            "featured_image": {
+              "id": 105982073822159,
+              "alt": "Branding and graphic design",
+              "filename": "/assets/images/branding.webp",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "quick_features": "Brand Identity\nLogo Design\nMarketing Assets\nSocial Media Creative",
+            "pricing_preview": "",
+            "duration": ""
+          }
+        ],
+        "component": "igentx_hero",
+        "badge_text": "Global delivery · UAE expertise",
+        "subheadline": "We design, build and scale digital products that help businesses generate leads, automate operations and accelerate growth.",
+        "trust_signals": [
+          {
+            "_uid": "6a137003-a5b0-431e-ba1a-7468f7fa9b92",
+            "label": "Faster Delivery",
+            "value": "3x",
+            "component": "trust_signal_item"
+          },
+          {
+            "_uid": "266153dd-4c42-41d7-afa7-ef4d7462a416",
+            "label": "Core Web Vitals Score",
+            "value": "99+",
+            "component": "trust_signal_item"
+          },
+          {
+            "_uid": "32b3dd10-d0d3-41b0-9b5d-a54a50def1db",
+            "label": "Support",
+            "value": "24/7",
+            "component": "trust_signal_item"
+          },
+          {
+            "_uid": "296a910a-e630-4a43-8561-45607538ad78",
+            "label": "Client Satisfaction",
+            "value": "95%",
+            "component": "trust_signal_item"
+          }
+        ],
+        "autoplay_delay": "11000",
+        "headline_part1": "AI-First Technology Company",
+        "headline_part2": "Build. Launch. Automate. Scale.",
+        "headline_part3": "Serving businesses worldwide, with the UAE as our primary market.",
+        "enable_autoplay": true,
+        "background_image": {
+          "id": 103481878234349,
+          "alt": "Igentx",
+          "name": "",
+          "focus": "",
+          "title": "Igentx-hero-image",
+          "source": "www.igentx.com",
+          "filename": "/assets/images/hero-bg-web-development.webp",
+          "copyright": "igentx",
+          "fieldtype": "asset",
+          "meta_data": {
+            "alt": "Igentx",
+            "title": "Igentx-hero-image",
+            "source": "www.igentx.com",
+            "copyright": "igentx"
+          },
+          "is_external_url": false
+        },
+        "background_video": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "source": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset",
+          "meta_data": {}
+        },
+        "primary_cta_link": {
+          "id": "",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": "contact"
+        },
+        "primary_cta_text": "Book a Free Consultation",
+        "secondary_cta_link": {
+          "id": "",
+          "url": "case-studies",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "case-studies"
+        },
+        "secondary_cta_text": "View Case Studies"
+      },
+      {
+        "_uid": "trust-band-home-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Trusted Partner",
+        "title": "Trusted by Growing Businesses",
+        "description": "Helping startups, SMEs and enterprise teams build modern digital experiences that drive real business growth.",
+        "partner_logos": [
+          {
+            "_uid": "p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "p-react",
+            "component": "trust_band_partner",
+            "name": "React",
+            "icon": {
+              "filename": "/assets/icons/react-icon.svg",
+              "alt": "React"
+            }
+          },
+          {
+            "_uid": "p-vercel",
+            "component": "trust_band_partner",
+            "name": "Vercel",
+            "icon": {
+              "filename": "/assets/icons/vercel-icon.svg",
+              "alt": "Vercel"
+            }
+          },
+          {
+            "_uid": "p-aws",
+            "component": "trust_band_partner",
+            "name": "AWS",
+            "icon": {
+              "filename": "/assets/icons/aws-icon.svg",
+              "alt": "AWS"
+            }
+          },
+          {
+            "_uid": "p-shopify",
+            "component": "trust_band_partner",
+            "name": "Shopify",
+            "icon": {
+              "filename": "/assets/icons/shopify.svg",
+              "alt": "Shopify"
+            }
+          },
+          {
+            "_uid": "p-storyblok",
+            "component": "trust_band_partner",
+            "name": "Storyblok",
+            "icon": {
+              "filename": "/assets/icons/storyblok_icon.svg",
+              "alt": "Storyblok"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built Solutions",
+            "description": "Tailored to your business, not templates",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "m3",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "m2",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Client Satisfaction",
+            "description": "Long-term partnerships built on trust",
+            "icon_key": "satisfaction"
+          },
+          {
+            "_uid": "m4",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Multi-Country Support",
+            "description": "Global presence with local expertise",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "m5",
+            "component": "trust_band_metric",
+            "value": "24/7",
+            "label": "Customer Support",
+            "description": "Always here when you need us",
+            "icon_key": "support"
+          }
+        ]
+      },
+      {
+        "_uid": "3130e7e5-c752-42b5-bb8e-055132a47a3f",
+        "title": "Why Businesses Choose IGENXT",
+        "features": [
+          {
+            "_uid": "wc1",
+            "component": "differentiator_feature",
+            "title": "AI-First Development",
+            "highlight": "Faster delivery",
+            "description": "Modern AI-powered workflows that accelerate delivery without compromising quality.",
+            "icon": {
+              "filename": "/assets/icons/ai-powered.svg",
+              "alt": "AI"
+            }
+          },
+          {
+            "_uid": "wc2",
+            "component": "differentiator_feature",
+            "title": "Performance by Default",
+            "highlight": "Core Web Vitals",
+            "description": "Every solution is built for speed, accessibility, SEO and Core Web Vitals from day one.",
+            "icon": {
+              "filename": "/assets/icons/lightning-fast.svg",
+              "alt": "Performance"
+            }
+          },
+          {
+            "_uid": "wc3",
+            "component": "differentiator_feature",
+            "title": "Modern, Scalable Architecture",
+            "highlight": "Production-ready stack",
+            "description": "Scalable solutions using Next.js, React, AWS, Vercel and modern cloud technologies.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Architecture"
+            }
+          },
+          {
+            "_uid": "wc4",
+            "component": "differentiator_feature",
+            "title": "Business-Focused Delivery",
+            "highlight": "Outcomes first",
+            "description": "We solve business problems, not just technical challenges, with clear ROI at every stage.",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Business"
+            }
+          },
+          {
+            "_uid": "wc5",
+            "component": "differentiator_feature",
+            "title": "Multi-Language Support",
+            "highlight": "English and Arabic",
+            "description": "English, Arabic, and additional languages so your product connects with local and global audiences.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Multi-language"
+            }
+          },
+          {
+            "_uid": "wc6",
+            "component": "differentiator_feature",
+            "title": "Long-Term Partnership",
+            "highlight": "Beyond launch",
+            "description": "Continuous optimisation, support and growth beyond launch. We stay with you as you scale.",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Partnership"
+            }
+          }
+        ],
+        "component": "why_choose_igentx",
+        "badge_text": "Why Choose IGENTX",
+        "description": "An AI-first technology partner that delivers measurable business outcomes, from launch to long-term growth.",
+        "uae_signals": [
+          {
+            "_uid": "66da9cb9-a8e9-4d79-951c-360d68acdd99",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "filename": null,
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "title": "Regional Expertise",
+            "component": "uae_signal_item",
+            "description": "Deep experience in the UAE market: bilingual delivery, local compliance, and regional partnerships."
+          },
+          {
+            "_uid": "dfa685f4-5b98-4338-8483-ccca4fceb091",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "title": "Arabic + English Support",
+            "component": "uae_signal_item",
+            "description": "English and Arabic delivery to connect with local and global audiences."
+          },
+          {
+            "_uid": "93360649-4326-4665-8f57-8bc2705dc6b2",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "title": "UAE Market Ready",
+            "component": "uae_signal_item",
+            "description": "Solutions designed with UAE market requirements and data practices in mind."
+          }
+        ],
+        "uae_signals_title": "Global delivery · UAE expertise",
+        "igentx_approach_title": "AI-Driven Development",
+        "show_speed_comparison": true,
+        "igentx_advantage_label": "IGENTX Advantage",
+        "igentx_approach_points": [
+          {
+            "_uid": "iap1",
+            "text": "Structured discovery and clear milestones",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap2",
+            "text": "AI-assisted design and development",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap3",
+            "text": "Performance checked before launch",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap4",
+            "text": "Proactive maintenance and optimisation",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "speed_comparison_title": "Speed Is Everything Online",
+        "uae_signals_description": "Worldwide delivery. Deep UAE market experience.",
+        "traditional_approach_title": "Traditional Approach",
+        "traditional_approach_points": [
+          {
+            "_uid": "tap1",
+            "text": "Lengthy timelines with unclear scope",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap2",
+            "text": "Manual coding with limited automation",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap3",
+            "text": "Performance issues discovered late",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap4",
+            "text": "Higher long-term maintenance costs",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "speed_comparison_description": "Our AI-driven workflow is designed to move faster than traditional web development, with clearer milestones and stronger performance from launch."
+      },
+      {
+        "_uid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "title": "AI Products & Platforms by IGENTX",
+        "cta_link": {
+          "id": "",
+          "url": "products",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "products"
+        },
+        "cta_text": "View all products & solutions",
+        "component": "igentx_products",
+        "badge_text": "Built by IGENTX",
+        "description": "Purpose-built software products that help businesses automate operations, improve customer experiences and scale with confidence.",
+        "featured_product": {
+          "badge_text": "Featured Product",
+          "logo": {
+            "filename": "/assets/images/daycaremate-vertical-logo.webp",
+            "alt": "DaycareMate logo"
+          },
+          "title": "DaycareMate",
+          "tagline": "Complete Childcare Management Platform",
+          "description": "DaycareMate gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform.",
+          "brand_link": {
+            "text": "DaycareMate",
+            "url": "https://www.daycaremate.com"
+          },
+          "feature_pills": [
+            { "label": "Admissions", "icon": "admissions" },
+            { "label": "Attendance", "icon": "attendance" },
+            { "label": "Activity Feed", "icon": "activity_feed" },
+            { "label": "Family Portal", "icon": "parent_app" },
+            { "label": "Messaging", "icon": "messaging" },
+            { "label": "Billing", "icon": "billing" },
+            { "label": "Reports", "icon": "reports" }
+          ],
+          "trust_banner": "Built for childcare centres to simplify operations and improve family engagement.",
+          "cta_text": "Explore DaycareMate",
+          "cta_link": {
+            "id": "",
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": "products/daycaremate"
+          },
+          "screenshot": {
+            "filename": "/assets/images/daycaremate-dashboard.webp",
+            "alt": "DaycareMate childcare management dashboard"
+          }
+        },
+        "ai_product": {
+          "badge_text": "AI Solution",
+          "title": "AI Customer Service Agent",
+          "description": "Turn your website into a 24/7 AI sales and support assistant that answers questions instantly, qualifies leads and reduces support workload.",
+          "feature_pills": [
+            "Instant Replies",
+            "Learns Your Content",
+            "Multilingual",
+            "One-Line Integration"
+          ],
+          "stats": [
+            { "value": "Available in Minutes" },
+            { "value": "Supports English & Arabic" },
+            { "value": "No Code Required" }
+          ],
+          "cta_text": "View Demo",
+          "cta_link": {
+            "id": "",
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": "products/ai-customer-service-agent"
+          },
+          "image": {
+            "filename": "/assets/images/ai-customer-service.webp",
+            "alt": "AI Customer Service Agent illustration"
+          }
+        },
+        "coming_soon": {
+          "badge_text": "Coming Soon",
+          "title": "More Products On The Way",
+          "description": "We're building more AI-powered solutions to help businesses automate, scale and grow.",
+          "category_pills": [
+            "AI Automation",
+            "Analytics Platform",
+            "Commerce Tools",
+            "And More"
+          ],
+          "image": {
+            "filename": "/assets/images/more-products-on-the-way.webp",
+            "alt": ""
+          }
+        }
+      },
+      {
+        "_uid": "6a43ab43-8511-4680-a63a-ef4d3da0fe32",
+        "title": "Complete Digital Solutions",
+        "cta_link": {
+          "id": "",
+          "url": "contact",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "contact"
+        },
+        "cta_text": "Book a Free Consultation",
+        "services": [
+          {
+            "_uid": "svc-web",
+            "component": "service_item",
+            "title": "Web Development",
+            "description": "High-performance websites and web applications built for leads, speed and search visibility.",
+            "problem": "Slow, outdated websites lose visitors and fail to convert traffic into qualified leads.",
+            "solution": "We design and build fast, SEO-ready websites with modern architecture, multilingual support and easy content management.",
+            "outcome": "More qualified leads, stronger search visibility and a digital presence that scales with your business.",
+            "image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Web development"
+            },
+            "cta_link": {
+              "url": "services/web-development",
+              "linktype": "url",
+              "cached_url": "services/web-development"
+            },
+            "cta_text": "Explore Web Development",
+            "is_popular": true
+          },
+          {
+            "_uid": "svc-custom-software",
+            "component": "service_item",
+            "title": "Customised Software Development",
+            "description": "Bespoke web applications, internal tools and product platforms built to fit your workflows and growth goals.",
+            "problem": "Off-the-shelf software forces awkward workarounds, data silos and limits on how your team operates and scales.",
+            "solution": "We design and build custom software with modern stacks: portals, dashboards, APIs and integrations tailored to your business logic.",
+            "outcome": "Efficient operations, clearer data flows and software that evolves with your business instead of holding it back.",
+            "image": {
+              "filename": "/assets/images/custom-software-development.webp",
+              "alt": "Customised software development"
+            },
+            "cta_link": {
+              "url": "services/custom-software-development",
+              "linktype": "url",
+              "cached_url": "services/custom-software-development"
+            },
+            "cta_text": "Explore Custom Software",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-ecom",
+            "component": "service_item",
+            "title": "Ecommerce Development",
+            "description": "Composable storefronts and headless commerce experiences that convert.",
+            "problem": "Rigid ecommerce platforms limit performance, design freedom and integration with your marketing stack.",
+            "solution": "Headless commerce with Shopify, BigCommerce or custom APIs: fast storefronts optimised for Core Web Vitals.",
+            "outcome": "Faster checkout, higher conversion rates and a storefront that grows with your catalogue and markets.",
+            "image": {
+              "filename": "/assets/images/ecommerce-website-development-uae.webp",
+              "alt": "Ecommerce development"
+            },
+            "cta_link": {
+              "url": "services/ecommerce-development",
+              "linktype": "url",
+              "cached_url": "services/ecommerce-development"
+            },
+            "cta_text": "Explore Ecommerce",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-seo",
+            "component": "service_item",
+            "title": "SEO & Growth",
+            "description": "Technical SEO and content strategies that drive measurable organic growth.",
+            "problem": "Great products stay invisible when search engines cannot crawl, index or rank your site effectively.",
+            "solution": "Technical SEO audits, local and international SEO, content strategy and ongoing performance optimisation.",
+            "outcome": "Higher rankings, more qualified traffic and measurable growth across global markets.",
+            "image": {
+              "filename": "/assets/images/seo-and-growth.webp",
+              "alt": "SEO and growth services"
+            },
+            "cta_link": {
+              "url": "services/seo",
+              "linktype": "url",
+              "cached_url": "services/seo"
+            },
+            "cta_text": "Explore SEO",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-brand",
+            "component": "service_item",
+            "title": "Branding & Design",
+            "description": "Memorable brand identities that build trust across every touchpoint.",
+            "problem": "Inconsistent branding weakens recognition and makes it harder to compete in crowded markets.",
+            "solution": "Logo design, brand guidelines, marketing assets and social creative aligned to your positioning.",
+            "outcome": "Stronger brand recognition, professional credibility and visual consistency across digital and print.",
+            "image": {
+              "filename": "/assets/images/graphic-designing-uae.webp",
+              "alt": "Branding and design"
+            },
+            "cta_link": {
+              "url": "services/branding-graphic-design",
+              "linktype": "url",
+              "cached_url": "services/branding-graphic-design"
+            },
+            "cta_text": "Explore Branding",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-ai",
+            "component": "service_item",
+            "title": "AI Solutions",
+            "description": "Practical AI integrations that automate support, qualify leads and save time.",
+            "problem": "Teams spend hours answering repetitive questions while prospects leave without getting answers.",
+            "solution": "AI customer service agents, workflow automation and intelligent features trained on your business content.",
+            "outcome": "24/7 automated support, faster lead qualification and reduced operational overhead.",
+            "image": {
+              "filename": "/assets/images/ai-solutions.webp",
+              "alt": "AI solutions"
+            },
+            "cta_link": {
+              "url": "services/ai-solutions",
+              "linktype": "url",
+              "cached_url": "services/ai-solutions"
+            },
+            "cta_text": "Explore AI Solutions",
+            "is_popular": false
+          }
+        ],
+        "component": "igentx_services",
+        "cta_title": "Ready to Transform Your Business?",
+        "badge_text": "Our Services",
+        "description": "Outcome-focused services for businesses that want to build, launch, automate and scale, with clear value at every step.",
+        "process_steps": [
+          {
+            "_uid": "ps1",
+            "component": "process_step",
+            "title": "Discovery",
+            "duration": "3–5 days",
+            "description": "Understand your goals, audience, constraints and success metrics."
+          },
+          {
+            "_uid": "ps2",
+            "component": "process_step",
+            "title": "Strategy",
+            "duration": "3–5 days",
+            "description": "Define scope, architecture, SEO approach and a realistic delivery roadmap."
+          },
+          {
+            "_uid": "ps3",
+            "component": "process_step",
+            "title": "UX & Design",
+            "duration": "1–2 weeks",
+            "description": "Wireframes, visual design and prototypes aligned to your brand and users."
+          },
+          {
+            "_uid": "ps4",
+            "component": "process_step",
+            "title": "Development",
+            "duration": "2–6 weeks",
+            "description": "Build with modern stacks, integrations and performance best practices."
+          },
+          {
+            "_uid": "ps5",
+            "component": "process_step",
+            "title": "QA & Optimisation",
+            "duration": "3–7 days",
+            "description": "Testing, accessibility checks, Core Web Vitals tuning and security review."
+          },
+          {
+            "_uid": "ps6",
+            "component": "process_step",
+            "title": "Launch",
+            "duration": "1–3 days",
+            "description": "Deployment, analytics setup, handover documentation and go-live support."
+          },
+          {
+            "_uid": "ps7",
+            "component": "process_step",
+            "title": "Continuous Growth",
+            "duration": "Ongoing",
+            "description": "SEO, content, feature iterations and performance monitoring beyond launch."
+          }
+        ],
+        "process_title": "How We Deliver",
+        "process_description": "A transparent, seven-step process from discovery through continuous growth, with estimated timelines at every stage.",
+        "cta_description": "Talk to our team for a tailored proposal scoped to your goals, timeline, and market.",
+        "show_tech_stack": true,
+        "tech_stack_badge": "Engineering Excellence",
+        "tech_stack_title": "Engineering Excellence, Business Impact",
+        "tech_stack_description": "We combine modern technologies, cloud infrastructure and AI capabilities to build scalable, secure and future-ready solutions that drive real business growth.",
+        "tech_categories": [
+          {
+            "_uid": "c-AI",
+            "component": "tech_category",
+            "title": "AI Powered",
+            "description": "Smarter enquiries, multilingual assistants and intelligent automation that capture and convert more leads.",
+            "icon_key": "ai",
+            "technologies": [
+              {
+                "_uid": "t-OpenAI",
+                "component": "technology_item",
+                "name": "OpenAI",
+                "icon": {
+                  "filename": "/assets/icons/openai-icon.svg",
+                  "alt": "OpenAI",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Claude",
+                "component": "technology_item",
+                "name": "Claude",
+                "icon": {
+                  "filename": "/assets/icons/claude-icon.svg",
+                  "alt": "Claude",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Gemini",
+                "component": "technology_item",
+                "name": "Gemini",
+                "icon": {
+                  "filename": "/assets/icons/gemini-icon.svg",
+                  "alt": "Gemini",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-RAG",
+                "component": "technology_item",
+                "name": "RAG",
+                "icon": {
+                  "filename": "/assets/icons/rag-icon.svg",
+                  "alt": "RAG",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-Cloud",
+            "component": "tech_category",
+            "title": "Cloud Native",
+            "description": "Scalable hosting, CI/CD pipelines and enterprise-grade infrastructure built for reliability.",
+            "icon_key": "cloud",
+            "technologies": [
+              {
+                "_uid": "t-AWS",
+                "component": "technology_item",
+                "name": "AWS",
+                "icon": {
+                  "filename": "/assets/icons/aws-icon.svg",
+                  "alt": "AWS",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Vercel",
+                "component": "technology_item",
+                "name": "Vercel",
+                "icon": {
+                  "filename": "/assets/icons/vercel-icon.svg",
+                  "alt": "Vercel",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Cloudflare",
+                "component": "technology_item",
+                "name": "Cloudflare",
+                "icon": {
+                  "filename": "/assets/icons/cloudflare-icon.svg",
+                  "alt": "Cloudflare",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Node.js",
+                "component": "technology_item",
+                "name": "Node.js",
+                "icon": {
+                  "filename": "/assets/icons/nodejs-icon.svg",
+                  "alt": "Node.js",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Docker",
+                "component": "technology_item",
+                "name": "Docker",
+                "icon": {
+                  "filename": "/assets/icons/docker-icon.svg",
+                  "alt": "Docker",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-CI/CD",
+                "component": "technology_item",
+                "name": "CI/CD",
+                "icon": {
+                  "filename": "/assets/icons/cicd-icon.svg",
+                  "alt": "CI/CD",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-ModernWeb",
+            "component": "tech_category",
+            "title": "Modern Web",
+            "description": "High-performance websites and applications with headless CMS flexibility for fast content updates.",
+            "icon_key": "web",
+            "technologies": [
+              {
+                "_uid": "t-Next.js",
+                "component": "technology_item",
+                "name": "Next.js",
+                "icon": {
+                  "filename": "/assets/icons/nextjs-icon.svg",
+                  "alt": "Next.js",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-React",
+                "component": "technology_item",
+                "name": "React",
+                "icon": {
+                  "filename": "/assets/icons/react-icon.svg",
+                  "alt": "React",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-TypeScript",
+                "component": "technology_item",
+                "name": "TypeScript",
+                "icon": {
+                  "filename": "/assets/icons/typescript-icon.svg",
+                  "alt": "TypeScript",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Tailwind CSS",
+                "component": "technology_item",
+                "name": "Tailwind CSS",
+                "icon": {
+                  "filename": "/assets/icons/tailwind-icon.svg",
+                  "alt": "Tailwind CSS",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Storyblok",
+                "component": "technology_item",
+                "name": "Storyblok",
+                "icon": {
+                  "filename": "/assets/icons/storyblok_icon.svg",
+                  "alt": "Storyblok",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Headless CMS",
+                "component": "technology_item",
+                "name": "Headless CMS",
+                "icon": {
+                  "filename": "/assets/icons/headless-cms-icon.svg",
+                  "alt": "Headless CMS",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-Commerce",
+            "component": "tech_category",
+            "title": "Commerce Solutions",
+            "description": "Online stores and headless commerce platforms designed to increase sales and customer retention.",
+            "icon_key": "commerce",
+            "technologies": [
+              {
+                "_uid": "t-Shopify",
+                "component": "technology_item",
+                "name": "Shopify",
+                "icon": {
+                  "filename": "/assets/icons/shopify.svg",
+                  "alt": "Shopify",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-BigCommerce",
+                "component": "technology_item",
+                "name": "BigCommerce",
+                "icon": {
+                  "filename": "/assets/icons/bigcommerce.svg",
+                  "alt": "BigCommerce",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Commercetools",
+                "component": "technology_item",
+                "name": "Commercetools",
+                "icon": {
+                  "filename": "/assets/icons/commercetools-icon.svg",
+                  "alt": "Commercetools",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-WooCommerce",
+                "component": "technology_item",
+                "name": "WooCommerce",
+                "icon": {
+                  "filename": "/assets/icons/woocommerce.svg",
+                  "alt": "WooCommerce",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-Analytics",
+            "component": "tech_category",
+            "title": "Analytics and Insights",
+            "description": "Decisions backed by real user data, search performance and conversion tracking.",
+            "icon_key": "analytics",
+            "technologies": [
+              {
+                "_uid": "t-Google Analytics 4",
+                "component": "technology_item",
+                "name": "Google Analytics 4",
+                "icon": {
+                  "filename": "/assets/icons/google-analytics-icon.svg",
+                  "alt": "Google Analytics 4",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Search Console",
+                "component": "technology_item",
+                "name": "Search Console",
+                "icon": {
+                  "filename": "/assets/icons/google-search-console-icon.svg",
+                  "alt": "Search Console",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Microsoft Clarity",
+                "component": "technology_item",
+                "name": "Microsoft Clarity",
+                "icon": {
+                  "filename": "/assets/icons/microsoft-clarity-icon.svg",
+                  "alt": "Microsoft Clarity",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Vercel Analytics",
+                "component": "technology_item",
+                "name": "Vercel Analytics",
+                "icon": {
+                  "filename": "/assets/icons/vercel-analytics-icon.svg",
+                  "alt": "Vercel Analytics",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-Automation",
+            "component": "tech_category",
+            "title": "Automation and Integrations",
+            "description": "Connect your tools, automate workflows and streamline operations with API-first integrations.",
+            "icon_key": "automation",
+            "technologies": [
+              {
+                "_uid": "t-n8n",
+                "component": "technology_item",
+                "name": "n8n",
+                "icon": {
+                  "filename": "/assets/icons/n8n-icon.svg",
+                  "alt": "n8n",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Webhooks",
+                "component": "technology_item",
+                "name": "Webhooks",
+                "icon": {
+                  "filename": "/assets/icons/webhooks-icon.svg",
+                  "alt": "Webhooks",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-API Integrations",
+                "component": "technology_item",
+                "name": "API Integrations",
+                "icon": {
+                  "filename": "/assets/icons/api-integrations-icon.svg",
+                  "alt": "API Integrations",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-AI Workflows",
+                "component": "technology_item",
+                "name": "AI Workflows",
+                "icon": {
+                  "filename": "/assets/icons/ai-workflows-icon.svg",
+                  "alt": "AI Workflows",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          }
+        ],
+        "tech_benefits": [
+          {
+            "_uid": "tb1",
+            "component": "tech_benefit",
+            "title": "High Performance",
+            "description": "Lightning-fast experiences",
+            "icon_key": "lightning"
+          },
+          {
+            "_uid": "tb2",
+            "component": "tech_benefit",
+            "title": "Scalable",
+            "description": "Built to grow with you",
+            "icon_key": "layers"
+          },
+          {
+            "_uid": "tb3",
+            "component": "tech_benefit",
+            "title": "Secure",
+            "description": "Enterprise-grade security",
+            "icon_key": "shield"
+          },
+          {
+            "_uid": "tb4",
+            "component": "tech_benefit",
+            "title": "Reliable",
+            "description": "Production-grade hosting",
+            "icon_key": "clock"
+          },
+          {
+            "_uid": "tb5",
+            "component": "tech_benefit",
+            "title": "Future Ready",
+            "description": "AI, automation and beyond",
+            "icon_key": "rocket"
+          }
+        ]
+      },
+      {
+        "_uid": "b3b0354e-7c0c-4147-9a3f-dbd4638e782b",
+        "title": "Proven Results Across Web, AI & Product",
+        "component": "igentx_portfolio",
+        "badge_text": "Success Stories",
+        "description": "Real projects with measurable business outcomes, from traffic growth to platform launches.",
+        "case_studies": [
+          {
+            "_uid": "a8f2c91e-4b3d-4e17-9c6a-1d7e5f0b2a84",
+            "image": {
+              "id": null,
+              "alt": "BloomWave Learning & Daycare website with AI enquiry assistant",
+              "name": "",
+              "focus": "",
+              "title": "BloomWave Learning & Daycare",
+              "source": "bloomwave.ae",
+              "filename": "/assets/images/bloomwave-homepage.jpg",
+              "copyright": "IGENTX",
+              "fieldtype": "asset",
+              "meta_data": {
+                "alt": "BloomWave Learning & Daycare website with AI enquiry assistant",
+                "title": "BloomWave Learning & Daycare",
+                "source": "bloomwave.ae",
+                "copyright": "IGENTX"
+              },
+              "is_external_url": false
+            },
+            "title": "BloomWave: Website, AI Agent & DaycareMate",
+            "results": [
+              {
+                "_uid": "bw1",
+                "value": "24/7",
+                "metric": "AI Enquiries",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "bw2",
+                "value": "3-in-1",
+                "metric": "Website + AI + Platform",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "bw3",
+                "value": "bloomwave.ae",
+                "metric": "Live Site",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "bw4",
+                "value": "DaycareMate",
+                "metric": "Operations Platform",
+                "component": "result_metric"
+              }
+            ],
+            "category": "Full Solution",
+            "live_url": "https://bloomwave.ae",
+            "component": "case_study_item",
+            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.",
+            "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nDaycareMate",
+            "case_study_url": "/case-studies/bloomwave-learning-daycare",
+            "industry": "Childcare & Education",
+            "country": "UAE",
+            "challenge": "BloomWave needed a trustworthy marketing presence, after-hours parent enquiry capture, and a single system for centre operations."
+          },
+          {
+            "_uid": "b12da0cb-57c4-4db6-8e91-97c81a9063a4",
+            "image": {
+              "id": 104612999507944,
+              "alt": "www.moduluxegroup.com",
+              "name": "",
+              "focus": "",
+              "title": "Moduluxe Group UAE",
+              "source": "www.moduluxegroup.com",
+              "filename": "/assets/images/moduluxegroup.webp",
+              "copyright": "IGENTX",
+              "fieldtype": "asset",
+              "meta_data": {
+                "alt": "www.moduluxegroup.com",
+                "title": "Moduluxe Group UAE",
+                "source": "www.moduluxegroup.com",
+                "copyright": "IGENTX"
+              },
+              "is_external_url": false
+            },
+            "title": "Read how we helped Moduluxe Group achieve 300% traffic growth",
+            "results": [
+              {
+                "_uid": "cbf560a6-5cde-4bba-8e30-f6f0e11ed36d",
+                "value": "300%",
+                "metric": "Organic Traffic",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "0c0423ee-09df-4c33-89e7-6a0fe91cf05b",
+                "value": "0.8s",
+                "metric": "Load Time",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "565ca5f9-5ce4-49d3-9544-ae2a329ffb24",
+                "value": "95%",
+                "metric": "Performance Score",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "1e683ec1-6cb5-42e8-a8cc-a1793150ea94",
+                "value": "150%",
+                "metric": "Conversion Rate",
+                "component": "result_metric"
+              }
+            ],
+            "category": "Web Development",
+            "live_url": "https://www.moduluxegroup.com/",
+            "component": "case_study_item",
+            "description": "AI-driven multilingual website with advanced SEO optimisation led to remarkable organic growth",
+            "technologies": "Next.js\nStoryblok\nTailwind CSS\nTypeScript\nVercel",
+            "case_study_url": "/case-studies/web-development-uae-startup-moduluxe-group",
+            "industry": "Real Estate",
+            "country": "UAE",
+            "challenge": "Moduluxe needed a multilingual website that ranked in Arabic and English search and converted visitors into qualified leads."
+          },
+          {
+            "_uid": "2823179b-b2fd-46a6-816f-d28a69fae1db",
+            "image": {
+              "id": 105580143027119,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/images/drdoor.webp",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "title": "DrDoor: 200% Organic Growth with SEO-First Website",
+            "results": [
+              {
+                "_uid": "d6122ac0-72d7-4e14-b1a9-d3bd375eb69e",
+                "value": "200%",
+                "metric": "Organic Traffic",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "c0590f0b-57b9-43e7-ab8a-3df3ff1bd38b",
+                "value": "0.6s",
+                "metric": "Load Time",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "3667adab-40c0-4e22-ad97-66df4cd45823",
+                "value": "96%",
+                "metric": "Performance",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "d8750fc1-5d27-4f58-930c-0437f34e32be",
+                "value": "4.9",
+                "metric": "Customer Rating",
+                "component": "result_metric"
+              }
+            ],
+            "category": "Web Development",
+            "live_url": "https://drdoor.in/",
+            "component": "case_study_item",
+            "description": "We partnered with DrDoor, an India-based FRP door manufacturer, to deliver a high-performance website, intuitive user experience, and strong SEO foundation to maximise lead generation and customer engagement. The project targeted conversion uplift, performance excellence and brand credibility.",
+            "technologies": "Next.js\nTailwind CSS\nVercel\nSEO",
+            "case_study_url": "/case-studies/web-development-startup-dr-door",
+            "industry": "Manufacturing",
+            "country": "India",
+            "challenge": "DrDoor required a high-performance digital platform to maximise lead generation and build brand credibility in a competitive market."
+          }
+        ],
+        "testimonials": [
+          {
+            "_uid": "t-murshid",
+            "component": "testimonial_item",
+            "name": "Murshid CK",
+            "position": "Operations Head",
+            "company": "Moduluxe",
+            "country": "UAE",
+            "verified": true,
+            "rating": "5",
+            "content": "The new website transformed our online presence. We started getting quality leads from day one, and the bilingual SEO setup helped us rank in both Arabic and English searches.",
+            "avatar": {
+              "filename": "",
+              "alt": ""
+            }
+          },
+          {
+            "_uid": "t-ajas-bloomwave",
+            "component": "testimonial_item",
+            "name": "Ajas Muhammed",
+            "position": "Managing Director",
+            "company": "BloomWave Learning & Daycare",
+            "country": "UAE",
+            "verified": true,
+            "rating": "5",
+            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+            "avatar": {
+              "filename": "",
+              "alt": ""
+            }
+          },
+          {
+            "_uid": "t-ashraf-drdoor",
+            "component": "testimonial_item",
+            "name": "Muhammed Ashraf",
+            "position": "Managing Director",
+            "company": "DrDoor",
+            "country": "India",
+            "verified": true,
+            "rating": "5",
+            "content": "The new website transformed our business image and lead generation. Within weeks, we started receiving qualified inquiries, and our ranking performance improved drastically. The speed and SEO improvements exceeded our expectations.",
+            "avatar": {
+              "filename": "",
+              "alt": ""
+            }
+          }
+        ],
+        "show_demo_cta": false,
+        "demo_cta_title": "Want to See More?",
+        "demo_cta_primary": "Request Live Demos",
+        "performance_title": "Before vs After: Real Performance Impact",
+        "demo_cta_secondary": "Read Our Case Studies",
+        "testimonials_title": "What Our Clients Say",
+        "performance_metrics": [
+          {
+            "_uid": "2ae0e4f6-dbad-497f-b55b-101777514ff0",
+            "after": "0.8s",
+            "before": "4.2s",
+            "component": "performance_metric",
+            "improvement": "81% Faster",
+            "metric_name": "Page Load Speed"
+          },
+          {
+            "_uid": "e0357202-99ff-4cd5-b6b6-d97fc35d46aa",
+            "after": "98/100",
+            "before": "65/100",
+            "component": "performance_metric",
+            "improvement": "+51% Better",
+            "metric_name": "SEO Score"
+          },
+          {
+            "_uid": "bdedadfb-1500-4599-a780-2d98934d2633",
+            "after": "95/100",
+            "before": "72/100",
+            "component": "performance_metric",
+            "improvement": "+32% Better",
+            "metric_name": "Mobile Performance"
+          },
+          {
+            "_uid": "fd172155-1793-4186-acbc-f7099dd98dee",
+            "after": "99",
+            "before": "65",
+            "component": "performance_metric",
+            "improvement": "40% More",
+            "metric_name": "Accessibility"
+          }
+        ],
+        "demo_cta_description": "Explore our demo projects and see how AI-driven development can transform your business.",
+        "demo_cta_primary_link": {
+          "id": "",
+          "url": "contact",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "contact"
+        },
+        "demo_cta_secondary_link": {
+          "id": "",
+          "url": "case-studies",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "case-studies"
+        },
+        "performance_description": "See how our AI-driven approach delivers measurable improvements in website performance and user experience.",
+        "testimonials_description": "Hear from clients we have helped grow online",
+        "show_performance_comparison": false
+      },
+      {
+        "_uid": "cta-band-home-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to Build Something Exceptional?",
+        "description": "Whether you're launching a new website, building an AI-powered platform, modernising your ecommerce experience or creating a custom business application, our team is ready to help you turn ambitious ideas into measurable business results.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View Case Studies",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
+      },
+      {
+        "_uid": "1ee68ace-b6fd-45ed-8d30-64131de2d45b",
+        "faqs": [
+          {
+            "_uid": "faq-Why choose IGENTX ov",
+            "component": "faq_item",
+            "question": "Why choose IGENTX over other web development companies?",
+            "answer": "IGENXT combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with bilingual Arabic and English delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.",
+            "category": "General"
+          },
+          {
+            "_uid": "faq-What industries do y",
+            "component": "faq_item",
+            "question": "What industries do you specialize in?",
+            "answer": "We serve retail, ecommerce, healthcare, education, childcare, real estate, professional services and technology companies. Our UAE experience spans bilingual websites, local SEO, payment integrations and compliance-aware delivery. We also build vertical SaaS products like DaycareMate for early childhood education. Whether you need a marketing website, custom application or AI integration, we tailor the approach to your industry's specific workflows, regulations and customer expectations.",
+            "category": "General"
+          },
+          {
+            "_uid": "faq-Do you work with sta",
+            "component": "faq_item",
+            "question": "Do you work with startups and enterprises?",
+            "answer": "Yes. For startups, we focus on fast MVP delivery, clear scope and foundations that scale. For enterprises, we emphasise architecture, security, integrations and phased rollouts. Our process adapts to your team size, budget and timeline, from a single landing page to multi-language platforms with headless CMS, ecommerce and AI automation. Contact us for a scoped proposal based on your goals.",
+            "category": "General"
+          },
+          {
+            "_uid": "faq-Why is Next.js bette",
+            "component": "faq_item",
+            "question": "Why is Next.js better than traditional website builders?",
+            "answer": "Next.js delivers server-side rendering and static generation for faster page loads, better Core Web Vitals and stronger SEO than drag-and-drop builders. You get full design freedom, API integrations, multilingual support and enterprise security, without platform lock-in. For UAE businesses competing on Google, performance and technical SEO structure directly impact rankings. Next.js on Vercel also provides global edge delivery, which matters for international and local audiences alike.",
+            "category": "Web Development"
+          },
+          {
+            "_uid": "faq-How long does websit",
+            "component": "faq_item",
+            "question": "How long does website development take?",
+            "answer": "Timeline depends on scope: a focused marketing site typically takes 2–4 weeks; larger corporate or ecommerce projects take 4–8 weeks. Factors include page count, integrations, multilingual requirements and content readiness. Our seven-step process includes discovery, strategy, design, development, QA, launch and ongoing growth, with clear milestones at each stage. We provide a realistic timeline after a brief discovery call.",
+            "category": "Web Development"
+          },
+          {
+            "_uid": "faq-Can you redesign an ",
+            "component": "faq_item",
+            "question": "Can you redesign an existing website?",
+            "answer": "Absolutely. We migrate and redesign existing sites, including WordPress, Shopify and custom builds, to modern architectures without losing SEO equity when planned correctly. A redesign typically improves page speed, mobile experience, conversion paths and search visibility. We audit your current site, preserve valuable content and URLs, and rebuild with performance and accessibility built in from the start.",
+            "category": "Web Development"
+          },
+          {
+            "_uid": "faq-How does your AI Cus",
+            "component": "faq_item",
+            "question": "How does your AI Customer Service Agent work?",
+            "answer": "Our AI agent is trained on your website content, documents and FAQs using retrieval-augmented generation (RAG). It answers visitor questions instantly, qualifies leads and supports English and Arabic. Integration takes one line of code on any website. You control the knowledge base, review conversations and update content as your business evolves. It is deployable for subscribers and designed for accuracy, not generic chatbot responses.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "faq-Can the AI answer qu",
+            "component": "faq_item",
+            "question": "Can the AI answer questions using our website content?",
+            "answer": "Yes. The agent indexes your pages, PDFs, service lists and uploaded documents. When a visitor asks a question, it retrieves relevant content and generates a grounded response. You can update the knowledge base anytime. This ensures answers reflect your actual offerings, pricing approach and policies, building trust with UAE and international visitors who expect accurate, immediate information.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "faq-Does the AI agent su",
+            "component": "faq_item",
+            "question": "Does the AI agent support Arabic and English?",
+            "answer": "Yes. The agent supports multilingual conversations including Arabic (RTL) and English. This is essential for UAE businesses serving both local and expatriate audiences. Language detection and bilingual knowledge bases ensure visitors receive accurate responses in their preferred language, improving engagement and conversion for bilingual markets.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "faq-How long does SEO ta",
+            "component": "faq_item",
+            "question": "How long does SEO take to show results?",
+            "answer": "Technical SEO improvements can show indexing and speed gains within weeks. Meaningful ranking improvements for competitive keywords typically take 3–6 months with consistent content and authority building. Local UAE SEO for Dubai and Abu Dhabi may show faster results for location-specific queries. We set realistic expectations, track progress monthly and focus on qualified traffic that converts, not vanity metrics.",
+            "category": "SEO"
+          },
+          {
+            "_uid": "faq-Do you provide local",
+            "component": "faq_item",
+            "question": "Do you provide local SEO for Dubai and the UAE?",
+            "answer": "Yes. We optimise Google Business Profile, local citations, Arabic and English landing pages, and location-specific schema markup. UAE local search requires bilingual strategy, mobile-first performance and culturally relevant content. We have experience helping businesses rank for Dubai, Abu Dhabi and emirate-specific queries while supporting international visibility.",
+            "category": "SEO"
+          },
+          {
+            "_uid": "faq-How do you improve C",
+            "component": "faq_item",
+            "question": "How do you improve Core Web Vitals?",
+            "answer": "We optimise images, implement lazy loading, minimise JavaScript, use edge hosting on Vercel, and structure pages for fast LCP, low CLS and responsive FID/INP. Every IGENTX project includes performance budgets and Lighthouse testing before launch. For existing sites, we audit bottlenecks and implement targeted fixes, often achieving 90+ performance scores without sacrificing design quality.",
+            "category": "SEO"
+          },
+          {
+            "_uid": "faq-Shopify vs BigCommer",
+            "component": "faq_item",
+            "question": "Shopify vs BigCommerce: which is right for my business?",
+            "answer": "Shopify excels for fast setup, app ecosystem and smaller-to-mid catalogues. BigCommerce suits larger catalogues, B2B features and headless commerce flexibility. We assess your product count, integration needs, customisation requirements and growth plans to recommend the right platform, or a headless approach with Next.js storefront for maximum performance and design freedom.",
+            "category": "Ecommerce"
+          },
+          {
+            "_uid": "faq-What is Headless Com",
+            "component": "faq_item",
+            "question": "What is Headless Commerce?",
+            "answer": "Headless commerce separates the storefront (frontend) from the commerce engine (backend) via APIs. This enables blazing-fast custom storefronts, omnichannel experiences and design freedom while keeping robust cart, inventory and payment logic. We build headless stores with Shopify, BigCommerce or commercetools paired with Next.js, optimised for Core Web Vitals and conversion.",
+            "category": "Ecommerce"
+          },
+          {
+            "_uid": "faq-What is DaycareMate ",
+            "component": "faq_item",
+            "question": "What is DaycareMate and who is it for?",
+            "answer": "DaycareMate is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets dedicated deployment. It is built by the same team behind BloomWave's digital transformation, designed for real centre operations, not generic school admin software.",
+            "category": "Daycare Software"
+          },
+          {
+            "_uid": "faq-Do you provide maint",
+            "component": "faq_item",
+            "question": "Do you provide maintenance after launch?",
+            "answer": "Yes. We offer ongoing support packages covering security updates, performance monitoring, content changes, feature iterations and SEO optimisation. Websites and applications need continuous care, including plugin updates, dependency patches and analytics review. We tailor support to your needs, from ad-hoc hours to monthly retainers with SLA response times.",
+            "category": "Support"
+          },
+          {
+            "_uid": "faq-How do you secure we",
+            "component": "faq_item",
+            "question": "How do you secure websites?",
+            "answer": "Security is built into every project: SSL/TLS encryption, secure headers, input validation, dependency auditing and OWASP-aware development practices. For UAE deployments, we follow data protection best practices and can advise on compliance requirements. We also configure automated backups, access controls and monitoring to detect issues before they impact your business.",
+            "category": "Support"
+          },
+          {
+            "_uid": "faq-How can I get a free",
+            "component": "faq_item",
+            "question": "How can I get a free consultation?",
+            "answer": "Click \"Book a Free Consultation\" or email hello@igentx.com. Our team will respond within business hours to discuss your goals, timeline and budget. The consultation is no-obligation. We will recommend the right approach whether that is a new website, AI agent, ecommerce build or custom application. We serve clients in the UAE and internationally.",
+            "category": "General"
+          }
+        ],
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Expert answers about web development, AI solutions, ecommerce, SEO and our process for businesses in the UAE and worldwide.",
+        "initial_visible_count": 10
+      }
+    ],
+    "component": "page"
+  }
+}

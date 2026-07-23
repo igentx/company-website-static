@@ -1,0 +1,318 @@
+{
+  "slug": "services/branding-graphic-design",
+  "name": "Branding & Graphic Design",
+  "published_at": "2026-07-23T00:00:00.000Z",
+  "content": {
+    "_uid": "brand-page-root",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "brand-seo-001",
+        "component": "seo",
+        "title": "Branding & Graphic Design | IGENTX",
+        "description": "Strategic branding and graphic design for global businesses: logo design, identity systems, marketing creative and brand guidelines from IGENTX.",
+        "keywords": "branding agency, graphic design, logo design, brand identity, brand guidelines",
+        "canonical_url": "https://www.igentx.com/services/branding-graphic-design",
+        "robots_index": true,
+        "robots_follow": true,
+        "og_type": "website",
+        "og_title": "Branding & Graphic Design | IGENTX",
+        "og_description": "Build a brand that connects and inspires. IGENTX delivers logos, identity systems and creative visuals for businesses worldwide.",
+        "og_image": {
+          "filename": "/assets/images/branding.webp",
+          "alt": "Branding and graphic design by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_card_type": "summary_large_image",
+        "twitter_title": "Branding & Graphic Design | IGENTX",
+        "twitter_description": "Brand identity and design that works across digital and print, delivered globally from IGENTX.",
+        "twitter_image": {
+          "filename": "/assets/images/branding.webp",
+          "alt": "Branding and graphic design by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "structured_data_type": "Service",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Branding & Graphic Design\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"Logo design, brand guidelines, marketing creative and visual identity systems for global businesses.\"\n}"
+      },
+      {
+        "_uid": "brand-hero-001",
+        "component": "service_hero",
+        "badge_text": "IGENTX Service",
+        "title": "Brands that build trust and stand out in competitive markets",
+        "summary": "Weak or inconsistent branding makes even great products forgettable. We create strategic brand identities, logos and marketing creative that build recognition, trust and visual consistency across every touchpoint.",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "back_link": {
+          "url": "/services",
+          "linktype": "url",
+          "cached_url": "services"
+        },
+        "back_link_label": "Back to Services",
+        "featured_image": {
+          "filename": "/assets/images/branding.webp",
+          "alt": "Branding and graphic design",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "Logo and visual identity design\nBrand guidelines and style systems\nMarketing and social media creative\nConsistent branding for digital and print",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "brand-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Creative Studio",
+        "title": "Design that connects strategy with execution",
+        "description": "We combine brand strategy with practical design deliverables so your identity works across websites, social channels, print and presentations.",
+        "partner_logos": [
+          {
+            "_uid": "brand-p-ai",
+            "component": "trust_band_partner",
+            "name": "Illustrator",
+            "icon": {
+              "filename": "/assets/icons/adobe-illustrator-icon.svg",
+              "alt": "Adobe Illustrator"
+            }
+          },
+          {
+            "_uid": "brand-p-ps",
+            "component": "trust_band_partner",
+            "name": "Photoshop",
+            "icon": {
+              "filename": "/assets/icons/adobe-photoshop-icon.svg",
+              "alt": "Adobe Photoshop"
+            }
+          },
+          {
+            "_uid": "brand-p-corel",
+            "component": "trust_band_partner",
+            "name": "CorelDRAW",
+            "icon": {
+              "filename": "/assets/icons/corel-draw-icon.svg",
+              "alt": "CorelDRAW"
+            }
+          },
+          {
+            "_uid": "brand-p-flex",
+            "component": "trust_band_partner",
+            "name": "Multi-format",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Flexible deliverables"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "brand-m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built",
+            "description": "Unique identities, not template logos",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "brand-m2",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "brand-m3",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Delivery",
+            "description": "Multilingual and multicultural branding",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "brand-m4",
+            "component": "trust_band_metric",
+            "value": "Print",
+            "label": "and Digital",
+            "description": "Assets ready for every channel",
+            "icon_key": "layers"
+          }
+        ]
+      },
+      {
+        "_uid": "brand-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "What We Deliver",
+        "title": "Brand systems that scale with your business",
+        "description": "From startup identities to corporate refreshes, we scope branding projects around your audience, markets and the channels where your brand needs to perform.",
+        "features": [
+          {
+            "_uid": "brand-f1",
+            "component": "differentiator_feature",
+            "title": "Logo & Identity Design",
+            "highlight": "Memorable first impression",
+            "description": "Distinctive logo concepts with colour palettes, typography and visual language tailored to your positioning and audience.",
+            "icon": {
+              "filename": "/assets/icons/adobe-illustrator-icon.svg",
+              "alt": "Logo design",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-f2",
+            "component": "differentiator_feature",
+            "title": "Brand Guidelines",
+            "highlight": "Consistent everywhere",
+            "description": "Documented rules for logo usage, colours, fonts and tone so your team and partners apply the brand correctly.",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Brand guidelines",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-f3",
+            "component": "differentiator_feature",
+            "title": "Marketing Collateral",
+            "highlight": "Ready to publish",
+            "description": "Business cards, stationery, brochures, presentations and email banners designed to match your identity system.",
+            "icon": {
+              "filename": "/assets/icons/adobe-photoshop-icon.svg",
+              "alt": "Marketing collateral",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-f4",
+            "component": "differentiator_feature",
+            "title": "Social Media Creative",
+            "highlight": "On-brand content",
+            "description": "Profile assets, post templates and campaign visuals for LinkedIn, Instagram and other platforms your audience uses.",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Social media creative",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-f5",
+            "component": "differentiator_feature",
+            "title": "Brand Refresh",
+            "highlight": "Modernise without losing essence",
+            "description": "Rebranding and identity updates that modernise your look while preserving recognition and customer trust.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Brand refresh",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "brand-f6",
+            "component": "differentiator_feature",
+            "title": "Multilingual Branding",
+            "highlight": "Global-ready identity",
+            "description": "Identity systems designed for multilingual markets with culturally appropriate typography, layout and visual choices.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Multilingual branding",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "brand-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to build a brand that connects?",
+        "description": "Book a free consultation to discuss your positioning, deliverables and timeline. We will scope a branding project from logo-only to full identity systems.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View Case Studies",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
+      },
+      {
+        "_uid": "brand-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about branding projects, deliverables, timelines and how we work with startups and established businesses.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "brand-faq-q1",
+            "component": "faq_item",
+            "question": "What does a branding and graphic design agency do?",
+            "answer": "A branding agency helps businesses create a strong visual identity through logos, colour systems, typography and marketing materials that represent their values and resonate with their audience. We align design with your positioning and the channels where your brand appears.",
+            "category": "General"
+          },
+          {
+            "_uid": "brand-faq-q2",
+            "component": "faq_item",
+            "question": "What is included in your branding projects?",
+            "answer": "Typical projects include logo design, brand guidelines, stationery, social media assets and strategy consultation. Scope is tailored to your goals: focused logo projects for startups, or full identity suites for businesses needing multi-channel consistency.",
+            "category": "General"
+          },
+          {
+            "_uid": "brand-faq-q3",
+            "component": "faq_item",
+            "question": "How long does a branding project take?",
+            "answer": "A standard branding project usually takes 1-3 weeks depending on complexity, revision rounds and the number of assets required. Larger corporate identity projects with extensive collateral may take longer. We provide a timeline after the initial consultation.",
+            "category": "Process"
+          },
+          {
+            "_uid": "brand-faq-q4",
+            "component": "faq_item",
+            "question": "Can you redesign an existing brand identity?",
+            "answer": "Yes. We offer brand refresh and rebranding services to modernise your logo, visuals and messaging while keeping your brand essence intact. This is common for businesses outgrowing an early identity or entering new markets.",
+            "category": "Process"
+          },
+          {
+            "_uid": "brand-faq-q5",
+            "component": "faq_item",
+            "question": "What is the difference between a logo and a brand identity?",
+            "answer": "A logo is a visual mark or symbol. A brand identity is the full visual system: colours, fonts, imagery style and design rules that create a consistent experience across websites, social media, print and presentations.",
+            "category": "General"
+          },
+          {
+            "_uid": "brand-faq-q6",
+            "component": "faq_item",
+            "question": "Do you provide brand guidelines and usage rules?",
+            "answer": "Yes. We deliver a brand guidelines document covering logo usage, colour codes, typography and examples for digital and print applications. This helps your team and partners stay consistent as you grow.",
+            "category": "Deliverables"
+          },
+          {
+            "_uid": "brand-faq-q7",
+            "component": "faq_item",
+            "question": "Can you create multilingual branding?",
+            "answer": "Yes. We design multilingual brand identities for global markets, ensuring cultural alignment, legibility and consistency across touchpoints. This includes typography and layout choices suited to different scripts and languages.",
+            "category": "General"
+          },
+          {
+            "_uid": "brand-faq-q8",
+            "component": "faq_item",
+            "question": "Why choose IGENTX for branding and design?",
+            "answer": "IGENXT combines strategic positioning with practical design delivery. We build identities that work across the digital products and marketing channels we also develop, so your brand, website and campaigns stay aligned from day one.",
+            "category": "General"
+          },
+          {
+            "_uid": "brand-faq-uae-link",
+            "component": "faq_item",
+            "question": "Do you provide branding services in the UAE?",
+            "answer": "Yes. We deliver bilingual brand identities and marketing creative for UAE businesses. See our UAE branding and graphic design page for regional projects.",
+            "category": "General"
+          }
+        ]
+      }
+    ]
+  }
+}

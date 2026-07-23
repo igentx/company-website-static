@@ -1,0 +1,430 @@
+{
+  "slug": "global/header",
+  "name": "Header",
+  "published_at": "2025-11-26T09:11:04.542Z",
+  "content": {
+    "_uid": "786b7984-4b96-47de-9343-8d4965eb58fb",
+    "global": [
+      {
+        "_uid": "8718294b-8dea-4647-8025-41515efd8971",
+        "logo": {
+          "id": 103834468851321,
+          "alt": "",
+          "name": "IGENTX",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/logos/igentx-logo-01.svg",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "info_bar": [
+          {
+            "_uid": "a0f69433-88ac-4e5b-abdc-eefbf196f906",
+            "email": "hello@igentx.com",
+            "address": "",
+            "message": "",
+            "component": "info_bar",
+            "email_label": "hello@igentx.com",
+            "social_links": [
+              {
+                "url": "https://www.instagram.com/igentx/",
+                "_uid": "2dce9063-42a8-4d9a-a632-2d98fe85741b",
+                "icon": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "filename": null,
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {},
+                  "is_external_url": false
+                },
+                "platform": "instagram",
+                "component": "social_links"
+              },
+              {
+                "url": "https://www.facebook.com/profile.php?id=61583087242385",
+                "_uid": "4216a637-0fad-486f-b647-5768e8954ac2",
+                "icon": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "platform": "facebook",
+                "component": "social_links"
+              }
+            ],
+            "whatsapp_text": "Hello, I'm interested in your services",
+            "whatsapp_label": "Chat with us",
+            "whatsapp_number": "+919995104422",
+            "show_contact_text": true,
+            "show_language_switcher": true
+          }
+        ],
+        "component": "header_navigation",
+        "logo_text": "",
+        "global_seo": [
+          {
+            "_uid": "27ee3f50-91fd-4adf-b82c-f71a4a7f9e64",
+            "title": "AI Web Development & Digital Products | IGENTX",
+            "author": "IGENTX Team",
+            "og_type": "website",
+            "keywords": "Web Development in UAE, Modern Web Development, Next.js Development UAE, React Web Development, Smart Web Solutions",
+            "og_image": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "og_title": "Modern Web Development in UAE",
+            "component": "seo",
+            "publisher": "IGENTX",
+            "description": "IGENTX builds high-performance websites, AI customer agents, and childcare management software for businesses worldwide.",
+            "robots_index": true,
+            "canonical_utl": "https://www.igentx.com/",
+            "robots_follow": true,
+            "twitter_image": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "twitter_title": "Modern Web Development in UAE",
+            "article_author": "IGENTX",
+            "og_description": "Transform your digital presence with cutting-edge web development using Next.js, React, and AI-powered solutions.",
+            "articel_section": "Web Development",
+            "rebots_nosnippet": true,
+            "robots_noarchive": true,
+            "twitter_card_type": "summary_large_image",
+            "twitter_description": "Build blazing-fast modern web apps with IGENTX, the UAE's Next.js & React experts.",
+            "structured_data_type": "",
+            "article_modified_time": "",
+            "article_published_time": ""
+          }
+        ],
+        "navigation_items": [
+          {
+            "_uid": "4c51e70f-015d-4a89-b453-0b55f76746f6",
+            "link": {
+              "id": "",
+              "url": "/",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "/"
+            },
+            "label": "Home",
+            "children": [],
+            "component": "navigation_items"
+          },
+          {
+            "_uid": "2b599a6b-7f7d-4c48-8bed-be3a55427c6a",
+            "link": {
+              "url": "/products",
+              "linktype": "url",
+              "cached_url": "products"
+            },
+            "label": "Products",
+            "children": [
+              {
+                "_uid": "nav-ai-agent",
+                "label": "AI Customer Service Agent",
+                "component": "navigation_items",
+                "children": [],
+                "link": {
+                  "url": "",
+                  "linktype": "story",
+                  "cached_url": "products/ai-customer-service-agent"
+                }
+              },
+              {
+                "_uid": "nav-daycaremate",
+                "label": "DaycareMate",
+                "component": "navigation_items",
+                "children": [],
+                "link": {
+                  "url": "/products/daycaremate",
+                  "linktype": "url",
+                  "cached_url": "products/daycaremate"
+                }
+              }
+            ],
+            "component": "navigation_items"
+          },
+          {
+            "_uid": "12b7bbce-2ea7-4d56-873f-ca53ed8daacb",
+            "link": {
+              "id": "",
+              "url": "services",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "services"
+            },
+            "label": "Services",
+            "children": [
+              {
+                "_uid": "nav-svc-custom-software",
+                "label": "Custom Software Development",
+                "component": "navigation_items",
+                "children": [],
+                "link": {
+                  "url": "",
+                  "linktype": "story",
+                  "cached_url": "services/custom-software-development"
+                }
+              },
+              {
+                "_uid": "nav-svc-web",
+                "label": "Web Development",
+                "component": "navigation_items",
+                "children": [],
+                "link": {
+                  "url": "",
+                  "linktype": "story",
+                  "cached_url": "services/web-development"
+                }
+              },
+              {
+                "_uid": "nav-svc-ai",
+                "label": "AI Solutions",
+                "component": "navigation_items",
+                "children": [],
+                "link": {
+                  "url": "",
+                  "linktype": "story",
+                  "cached_url": "services/ai-solutions"
+                }
+              },
+              {
+                "_uid": "nav-svc-ecommerce",
+                "label": "Ecommerce Development",
+                "component": "navigation_items",
+                "children": [],
+                "link": {
+                  "url": "",
+                  "linktype": "story",
+                  "cached_url": "services/ecommerce-development"
+                }
+              },
+              {
+                "_uid": "nav-svc-seo",
+                "label": "SEO & Growth",
+                "component": "navigation_items",
+                "children": [],
+                "link": {
+                  "url": "",
+                  "linktype": "story",
+                  "cached_url": "services/seo"
+                }
+              },
+              {
+                "_uid": "nav-svc-branding",
+                "label": "Branding & Design",
+                "component": "navigation_items",
+                "children": [],
+                "link": {
+                  "url": "",
+                  "linktype": "story",
+                  "cached_url": "services/branding-graphic-design"
+                }
+              }
+            ],
+            "component": "navigation_items"
+          },
+          {
+            "_uid": "02cdc679-563c-44bf-a95e-03379587734a",
+            "link": {
+              "id": "",
+              "url": "case-studies",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "case-studies"
+            },
+            "label": "Case Studies",
+            "children": [],
+            "component": "navigation_items"
+          },
+          {
+            "_uid": "c16f7f25-ba28-48ba-b585-b9b742687a58",
+            "link": {
+              "id": "",
+              "url": "blog",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "blog"
+            },
+            "label": "Blog",
+            "children": [],
+            "component": "navigation_items"
+          },
+          {
+            "_uid": "76dbcf51-c131-42be-97db-40e5e61141bd",
+            "link": {
+              "id": "865d1bbc-e884-4edc-8b7c-0ed7b14b2514",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "contact"
+            },
+            "label": "Contact",
+            "children": [],
+            "component": "navigation_items"
+          },
+          {
+            "_uid": "nav-uae",
+            "label": "UAE",
+            "component": "navigation_items",
+            "children": [],
+            "link": {
+              "url": "/uae",
+              "linktype": "url",
+              "cached_url": "uae"
+            }
+          }
+        ],
+        "floating_contact_button": [
+          {
+            "_uid": "8d90324c-3c58-46ed-8971-fed07522a58d",
+            "email": "hello@igentx.com",
+            "address": "",
+            "enabled": true,
+            "component": "floating_contact_button",
+            "email_label": "Email",
+            "modal_title": "Contact Us",
+            "button_color": "green",
+            "button_label": "Contact us",
+            "social_links": [
+              {
+                "url": "https://www.instagram.com/igentx/",
+                "_uid": "7de0a03c-1244-41af-8bd8-ab5494ed241d",
+                "icon": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "type": "",
+                "platform": "instagram",
+                "component": "social_link"
+              },
+              {
+                "url": "https://www.facebook.com/profile.php?id=61583087242385",
+                "_uid": "fe93368c-5c85-4bad-bc87-594fd04de24a",
+                "icon": {
+                  "id": null,
+                  "alt": null,
+                  "name": "",
+                  "focus": null,
+                  "title": null,
+                  "source": null,
+                  "filename": "",
+                  "copyright": null,
+                  "fieldtype": "asset",
+                  "meta_data": {}
+                },
+                "type": "",
+                "platform": "facebook",
+                "component": "social_link"
+              }
+            ],
+            "address_label": "Address",
+            "modal_subtitle": "Choose your preferred method",
+            "whatsapp_label": "WhatsApp",
+            "button_position": "bottom-right",
+            "whatsapp_number": "+919995104422",
+            "whatsapp_message": "Hi, I'm interested on your services",
+            "modal_footer_text": "We're here to help! Choose any method to reach us",
+            "social_links_title": "Follow us on",
+            "show_notification_badge": true
+          }
+        ]
+      },
+      {
+        "_uid": "0716b62b-8f1f-4543-9ff6-59e75dda9625",
+        "title": "IGENTX | Global AI-Accelerated Digital Studio",
+        "author": "igentx Digital Team",
+        "og_type": "website",
+        "keywords": "web development agency, ecommerce development, branding agency, SEO services, AI digital studio, custom software, Next.js development",
+        "og_image": {
+          "id": 106601555299758,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/blog/web-development-og.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "og_title": "IGENTX | Global AI-Accelerated Digital Studio",
+        "component": "seo",
+        "publisher": "igentx",
+        "description": "IGENTX is a global AI-accelerated digital studio for web development, ecommerce, branding, SEO, and software products. Serving businesses worldwide, with deep experience in the UAE.",
+        "article_tags": "web development, ecommerce, branding, SEO, AI digital studio, software products",
+        "robots_index": true,
+        "canonical_url": "https://igentx.com/",
+        "canonical_utl": "https://www.igentx.com",
+        "robots_follow": true,
+        "twitter_image": {
+          "id": 106601555287469,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/blog/seo-og.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "twitter_title": "IGENTX | Global AI-Accelerated Digital Studio",
+        "article_author": "IGENTX",
+        "og_description": "Web development, ecommerce, branding, SEO, and software products, delivered globally from an AI-accelerated studio with UAE expertise.",
+        "articel_section": "Web Development",
+        "article_section": "Web Development & Digital Solutions",
+        "rebots_nosnippet": true,
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Global delivery · UAE expertise. High-performance websites, ecommerce, branding, and AI products built for speed, SEO, and conversion.",
+        "structured_data_type": "Organization",
+        "article_modified_time": "2025-11-06 00:00",
+        "article_published_time": "2025-10-26 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"IGENTX\",\n  \"url\": \"https://igentx.com/\",\n  \"logo\": \"https://igentx.com/assets/images/logo.png\",\n  \"sameAs\": [\n    \"https://www.linkedin.com/company/igentx\",\n    \"https://www.instagram.com/igentx\"\n  ],\n  \"contactPoint\": {\n    \"@type\": \"ContactPoint\",\n    \"email\": \"hello@igentx.com\",\n    \"contactType\": \"sales\",\n    \"areaServed\": \"AE\",\n    \"availableLanguage\": [\n      \"English\",\n      \"Arabic\"\n    ]\n  }\n}"
+      }
+    ],
+    "component": "global"
+  }
+}

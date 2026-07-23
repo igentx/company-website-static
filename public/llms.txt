@@ -1,0 +1,44 @@
+# IGENTX
+
+> IGENTX is an AI-powered web development and digital products studio. We build high-performance websites, AI customer service agents, and vertical SaaS (including DaycareMate). Global delivery with UAE as our first go-to-market region.
+
+Contact: hello@igentx.com
+Website: https://www.igentx.com
+Sitemap: https://www.igentx.com/sitemap.xml
+Parent products: DaycareMate (https://daycaremate.com)
+
+## Services (global)
+
+- [Web Development](https://www.igentx.com/services/web-development): Custom web development company
+- [Ecommerce Development](https://www.igentx.com/services/ecommerce-development): Online store development
+- [Branding & Design](https://www.igentx.com/services/branding-graphic-design): Brand identity and graphic design
+- [Technical SEO](https://www.igentx.com/services/seo): Core Web Vitals, schema, AI search optimization
+
+## UAE hub
+
+- [UAE hub](https://www.igentx.com/uae): Regional hub for Dubai and UAE. DaycareMate childcare management software for nurseries and preschools, plus web development, ecommerce, branding, SEO, AI solutions, case studies and FAQs.
+- [Web Development UAE](https://www.igentx.com/services/web-development-uae)
+- [Ecommerce UAE](https://www.igentx.com/services/ecommerce-website-development-uae)
+- [Graphic Design UAE](https://www.igentx.com/services/graphic-design-uae)
+- [SEO UAE](https://www.igentx.com/services/seo-service-uae)
+
+## Products
+
+- [AI Customer Service Agent](https://www.igentx.com/products/ai-customer-service-agent): RAG-powered website chat widget
+- [DaycareMate](https://www.igentx.com/products/daycaremate): Childcare management software by IGENTX
+
+## Case studies
+
+- [BloomWave](https://www.igentx.com/case-studies/bloomwave-learning-daycare): Website + AI agent + DaycareMate
+- [Moduluxe Group](https://www.igentx.com/case-studies/moduluxe-group): Bilingual UAE startup website
+- [Dr.Door](https://www.igentx.com/case-studies/dr-door): Manufacturing digital transformation
+
+## Blog
+
+- [Blog](https://www.igentx.com/blog): Web development and AI insights
+
+## Contact
+
+- [Contact](https://www.igentx.com/contact): Project enquiries and demos
+
+Accuracy note: DaycareMate AI enquiry assistant is deployable for subscribers; leads require manual admin review. Embeddable forms are enquiry capture; not hosted visit booking.

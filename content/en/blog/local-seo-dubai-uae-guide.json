@@ -1,0 +1,284 @@
+{
+  "slug": "blog/local-seo-dubai-uae-guide",
+  "name": "local-seo-dubai-uae-guide",
+  "published_at": "2026-07-23T12:00:00.000Z",
+  "content": {
+    "_uid": "local-seo-dubai-uae-guide-page",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "local-seo-dubai-uae-guide-seo",
+        "component": "seo",
+        "title": "Local SEO Dubai & UAE Guide 2026 | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "article",
+        "keywords": "local SEO Dubai, local SEO UAE, Google Business Profile Dubai, Arabic SEO UAE, SEO services Dubai",
+        "og_image": {
+          "filename": "/assets/blog/seo-og.webp",
+          "alt": "Local SEO guide for Dubai and UAE businesses",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "Local SEO in Dubai and the UAE: A Practical Guide for 2026",
+        "publisher": "IGENTX",
+        "description": "A practical local SEO guide for Dubai, Abu Dhabi and UAE businesses. Google Business Profile, bilingual pages, citations and measurable organic growth.",
+        "article_tags": "local SEO Dubai, local SEO UAE, Google Business Profile Dubai, Arabic SEO UAE, SEO services Dubai",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/blog/local-seo-dubai-uae-guide",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/blog/seo-og.webp",
+          "alt": "Local SEO guide for Dubai and UAE businesses",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "Local SEO in Dubai and the UAE: A Practical Guide for 2026",
+        "article_author": "IGENTX Digital Team",
+        "og_description": "A practical local SEO guide for Dubai, Abu Dhabi and UAE businesses. Google Business Profile, bilingual pages, citations and measurable organic growth.",
+        "article_section": "SEO",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "A practical local SEO guide for Dubai, Abu Dhabi and UAE businesses. Google Business Profile, bilingual pages, citations and measurable organic growth.",
+        "structured_data_type": "BlogPosting",
+        "article_modified_time": "2026-07-23 00:00",
+        "article_published_time": "2026-07-23 00:00",
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BlogPosting\",\"headline\":\"Local SEO in Dubai and the UAE: A Practical Guide for 2026\",\"description\":\"A practical local SEO guide for Dubai, Abu Dhabi and UAE businesses. Google Business Profile, bilingual pages, citations and measurable organic growth.\",\"url\":\"https://www.igentx.com/blog/local-seo-dubai-uae-guide\",\"datePublished\":\"2026-07-23T00:00:00+00:00\",\"dateModified\":\"2026-07-23T00:00:00+00:00\",\"author\":{\"@type\":\"Person\",\"name\":\"IGENTX Digital Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"IGENTX\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"}},\"image\":\"https://www.igentx.com/assets/blog/seo-og.webp\",\"articleSection\":\"SEO\",\"keywords\":\"local SEO Dubai, local SEO UAE, Google Business Profile Dubai, Arabic SEO UAE, SEO services Dubai\",\"inLanguage\":\"en\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.igentx.com/blog/local-seo-dubai-uae-guide\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Local SEO in Dubai and the UAE: A Practical Guide for 2026\",\"item\":\"https://www.igentx.com/blog/local-seo-dubai-uae-guide\"}]}]}"
+      },
+      {
+        "_uid": "local-seo-dubai-uae-guide-hero",
+        "component": "blog_hero",
+        "title": "Local SEO in Dubai and the UAE: A Practical Guide for 2026",
+        "excerpt": "Local search drives enquiries for UAE businesses every day. This guide covers Google Business Profile, bilingual landing pages, citations and the technical foundations that help you rank in Dubai, Abu Dhabi and across the Emirates.",
+        "category": "SEO",
+        "author_name": "IGENTX Digital Team",
+        "publish_date": "2026-07-23",
+        "reading_time": "7 min read",
+        "back_link": {
+          "url": "/blog",
+          "linktype": "url",
+          "cached_url": "/blog"
+        },
+        "featured_image": {
+          "filename": "/assets/blog/seo-og.webp",
+          "alt": "Local SEO guide for Dubai and UAE businesses",
+          "fieldtype": "asset",
+          "is_external_url": false
+        }
+      },
+      {
+        "_uid": "local-seo-dubai-uae-guide-detail",
+        "component": "blog_detail",
+        "category": "SEO",
+        "author_name": "IGENTX Digital Team",
+        "author_role": "Digital Strategy & Engineering",
+        "author_bio": "The IGENTX Digital Team writes practical guides on web development, AI, SEO, vertical products and digital growth for businesses in the UAE and worldwide.",
+        "publish_date": "2026-07-23",
+        "reading_time": "7 min read",
+        "show_toc": true,
+        "key_takeaways": [
+          "Local SEO in the UAE requires bilingual strategy, mobile-first performance and location-specific landing pages.",
+          "Google Business Profile, citations and schema markup work together to improve map pack and organic visibility.",
+          "Measure success by qualified enquiries and conversions, not rankings alone."
+        ],
+        "tags": "local SEO Dubai, local SEO UAE, Google Business Profile Dubai, Arabic SEO UAE, SEO services Dubai",
+        "related_posts": [
+          {
+            "_uid": "local-seo-dubai-uae-guide-rel-0",
+            "component": "blog_card",
+            "title": "Technical SEO Checklist for UAE Websites",
+            "excerpt": "Core Web Vitals, schema, hreflang and performance checks for UAE sites.",
+            "category": "SEO",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/technical-seo-checklist-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/seo-banner.webp",
+              "alt": "Technical SEO Checklist for UAE Websites",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-rel-1",
+            "component": "blog_card",
+            "title": "Web Development in the UAE: A Practical Guide",
+            "excerpt": "Planning and building high-performance websites for UAE businesses.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-11-06",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/web-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Web Development in the UAE: A Practical Guide",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-rel-2",
+            "component": "blog_card",
+            "title": "How Moduluxe Group Grew Organic Traffic by 300%",
+            "excerpt": "Bilingual SEO and performance results for a UAE real estate brand.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/moduluxe-group-seo-case-study"
+            },
+            "featured_image": {
+              "filename": "/assets/images/moduluxegroup.webp",
+              "alt": "How Moduluxe Group Grew Organic Traffic by 300%",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ],
+        "cta_section_title": "Need local SEO support in the UAE?",
+        "cta_section_text": "IGENXT helps businesses improve local search visibility with technical SEO, Arabic and English content and ongoing optimisation.",
+        "cta_button_text": "Explore SEO Services UAE",
+        "cta_button_link": {
+          "url": "/services/seo-service-uae",
+          "linktype": "url",
+          "cached_url": "services/seo-service-uae"
+        },
+        "content_blocks": [
+          {
+            "_uid": "local-seo-dubai-uae-guide-h-0",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Why local SEO matters in the UAE"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-b-0",
+            "component": "blog_body",
+            "content": "<p>When someone searches for a service in Dubai, Abu Dhabi, Sharjah or Ajman, Google often shows a map pack, local results and organic listings together. If your business is not visible in those places, competitors capture the enquiry.</p><p>Local SEO is not a one-time task. It combines your <strong>Google Business Profile</strong>, website structure, bilingual content, reviews and technical performance. UAE audiences search in both English and Arabic, often on mobile, so your local strategy must account for language, speed and trust signals.</p><p>IGENXT has helped UAE clients such as <a href=\"/case-studies/moduluxe-group\">Moduluxe Group</a> achieve measurable organic growth through bilingual SEO and performance-first web builds. The same principles apply whether you run a professional services firm, ecommerce store or childcare centre.</p>"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-h-1",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Google Business Profile essentials"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-b-1",
+            "component": "blog_body",
+            "content": "<p>Your Google Business Profile (GBP) is often the first impression for local searchers. Complete every section: business name, category, service areas, hours, photos and posts. Use consistent NAP (name, address, phone) data across your website and directories.</p><ul><li><strong>Categories:</strong> Choose primary and secondary categories that match how customers search.</li><li><strong>Service areas:</strong> List Dubai, Abu Dhabi and other emirates you serve if you do not have a public storefront.</li><li><strong>Reviews:</strong> Respond professionally to reviews. Authentic feedback builds trust.</li><li><strong>Posts and updates:</strong> Share offers, events and news to keep the profile active.</li></ul><p>Link your GBP to location pages on your website. Each emirate or neighbourhood you target deserves a dedicated, useful page rather than duplicate thin content.</p>"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-img-1",
+            "component": "blog_image",
+            "image": {
+              "filename": "/assets/blog/seo-banner.webp",
+              "alt": "Technical and local SEO for UAE websites"
+            },
+            "caption": "Local SEO combines Google Business Profile, on-site pages and technical performance.",
+            "width": "large",
+            "alignment": "center"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-h-2",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Bilingual and Arabic SEO"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-b-2",
+            "component": "blog_body",
+            "content": "<p>UAE local search is bilingual. Many users search in Arabic, many in English, and Google expects proper language signals. Build <strong>RTL-ready Arabic pages</strong> alongside English content, with correct <code>hreflang</code> tags and language switchers that preserve context.</p><p>Avoid machine-translated duplicate pages. Localised copy should reflect how customers in Dubai and Abu Dhabi actually describe your services. Arabic SEO also benefits from Arabic meta titles, headings and schema where appropriate.</p><p>Read our guide on <a href=\"/blog/bilingual-website-development-uae\">bilingual website development in the UAE</a> for implementation details.</p>"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-h-3",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Citations, directories and local links"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-b-3",
+            "component": "blog_body",
+            "content": "<p>Consistent business listings on reputable UAE and industry directories reinforce your location signals. Audit existing listings for outdated addresses or phone numbers. Prioritise quality over quantity.</p><p>Local partnerships, chamber memberships and case studies on regional sites can earn relevant links. Content that answers UAE-specific questions, such as payment gateways or free zone setup, naturally attracts links over time.</p>"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-h-4",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Measure what drives enquiries"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-b-4",
+            "component": "blog_body",
+            "content": "<p>Track calls, form submissions and qualified leads from organic and local search. Use Google Search Console, analytics and call tracking where appropriate. Rankings are a leading indicator; <strong>enquiries and revenue</strong> are the outcomes that matter.</p><p>IGENXT provides <a href=\"/services/seo-service-uae\">SEO services for Dubai and the UAE</a> with technical audits, local optimisation and ongoing reporting. <a href=\"/contact\">Book a free consultation</a> to review your current visibility.</p>"
+          }
+        ]
+      },
+      {
+        "_uid": "local-seo-dubai-uae-guide-faq",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about local SEO for UAE businesses.",
+        "initial_visible_count": 5,
+        "faqs": [
+          {
+            "_uid": "local-seo-dubai-uae-guide-faq-0",
+            "component": "faq_item",
+            "question": "How long does local SEO take to show results in Dubai?",
+            "answer": "Timelines vary by competition and starting point. Technical fixes and GBP optimisation can show movement within weeks. Sustainable organic growth typically builds over 3 to 6 months with consistent content and local signals.",
+            "category": "General"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-faq-1",
+            "component": "faq_item",
+            "question": "Do I need separate pages for Dubai and Abu Dhabi?",
+            "answer": "If you serve multiple emirates, dedicated location or service-area pages help users and search engines understand your coverage. Each page should offer unique, useful content rather than copy-pasted city names.",
+            "category": "General"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-faq-2",
+            "component": "faq_item",
+            "question": "Does IGENTX handle Arabic SEO?",
+            "answer": "Yes. We build bilingual Arabic and English websites with hreflang, RTL layout and localised on-page SEO. This supports ranking in both language markets across the UAE.",
+            "category": "General"
+          },
+          {
+            "_uid": "local-seo-dubai-uae-guide-faq-3",
+            "component": "faq_item",
+            "question": "What is the difference between local SEO and technical SEO?",
+            "answer": "Local SEO focuses on geographic visibility: GBP, citations, local content and map rankings. Technical SEO covers site speed, crawlability, schema and Core Web Vitals. Both are essential for UAE businesses.",
+            "category": "General"
+          }
+        ]
+      },
+      {
+        "_uid": "local-seo-dubai-uae-guide-cta",
+        "component": "igentx_cta_band",
+        "title": "Ready to grow local search visibility?",
+        "description": "Book a free consultation to review your Google Business Profile, website and local SEO opportunities in Dubai and the UAE.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View SEO Services",
+        "secondary_cta_link": {
+          "url": "/services/seo-service-uae",
+          "linktype": "url",
+          "cached_url": "services/seo-service-uae"
+        }
+      }
+    ]
+  }
+}

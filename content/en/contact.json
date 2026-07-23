@@ -1,0 +1,280 @@
+{
+  "slug": "contact",
+  "name": "contact",
+  "published_at": "2025-11-06T05:54:24.063Z",
+  "content": {
+    "_uid": "73ccdbe3-f5df-4257-b0ff-450de28c1aa7",
+    "body": [
+      {
+        "_uid": "eea2ac2b-aa94-450e-80cb-6cc7db34a7fa",
+        "title": "Contact IGENTX | Talk to Our Sales Team",
+        "author": "IGENTX Team",
+        "og_type": "website",
+        "keywords": "contact igentx, get a quote, web development agency, digital studio, igentx sales",
+        "og_image": {
+          "id": 105586839401422,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/images/contact.png",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "og_title": "Contact IGENTX | Get a Tailored Quote",
+        "component": "seo",
+        "publisher": "IGENTX",
+        "description": "Get a tailored quote for web development, ecommerce, branding, SEO, or software products. Our sales team responds within 24 hours. Global delivery with UAE expertise.",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/contact",
+        "canonical_utl": "https://igentx.com/contact",
+        "robots_follow": true,
+        "twitter_image": {
+          "id": 105586839401422,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/images/contact.png",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "twitter_title": "Contact IGENTX | Talk to Sales",
+        "article_author": "",
+        "og_description": "Tell us about your project: web, ecommerce, branding, SEO, or products. We will follow up with a tailored proposal.",
+        "articel_section": "contact",
+        "rebots_nosnippet": true,
+        "robots_noarchive": true,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Book a free consultation for a tailored quote. Global AI-accelerated digital studio with UAE expertise.",
+        "structured_data_type": "",
+        "article_modified_time": "",
+        "article_published_time": ""
+      },
+      {
+        "_uid": "aa598abf-a083-4fa3-9f24-3e7ce9e88df7",
+        "faqs": {
+          "_uid": "e627b1fc-3c8f-46c5-868c-d43138e59264",
+          "plugin": "faq_plugin",
+          "faqslist": []
+        },
+        "form": [
+          {
+            "_uid": "13c8b352-ce47-4e3b-9b5b-bee22a710cbc",
+            "title": "",
+            "component": "form",
+            "description": "",
+            "form_fields": [
+              {
+                "_uid": "a5620f1f-d656-4f1e-a11d-313d56e26444",
+                "label": "Full Name",
+                "options": "",
+                "field_id": "name",
+                "multiple": false,
+                "required": true,
+                "component": "form_field",
+                "help_text": "",
+                "max_value": "",
+                "min_value": "",
+                "field_type": "text",
+                "max_length": "",
+                "min_length": "",
+                "field_width": "half",
+                "placeholder": "Enter your name",
+                "autocomplete": "",
+                "default_value": "",
+                "validation_regex": "",
+                "validation_message": ""
+              },
+              {
+                "_uid": "a0448c14-9605-4329-afe7-3936adb08d9b",
+                "label": "Phone number",
+                "options": "",
+                "field_id": "phone",
+                "multiple": false,
+                "required": true,
+                "component": "form_field",
+                "help_text": "",
+                "max_value": "",
+                "min_value": "",
+                "field_type": "tel",
+                "max_length": "",
+                "min_length": "",
+                "field_width": "half",
+                "placeholder": "Enter your phone number",
+                "autocomplete": "",
+                "default_value": "",
+                "validation_regex": "",
+                "validation_message": ""
+              },
+              {
+                "_uid": "efac79cf-01df-4e13-a0cb-af5a366d7fff",
+                "label": "Email",
+                "options": "",
+                "field_id": "email",
+                "multiple": false,
+                "required": false,
+                "component": "form_field",
+                "help_text": "",
+                "max_value": "",
+                "min_value": "",
+                "field_type": "email",
+                "max_length": "",
+                "min_length": "",
+                "field_width": "full",
+                "placeholder": "Enter your email",
+                "autocomplete": "",
+                "default_value": "",
+                "validation_regex": "",
+                "validation_message": ""
+              },
+              {
+                "_uid": "15989a2a-da06-4a71-8d07-3ce7d65234e4",
+                "label": "Message",
+                "options": "",
+                "field_id": "message",
+                "multiple": false,
+                "required": false,
+                "component": "form_field",
+                "help_text": "",
+                "max_value": "",
+                "min_value": "",
+                "field_type": "textarea",
+                "max_length": "",
+                "min_length": "",
+                "field_width": "full",
+                "placeholder": "Enter your message",
+                "autocomplete": "",
+                "default_value": "",
+                "validation_regex": "",
+                "validation_message": ""
+              }
+            ],
+            "sender_name": "IGENTX Contact Form",
+            "sender_email": "contact_form@igentx.cloud",
+            "email_subject": "Contact Form Submission from: Igentx.com",
+            "error_message": "Something went wrong. Please try again.",
+            "recipient_email": "contact_form@igentx.cloud",
+            "success_message": "Thank you! We will get back to you within 24 hours.",
+            "submit_button_text": "Send Message",
+            "email_body_description": "You got a contact from www.igentx.com"
+          }
+        ],
+        "title": "Book a Free Consultation",
+        "show_map": false,
+        "component": "contact_page",
+        "badge_text": "Start Your Conversation",
+        "description": "Tell us about your project. We will connect you with the right specialist and follow up within 24 hours with a tailored proposal.",
+        "contact_cards": [
+          {
+            "_uid": "787646ad-1e53-4e08-8977-44bafb7b0993",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "type": "whatsapp",
+            "label": "WhatsApp",
+            "value": "+919995104422",
+            "map_link": "",
+            "subtitle": "Instant replies, available 24/7.",
+            "component": "contact_card",
+            "highlight": true,
+            "show_value": false,
+            "whatsapp_message": "Hello! I would like to inquire about your services."
+          },
+          {
+            "_uid": "c4d37608-8a32-4646-85b1-eea8793fcbb2",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "type": "email",
+            "label": "Email us",
+            "value": "hello@igentx.com",
+            "map_link": "",
+            "subtitle": "For detailed inquiries or proposals.",
+            "component": "contact_card",
+            "highlight": false,
+            "show_value": true,
+            "whatsapp_message": ""
+          }
+        ],
+        "map_embed_url": "",
+        "additional_info": "",
+        "faq_section_title": "Common Questions",
+        "map_section_title": "Find Us",
+        "form_section_title": "Send Us a Message",
+        "contact_cards_title": "Contact Information",
+        "faq_section_description": "",
+        "form_section_description": "Share your goals and we will help you find the right path forward."
+      },
+      {
+        "_uid": "contact-faq-block-001",
+        "component": "faq",
+        "faq_title": "Contact Questions",
+        "faq_description": "Quick answers about reaching our team, response times, and how to get started with IGENTX.",
+        "initial_visible_count": 10,
+        "faqs": [
+          {
+            "_uid": "contact-faq-001",
+            "component": "faq_item",
+            "question": "How quickly will you respond?",
+            "answer": "We aim to respond within 24 hours on business days. WhatsApp enquiries often receive a faster reply. For urgent projects, mention your timeline in your message and we will prioritise accordingly.",
+            "category": "Contact"
+          },
+          {
+            "_uid": "contact-faq-002",
+            "component": "faq_item",
+            "question": "What should I include in my message?",
+            "answer": "A brief overview of your business, what you want to achieve, your timeline, and any budget range you have in mind. The more context you share, the more tailored our proposal will be. Links to your current website or references you admire are also helpful.",
+            "category": "Contact"
+          },
+          {
+            "_uid": "contact-faq-003",
+            "component": "faq_item",
+            "question": "Do you work with UAE and international clients?",
+            "answer": "Yes. The UAE is our primary market, but we deliver projects globally. We support bilingual English and Arabic websites, local SEO for the UAE, and international payment and hosting setups. Distance is not a barrier to a smooth delivery process.",
+            "category": "Contact"
+          },
+          {
+            "_uid": "contact-faq-004",
+            "component": "faq_item",
+            "question": "Is the consultation really free?",
+            "answer": "Yes. The initial consultation is free with no obligation. We will discuss your goals, suggest a practical approach, and share a tailored proposal if there is a good fit. There is no pressure to proceed.",
+            "category": "Contact"
+          },
+          {
+            "_uid": "contact-faq-005",
+            "component": "faq_item",
+            "question": "Can I reach you on WhatsApp?",
+            "answer": "Yes. WhatsApp is our fastest channel for quick questions and initial enquiries. Use the WhatsApp card on this page to start a conversation. For detailed proposals or document sharing, email works well too.",
+            "category": "Contact"
+          }
+        ]
+      }
+    ],
+    "component": "page"
+  }
+}

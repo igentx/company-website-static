@@ -1,0 +1,321 @@
+{
+  "slug": "services/ecommerce-website-development-uae",
+  "name": "Ecommerce Website Development UAE",
+  "published_at": "2025-11-11T15:41:32.745Z",
+  "content": {
+    "_uid": "c58add80-0ed9-43c4-8506-b65de7b8d54b",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "2a8b5e16-2daf-4719-81e6-2638ef51059c",
+        "component": "seo",
+        "title": "Ecommerce Development in UAE | Headless & Platform Stores | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "website",
+        "keywords": "ecommerce development UAE, online store Dubai, Shopify UAE, headless ecommerce Dubai, payment gateway UAE",
+        "og_image": {
+          "filename": "/assets/blog/ecommerce-og.webp",
+          "alt": "Ecommerce development in the UAE by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "Ecommerce Website Development in UAE | IGENTX",
+        "publisher": "IGENTX",
+        "description": "Ecommerce development for UAE retailers: local payment gateways, Arabic and English storefronts, Shopify, WooCommerce, or custom Next.js.",
+        "article_tags": "ecommerce website UAE, Shopify development Dubai, WooCommerce UAE, payment gateway integration, online store UAE",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/services/ecommerce-website-development-uae",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/blog/ecommerce-og.webp",
+          "alt": "Ecommerce development in the UAE by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "Ecommerce Development UAE | IGENTX",
+        "article_author": "IGENTX",
+        "og_description": "Build high-performing ecommerce stores in the UAE with IGENTX. Shopify, WooCommerce, local payment gateways and bilingual checkout experiences.",
+        "article_section": "Ecommerce Development",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Ecommerce stores for UAE retailers: Shopify, WooCommerce, local payments and Arabic catalogues with secure checkout.",
+        "structured_data_type": "Service",
+        "article_published_time": "2025-10-27 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Ecommerce Website Development in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"description\": \"Ecommerce development for UAE retailers including local payment gateways, bilingual storefronts and platform or headless builds.\"\n}"
+      },
+      {
+        "_uid": "cdeb8dd5-68f0-40f1-9486-7cedacae01be",
+        "component": "service_hero",
+        "badge_text": "IGENTX Service · UAE",
+        "title": "Online stores built for UAE shoppers",
+        "summary": "Ecommerce for UAE retailers: Tabby, Telr, Stripe, bilingual Arabic and English checkout, COD-friendly flows and headless architecture built to sell.",
+        "category": "Ecommerce Development in UAE",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "duration": "From 2 weeks",
+        "back_link": {
+          "url": "/services",
+          "linktype": "url",
+          "cached_url": "services"
+        },
+        "back_link_label": "Back to Services",
+        "featured_image": {
+          "filename": "/assets/blog/ecommerce-banner.webp",
+          "alt": "Ecommerce development in the UAE",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "UAE payment gateway integration\nBilingual Arabic and English catalogues\nShopify, WooCommerce and headless builds\nSEO, analytics and conversion optimisation",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "ecom-uae-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "UAE Commerce Partner",
+        "title": "Ecommerce engineered for UAE markets",
+        "description": "We combine platform expertise with modern front-end engineering so your UAE store loads fast, accepts local payments and converts on mobile.",
+        "partner_logos": [
+          {
+            "_uid": "ecom-uae-p-shopify",
+            "component": "trust_band_partner",
+            "name": "Shopify",
+            "icon": {
+              "filename": "/assets/icons/shopify.svg",
+              "alt": "Shopify"
+            }
+          },
+          {
+            "_uid": "ecom-uae-p-bigcommerce",
+            "component": "trust_band_partner",
+            "name": "BigCommerce",
+            "icon": {
+              "filename": "/assets/icons/bigcommerce.svg",
+              "alt": "BigCommerce"
+            }
+          },
+          {
+            "_uid": "ecom-uae-p-woocommerce",
+            "component": "trust_band_partner",
+            "name": "WooCommerce",
+            "icon": {
+              "filename": "/assets/icons/woocommerce.svg",
+              "alt": "WooCommerce"
+            }
+          },
+          {
+            "_uid": "ecom-uae-p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "ecom-uae-m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built",
+            "description": "Tailored storefronts for UAE retailers",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "ecom-uae-m2",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "ecom-uae-m3",
+            "component": "trust_band_metric",
+            "value": "EN + AR",
+            "label": "Bilingual Stores",
+            "description": "Arabic catalogues and checkout",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "ecom-uae-m4",
+            "component": "trust_band_metric",
+            "value": "Fast",
+            "label": "Core Web Vitals",
+            "description": "Mobile-first checkout experiences",
+            "icon_key": "layers"
+          }
+        ]
+      },
+      {
+        "_uid": "ecom-uae-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "What We Build",
+        "title": "Commerce experiences for the Emirates",
+        "description": "From Shopify launches to headless storefronts, we scope UAE ecommerce around your catalogue, payment needs and growth plans.",
+        "features": [
+          {
+            "_uid": "ecom-uae-f1",
+            "component": "differentiator_feature",
+            "title": "UAE Payment Gateways",
+            "highlight": "Local checkout",
+            "description": "Tabby, Telr, Stripe, Apple Pay and card payments with Arabic checkout flows and COD options where required.",
+            "icon": {
+              "filename": "/assets/icons/api-integrations-icon.svg",
+              "alt": "UAE payment gateways",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-uae-f2",
+            "component": "differentiator_feature",
+            "title": "Bilingual Storefronts",
+            "highlight": "Arabic and English",
+            "description": "Localised product catalogues, RTL layouts and currency display for UAE and GCC shoppers.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Bilingual ecommerce",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-uae-f3",
+            "component": "differentiator_feature",
+            "title": "Shopify Development",
+            "highlight": "Fast to market",
+            "description": "Custom Shopify themes and app integrations for UAE retailers who need a proven platform with a strong app ecosystem.",
+            "icon": {
+              "filename": "/assets/icons/shopify.svg",
+              "alt": "Shopify development",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-uae-f4",
+            "component": "differentiator_feature",
+            "title": "Headless Storefronts",
+            "highlight": "Maximum performance",
+            "description": "Custom Next.js storefronts connected to commerce APIs for design freedom and fast Core Web Vitals in the UAE.",
+            "icon": {
+              "filename": "/assets/icons/headless-cms-icon.svg",
+              "alt": "Headless storefronts",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-uae-f5",
+            "component": "differentiator_feature",
+            "title": "Shipping and COD",
+            "highlight": "UAE logistics norms",
+            "description": "Checkout flows scoped for local delivery partners, cash on delivery and Emirates-wide shipping rules.",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Shipping and COD",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-uae-f6",
+            "component": "differentiator_feature",
+            "title": "SEO and Conversion",
+            "highlight": "More qualified traffic",
+            "description": "Technical SEO, structured data, analytics and CRO-focused layouts for UAE search and mobile shoppers.",
+            "icon": {
+              "filename": "/assets/icons/google-analytics-icon.svg",
+              "alt": "SEO and conversion",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "ecom-uae-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to build a UAE online store that converts?",
+        "description": "Book a free consultation to discuss your catalogue, platform options, UAE payment integrations and launch timeline.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View Case Studies",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
+      },
+      {
+        "_uid": "ecom-uae-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about ecommerce development in the UAE, platforms, local payments and timelines.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "ecom-uae-faq-q1",
+            "component": "faq_item",
+            "question": "What ecommerce platforms do you build for UAE retailers?",
+            "answer": "We work with Shopify, WooCommerce, BigCommerce and custom headless storefronts using Next.js. Platform choice depends on your catalogue size, UAE payment needs and growth plans.",
+            "category": "General"
+          },
+          {
+            "_uid": "ecom-uae-faq-q2",
+            "component": "faq_item",
+            "question": "Can you integrate UAE payment gateways?",
+            "answer": "Yes. We integrate Tabby, Telr, Stripe, Apple Pay and other gateways required for UAE checkout. Flows are tested on mobile devices before launch.",
+            "category": "Payments"
+          },
+          {
+            "_uid": "ecom-uae-faq-q3",
+            "component": "faq_item",
+            "question": "Do you build bilingual Arabic and English stores?",
+            "answer": "Yes. We build bilingual storefronts with localised product content, RTL layouts and SEO-friendly URL structures for UAE and GCC audiences.",
+            "category": "General"
+          },
+          {
+            "_uid": "ecom-uae-faq-q4",
+            "component": "faq_item",
+            "question": "Do you support cash on delivery?",
+            "answer": "Yes. We can scope checkout flows that support COD and local delivery rules common in the UAE ecommerce market.",
+            "category": "Payments"
+          },
+          {
+            "_uid": "ecom-uae-faq-q5",
+            "component": "faq_item",
+            "question": "How long does UAE ecommerce development take?",
+            "answer": "A focused Shopify or WooCommerce store often takes 3-6 weeks depending on catalogue size and integrations. Headless builds typically take 6-10 weeks. We provide a realistic timeline after discovery.",
+            "category": "Process"
+          },
+          {
+            "_uid": "ecom-uae-faq-q6",
+            "component": "faq_item",
+            "question": "Can you migrate my existing UAE online store?",
+            "answer": "Yes. We migrate stores to modern platforms or headless architectures with URL redirects and SEO preservation where possible.",
+            "category": "Process"
+          },
+          {
+            "_uid": "ecom-uae-faq-q7",
+            "component": "faq_item",
+            "question": "Do you also build ecommerce for global markets?",
+            "answer": "Yes. IGENTX delivers ecommerce worldwide as well as in the UAE. See our global ecommerce development page for international projects.",
+            "category": "General"
+          },
+          {
+            "_uid": "ecom-uae-faq-q8",
+            "component": "faq_item",
+            "question": "Do you provide maintenance after launch?",
+            "answer": "Yes. We offer ongoing support covering security updates, catalogue changes, performance monitoring and conversion improvements.",
+            "category": "Support"
+          }
+        ]
+      }
+    ]
+  }
+}

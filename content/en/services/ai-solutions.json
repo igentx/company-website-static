@@ -1,0 +1,311 @@
+{
+  "slug": "services/ai-solutions",
+  "name": "AI Solutions",
+  "published_at": "2026-07-23T00:00:00.000Z",
+  "content": {
+    "_uid": "ai-svc-page-root",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "ai-svc-seo-001",
+        "component": "seo",
+        "title": "AI Solutions & Custom AI Integration | IGENTX",
+        "description": "Custom AI solutions for business automation: RAG assistants, workflow automation, intelligent features and product integrations. Delivered globally for growing businesses.",
+        "keywords": "AI solutions, custom AI integration, RAG chatbot, workflow automation, AI development",
+        "canonical_url": "https://www.igentx.com/services/ai-solutions",
+        "robots_index": true,
+        "robots_follow": true,
+        "og_type": "website",
+        "og_title": "AI Solutions | IGENTX",
+        "og_description": "Practical AI integrations that automate support, qualify leads and save time. Custom builds and productised solutions from IGENTX.",
+        "og_image": {
+          "filename": "/assets/images/ai-solutions.webp",
+          "alt": "AI solutions by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_card_type": "summary_large_image",
+        "twitter_title": "AI Solutions | IGENTX",
+        "twitter_description": "Custom AI integrations: RAG assistants, workflow automation and intelligent features trained on your business content.",
+        "twitter_image": {
+          "filename": "/assets/images/ai-solutions.webp",
+          "alt": "AI solutions by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "structured_data_type": "Service",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"AI Solutions and Integration\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"Custom AI solutions including RAG assistants, workflow automation and intelligent product features.\"\n}"
+      },
+      {
+        "_uid": "ai-svc-hero-001",
+        "component": "service_hero",
+        "badge_text": "IGENTX Service",
+        "title": "Custom AI solutions that automate work and capture more leads",
+        "summary": "From RAG-powered assistants and workflow automation to intelligent product features, IGENTX helps businesses deploy practical AI that reduces workload, qualifies leads and improves customer experiences. We build custom integrations and productised solutions to match your goals.",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "back_link": {
+          "url": "/services",
+          "linktype": "url",
+          "cached_url": "services"
+        },
+        "back_link_label": "Back to Services",
+        "featured_image": {
+          "filename": "/assets/images/ai-solutions.webp",
+          "alt": "AI solutions",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "RAG assistants trained on your content\nWorkflow and process automation\nMultilingual customer experiences\nCustom AI features for web and internal tools",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "ai-svc-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "AI Integration Partner",
+        "title": "Practical AI built for business outcomes",
+        "description": "We focus on deployable AI that drives measurable results: faster responses, better lead qualification and reduced operational overhead.",
+        "partner_logos": [
+          {
+            "_uid": "ai-p-openai",
+            "component": "trust_band_partner",
+            "name": "OpenAI",
+            "icon": {
+              "filename": "/assets/icons/openai-icon.svg",
+              "alt": "OpenAI"
+            }
+          },
+          {
+            "_uid": "ai-p-claude",
+            "component": "trust_band_partner",
+            "name": "Claude",
+            "icon": {
+              "filename": "/assets/icons/claude-icon.svg",
+              "alt": "Claude"
+            }
+          },
+          {
+            "_uid": "ai-p-gemini",
+            "component": "trust_band_partner",
+            "name": "Gemini",
+            "icon": {
+              "filename": "/assets/icons/gemini-icon.svg",
+              "alt": "Gemini"
+            }
+          },
+          {
+            "_uid": "ai-p-rag",
+            "component": "trust_band_partner",
+            "name": "RAG",
+            "icon": {
+              "filename": "/assets/icons/rag-icon.svg",
+              "alt": "RAG"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "ai-m1",
+            "component": "trust_band_metric",
+            "value": "24/7",
+            "label": "Automation",
+            "description": "Always-on AI assistance",
+            "icon_key": "support"
+          },
+          {
+            "_uid": "ai-m2",
+            "component": "trust_band_metric",
+            "value": "Multi",
+            "label": "Multilingual",
+            "description": "Replies in preferred languages",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "ai-m3",
+            "component": "trust_band_metric",
+            "value": "RAG",
+            "label": "Grounded Answers",
+            "description": "Trained on your business content",
+            "icon_key": "chat"
+          },
+          {
+            "_uid": "ai-m4",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built",
+            "description": "Tailored to your workflows",
+            "icon_key": "custom"
+          }
+        ]
+      },
+      {
+        "_uid": "ai-svc-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "AI Capabilities",
+        "title": "What we deliver with AI",
+        "description": "Custom AI integrations and productised solutions designed to improve efficiency, customer experience and conversion across your digital channels.",
+        "features": [
+          {
+            "_uid": "ai-f1",
+            "component": "differentiator_feature",
+            "title": "RAG Knowledge Assistants",
+            "highlight": "Your content, instant answers",
+            "description": "Assistants trained on your website, documents and FAQs using retrieval-augmented generation for accurate, grounded responses.",
+            "icon": {
+              "filename": "/assets/icons/ai-chat.svg",
+              "alt": "RAG assistants",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ai-f2",
+            "component": "differentiator_feature",
+            "title": "Workflow Automation",
+            "highlight": "Save team hours",
+            "description": "Automate repetitive tasks, enquiry routing and internal workflows with AI-powered integrations across your tools.",
+            "icon": {
+              "filename": "/assets/icons/ai-workflows-icon.svg",
+              "alt": "Workflow automation",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ai-f3",
+            "component": "differentiator_feature",
+            "title": "Lead Qualification",
+            "highlight": "More conversions",
+            "description": "Capture and qualify enquiries automatically so your team focuses on high-intent opportunities.",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Lead qualification",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ai-f4",
+            "component": "differentiator_feature",
+            "title": "Multilingual Experiences",
+            "highlight": "Global reach",
+            "description": "Deploy AI that supports multilingual conversations for diverse local and international audiences.",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Multilingual AI",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ai-f5",
+            "component": "differentiator_feature",
+            "title": "Custom Product Features",
+            "highlight": "Built into your app",
+            "description": "Intelligent search, recommendations, document processing and domain-specific AI features embedded in your web or internal platforms.",
+            "icon": {
+              "filename": "/assets/icons/ai-powered.svg",
+              "alt": "Custom AI features",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ai-f6",
+            "component": "differentiator_feature",
+            "title": "AI Customer Service Agent",
+            "highlight": "Ready-to-deploy product",
+            "description": "Our productised website assistant deploys in minutes with one-line integration. Explore the AI Customer Service Agent for 24/7 support and lead capture.",
+            "icon": {
+              "filename": "/assets/icons/ai-agent-feature.svg",
+              "alt": "AI Customer Service Agent",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "ai-svc-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to explore custom AI for your business?",
+        "description": "Book a free consultation to scope custom AI integrations, or explore our AI Customer Service Agent for a fast, productised starting point on your website.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View AI Customer Service Agent",
+        "secondary_cta_link": {
+          "url": "products/ai-customer-service-agent",
+          "linktype": "url",
+          "cached_url": "products/ai-customer-service-agent"
+        }
+      },
+      {
+        "_uid": "ai-svc-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about custom AI solutions, integration, security and how we work with productised offerings.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "ai-faq-q1",
+            "component": "faq_item",
+            "question": "What AI solutions does IGENTX offer?",
+            "answer": "We offer custom AI integrations including RAG assistants, workflow automation, intelligent product features and API-connected AI workflows. We also provide the AI Customer Service Agent as a ready-to-deploy product for website support and lead capture.",
+            "category": "General"
+          },
+          {
+            "_uid": "ai-faq-q2",
+            "component": "faq_item",
+            "question": "What is the difference between custom AI and your AI Customer Service Agent product?",
+            "answer": "The AI Customer Service Agent is a productised website assistant with one-line integration, ideal for 24/7 support and lead capture. Custom AI solutions are scoped to your specific workflows, internal tools, data sources and product requirements. Many clients start with the product and expand into custom integrations as needs grow.",
+            "category": "General"
+          },
+          {
+            "_uid": "ai-faq-q3",
+            "component": "faq_item",
+            "question": "How does RAG work for business AI assistants?",
+            "answer": "Retrieval-augmented generation indexes your pages, PDFs, service lists and documents. When a user asks a question, the system retrieves relevant content and generates a grounded response. You control the knowledge base and can update it as your business evolves.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "ai-faq-q4",
+            "component": "faq_item",
+            "question": "Is your AI multilingual?",
+            "answer": "Yes. We build and deploy multilingual AI experiences so visitors and users can get accurate responses in their preferred language. This is valuable for global businesses and teams serving diverse audiences.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "ai-faq-q5",
+            "component": "faq_item",
+            "question": "Can AI integrate with our existing website or internal tools?",
+            "answer": "Yes. We integrate AI into websites, customer portals, CRMs and internal dashboards through APIs, webhooks and embedded components. Integration scope depends on your stack and security requirements.",
+            "category": "Integration"
+          },
+          {
+            "_uid": "ai-faq-q6",
+            "component": "faq_item",
+            "question": "How long does a custom AI project take?",
+            "answer": "Productised deployments like the AI Customer Service Agent can be live in under 30 minutes. Custom integrations vary by scope: focused assistants often take 2-4 weeks, while larger workflow automation or product features may take longer. We provide timelines after discovery.",
+            "category": "Process"
+          },
+          {
+            "_uid": "ai-faq-q7",
+            "component": "faq_item",
+            "question": "Is AI safe and secure to use?",
+            "answer": "We implement secure authentication, domain restrictions and privacy-conscious data handling appropriate to each deployment. For the AI Customer Service Agent, JWT and domain protection help secure the widget. Custom projects follow your compliance and access requirements.",
+            "category": "Security"
+          },
+          {
+            "_uid": "ai-faq-q8",
+            "component": "faq_item",
+            "question": "Do you provide ongoing AI support and optimisation?",
+            "answer": "Yes. We support knowledge base updates, conversation review, prompt tuning, new integrations and performance monitoring. Ongoing care helps AI stay accurate as your offerings and policies change.",
+            "category": "Support"
+          }
+        ]
+      }
+    ]
+  }
+}

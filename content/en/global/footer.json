@@ -1,0 +1,349 @@
+{
+  "slug": "global/footer",
+  "name": "Footer",
+  "published_at": "2025-10-27T13:25:56.693Z",
+  "content": {
+    "_uid": "5655eec7-3403-492a-97f2-434158c73392",
+    "global": [
+      {
+        "_uid": "b94bb46a-19b4-4f7e-b2bf-720c972cddfa",
+        "component": "footer_content",
+        "brand_logo": {
+          "id": 103834468851321,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/logos/igentx-logo-01.svg",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "brand_name": " ",
+        "newsletter": [],
+        "description": "AI-first technology company for web development, ecommerce, branding, SEO and software products. Serving businesses worldwide with deep experience in the UAE.",
+        "legal_links": [
+          {
+            "_uid": "da927ac6-ead3-466d-8d59-e1ad85e62857",
+            "link": {
+              "id": "",
+              "url": "privacy",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "privacy"
+            },
+            "label": "Privacy Policy",
+            "component": "footer_links"
+          },
+          {
+            "_uid": "53f2fda6-db2f-47c2-bd71-56399140ccf1",
+            "link": {
+              "id": "",
+              "url": "terms",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "terms"
+            },
+            "label": "Terms of Service",
+            "component": "footer_links"
+          }
+        ],
+        "link_groups": [
+          {
+            "_uid": "fg-products",
+            "component": "footer_link_group",
+            "title": "Products",
+            "links": [
+              {
+                "_uid": "fl-DaycareMate",
+                "component": "footer_links",
+                "label": "DaycareMate",
+                "link": {
+                  "id": "",
+                  "url": "products/daycaremate",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "products/daycaremate"
+                }
+              },
+              {
+                "_uid": "fl-AI Customer Service Agent",
+                "component": "footer_links",
+                "label": "AI Customer Service Agent",
+                "link": {
+                  "id": "",
+                  "url": "products/ai-customer-service-agent",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "products/ai-customer-service-agent"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fg-services",
+            "component": "footer_link_group",
+            "title": "Services",
+            "links": [
+              {
+                "_uid": "fl-uae-hub",
+                "component": "footer_links",
+                "label": "UAE Hub",
+                "link": {
+                  "id": "",
+                  "url": "/uae",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "uae"
+                }
+              },
+              {
+                "_uid": "fl-Custom Software",
+                "component": "footer_links",
+                "label": "Custom Software",
+                "link": {
+                  "id": "",
+                  "url": "services/custom-software-development",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "services/custom-software-development"
+                }
+              },
+              {
+                "_uid": "fl-Web Development",
+                "component": "footer_links",
+                "label": "Web Development",
+                "link": {
+                  "id": "",
+                  "url": "services/web-development",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "services/web-development"
+                }
+              },
+              {
+                "_uid": "fl-AI Solutions",
+                "component": "footer_links",
+                "label": "AI Solutions",
+                "link": {
+                  "id": "",
+                  "url": "services/ai-solutions",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "services/ai-solutions"
+                }
+              },
+              {
+                "_uid": "fl-Ecommerce Development",
+                "component": "footer_links",
+                "label": "Ecommerce Development",
+                "link": {
+                  "id": "",
+                  "url": "services/ecommerce-development",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "services/ecommerce-development"
+                }
+              },
+              {
+                "_uid": "fl-SEO",
+                "component": "footer_links",
+                "label": "SEO",
+                "link": {
+                  "id": "",
+                  "url": "services/seo",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "services/seo"
+                }
+              },
+              {
+                "_uid": "fl-Branding",
+                "component": "footer_links",
+                "label": "Branding",
+                "link": {
+                  "id": "",
+                  "url": "services/branding-graphic-design",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "services/branding-graphic-design"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fg-industries",
+            "component": "footer_link_group",
+            "title": "Industries",
+            "links": [
+              {
+                "_uid": "fl-Retail & Ecommerce",
+                "component": "footer_links",
+                "label": "Retail & Ecommerce",
+                "link": {
+                  "id": "",
+                  "url": "services/ecommerce-development",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "services/ecommerce-development"
+                }
+              },
+              {
+                "_uid": "fl-Education & Childcare",
+                "component": "footer_links",
+                "label": "Education & Childcare",
+                "link": {
+                  "id": "",
+                  "url": "products/daycaremate",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "products/daycaremate"
+                }
+              },
+              {
+                "_uid": "fl-Real Estate",
+                "component": "footer_links",
+                "label": "Real Estate",
+                "link": {
+                  "id": "",
+                  "url": "case-studies",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "case-studies"
+                }
+              },
+              {
+                "_uid": "fl-Professional Services",
+                "component": "footer_links",
+                "label": "Professional Services",
+                "link": {
+                  "id": "",
+                  "url": "services/web-development",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "services/web-development"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fg-resources",
+            "component": "footer_link_group",
+            "title": "Resources",
+            "links": [
+              {
+                "_uid": "fl-Blog",
+                "component": "footer_links",
+                "label": "Blog",
+                "link": {
+                  "id": "",
+                  "url": "blog",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": ""
+                }
+              },
+              {
+                "_uid": "fl-Case Studies",
+                "component": "footer_links",
+                "label": "Case Studies",
+                "link": {
+                  "id": "",
+                  "url": "case-studies",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": ""
+                }
+              },
+              {
+                "_uid": "fl-Contact",
+                "component": "footer_links",
+                "label": "Contact",
+                "link": {
+                  "id": "",
+                  "url": "contact",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": ""
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fg-company",
+            "component": "footer_link_group",
+            "title": "Company",
+            "links": [
+              {
+                "_uid": "fl-Contact",
+                "component": "footer_links",
+                "label": "Contact",
+                "link": {
+                  "id": "",
+                  "url": "contact",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": ""
+                }
+              }
+            ]
+          }
+        ],
+        "contact_info": [
+          {
+            "_uid": "41edf7bd-9b44-45b8-9a31-15643839d423",
+            "email": "hello@igentx.com",
+            "hours": "Sun–Thu: 9:00 AM – 6:00 PM (GST)",
+            "address": "Abu Dhabi, UAE",
+            "map_url": "",
+            "whatsapp": "+919995104422",
+            "component": "footer_contact_info"
+          }
+        ],
+        "footer_links": [],
+        "social_links": [
+          {
+            "url": "https://www.instagram.com/igentx/",
+            "_uid": "3929d041-e9fe-4b43-b666-431028aff159",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "platform": "instagram",
+            "component": "social_links"
+          },
+          {
+            "url": "https://www.facebook.com/profile.php?id=61583087242385",
+            "_uid": "edb89ee3-f390-4086-924d-e99ca766e245",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "platform": "facebook",
+            "component": "social_links"
+          }
+        ],
+        "copyright_text": "© 2025 IGENTX. All rights reserved."
+      }
+    ],
+    "component": "global"
+  }
+}

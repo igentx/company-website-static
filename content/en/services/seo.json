@@ -1,0 +1,318 @@
+{
+  "slug": "services/seo",
+  "name": "SEO Services",
+  "published_at": "2026-07-23T00:00:00.000Z",
+  "content": {
+    "_uid": "seo-page-root",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "seo-seo-001",
+        "component": "seo",
+        "title": "SEO Services | Technical & Content SEO | IGENTX",
+        "description": "Technical SEO, content strategy and performance reporting for measurable organic growth. Global SEO engagements scoped to your site, markets and goals.",
+        "keywords": "SEO agency, technical SEO, content strategy, search engine optimisation, local SEO",
+        "canonical_url": "https://www.igentx.com/services/seo",
+        "robots_index": true,
+        "robots_follow": true,
+        "og_type": "website",
+        "og_title": "SEO & Growth Services | IGENTX",
+        "og_description": "Rank higher and grow faster with IGENTX. Technical audits, on-page optimisation, content strategy and monthly reporting tailored to your markets.",
+        "og_image": {
+          "filename": "/assets/images/seo-and-growth.webp",
+          "alt": "SEO and growth services by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_card_type": "summary_large_image",
+        "twitter_title": "SEO Services | IGENTX",
+        "twitter_description": "SEO that improves rankings and qualified traffic: technical, on-page and content strategy from IGENTX.",
+        "twitter_image": {
+          "filename": "/assets/images/seo-and-growth.webp",
+          "alt": "SEO and growth services by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "structured_data_type": "Service",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Search Engine Optimisation\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"Technical SEO, content strategy, local SEO and performance reporting for measurable organic growth.\"\n}"
+      },
+      {
+        "_uid": "seo-hero-001",
+        "component": "service_hero",
+        "badge_text": "IGENTX Service",
+        "title": "SEO that drives qualified traffic and measurable growth",
+        "summary": "Great products stay invisible when search engines cannot crawl, index or rank your site effectively. We deliver technical SEO, content strategy and ongoing optimisation so you capture more qualified visitors and convert them into leads.",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "back_link": {
+          "url": "/services",
+          "linktype": "url",
+          "cached_url": "services"
+        },
+        "back_link_label": "Back to Services",
+        "featured_image": {
+          "filename": "/assets/images/seo-and-growth.webp",
+          "alt": "SEO and growth services",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "Technical SEO audits and fixes\nOn-page optimisation and schema markup\nContent strategy and keyword planning\nLocal and international SEO reporting",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "seo-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Growth Partner",
+        "title": "Search visibility built on technical foundations",
+        "description": "We focus on SEO that compounds over time: fix crawlability, improve page experience, target the right keywords and report on traffic that actually converts.",
+        "partner_logos": [
+          {
+            "_uid": "seo-p-gsc",
+            "component": "trust_band_partner",
+            "name": "Search Console",
+            "icon": {
+              "filename": "/assets/icons/google-search-console-icon.svg",
+              "alt": "Google Search Console"
+            }
+          },
+          {
+            "_uid": "seo-p-ga",
+            "component": "trust_band_partner",
+            "name": "Analytics",
+            "icon": {
+              "filename": "/assets/icons/google-analytics-icon.svg",
+              "alt": "Google Analytics"
+            }
+          },
+          {
+            "_uid": "seo-p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "seo-p-seo",
+            "component": "trust_band_partner",
+            "name": "SEO-First",
+            "icon": {
+              "filename": "/assets/icons/seo-first.svg",
+              "alt": "SEO-first development"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "seo-m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Data-Led",
+            "description": "Decisions backed by analytics and audits",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "seo-m2",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "seo-m3",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Markets",
+            "description": "Local and international SEO support",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "seo-m4",
+            "component": "trust_band_metric",
+            "value": "Monthly",
+            "label": "Reporting",
+            "description": "Transparent progress and next steps",
+            "icon_key": "layers"
+          }
+        ]
+      },
+      {
+        "_uid": "seo-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "SEO Capabilities",
+        "title": "Growth programmes that compound",
+        "description": "From technical foundations to content and authority building, we scope SEO engagements around your site, competition and business goals.",
+        "features": [
+          {
+            "_uid": "seo-f1",
+            "component": "differentiator_feature",
+            "title": "Technical SEO Audits",
+            "highlight": "Fix what blocks rankings",
+            "description": "Crawlability, indexing, site architecture, Core Web Vitals and structured data fixes so search engines can understand and rank your pages.",
+            "icon": {
+              "filename": "/assets/icons/seo-first.svg",
+              "alt": "Technical SEO",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-f2",
+            "component": "differentiator_feature",
+            "title": "On-Page Optimisation",
+            "highlight": "Pages that rank",
+            "description": "Title tags, meta descriptions, heading structure, internal linking and schema markup aligned to target keywords and user intent.",
+            "icon": {
+              "filename": "/assets/icons/google-search-console-icon.svg",
+              "alt": "On-page SEO",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-f3",
+            "component": "differentiator_feature",
+            "title": "Content Strategy",
+            "highlight": "Topics that convert",
+            "description": "Keyword research, content gaps, landing page briefs and editorial planning focused on qualified traffic, not vanity rankings.",
+            "icon": {
+              "filename": "/assets/icons/headless-cms-icon.svg",
+              "alt": "Content strategy",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-f4",
+            "component": "differentiator_feature",
+            "title": "Local SEO",
+            "highlight": "Regional visibility",
+            "description": "Google Business Profile optimisation, local citations, location pages and schema for businesses targeting specific cities and regions.",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Local SEO",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-f5",
+            "component": "differentiator_feature",
+            "title": "International SEO",
+            "highlight": "Multilingual reach",
+            "description": "Hreflang, multilingual URL structures and market-specific content so you rank across regions without duplicate content issues.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "International SEO",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "seo-f6",
+            "component": "differentiator_feature",
+            "title": "Reporting & Analytics",
+            "highlight": "Measure what matters",
+            "description": "Monthly reports on rankings, traffic, conversions and technical health with clear priorities for the next optimisation cycle.",
+            "icon": {
+              "filename": "/assets/icons/google-analytics-icon.svg",
+              "alt": "SEO reporting",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "seo-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to improve your search visibility?",
+        "description": "Book a free consultation for an SEO audit overview, keyword opportunities and a realistic growth plan for your site and markets.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View Case Studies",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
+      },
+      {
+        "_uid": "seo-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about SEO services, timelines, technical work and how we measure growth.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "seo-faq-q1",
+            "component": "faq_item",
+            "question": "What SEO services does IGENTX provide?",
+            "answer": "We provide technical SEO audits, on-page optimisation, content strategy, local and international SEO, schema markup and monthly performance reporting. Engagements are scoped to your site size, markets and competition.",
+            "category": "General"
+          },
+          {
+            "_uid": "seo-faq-q2",
+            "component": "faq_item",
+            "question": "How long does SEO take to show results?",
+            "answer": "Technical SEO improvements can show indexing and speed gains within weeks. Meaningful ranking improvements for competitive keywords typically take 3-6 months with consistent content and authority building. Local SEO for location-specific queries may show faster results. We set realistic expectations and track progress monthly.",
+            "category": "Process"
+          },
+          {
+            "_uid": "seo-faq-q3",
+            "component": "faq_item",
+            "question": "Do you provide technical SEO audits?",
+            "answer": "Yes. Our audits cover crawlability, indexing, site speed, Core Web Vitals, mobile usability, structured data, internal linking and security issues. You receive a prioritised action plan with quick wins and longer-term improvements.",
+            "category": "Technical"
+          },
+          {
+            "_uid": "seo-faq-q4",
+            "component": "faq_item",
+            "question": "Do you provide local SEO?",
+            "answer": "Yes. We optimise Google Business Profile, local citations, multilingual landing pages and location-specific schema markup. Local search benefits from mobile-first performance, relevant content and strong technical foundations.",
+            "category": "Local"
+          },
+          {
+            "_uid": "seo-faq-q5",
+            "component": "faq_item",
+            "question": "What is the difference between on-page and technical SEO?",
+            "answer": "On-page SEO focuses on content and HTML elements visible to users and search engines: titles, headings, copy and internal links. Technical SEO focuses on how search engines crawl and index your site: speed, architecture, redirects, schema and mobile experience. Both are needed for sustainable growth.",
+            "category": "General"
+          },
+          {
+            "_uid": "seo-faq-q6",
+            "component": "faq_item",
+            "question": "Do you work with existing websites or only new builds?",
+            "answer": "Both. We optimise existing WordPress, Shopify and custom sites, and we build SEO-first architectures on new Next.js projects. For redesigns we plan URL migrations and redirects to preserve search equity where possible.",
+            "category": "Process"
+          },
+          {
+            "_uid": "seo-faq-q7",
+            "component": "faq_item",
+            "question": "How do you measure SEO success?",
+            "answer": "We track organic traffic, keyword rankings, click-through rates, conversions and technical health metrics. Success means qualified visitors and business outcomes, not vanity rankings alone. Monthly reports show progress and next priorities.",
+            "category": "Reporting"
+          },
+          {
+            "_uid": "seo-faq-q8",
+            "component": "faq_item",
+            "question": "Do you provide ongoing SEO support?",
+            "answer": "Yes. SEO is ongoing work. We offer monthly retainers covering content updates, technical monitoring, link-building guidance and performance reviews. Support is tailored to your competition level and growth goals.",
+            "category": "Support"
+          },
+          {
+            "_uid": "seo-faq-uae-link",
+            "component": "faq_item",
+            "question": "Do you provide SEO services in the UAE?",
+            "answer": "Yes. We offer dedicated SEO for UAE businesses including Google Maps local SEO, bilingual Arabic and English strategy and technical audits. See our UAE SEO services page for regional engagements.",
+            "category": "Local"
+          }
+        ]
+      }
+    ]
+  }
+}

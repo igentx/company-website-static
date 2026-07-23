@@ -1,0 +1,289 @@
+{
+  "languages": [
+    "en"
+  ],
+  "defaultLanguage": "en",
+  "routes": [
+    {
+      "slug": "home",
+      "path": "/",
+      "priority": 1,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-04-18T09:20:06.351Z"
+    },
+    {
+      "slug": "contact",
+      "path": "/contact",
+      "priority": 0.9,
+      "changeFrequency": "monthly",
+      "lastModified": "2025-11-06T05:54:24.063Z"
+    },
+    {
+      "slug": "services-landing-page",
+      "path": "/services",
+      "priority": 0.9,
+      "changeFrequency": "weekly",
+      "lastModified": "2025-10-28T14:35:39.986Z"
+    },
+    {
+      "slug": "services/web-development-uae",
+      "path": "/services/web-development-uae",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2025-10-29T05:24:15.582Z"
+    },
+    {
+      "slug": "services/ecommerce-website-development-uae",
+      "path": "/services/ecommerce-website-development-uae",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2025-11-11T15:41:32.745Z"
+    },
+    {
+      "slug": "services/graphic-design-uae",
+      "path": "/services/graphic-design-uae",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2025-11-11T15:39:23.733Z"
+    },
+    {
+      "slug": "services/seo-service-uae",
+      "path": "/services/seo-service-uae",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2025-11-11T15:37:12.294Z"
+    },
+    {
+      "slug": "products/ai-customer-service-agent",
+      "path": "/products/ai-customer-service-agent",
+      "priority": 0.9,
+      "changeFrequency": "monthly",
+      "lastModified": "2025-11-26T09:53:40.633Z"
+    },
+    {
+      "slug": "case-studies-landing-page",
+      "path": "/case-studies",
+      "priority": 0.9,
+      "changeFrequency": "weekly",
+      "lastModified": "2025-11-06T05:28:32.649Z"
+    },
+    {
+      "slug": "case-studies/web-development-uae-startup-moduluxe-group",
+      "path": "/case-studies/moduluxe-group",
+      "priority": 0.8,
+      "changeFrequency": "monthly",
+      "lastModified": "2025-11-06T05:39:00.168Z"
+    },
+    {
+      "slug": "case-studies/web-development-startup-dr-door",
+      "path": "/case-studies/dr-door",
+      "priority": 0.8,
+      "changeFrequency": "monthly",
+      "lastModified": "2025-10-27T14:40:46.816Z"
+    },
+    {
+      "slug": "blog-landing-page",
+      "path": "/blog",
+      "priority": 0.9,
+      "changeFrequency": "daily",
+      "lastModified": "2025-11-30T18:15:16.769Z"
+    },
+    {
+      "slug": "blog/importance-of-website-uae",
+      "path": "/blog/importance-of-website-uae",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2025-10-28T12:00:39.067Z"
+    },
+    {
+      "slug": "blog/ai-in-web-development-uae",
+      "path": "/blog/ai-in-web-development-uae",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2025-11-30T18:06:09.103Z"
+    },
+    {
+      "slug": "blog/how-to-choose-best-web-development-agency-uae",
+      "path": "/blog/how-to-choose-best-web-development-agency-uae",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2025-10-28T08:42:10.366Z"
+    },
+    {
+      "slug": "blog/web-development-uae",
+      "path": "/blog/web-development-uae",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2025-11-11T06:48:06.380Z"
+    },
+    {
+      "slug": "blog/ai-customer-service-agent-uae",
+      "path": "/blog/ai-customer-service-agent-uae",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2025-11-30T18:43:49.269Z"
+    },
+    {
+      "slug": "blog/daycaremate-childcare-management-software-guide",
+      "path": "/blog/daycaremate-childcare-management-software-guide",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/local-seo-dubai-uae-guide",
+      "path": "/blog/local-seo-dubai-uae-guide",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/technical-seo-checklist-uae",
+      "path": "/blog/technical-seo-checklist-uae",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/ecommerce-website-development-dubai-uae",
+      "path": "/blog/ecommerce-website-development-dubai-uae",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/bilingual-website-development-uae",
+      "path": "/blog/bilingual-website-development-uae",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/custom-software-development-uae-guide",
+      "path": "/blog/custom-software-development-uae-guide",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/branding-uae-startups-guide",
+      "path": "/blog/branding-uae-startups-guide",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/childcare-management-software-uae-guide",
+      "path": "/blog/childcare-management-software-uae-guide",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/opening-nursery-dubai-digital-tools",
+      "path": "/blog/opening-nursery-dubai-digital-tools",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/moduluxe-group-seo-case-study",
+      "path": "/blog/moduluxe-group-seo-case-study",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/bloomwave-daycaremate-digital-transformation",
+      "path": "/blog/bloomwave-daycaremate-digital-transformation",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "slug": "uae",
+      "path": "/uae",
+      "priority": 0.88,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-07-23T17:30:00.000Z"
+    },
+    {
+      "slug": "services/web-development",
+      "path": "/services/web-development",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2026-07-22T10:27:04.783Z"
+    },
+    {
+      "slug": "services/ecommerce-development",
+      "path": "/services/ecommerce-development",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2026-07-22T10:27:04.783Z"
+    },
+    {
+      "slug": "services/branding-graphic-design",
+      "path": "/services/branding-graphic-design",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2026-07-22T10:27:04.783Z"
+    },
+    {
+      "slug": "services/seo",
+      "path": "/services/seo",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2026-07-22T10:27:04.783Z"
+    },
+    {
+      "slug": "services/custom-software-development",
+      "path": "/services/custom-software-development",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "slug": "services/ai-solutions",
+      "path": "/services/ai-solutions",
+      "priority": 0.85,
+      "changeFrequency": "monthly",
+      "lastModified": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "slug": "products-landing-page",
+      "path": "/products",
+      "priority": 0.9,
+      "changeFrequency": "monthly",
+      "lastModified": "2026-07-22T10:27:04.783Z"
+    },
+    {
+      "slug": "products/daycaremate",
+      "path": "/products/daycaremate",
+      "priority": 0.9,
+      "changeFrequency": "monthly",
+      "lastModified": "2026-07-22T10:27:04.783Z"
+    },
+    {
+      "slug": "case-studies/bloomwave-learning-daycare",
+      "path": "/case-studies/bloomwave-learning-daycare",
+      "priority": 0.82,
+      "changeFrequency": "monthly",
+      "lastModified": "2026-07-22T10:27:04.783Z"
+    },
+    {
+      "slug": "privacy",
+      "path": "/privacy",
+      "priority": 0.3,
+      "changeFrequency": "yearly",
+      "lastModified": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "slug": "terms",
+      "path": "/terms",
+      "priority": 0.3,
+      "changeFrequency": "yearly",
+      "lastModified": "2026-07-23T00:00:00.000Z"
+    }
+  ],
+  "exportedAt": "2026-07-22T10:24:00.449Z"
+}

@@ -1,0 +1,437 @@
+{
+  "slug": "case-studies/web-development-uae-startup-moduluxe-group",
+  "name": "Case Study - Moduluxe Group's Web Development",
+  "published_at": "2025-11-06T05:39:00.168Z",
+  "content": {
+    "_uid": "6ef5abc9-5f33-445c-a446-907f86a459c6",
+    "body": [
+      {
+        "_uid": "4345290d-96ee-4aef-b775-993b3cdde043",
+        "title": "UAE Startup Web Development Case Study: 300% Organic Traffic Growth with Next.js & Storyblok",
+        "author": "",
+        "og_type": "website",
+        "keywords": "web development case study UAE, startup website UAE, SEO optimisation UAE, Next.js case study, bilingual website, performance optimisation UAE",
+        "og_image": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "source": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset",
+          "meta_data": {}
+        },
+        "og_title": "UAE Startup Web Development Case Study: 300% Organic Traffic Growth with Next.js & Storyblok",
+        "component": "seo",
+        "publisher": "",
+        "description": "Discover how IGENTX helped Moduluxe, a UAE startup, achieve 300% traffic growth with a multilingual, SEO-optimised website built using Next.js, Tailwind, and Storyblok.",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/case-studies/moduluxe-group",
+        "robots_follow": true,
+        "twitter_image": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": null,
+          "title": null,
+          "source": null,
+          "filename": "",
+          "copyright": null,
+          "fieldtype": "asset",
+          "meta_data": {}
+        },
+        "twitter_title": "UAE Startup Web Development Case Study: 300% Organic Traffic Growth with Next.js & Storyblok",
+        "article_author": "",
+        "og_description": "Discover how IGENTX helped Moduluxe, a UAE startup, achieve 300% traffic growth with a multilingual, SEO-optimised website built using Next.js, Tailwind, and Storyblok.",
+        "articel_section": "",
+        "rebots_nosnippet": true,
+        "robots_noarchive": true,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Discover how IGENTX helped Moduluxe, a UAE startup, achieve 300% traffic growth with a multilingual, SEO-optimised website built using Next.js, Tailwind, and Storyblok.",
+        "structured_data_type": "",
+        "article_modified_time": "",
+        "article_published_time": ""
+      },
+      {
+        "_uid": "55de508b-9ac1-46e0-8cb8-4d4606044fdb",
+        "title": "UAE Business Startup Website – 300% Organic Traffic Growth in 3 Months",
+        "summary": "How IGENTX helped Moduluxe build a fast, multilingual, AI-powered website that tripled organic traffic and boosted conversions.",
+        "category": "",
+        "industry": "Rental",
+        "location": "Abu Dhabi",
+        "back_link": {
+          "id": "26677d84-1fe4-453c-8645-c78f824c8843",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": "case-studies"
+        },
+        "component": "case_study_hero",
+        "client_name": "Moduluxe group",
+        "quick_stats": [],
+        "featured_image": {
+          "id": 104612999507944,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/images/moduluxegroup.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "project_duration": "2 weeks"
+      },
+      {
+        "_uid": "150d31b4-d895-4af2-b0af-61f6905f5c67",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "text": "Moduluxe, a leading modular equipment rental company in the UAE, wanted to expand its digital presence and attract B2B clients online. The challenge was to create a fast, multilingual website that aligned with their brand identity and converted visitors into leads.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        "category": "Web Development",
+        "solution": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "text": "We built a ",
+                  "type": "text"
+                },
+                {
+                  "text": "Next.js + Storyblok",
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "text": " powered website designed for speed, scalability, and multilingual SEO.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4,
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "text": "Key Focus Areas:",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "ordered_list",
+              "attrs": {
+                "order": 1
+              },
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "text": "Next.js + Tailwind for Performance:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Delivered a blazing-fast, mobile-first site (95% Lighthouse score).",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "text": "SEO Optimization:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Implemented structured data, optimized metadata, and page architecture aligned to UAE search intent.",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "text": "Arabic + English Multilingual Setup:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Fully RTL-supported design with localized keyword targeting.",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "text": "AI-Driven Insights:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Used AI tools to refine UX flow and keyword placement for better engagement.",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "text": "Storyblok CMS:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Enabled Moduluxe’s internal team to manage content easily across both languages.",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "text": "Mailjet & WhatsApp Integration:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Added instant inquiry flow and lead tracking through integrated messaging.",
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "challenge": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "text": "Outdated website with poor SEO structure and slow performance.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "text": "Limited multilingual support; not optimized for Arabic search.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "text": "Weak mobile experience and low conversion rate on inquiry forms.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "text": "No integrated analytics or content management system.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        "component": "case_study_detail",
+        "client_logo": {
+          "id": 104664596735030,
+          "alt": "",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "source": "",
+          "filename": "/assets/images/moduluxe-group.webp",
+          "copyright": "",
+          "fieldtype": "asset",
+          "meta_data": {},
+          "is_external_url": false
+        },
+        "client_name": "Moduluxe Group",
+        "project_url": {
+          "id": "",
+          "url": "https://www.moduluxegroup.com/",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://www.moduluxegroup.com/"
+        },
+        "project_date": "2025-07",
+        "technologies": "Next.js, TypeScript, Tailwind CSS, Storyblok, Vercel, Mailjet, Google Analytics + Search Console",
+        "project_images": [
+          {
+            "id": 104612999507944,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "/assets/images/moduluxegroup.webp",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {}
+          }
+        ],
+        "results_metrics": [
+          {
+            "_uid": "55aa4b9d-7864-491a-95e3-626baa031419",
+            "label": "Traffic Growth",
+            "value": "300%",
+            "component": "metric_item",
+            "description": "Tripled organic visitors within 3 months through strategic SEO implementation."
+          },
+          {
+            "_uid": "8b5cc775-e153-4086-b792-efa341547751",
+            "label": "Performance",
+            "value": "95+",
+            "component": "metric_item",
+            "description": "Achieved top performance through Next.js optimisation and caching."
+          },
+          {
+            "_uid": "d5637102-2c9e-44cc-b216-2192fa6e345d",
+            "label": "SEO",
+            "value": "100%",
+            "component": "metric_item",
+            "description": "Advanced technical SEO and multilingual optimisation for maximum visibility."
+          }
+        ],
+        "testimonial_role": "Operations Head, Moduluxe UAE",
+        "testimonial_text": "The new website transformed our online presence. We started getting quality leads from day one, and the bilingual SEO setup helped us rank in both Arabic and English searches.",
+        "testimonial_author": "Murshid CK"
+      }
+    ],
+    "component": "page"
+  }
+}

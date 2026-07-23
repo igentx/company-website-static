@@ -1,0 +1,449 @@
+{
+  "slug": "terms",
+  "name": "Terms of Service",
+  "published_at": "2026-07-23T00:00:00.000Z",
+  "content": {
+    "_uid": "terms-page-uid",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "terms-seo",
+        "title": "Terms of Service | IGENTX",
+        "author": "IGENTX",
+        "og_type": "website",
+        "keywords": "terms of service, terms and conditions, IGENTX terms, website terms",
+        "og_title": "Terms of Service | IGENTX",
+        "component": "seo",
+        "publisher": "IGENTX",
+        "description": "Terms and conditions governing your use of the IGENTX website and related services.",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/terms",
+        "robots_follow": true,
+        "twitter_title": "Terms of Service | IGENTX",
+        "og_description": "Read the terms and conditions for using the IGENTX website.",
+        "twitter_card_type": "summary",
+        "twitter_description": "Terms and conditions governing your use of the IGENTX website."
+      },
+      {
+        "_uid": "terms-legal-page",
+        "title": "Terms of Service",
+        "last_updated": "2026-07-23",
+        "component": "legal_page",
+        "content_blocks": [
+          {
+            "_uid": "terms-h1",
+            "text": "Acceptance of Terms",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b1",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "By accessing or using the IGENTX website at igentx.com (the \"Site\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, please do not use the Site."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These Terms are a starter draft and should be reviewed by qualified legal counsel before reliance in regulated contexts."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h2",
+            "text": "Use of the Website",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b2",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You agree to use the Site only for lawful purposes and in a way that does not infringe the rights of others or restrict their use of the Site. You must not:"
+                    }
+                  ]
+                },
+                {
+                  "type": "bullet_list",
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Attempt to gain unauthorised access to any part of the Site, servers, or networks connected to the Site."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Use the Site to transmit harmful code, spam, or misleading information."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Copy, scrape, or reproduce Site content without our prior written consent, except as permitted by applicable law."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Misrepresent your identity or affiliation when contacting us or using any Site features."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h3",
+            "text": "Services and Enquiries",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b3",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Information on this Site about IGENTX services, products, pricing, and case studies is provided for general information only. It does not constitute a binding offer or contract."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Any engagement with IGENTX for web development, software, AI products, or other services requires a separate written agreement signed by both parties. Submitting a contact form or enquiry does not create a client relationship or obligation on either side."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h4",
+            "text": "Intellectual Property",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b4",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "All content on this Site, including text, graphics, logos, images, software, and design, is owned by IGENTX or its licensors and is protected by copyright, trademark, and other intellectual property laws."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You may view and download content for personal, non-commercial use only. You may not modify, distribute, reproduce, or create derivative works from Site content without our prior written permission."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Product names such as DaycareMate and trademarks displayed on the Site are the property of their respective owners."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h5",
+            "text": "Disclaimers",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b5",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Site and its content are provided on an \"as is\" and \"as available\" basis. To the fullest extent permitted by law, IGENTX disclaims all warranties, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We do not warrant that the Site will be uninterrupted, error-free, or free of viruses or other harmful components. You use the Site at your own risk."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h6",
+            "text": "Limitation of Liability",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b6",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "To the fullest extent permitted by applicable law, IGENTX and its directors, employees, and affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of or inability to use the Site."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Our total liability for any claim arising from these Terms or your use of the Site shall not exceed the amount you paid to us, if any, in the twelve months preceding the claim, or AED 100, whichever is greater."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h7",
+            "text": "Third-Party Links",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b7",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Site may contain links to third-party websites or services. These links are provided for convenience only. IGENTX does not endorse or control third-party sites and is not responsible for their content, privacy practices, or terms."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h8",
+            "text": "Privacy",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b8",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Your use of the Site is also governed by our Privacy Policy, which explains how we collect and use personal information. Please review our Privacy Policy at /privacy."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h9",
+            "text": "Governing Law",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b9",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These Terms are governed by the laws of the United Arab Emirates. Any disputes arising from these Terms or your use of the Site shall be subject to the exclusive jurisdiction of the courts of Abu Dhabi, UAE, unless otherwise required by mandatory applicable law."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h10",
+            "text": "Changes to These Terms",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b10",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We may update these Terms from time to time. The \"Last updated\" date at the top of this page indicates when the Terms were last revised. Continued use of the Site after changes are posted constitutes acceptance of the updated Terms."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "terms-h11",
+            "text": "Contact Us",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b11",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "If you have questions about these Terms, please contact us:"
+                    }
+                  ]
+                },
+                {
+                  "type": "bullet_list",
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Email: hello@igentx.com"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Location: Abu Dhabi, United Arab Emirates"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

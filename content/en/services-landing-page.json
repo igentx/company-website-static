@@ -1,0 +1,837 @@
+{
+  "slug": "services-landing-page",
+  "name": "services-landing-page",
+  "published_at": "2025-10-28T14:35:39.986Z",
+  "content": {
+    "_uid": "5ec98fe7-84b4-492e-8002-3d50cb630d31",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "sl-seo-001",
+        "component": "seo",
+        "title": "Web Development, Ecommerce, Branding & SEO | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "website",
+        "keywords": "web development agency, ecommerce development, branding design, SEO services, AI web development, digital studio, custom websites",
+        "og_image": {
+          "filename": "/assets/images/custom-software-development.webp",
+          "alt": "IGENTX digital services: web development, ecommerce, branding and SEO",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "Our Services | Web Development, Ecommerce, Branding & SEO | IGENTX",
+        "publisher": "IGENTX",
+        "description": "AI-accelerated web development, ecommerce, branding and SEO for businesses worldwide. Outcome-focused delivery for leads, conversions and measurable growth.",
+        "article_tags": "web development, ecommerce development, branding, SEO optimisation, digital agency, igentx services",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/services",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/custom-software-development.webp",
+          "alt": "IGENTX digital services: web development, ecommerce, branding and SEO",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "Web Development, Ecommerce, Branding & SEO | IGENTX",
+        "article_author": "IGENTX",
+        "og_description": "From AI-powered websites and ecommerce to branding and SEO, IGENTX delivers performance, conversion and measurable growth globally.",
+        "article_section": "Services",
+        "robots_nosnippet": false,
+        "robots_noarchive": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Global digital services from an AI-accelerated studio: web development, ecommerce, branding and SEO built for speed and results.",
+        "structured_data_type": "WebSite",
+        "article_modified_time": "",
+        "article_published_time": "2025-10-26 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Digital Agency Services\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"hasOfferCatalog\": {\n    \"@type\": \"OfferCatalog\",\n    \"name\": \"IGENTX Services\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Custom Web Development\",\n          \"description\": \"Performance-first websites and web applications with multilingual support.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Ecommerce Development\",\n          \"description\": \"Headless and platform ecommerce with secure checkout.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Branding & Graphic Design\",\n          \"description\": \"Logo, identity systems and marketing creative.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Search Engine Optimisation\",\n          \"description\": \"Technical SEO, content strategy and measurable growth.\"\n        }\n      }\n    ]\n  }\n}"
+      },
+      {
+        "_uid": "sl-hero-001",
+        "component": "service_hero",
+        "badge_text": "AI-Accelerated Studio",
+        "title": "Digital services built for leads, speed and scale",
+        "summary": "From high-performance websites and ecommerce to branding, SEO, custom software and AI integrations, IGENTX helps businesses capture more leads, improve search visibility and scale with confidence.",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "Explore services",
+        "secondary_cta_link": {
+          "url": "#our-services",
+          "linktype": "url"
+        },
+        "featured_image": {
+          "filename": "/assets/images/custom-software-development.webp",
+          "alt": "IGENTX digital services",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "AI-accelerated delivery for faster launches\nSEO-first architecture for search visibility\nMultilingual websites and applications\nMeasurable outcomes from strategy to growth",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "sl-trust-band-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Trusted Partner",
+        "title": "Trusted by Growing Businesses",
+        "description": "Helping startups, SMEs and enterprise teams build modern digital experiences that drive real business growth.",
+        "partner_logos": [
+          {
+            "_uid": "sl-p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "sl-p-react",
+            "component": "trust_band_partner",
+            "name": "React",
+            "icon": {
+              "filename": "/assets/icons/react-icon.svg",
+              "alt": "React"
+            }
+          },
+          {
+            "_uid": "sl-p-vercel",
+            "component": "trust_band_partner",
+            "name": "Vercel",
+            "icon": {
+              "filename": "/assets/icons/vercel-icon.svg",
+              "alt": "Vercel"
+            }
+          },
+          {
+            "_uid": "sl-p-aws",
+            "component": "trust_band_partner",
+            "name": "AWS",
+            "icon": {
+              "filename": "/assets/icons/aws-icon.svg",
+              "alt": "AWS"
+            }
+          },
+          {
+            "_uid": "sl-p-shopify",
+            "component": "trust_band_partner",
+            "name": "Shopify",
+            "icon": {
+              "filename": "/assets/icons/shopify.svg",
+              "alt": "Shopify"
+            }
+          },
+          {
+            "_uid": "sl-p-storyblok",
+            "component": "trust_band_partner",
+            "name": "Storyblok",
+            "icon": {
+              "filename": "/assets/icons/storyblok_icon.svg",
+              "alt": "Storyblok"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built Solutions",
+            "description": "Tailored to your business, not templates",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "m3",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "m2",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Client Satisfaction",
+            "description": "Long-term partnerships built on trust",
+            "icon_key": "satisfaction"
+          },
+          {
+            "_uid": "m4",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Multi-Country Support",
+            "description": "Global presence with local expertise",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "m5",
+            "component": "trust_band_metric",
+            "value": "24/7",
+            "label": "Customer Support",
+            "description": "Always here when you need us",
+            "icon_key": "support"
+          }
+        ]
+      },
+      {
+        "_uid": "sl-services-001",
+        "title": "Explore our services",
+        "services": [
+          {
+            "_uid": "svc-web",
+            "component": "service_item",
+            "title": "Web Development",
+            "description": "High-performance websites and web applications built for leads, speed and search visibility.",
+            "problem": "Slow, outdated websites lose visitors and fail to convert traffic into qualified leads.",
+            "solution": "We design and build fast, SEO-ready websites with modern architecture, multilingual support and easy content management.",
+            "outcome": "More qualified leads, stronger search visibility and a digital presence that scales with your business.",
+            "image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Web development"
+            },
+            "cta_link": {
+              "url": "services/web-development",
+              "linktype": "url",
+              "cached_url": "services/web-development"
+            },
+            "cta_text": "Explore Web Development",
+            "is_popular": true
+          },
+          {
+            "_uid": "svc-custom-software",
+            "component": "service_item",
+            "title": "Customised Software Development",
+            "description": "Bespoke web applications, internal tools and product platforms built to fit your workflows and growth goals.",
+            "problem": "Off-the-shelf software forces awkward workarounds, data silos and limits on how your team operates and scales.",
+            "solution": "We design and build custom software with modern stacks: portals, dashboards, APIs and integrations tailored to your business logic.",
+            "outcome": "Efficient operations, clearer data flows and software that evolves with your business instead of holding it back.",
+            "image": {
+              "filename": "/assets/images/custom-software-development.webp",
+              "alt": "Customised software development"
+            },
+            "cta_link": {
+              "url": "services/custom-software-development",
+              "linktype": "url",
+              "cached_url": "services/custom-software-development"
+            },
+            "cta_text": "Explore Custom Software",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-ecom",
+            "component": "service_item",
+            "title": "Ecommerce Development",
+            "description": "Composable storefronts and headless commerce experiences that convert.",
+            "problem": "Rigid ecommerce platforms limit performance, design freedom and integration with your marketing stack.",
+            "solution": "Headless commerce with Shopify, BigCommerce or custom APIs: fast storefronts optimised for Core Web Vitals.",
+            "outcome": "Faster checkout, higher conversion rates and a storefront that grows with your catalogue and markets.",
+            "image": {
+              "filename": "/assets/images/ecommerce-website-development-uae.webp",
+              "alt": "Ecommerce development"
+            },
+            "cta_link": {
+              "url": "services/ecommerce-development",
+              "linktype": "url",
+              "cached_url": "services/ecommerce-development"
+            },
+            "cta_text": "Explore Ecommerce",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-seo",
+            "component": "service_item",
+            "title": "SEO & Growth",
+            "description": "Technical SEO and content strategies that drive measurable organic growth.",
+            "problem": "Great products stay invisible when search engines cannot crawl, index or rank your site effectively.",
+            "solution": "Technical SEO audits, local and international SEO, content strategy and ongoing performance optimisation.",
+            "outcome": "Higher rankings, more qualified traffic and measurable growth across global markets.",
+            "image": {
+              "filename": "/assets/images/seo-and-growth.webp",
+              "alt": "SEO and growth services"
+            },
+            "cta_link": {
+              "url": "services/seo",
+              "linktype": "url",
+              "cached_url": "services/seo"
+            },
+            "cta_text": "Explore SEO",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-brand",
+            "component": "service_item",
+            "title": "Branding & Design",
+            "description": "Memorable brand identities that build trust across every touchpoint.",
+            "problem": "Inconsistent branding weakens recognition and makes it harder to compete in crowded markets.",
+            "solution": "Logo design, brand guidelines, marketing assets and social creative aligned to your positioning.",
+            "outcome": "Stronger brand recognition, professional credibility and visual consistency across digital and print.",
+            "image": {
+              "filename": "/assets/images/graphic-designing-uae.webp",
+              "alt": "Branding and design"
+            },
+            "cta_link": {
+              "url": "services/branding-graphic-design",
+              "linktype": "url",
+              "cached_url": "services/branding-graphic-design"
+            },
+            "cta_text": "Explore Branding",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-ai",
+            "component": "service_item",
+            "title": "AI Solutions",
+            "description": "Practical AI integrations that automate support, qualify leads and save time.",
+            "problem": "Teams spend hours answering repetitive questions while prospects leave without getting answers.",
+            "solution": "AI customer service agents, workflow automation and intelligent features trained on your business content.",
+            "outcome": "24/7 automated support, faster lead qualification and reduced operational overhead.",
+            "image": {
+              "filename": "/assets/images/ai-solutions.webp",
+              "alt": "AI solutions"
+            },
+            "cta_link": {
+              "url": "services/ai-solutions",
+              "linktype": "url",
+              "cached_url": "services/ai-solutions"
+            },
+            "cta_text": "Explore AI Solutions",
+            "is_popular": false
+          }
+        ],
+        "component": "igentx_services",
+        "badge_text": "Our Services",
+        "description": "Outcome-focused services for businesses that want to build, launch, automate and scale, with clear value at every step.",
+        "process_steps": [
+          {
+            "_uid": "ps1",
+            "component": "process_step",
+            "title": "Discovery",
+            "duration": "3-5 days",
+            "description": "Understand your goals, audience, constraints and success metrics."
+          },
+          {
+            "_uid": "ps2",
+            "component": "process_step",
+            "title": "Strategy",
+            "duration": "3-5 days",
+            "description": "Define scope, architecture, SEO approach and a realistic delivery roadmap."
+          },
+          {
+            "_uid": "ps3",
+            "component": "process_step",
+            "title": "UX & Design",
+            "duration": "1-2 weeks",
+            "description": "Wireframes, visual design and prototypes aligned to your brand and users."
+          },
+          {
+            "_uid": "ps4",
+            "component": "process_step",
+            "title": "Development",
+            "duration": "2-6 weeks",
+            "description": "Build with modern stacks, integrations and performance best practices."
+          },
+          {
+            "_uid": "ps5",
+            "component": "process_step",
+            "title": "QA & Optimisation",
+            "duration": "3-7 days",
+            "description": "Testing, accessibility checks, Core Web Vitals tuning and security review."
+          },
+          {
+            "_uid": "ps6",
+            "component": "process_step",
+            "title": "Launch",
+            "duration": "1-3 days",
+            "description": "Deployment, analytics setup, handover documentation and go-live support."
+          },
+          {
+            "_uid": "ps7",
+            "component": "process_step",
+            "title": "Continuous Growth",
+            "duration": "Ongoing",
+            "description": "SEO, content, feature iterations and performance monitoring beyond launch."
+          }
+        ],
+        "process_title": "How We Deliver",
+        "process_description": "A transparent, seven-step process from discovery through continuous growth, with estimated timelines at every stage.",
+        "show_tech_stack": true,
+        "tech_stack_badge": "Engineering Excellence",
+        "tech_stack_title": "Engineering Excellence, Business Impact",
+        "tech_stack_description": "We combine modern technologies, cloud infrastructure and AI capabilities to build scalable, secure and future-ready solutions that drive real business growth.",
+        "tech_categories": [
+          {
+            "_uid": "c-AI",
+            "component": "tech_category",
+            "title": "AI Powered",
+            "description": "Smarter enquiries, multilingual assistants and intelligent automation that capture and convert more leads.",
+            "icon_key": "ai",
+            "technologies": [
+              {
+                "_uid": "t-OpenAI",
+                "component": "technology_item",
+                "name": "OpenAI",
+                "icon": {
+                  "filename": "/assets/icons/openai-icon.svg",
+                  "alt": "OpenAI",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Claude",
+                "component": "technology_item",
+                "name": "Claude",
+                "icon": {
+                  "filename": "/assets/icons/claude-icon.svg",
+                  "alt": "Claude",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Gemini",
+                "component": "technology_item",
+                "name": "Gemini",
+                "icon": {
+                  "filename": "/assets/icons/gemini-icon.svg",
+                  "alt": "Gemini",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-RAG",
+                "component": "technology_item",
+                "name": "RAG",
+                "icon": {
+                  "filename": "/assets/icons/rag-icon.svg",
+                  "alt": "RAG",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-Cloud",
+            "component": "tech_category",
+            "title": "Cloud Native",
+            "description": "Scalable hosting, CI/CD pipelines and enterprise-grade infrastructure built for reliability.",
+            "icon_key": "cloud",
+            "technologies": [
+              {
+                "_uid": "t-AWS",
+                "component": "technology_item",
+                "name": "AWS",
+                "icon": {
+                  "filename": "/assets/icons/aws-icon.svg",
+                  "alt": "AWS",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Vercel",
+                "component": "technology_item",
+                "name": "Vercel",
+                "icon": {
+                  "filename": "/assets/icons/vercel-icon.svg",
+                  "alt": "Vercel",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Cloudflare",
+                "component": "technology_item",
+                "name": "Cloudflare",
+                "icon": {
+                  "filename": "/assets/icons/cloudflare-icon.svg",
+                  "alt": "Cloudflare",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Node.js",
+                "component": "technology_item",
+                "name": "Node.js",
+                "icon": {
+                  "filename": "/assets/icons/nodejs-icon.svg",
+                  "alt": "Node.js",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Docker",
+                "component": "technology_item",
+                "name": "Docker",
+                "icon": {
+                  "filename": "/assets/icons/docker-icon.svg",
+                  "alt": "Docker",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-CI/CD",
+                "component": "technology_item",
+                "name": "CI/CD",
+                "icon": {
+                  "filename": "/assets/icons/cicd-icon.svg",
+                  "alt": "CI/CD",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-ModernWeb",
+            "component": "tech_category",
+            "title": "Modern Web",
+            "description": "High-performance websites and applications with headless CMS flexibility for fast content updates.",
+            "icon_key": "web",
+            "technologies": [
+              {
+                "_uid": "t-Next.js",
+                "component": "technology_item",
+                "name": "Next.js",
+                "icon": {
+                  "filename": "/assets/icons/nextjs-icon.svg",
+                  "alt": "Next.js",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-React",
+                "component": "technology_item",
+                "name": "React",
+                "icon": {
+                  "filename": "/assets/icons/react-icon.svg",
+                  "alt": "React",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-TypeScript",
+                "component": "technology_item",
+                "name": "TypeScript",
+                "icon": {
+                  "filename": "/assets/icons/typescript-icon.svg",
+                  "alt": "TypeScript",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Tailwind CSS",
+                "component": "technology_item",
+                "name": "Tailwind CSS",
+                "icon": {
+                  "filename": "/assets/icons/tailwind-icon.svg",
+                  "alt": "Tailwind CSS",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Storyblok",
+                "component": "technology_item",
+                "name": "Storyblok",
+                "icon": {
+                  "filename": "/assets/icons/storyblok_icon.svg",
+                  "alt": "Storyblok",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Headless CMS",
+                "component": "technology_item",
+                "name": "Headless CMS",
+                "icon": {
+                  "filename": "/assets/icons/headless-cms-icon.svg",
+                  "alt": "Headless CMS",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-Commerce",
+            "component": "tech_category",
+            "title": "Commerce Solutions",
+            "description": "Online stores and headless commerce platforms designed to increase sales and customer retention.",
+            "icon_key": "commerce",
+            "technologies": [
+              {
+                "_uid": "t-Shopify",
+                "component": "technology_item",
+                "name": "Shopify",
+                "icon": {
+                  "filename": "/assets/icons/shopify.svg",
+                  "alt": "Shopify",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-BigCommerce",
+                "component": "technology_item",
+                "name": "BigCommerce",
+                "icon": {
+                  "filename": "/assets/icons/bigcommerce.svg",
+                  "alt": "BigCommerce",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Commercetools",
+                "component": "technology_item",
+                "name": "Commercetools",
+                "icon": {
+                  "filename": "/assets/icons/commercetools-icon.svg",
+                  "alt": "Commercetools",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-WooCommerce",
+                "component": "technology_item",
+                "name": "WooCommerce",
+                "icon": {
+                  "filename": "/assets/icons/woocommerce.svg",
+                  "alt": "WooCommerce",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-Analytics",
+            "component": "tech_category",
+            "title": "Analytics and Insights",
+            "description": "Decisions backed by real user data, search performance and conversion tracking.",
+            "icon_key": "analytics",
+            "technologies": [
+              {
+                "_uid": "t-Google Analytics 4",
+                "component": "technology_item",
+                "name": "Google Analytics 4",
+                "icon": {
+                  "filename": "/assets/icons/google-analytics-icon.svg",
+                  "alt": "Google Analytics 4",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Search Console",
+                "component": "technology_item",
+                "name": "Search Console",
+                "icon": {
+                  "filename": "/assets/icons/google-search-console-icon.svg",
+                  "alt": "Search Console",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Microsoft Clarity",
+                "component": "technology_item",
+                "name": "Microsoft Clarity",
+                "icon": {
+                  "filename": "/assets/icons/microsoft-clarity-icon.svg",
+                  "alt": "Microsoft Clarity",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Vercel Analytics",
+                "component": "technology_item",
+                "name": "Vercel Analytics",
+                "icon": {
+                  "filename": "/assets/icons/vercel-analytics-icon.svg",
+                  "alt": "Vercel Analytics",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-Automation",
+            "component": "tech_category",
+            "title": "Automation and Integrations",
+            "description": "Connect your tools, automate workflows and streamline operations with API-first integrations.",
+            "icon_key": "automation",
+            "technologies": [
+              {
+                "_uid": "t-n8n",
+                "component": "technology_item",
+                "name": "n8n",
+                "icon": {
+                  "filename": "/assets/icons/n8n-icon.svg",
+                  "alt": "n8n",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Webhooks",
+                "component": "technology_item",
+                "name": "Webhooks",
+                "icon": {
+                  "filename": "/assets/icons/webhooks-icon.svg",
+                  "alt": "Webhooks",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-API Integrations",
+                "component": "technology_item",
+                "name": "API Integrations",
+                "icon": {
+                  "filename": "/assets/icons/api-integrations-icon.svg",
+                  "alt": "API Integrations",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-AI Workflows",
+                "component": "technology_item",
+                "name": "AI Workflows",
+                "icon": {
+                  "filename": "/assets/icons/ai-workflows-icon.svg",
+                  "alt": "AI Workflows",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          }
+        ],
+        "tech_benefits": [
+          {
+            "_uid": "tb1",
+            "component": "tech_benefit",
+            "title": "High Performance",
+            "description": "Lightning-fast experiences",
+            "icon_key": "lightning"
+          },
+          {
+            "_uid": "tb2",
+            "component": "tech_benefit",
+            "title": "Scalable",
+            "description": "Built to grow with you",
+            "icon_key": "layers"
+          },
+          {
+            "_uid": "tb3",
+            "component": "tech_benefit",
+            "title": "Secure",
+            "description": "Enterprise-grade security",
+            "icon_key": "shield"
+          },
+          {
+            "_uid": "tb4",
+            "component": "tech_benefit",
+            "title": "Reliable",
+            "description": "Production-grade hosting",
+            "icon_key": "clock"
+          },
+          {
+            "_uid": "tb5",
+            "component": "tech_benefit",
+            "title": "Future Ready",
+            "description": "AI, automation and beyond",
+            "icon_key": "rocket"
+          }
+        ]
+      },
+      {
+        "_uid": "sl-cta-band-001",
+        "component": "igentx_cta_band",
+        "title": "Not sure where to start?",
+        "description": "Book a free consultation and our team will help you scope the right mix of web development, ecommerce, branding, SEO, custom software or AI integration for your goals.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View Case Studies",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
+      },
+      {
+        "_uid": "sl-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Expert answers about web development, AI solutions, ecommerce, SEO and our process for businesses worldwide.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "sl-faq-Why choose IGENTX ov",
+            "component": "faq_item",
+            "question": "Why choose IGENTX over other web development companies?",
+            "answer": "IGENXT combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team delivers multilingual, globally deployable solutions, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.",
+            "category": "General"
+          },
+          {
+            "_uid": "sl-faq-Do you work with sta",
+            "component": "faq_item",
+            "question": "Do you work with startups and enterprises?",
+            "answer": "Yes. For startups, we focus on fast MVP delivery, clear scope and foundations that scale. For enterprises, we emphasise architecture, security, integrations and phased rollouts. Our process adapts to your team size, budget and timeline, from a single landing page to multi-language platforms with headless CMS, ecommerce and AI automation. Contact us for a scoped proposal based on your goals.",
+            "category": "General"
+          },
+          {
+            "_uid": "sl-faq-How long does websit",
+            "component": "faq_item",
+            "question": "How long does website development take?",
+            "answer": "Timeline depends on scope: a focused marketing site typically takes 2-4 weeks; larger corporate or ecommerce projects take 4-8 weeks. Factors include page count, integrations, multilingual requirements and content readiness. Our seven-step process includes discovery, strategy, design, development, QA, launch and ongoing growth, with clear milestones at each stage. We provide a realistic timeline after a brief discovery call.",
+            "category": "Web Development"
+          },
+          {
+            "_uid": "sl-faq-Can you redesign an ",
+            "component": "faq_item",
+            "question": "Can you redesign an existing website?",
+            "answer": "Absolutely. We migrate and redesign existing sites, including WordPress, Shopify and custom builds, to modern architectures without losing SEO equity when planned correctly. A redesign typically improves page speed, mobile experience, conversion paths and search visibility. We audit your current site, preserve valuable content and URLs, and rebuild with performance and accessibility built in from the start.",
+            "category": "Web Development"
+          },
+          {
+            "_uid": "sl-faq-How does your AI Cus",
+            "component": "faq_item",
+            "question": "How does your AI Customer Service Agent work?",
+            "answer": "Our AI agent is trained on your website content, documents and FAQs using retrieval-augmented generation (RAG). It answers visitor questions instantly, qualifies leads and supports multilingual conversations. Integration takes one line of code on any website. You control the knowledge base, review conversations and update content as your business evolves.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "sl-faq-Does the AI agent su",
+            "component": "faq_item",
+            "question": "Is the AI Customer Service Agent multilingual?",
+            "answer": "Yes. The agent supports multilingual conversations so visitors can get accurate responses in their preferred language. This is valuable for businesses serving diverse local and international audiences.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "sl-faq-How long does SEO ta",
+            "component": "faq_item",
+            "question": "How long does SEO take to show results?",
+            "answer": "Technical SEO improvements can show indexing and speed gains within weeks. Meaningful ranking improvements for competitive keywords typically take 3-6 months with consistent content and authority building. Local SEO for location-specific queries may show faster results in regional markets. We set realistic expectations, track progress monthly and focus on qualified traffic that converts, not vanity metrics.",
+            "category": "SEO"
+          },
+          {
+            "_uid": "sl-faq-Do you provide local",
+            "component": "faq_item",
+            "question": "Do you provide local SEO?",
+            "answer": "Yes. We optimise Google Business Profile, local citations, multilingual landing pages, and location-specific schema markup. Local search benefits from mobile-first performance, culturally relevant content and strong technical foundations. We help businesses rank for regional queries while supporting broader international visibility.",
+            "category": "SEO"
+          },
+          {
+            "_uid": "sl-faq-Shopify vs BigCommer",
+            "component": "faq_item",
+            "question": "Shopify vs BigCommerce: which is right for my business?",
+            "answer": "Shopify excels for fast setup, app ecosystem and smaller-to-mid catalogues. BigCommerce suits larger catalogues, B2B features and headless commerce flexibility. We assess your product count, integration needs, customisation requirements and growth plans to recommend the right platform, or a headless approach with Next.js storefront for maximum performance and design freedom.",
+            "category": "Ecommerce"
+          },
+          {
+            "_uid": "sl-faq-Do you provide maint",
+            "component": "faq_item",
+            "question": "Do you provide maintenance after launch?",
+            "answer": "Yes. We offer ongoing support packages covering security updates, performance monitoring, content changes, feature iterations and SEO optimisation. Websites and applications need continuous care, including plugin updates, dependency patches and analytics review. We tailor support to your needs, from ad-hoc hours to monthly retainers with SLA response times.",
+            "category": "Support"
+          }
+        ]
+      }
+    ]
+  }
+}

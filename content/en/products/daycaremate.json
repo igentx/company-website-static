@@ -1,0 +1,602 @@
+{
+  "slug": "products/daycaremate",
+  "name": "DaycareMate",
+  "published_at": "2025-11-26T09:53:40.633Z",
+  "content": {
+    "_uid": "5a8529bd-34d0-45ad-ac1f-b2f4534379b8",
+    "body": [
+      {
+        "_uid": "dm-seo-1",
+        "component": "seo",
+        "title": "DaycareMate: Childcare Management Software | IGENTX",
+        "description": "Complete childcare management by IGENTX: admissions, attendance, activity feed, messaging, and tax-aware billing. Dedicated Admin, Teacher, and Family portals. Serving centres worldwide, with the UAE as our primary market.",
+        "keywords": "childcare management software, nursery management system, preschool ERP, early childhood centre software",
+        "canonical_url": "https://www.igentx.com/products/daycaremate",
+        "robots_index": true,
+        "robots_follow": true,
+        "og_type": "website",
+        "og_title": "DaycareMate: Childcare Management Software | IGENTX",
+        "og_description": "One platform from first enquiry to billing. Admissions, attendance, daily care, family communication, and invoice-first billing for early childhood education centres worldwide.",
+        "og_image": {
+          "filename": "/assets/images/daycaremate-dashboard.webp",
+          "alt": "DaycareMate childcare management dashboard",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_card_type": "summary_large_image",
+        "twitter_title": "DaycareMate | IGENTX",
+        "twitter_description": "Childcare management software built by IGENTX: admissions, attendance, messaging, billing, and dedicated portals for admins, teachers, and families.",
+        "twitter_image": {
+          "filename": "/assets/images/daycaremate-dashboard.webp",
+          "alt": "DaycareMate childcare management dashboard",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "structured_data_type": "SoftwareApplication"
+      },
+      {
+        "_uid": "dm-hero-1",
+        "component": "service_hero",
+        "title": "Complete childcare management software for modern centres",
+        "subtitle": "One platform from first enquiry to billing: admissions, attendance, daily care, family communication, and tax-aware billing.",
+        "badge_text": "IGENTX Product",
+        "cta_text": "Visit daycaremate.com",
+        "cta_link": {
+          "url": "https://daycaremate.com",
+          "linktype": "url"
+        },
+        "secondary_cta_text": "Talk to IGENTX",
+        "secondary_cta_link": {
+          "url": "/contact",
+          "linktype": "url"
+        },
+        "back_link": {
+          "url": "/products",
+          "linktype": "url",
+          "cached_url": "products"
+        },
+        "back_link_label": "Back to Products",
+        "featured_image": {
+          "alt": "DaycareMate childcare management dashboard",
+          "filename": "/assets/images/daycaremate-dashboard.webp",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "featured_image_opacity": 70,
+        "quick_features": "Admissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing and parent statements\nAdmin, Teacher, and Family portals",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "dm-trust-band-001",
+        "component": "igentx_trust_band",
+        "badge_text": "IGENTX Product",
+        "title": "Built for early childhood education centres",
+        "description": "A global platform for preschools, nurseries, childcare centres, and early learning providers. Each centre runs on a dedicated deployment with private data and configurable regional settings.",
+        "partner_logos": [
+          {
+            "_uid": "p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "p-react",
+            "component": "trust_band_partner",
+            "name": "React",
+            "icon": {
+              "filename": "/assets/icons/react-icon.svg",
+              "alt": "React"
+            }
+          },
+          {
+            "_uid": "p-aws",
+            "component": "trust_band_partner",
+            "name": "AWS",
+            "icon": {
+              "filename": "/assets/icons/aws-icon.svg",
+              "alt": "AWS"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "dm-m1",
+            "component": "trust_band_metric",
+            "value": "3",
+            "label": "Dedicated Portals",
+            "description": "Admin, Teacher, and Family",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "dm-m2",
+            "component": "trust_band_metric",
+            "value": "1",
+            "label": "Platform",
+            "description": "Enquiry to billing in one system",
+            "icon_key": "layers"
+          },
+          {
+            "_uid": "dm-m3",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Deployments",
+            "description": "Configurable currency, timezone, and tax",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "dm-m4",
+            "component": "trust_band_metric",
+            "value": "Single",
+            "label": "Tenant per Centre",
+            "description": "Private database, storage, and CDN",
+            "icon_key": "shield"
+          },
+          {
+            "_uid": "dm-m5",
+            "component": "trust_band_metric",
+            "value": "8-role",
+            "label": "RBAC",
+            "description": "Granular permissions for every role",
+            "icon_key": "experience"
+          }
+        ]
+      },
+      {
+        "_uid": "dm-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "Platform Capabilities",
+        "title": "Everything your centre runs on",
+        "description": "One integrated platform from the first family enquiry to daily care, communication, and billing. Every record is created once and used everywhere.",
+        "features": [
+          {
+            "_uid": "dm-f-admissions",
+            "component": "differentiator_feature",
+            "title": "Admissions",
+            "highlight": "Magic-link onboarding",
+            "description": "Replace paper forms with configurable admission templates, parent magic-link onboarding, and one-click approval into student records and first invoices.",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Admissions",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-leads",
+            "component": "differentiator_feature",
+            "title": "Leads Pipeline",
+            "highlight": "Enquiry to enrolment",
+            "description": "Capture website enquiries, review optional AI chat conversations, and convert qualified families into admissions without a separate CRM. Staff manually convert leads to the pipeline.",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Leads pipeline",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-attendance",
+            "component": "differentiator_feature",
+            "title": "Attendance",
+            "highlight": "Tap-and-go roster",
+            "description": "Daily check-in and check-out, QR scan check-in, leave requests with staff approval, and a real-time picture of who is in for admins and families.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Attendance",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-activity",
+            "component": "differentiator_feature",
+            "title": "Activity Feed",
+            "highlight": "Family trust",
+            "description": "Teachers log meals, naps, learning, mood, and milestones in seconds. Photo attachments reach families through private storage, scoped to authorised parents only.",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Activity feed",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-messaging",
+            "component": "differentiator_feature",
+            "title": "Messaging",
+            "highlight": "One channel",
+            "description": "1:1 conversations between parents, teachers, and admins, plus broadcasts for closures and reminders. Realtime inbox updates and email notifications when configured.",
+            "icon": {
+              "filename": "/assets/icons/ai-chat.svg",
+              "alt": "Messaging",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-billing",
+            "component": "differentiator_feature",
+            "title": "Billing",
+            "highlight": "Invoice-first",
+            "description": "Reusable fee plans, billing runs, parent payment proof workflow, credit notes, and account statements with tax frozen at issue time.",
+            "icon": {
+              "filename": "/assets/icons/seo-first.svg",
+              "alt": "Billing",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-lifecycle",
+            "component": "differentiator_feature",
+            "title": "Student Lifecycle",
+            "highlight": "Full journey",
+            "description": "Manage withdrawal with retention policies, archives, re-enrollment for returning families, and program promotion to the next classroom.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Student lifecycle",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-embed",
+            "component": "differentiator_feature",
+            "title": "Embeddable Enquiry Forms",
+            "highlight": "Lead capture",
+            "description": "Drop enquiry forms into your existing centre website with consent capture. Leads land in your admin board for review and one-click admission conversion.",
+            "icon": {
+              "filename": "/assets/icons/lightning-fast.svg",
+              "alt": "Embeddable forms",
+              "fieldtype": "asset"
+            }
+          }
+        ],
+        "show_speed_comparison": true,
+        "speed_comparison_title": "The Difference an Integrated Platform Makes",
+        "speed_comparison_description": "See how DaycareMate replaces fragmented tools with one system built for early childhood education operations.",
+        "traditional_approach_title": "Without DaycareMate",
+        "traditional_approach_points": [
+          {
+            "_uid": "dm-tap1",
+            "text": "Spreadsheets, WhatsApp, and paper forms for admissions and billing",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-tap2",
+            "text": "Manual follow-up on every family enquiry",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-tap3",
+            "text": "Parents call or message for daily updates",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-tap4",
+            "text": "Billing errors and painful reconciliation",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-tap5",
+            "text": "Data scattered across disconnected tools",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "igentx_advantage_label": "IGENTX Advantage",
+        "igentx_approach_title": "With DaycareMate",
+        "igentx_approach_points": [
+          {
+            "_uid": "dm-iap1",
+            "text": "One platform from enquiry to receipt PDF",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-iap2",
+            "text": "Magic-link admissions with one-click approval",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-iap3",
+            "text": "Activity feed and messaging keep families informed in-app",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-iap4",
+            "text": "Audit-logged invoices and parent account statements",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-iap5",
+            "text": "Dedicated deployment per centre with role-based access",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "uae_signals_title": "Three Portals, One Platform",
+        "uae_signals_description": "Tailored experiences for every role, with responsive web portals and PWA install support today.",
+        "uae_signals": [
+          {
+            "_uid": "dm-portal-admin",
+            "component": "uae_signal_item",
+            "title": "Admin Portal",
+            "description": "Admissions, billing runs, staff management, leads pipeline, and centre-wide reporting.",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Admin portal",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-portal-teacher",
+            "component": "uae_signal_item",
+            "title": "Teacher Portal",
+            "description": "Classroom attendance, activity logging, and parent messaging built for fast phone entry.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Teacher portal",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-portal-family",
+            "component": "uae_signal_item",
+            "title": "Family Portal",
+            "description": "Daily activity feed, messaging, billing statements, and leave requests for parents and guardians.",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Family portal",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-portal-pwa",
+            "component": "uae_signal_item",
+            "title": "PWA and Mobile-Ready Web",
+            "description": "Responsive portals with add-to-homescreen support. Native mobile apps are on the roadmap.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Mobile ready",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "dm-process-001",
+        "component": "igentx_services",
+        "title": "How It Works",
+        "description": "From the first family enquiry to daily operations and billing, DaycareMate keeps every step in one system.",
+        "services": [],
+        "show_tech_stack": false,
+        "process_title": "How It Works",
+        "process_description": "A clear path from enquiry capture through enrolment, daily care, and billing.",
+        "process_steps": [
+          {
+            "_uid": "dm-ps1",
+            "component": "process_step",
+            "title": "Capture Enquiries",
+            "duration": "Day one",
+            "description": "Embed enquiry forms on your website, use the hosted register page, or deploy the optional AI enquiry assistant for subscribers."
+          },
+          {
+            "_uid": "dm-ps2",
+            "component": "process_step",
+            "title": "Enrol Families",
+            "duration": "Minutes",
+            "description": "Send magic-link admission invites, collect documents from parents, and approve enrolments into student records and first invoices."
+          },
+          {
+            "_uid": "dm-ps3",
+            "component": "process_step",
+            "title": "Run Daily Operations",
+            "duration": "Every day",
+            "description": "Track attendance, log activities, and keep families updated through the activity feed and messaging."
+          },
+          {
+            "_uid": "dm-ps4",
+            "component": "process_step",
+            "title": "Bill and Grow",
+            "duration": "Ongoing",
+            "description": "Run billing cycles, record payments, review payment proofs, issue statements, and manage the full student lifecycle."
+          }
+        ]
+      },
+      {
+        "_uid": "dm-tech-001",
+        "component": "igentx_services",
+        "title": "Enterprise Ready",
+        "description": "Dedicated infrastructure and security built for childcare centres that need isolation, compliance, and control.",
+        "services": [],
+        "show_tech_stack": true,
+        "tech_stack_badge": "Platform & Security",
+        "tech_stack_title": "Powered by Secure, Dedicated Infrastructure",
+        "tech_stack_description": "Each centre runs on its own deployment with configurable regional settings, role-based access, and cloud-native hosting.",
+        "tech_categories": [
+          {
+            "_uid": "dm-c-cloud",
+            "component": "tech_category",
+            "title": "Cloud Native",
+            "description": "Scalable hosting and enterprise-grade infrastructure built for reliability.",
+            "icon_key": "cloud",
+            "technologies": [
+              {
+                "_uid": "dm-t-aws",
+                "component": "technology_item",
+                "name": "AWS",
+                "icon": {
+                  "filename": "/assets/icons/aws-icon.svg",
+                  "alt": "AWS",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "dm-t-cf",
+                "component": "technology_item",
+                "name": "Cloudflare",
+                "icon": {
+                  "filename": "/assets/icons/cloudflare-icon.svg",
+                  "alt": "Cloudflare",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          }
+        ],
+        "tech_benefits": [
+          {
+            "_uid": "dm-tb1",
+            "component": "tech_benefit",
+            "title": "Dedicated Deployment",
+            "description": "Private database and storage per centre",
+            "icon_key": "shield"
+          },
+          {
+            "_uid": "dm-tb2",
+            "component": "tech_benefit",
+            "title": "Regional Settings",
+            "description": "Configurable currency, timezone, and VAT",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "dm-tb3",
+            "component": "tech_benefit",
+            "title": "Magic-Link Auth",
+            "description": "Secure access with audit trails",
+            "icon_key": "shield"
+          },
+          {
+            "_uid": "dm-tb4",
+            "component": "tech_benefit",
+            "title": "8-Role RBAC",
+            "description": "Granular permissions for every role",
+            "icon_key": "layers"
+          },
+          {
+            "_uid": "dm-tb5",
+            "component": "tech_benefit",
+            "title": "OpenAPI REST API",
+            "description": "Documented API for integrations",
+            "icon_key": "lightning"
+          }
+        ]
+      },
+      {
+        "_uid": "dm-cta-band-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to simplify centre operations and family engagement?",
+        "description": "Explore DaycareMate for your centre, or talk to IGENTX about implementation and support. See how BloomWave Learning and Daycare launched with DaycareMate in our case study.",
+        "primary_cta_text": "Visit daycaremate.com",
+        "primary_cta_link": {
+          "url": "https://daycaremate.com",
+          "linktype": "url"
+        },
+        "secondary_cta_text": "Book a Free Consultation",
+        "secondary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        }
+      },
+      {
+        "_uid": "dm-faq-1",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about DaycareMate, admissions, operations, billing, and platform setup.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "dm-faq-q1",
+            "component": "faq_item",
+            "question": "Is DaycareMate only for UAE centres?",
+            "answer": "No. DaycareMate is built for early childhood education providers worldwide. Currency, timezone, and tax/VAT are configurable per deployment. The UAE is our primary market, not the geographic limit of the product.",
+            "category": "General"
+          },
+          {
+            "_uid": "dm-faq-q2",
+            "component": "faq_item",
+            "question": "Who is DaycareMate for?",
+            "answer": "DaycareMate serves preschools, nurseries, childcare centres, early learning centres, Montessori schools, kindergartens, and playschools. It is designed for centres that need admissions, daily care, family communication, and billing in one platform.",
+            "category": "General"
+          },
+          {
+            "_uid": "dm-faq-q3",
+            "component": "faq_item",
+            "question": "How does magic-link admission onboarding work?",
+            "answer": "Admins send a one-shot magic-link invite to a parent's email. Parents complete configurable admission forms at their own pace, including child, guardian, sibling, and document upload steps. Staff review and approve in one click, which creates student records and first invoices.",
+            "category": "Admissions"
+          },
+          {
+            "_uid": "dm-faq-q4",
+            "component": "faq_item",
+            "question": "Can we embed enquiry forms on our existing website?",
+            "answer": "Yes. DaycareMate provides embeddable enquiry forms for lead capture on your centre website, plus a hosted register page alternative. Leads land in your admin lead board with consent proof. This is enquiry and lead capture, not a hosted visit booking page.",
+            "category": "Admissions"
+          },
+          {
+            "_uid": "dm-faq-q5",
+            "component": "faq_item",
+            "question": "Can teachers log attendance and activities from mobile?",
+            "answer": "Yes. Teacher and family portals are responsive and mobile-ready, with PWA add-to-homescreen support. Teachers can run attendance, log activities, and message families from phones and tablets in the classroom.",
+            "category": "Operations"
+          },
+          {
+            "_uid": "dm-faq-q6",
+            "component": "faq_item",
+            "question": "Does billing support tax and VAT configuration?",
+            "answer": "Yes. Each deployment supports configurable currency, timezone, and tax/VAT settings. Tax rates are frozen on each invoice at issue time, with per-line taxable flags and audit-logged billing runs.",
+            "category": "Billing"
+          },
+          {
+            "_uid": "dm-faq-q7",
+            "component": "faq_item",
+            "question": "Is each centre on its own deployment?",
+            "answer": "Yes. Each centre runs on a dedicated single-tenant deployment with its own database, private storage, and CDN. This keeps centre data isolated and supports configurable regional settings.",
+            "category": "Platform"
+          },
+          {
+            "_uid": "dm-faq-q8",
+            "component": "faq_item",
+            "question": "What roles and permissions are supported?",
+            "answer": "DaycareMate includes 8-role role-based access control with granular permissions across Admin, Teacher, and Family portals. Staff, classroom, and billing access can be scoped to each centre's needs.",
+            "category": "Platform"
+          },
+          {
+            "_uid": "dm-faq-q9",
+            "component": "faq_item",
+            "question": "Does the AI enquiry assistant auto-create leads?",
+            "answer": "No. The optional AI enquiry assistant captures conversations for admin review. Your team manually converts qualified enquiries to the leads pipeline. Nothing is auto-logged without staff action.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "dm-faq-q10",
+            "component": "faq_item",
+            "question": "Is the AI enquiry assistant included for all centres?",
+            "answer": "The AI enquiry assistant is optional and deployable for subscribing centres. It works alongside embeddable enquiry forms and the leads pipeline. IGENTX can also help implement the AI Customer Service Agent on your centre website.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "dm-faq-q11",
+            "component": "faq_item",
+            "question": "Can parents view daily activities and message teachers?",
+            "answer": "Yes. The Family portal provides a per-child activity feed scoped to authorised parents, plus 1:1 messaging with teachers and admins. Broadcasts cover closures, events, and centre-wide reminders.",
+            "category": "Operations"
+          },
+          {
+            "_uid": "dm-faq-q12",
+            "component": "faq_item",
+            "question": "How do I get started with DaycareMate?",
+            "answer": "Visit daycaremate.com to explore the product and request a demo. For implementation support, custom rollout, or combining DaycareMate with website and AI enquiry solutions, talk to the IGENTX team.",
+            "category": "General"
+          }
+        ]
+      }
+    ],
+    "component": "page"
+  }
+}

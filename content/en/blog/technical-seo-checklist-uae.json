@@ -1,0 +1,284 @@
+{
+  "slug": "blog/technical-seo-checklist-uae",
+  "name": "technical-seo-checklist-uae",
+  "published_at": "2026-07-23T12:00:00.000Z",
+  "content": {
+    "_uid": "technical-seo-checklist-uae-page",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "technical-seo-checklist-uae-seo",
+        "component": "seo",
+        "title": "Technical SEO Checklist UAE 2026 | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "article",
+        "keywords": "technical SEO UAE, Core Web Vitals Dubai, website SEO checklist, schema markup UAE, Arabic hreflang",
+        "og_image": {
+          "filename": "/assets/blog/seo-banner.webp",
+          "alt": "Technical SEO checklist for UAE websites",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "Technical SEO Checklist for UAE Websites in 2026",
+        "publisher": "IGENTX",
+        "description": "A technical SEO checklist for UAE websites: Core Web Vitals, mobile performance, schema, hreflang, crawlability and indexation best practices.",
+        "article_tags": "technical SEO UAE, Core Web Vitals Dubai, website SEO checklist, schema markup UAE, Arabic hreflang",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/blog/technical-seo-checklist-uae",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/blog/seo-banner.webp",
+          "alt": "Technical SEO checklist for UAE websites",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "Technical SEO Checklist for UAE Websites in 2026",
+        "article_author": "IGENTX Digital Team",
+        "og_description": "A technical SEO checklist for UAE websites: Core Web Vitals, mobile performance, schema, hreflang, crawlability and indexation best practices.",
+        "article_section": "SEO",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "A technical SEO checklist for UAE websites: Core Web Vitals, mobile performance, schema, hreflang, crawlability and indexation best practices.",
+        "structured_data_type": "BlogPosting",
+        "article_modified_time": "2026-07-23 00:00",
+        "article_published_time": "2026-07-23 00:00",
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BlogPosting\",\"headline\":\"Technical SEO Checklist for UAE Websites in 2026\",\"description\":\"A technical SEO checklist for UAE websites: Core Web Vitals, mobile performance, schema, hreflang, crawlability and indexation best practices.\",\"url\":\"https://www.igentx.com/blog/technical-seo-checklist-uae\",\"datePublished\":\"2026-07-23T00:00:00+00:00\",\"dateModified\":\"2026-07-23T00:00:00+00:00\",\"author\":{\"@type\":\"Person\",\"name\":\"IGENTX Digital Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"IGENTX\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"}},\"image\":\"https://www.igentx.com/assets/blog/seo-banner.webp\",\"articleSection\":\"SEO\",\"keywords\":\"technical SEO UAE, Core Web Vitals Dubai, website SEO checklist, schema markup UAE, Arabic hreflang\",\"inLanguage\":\"en\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.igentx.com/blog/technical-seo-checklist-uae\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Technical SEO Checklist for UAE Websites in 2026\",\"item\":\"https://www.igentx.com/blog/technical-seo-checklist-uae\"}]}]}"
+      },
+      {
+        "_uid": "technical-seo-checklist-uae-hero",
+        "component": "blog_hero",
+        "title": "Technical SEO Checklist for UAE Websites in 2026",
+        "excerpt": "Technical SEO is the foundation for ranking in the UAE. Use this checklist to audit Core Web Vitals, mobile performance, schema, hreflang and crawlability before you invest in content alone.",
+        "category": "SEO",
+        "author_name": "IGENTX Digital Team",
+        "publish_date": "2026-07-23",
+        "reading_time": "6 min read",
+        "back_link": {
+          "url": "/blog",
+          "linktype": "url",
+          "cached_url": "/blog"
+        },
+        "featured_image": {
+          "filename": "/assets/blog/seo-banner.webp",
+          "alt": "Technical SEO checklist for UAE websites",
+          "fieldtype": "asset",
+          "is_external_url": false
+        }
+      },
+      {
+        "_uid": "technical-seo-checklist-uae-detail",
+        "component": "blog_detail",
+        "category": "SEO",
+        "author_name": "IGENTX Digital Team",
+        "author_role": "Digital Strategy & Engineering",
+        "author_bio": "The IGENTX Digital Team writes practical guides on web development, AI, SEO, vertical products and digital growth for businesses in the UAE and worldwide.",
+        "publish_date": "2026-07-23",
+        "reading_time": "6 min read",
+        "show_toc": true,
+        "key_takeaways": [
+          "Core Web Vitals and mobile performance directly affect rankings and conversions in mobile-first UAE markets.",
+          "Schema markup, canonical tags and hreflang prevent duplicate content issues on bilingual sites.",
+          "Regular technical audits catch crawl errors, broken links and indexation problems early."
+        ],
+        "tags": "technical SEO UAE, Core Web Vitals Dubai, website SEO checklist, schema markup UAE, Arabic hreflang",
+        "related_posts": [
+          {
+            "_uid": "technical-seo-checklist-uae-rel-0",
+            "component": "blog_card",
+            "title": "Local SEO in Dubai and the UAE",
+            "excerpt": "Google Business Profile, citations and local landing pages.",
+            "category": "SEO",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/local-seo-dubai-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/seo-og.webp",
+              "alt": "Local SEO in Dubai and the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-rel-1",
+            "component": "blog_card",
+            "title": "Why Every UAE Business Needs a Strong Website",
+            "excerpt": "Growth, trust and visibility in competitive UAE markets.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-10-28",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/importance-of-website-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Why Every UAE Business Needs a Strong Website",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-rel-2",
+            "component": "blog_card",
+            "title": "Moduluxe Group: 300% Organic Traffic Growth",
+            "excerpt": "How bilingual SEO and performance delivered measurable results.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/moduluxe-group-seo-case-study"
+            },
+            "featured_image": {
+              "filename": "/assets/images/moduluxegroup.webp",
+              "alt": "Moduluxe Group: 300% Organic Traffic Growth",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ],
+        "cta_section_title": "Want a technical SEO audit?",
+        "cta_section_text": "IGENXT runs technical SEO audits for UAE businesses and fixes performance, schema and indexation issues.",
+        "cta_button_text": "Explore SEO Services UAE",
+        "cta_button_link": {
+          "url": "/services/seo-service-uae",
+          "linktype": "url",
+          "cached_url": "services/seo-service-uae"
+        },
+        "content_blocks": [
+          {
+            "_uid": "technical-seo-checklist-uae-h-0",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Start with crawlability and indexation"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-b-0",
+            "component": "blog_body",
+            "content": "<p>Search engines must crawl and index your pages correctly. Check <strong>robots.txt</strong>, XML sitemaps and canonical tags. Ensure important pages are not blocked and that staging environments are not indexable.</p><ul><li>Submit an XML sitemap in Google Search Console.</li><li>Fix 404 errors and redirect chains.</li><li>Use canonical URLs on paginated and filtered views.</li><li>Monitor coverage reports for excluded pages.</li></ul>"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-h-1",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Core Web Vitals and mobile performance"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-b-1",
+            "component": "blog_body",
+            "content": "<p>UAE users browse heavily on mobile. Slow sites lose rankings and conversions. Target strong <strong>LCP, INP and CLS</strong> scores. Use modern hosting, image optimisation and lean JavaScript.</p><p>IGENXT builds on Next.js and Vercel with performance budgets from day one. Our <a href=\"/case-studies/moduluxe-group\">Moduluxe Group case study</a> achieved 0.8s load times and 95% performance scores after rebuild.</p>"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-img-1",
+            "component": "blog_image",
+            "image": {
+              "filename": "/assets/images/seo-optimisation.webp",
+              "alt": "SEO and performance optimisation"
+            },
+            "caption": "Technical SEO and Core Web Vitals support both rankings and user experience.",
+            "width": "large",
+            "alignment": "center"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-h-2",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Bilingual hreflang and RTL"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-b-2",
+            "component": "blog_body",
+            "content": "<p>UAE sites often serve English and Arabic. Implement <code>hreflang</code> links between language versions, use proper <code>lang</code> attributes and test RTL layouts. Avoid serving the wrong language based on IP alone without user control.</p><p>See our <a href=\"/blog/bilingual-website-development-uae\">bilingual website development guide</a> for implementation patterns.</p>"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-h-3",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Structured data and schema"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-b-3",
+            "component": "blog_body",
+            "content": "<p>Add schema for <strong>Organization</strong>, <strong>LocalBusiness</strong> (where accurate), <strong>Service</strong>, <strong>FAQPage</strong> and <strong>Article</strong> where relevant. Valid JSON-LD helps search engines understand your content and can enable rich results.</p><p>Test markup with Google Rich Results Test and fix warnings before launch.</p>"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-h-4",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Ongoing monitoring"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-b-4",
+            "component": "blog_body",
+            "content": "<p>Technical SEO is not a one-off audit. Schedule quarterly reviews of Search Console, broken links, security (HTTPS), and page speed. Pair technical work with <a href=\"/blog/local-seo-dubai-uae-guide\">local SEO</a> and quality content for compounding results.</p><p><a href=\"/services/seo\">IGENXT global SEO services</a> and <a href=\"/services/seo-service-uae\">UAE SEO services</a> include technical audits and ongoing optimisation. <a href=\"/contact\">Book a consultation</a> to get started.</p>"
+          }
+        ]
+      },
+      {
+        "_uid": "technical-seo-checklist-uae-faq",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Technical SEO questions for UAE website owners.",
+        "initial_visible_count": 5,
+        "faqs": [
+          {
+            "_uid": "technical-seo-checklist-uae-faq-0",
+            "component": "faq_item",
+            "question": "What Core Web Vitals scores should I aim for?",
+            "answer": "Aim for LCP under 2.5 seconds, INP under 200ms and CLS under 0.1 for a good user experience. Higher scores correlate with better engagement and can support SEO performance.",
+            "category": "General"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-faq-1",
+            "component": "faq_item",
+            "question": "Is hreflang required for UAE bilingual sites?",
+            "answer": "Hreflang is strongly recommended when you publish distinct English and Arabic URLs. It helps Google serve the correct language version to users and reduces duplicate content confusion.",
+            "category": "General"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-faq-2",
+            "component": "faq_item",
+            "question": "How often should I run a technical SEO audit?",
+            "answer": "Run a full audit at launch, after major site changes and at least quarterly. Monitor Search Console weekly for new crawl or indexation issues.",
+            "category": "General"
+          },
+          {
+            "_uid": "technical-seo-checklist-uae-faq-3",
+            "component": "faq_item",
+            "question": "Can you fix SEO issues on WordPress sites?",
+            "answer": "Yes. We audit and improve WordPress, headless and Next.js sites. We also help businesses migrate to Next.js when performance and scalability require it.",
+            "category": "General"
+          }
+        ]
+      },
+      {
+        "_uid": "technical-seo-checklist-uae-cta",
+        "component": "igentx_cta_band",
+        "title": "Fix technical SEO issues before they cost you leads",
+        "description": "Book a free consultation for a technical SEO review of your UAE website.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "Read Local SEO Guide",
+        "secondary_cta_link": {
+          "url": "/blog/local-seo-dubai-uae-guide",
+          "linktype": "url",
+          "cached_url": "blog/local-seo-dubai-uae-guide"
+        }
+      }
+    ]
+  }
+}

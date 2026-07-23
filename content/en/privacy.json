@@ -1,0 +1,578 @@
+{
+  "slug": "privacy",
+  "name": "Privacy Policy",
+  "published_at": "2026-07-23T00:00:00.000Z",
+  "content": {
+    "_uid": "privacy-page-uid",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "privacy-seo",
+        "title": "Privacy Policy | IGENTX",
+        "author": "IGENTX",
+        "og_type": "website",
+        "keywords": "privacy policy, data protection, IGENTX privacy, cookie policy",
+        "og_title": "Privacy Policy | IGENTX",
+        "component": "seo",
+        "publisher": "IGENTX",
+        "description": "How IGENTX collects, uses, and protects your personal information when you visit our website or contact us.",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/privacy",
+        "robots_follow": true,
+        "twitter_title": "Privacy Policy | IGENTX",
+        "og_description": "Learn how IGENTX handles your personal data, cookies, and analytics on our website.",
+        "twitter_card_type": "summary",
+        "twitter_description": "How IGENTX collects, uses, and protects your personal information."
+      },
+      {
+        "_uid": "privacy-legal-page",
+        "title": "Privacy Policy",
+        "last_updated": "2026-07-23",
+        "component": "legal_page",
+        "content_blocks": [
+          {
+            "_uid": "privacy-h1",
+            "text": "Introduction",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b1",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "IGENXT (\"IGENTX\", \"we\", \"us\", or \"our\") operates the website at igentx.com. This Privacy Policy explains how we collect, use, store, and protect personal information when you visit our website, submit an enquiry, or interact with our services."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Data controller: IGENXT, Abu Dhabi, United Arab Emirates. Contact: hello@igentx.com."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This policy is a starter draft and should be reviewed by qualified legal counsel before reliance in regulated contexts."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "privacy-h2",
+            "text": "Information We Collect",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b2",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We may collect the following types of information:"
+                    }
+                  ]
+                },
+                {
+                  "type": "bullet_list",
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact form data: name, email address, phone number (if provided), company name (if provided), and your message when you submit our contact form."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Technical data: IP address, browser type, device type, operating system, referring URLs, pages viewed, and approximate location derived from IP."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Cookie and analytics data: information collected through cookies, local storage, and similar technologies as described below."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We do not intentionally collect sensitive personal data through this website. Please do not submit sensitive information via our contact form."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "privacy-h3",
+            "text": "How We Use Your Information",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b3",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We use personal information for the following purposes:"
+                    }
+                  ]
+                },
+                {
+                  "type": "bullet_list",
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "To respond to your enquiries and provide information about our services and products."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "To operate, maintain, and improve our website and user experience."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "To analyse website traffic and performance using analytics tools."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "To comply with applicable legal obligations and protect our rights."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "privacy-h4",
+            "text": "Cookies and Tracking Technologies",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b4",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We use cookies and similar technologies on this website. When you first visit, you may see a cookie consent banner that lets you accept or decline analytics cookies."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Google Analytics: If you accept analytics cookies, we load Google Analytics to understand how visitors use our site. Google Analytics is only activated after you give consent. Your preference is stored in your browser local storage for up to 365 days."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Microsoft Clarity: If enabled on our site, Microsoft Clarity may load session recording and heatmap tools when a Clarity project ID is configured. Clarity may load without waiting for cookie consent. Where required by law, we rely on our legitimate interest in understanding site usability, and you may contact us to object."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vercel Analytics and Speed Insights: We use Vercel-hosted analytics to measure page performance and aggregate traffic. These tools collect limited technical data to help us improve site speed and reliability."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You can control cookies through your browser settings. Declining analytics cookies will prevent Google Analytics from loading, but some essential or performance-related technologies may still operate."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "privacy-h5",
+            "text": "Third-Party Service Providers",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b5",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We use trusted third-party providers to operate this website:"
+                    }
+                  ]
+                },
+                {
+                  "type": "bullet_list",
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Mailjet: processes contact form submissions and delivers email notifications to our team."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Google: provides Google Analytics when you consent to analytics cookies."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Microsoft: provides Clarity session analytics when configured."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Vercel: hosts our website and provides analytics and performance monitoring."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These providers process data on our behalf and under their own privacy policies. We recommend reviewing their policies for further detail."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "privacy-h6",
+            "text": "Data Retention and Security",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b6",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We retain contact form submissions for as long as needed to respond to your enquiry, manage our business relationship, and meet legal or accounting requirements. Analytics data is retained according to each provider's default retention settings."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We implement reasonable technical and organisational measures to protect personal information. No method of transmission over the internet is completely secure, and we cannot guarantee absolute security."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "privacy-h7",
+            "text": "Your Rights",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b7",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Depending on your location, you may have rights regarding your personal data, including the right to access, correct, delete, restrict processing, object to processing, and request data portability."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Residents of the United Arab Emirates may have rights under applicable data protection laws, including the UAE Personal Data Protection Law (PDPL). Residents of the European Economic Area and United Kingdom may have rights under the GDPR."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "To exercise your rights, contact us at hello@igentx.com. We will respond within a reasonable timeframe and in line with applicable law."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "privacy-h8",
+            "text": "International Transfers",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b8",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Our service providers may process data in countries outside your country of residence, including the United States and the European Union. Where required, we take steps to ensure appropriate safeguards are in place for such transfers."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "privacy-h9",
+            "text": "Changes to This Policy",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b9",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We may update this Privacy Policy from time to time. The \"Last updated\" date at the top of this page indicates when the policy was last revised. Continued use of our website after changes are posted constitutes acceptance of the updated policy."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "privacy-h10",
+            "text": "Contact Us",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "privacy-b10",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "If you have questions about this Privacy Policy or how we handle your data, please contact us:"
+                    }
+                  ]
+                },
+                {
+                  "type": "bullet_list",
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Email: hello@igentx.com"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Location: Abu Dhabi, United Arab Emirates"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

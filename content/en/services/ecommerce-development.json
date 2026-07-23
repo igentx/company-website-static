@@ -1,0 +1,318 @@
+{
+  "slug": "services/ecommerce-development",
+  "name": "Ecommerce Development",
+  "published_at": "2026-07-23T00:00:00.000Z",
+  "content": {
+    "_uid": "ecom-page-root",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "ecom-seo-001",
+        "component": "seo",
+        "title": "Ecommerce Development | Headless & Platform Stores | IGENTX",
+        "description": "Headless and platform ecommerce built for speed, conversion and global payments. Shopify, BigCommerce, WooCommerce and custom Next.js storefronts from IGENTX.",
+        "keywords": "ecommerce development agency, headless ecommerce, Shopify development, BigCommerce development, online store development",
+        "canonical_url": "https://www.igentx.com/services/ecommerce-development",
+        "robots_index": true,
+        "robots_follow": true,
+        "og_type": "website",
+        "og_title": "Ecommerce Development | IGENTX",
+        "og_description": "Build high-performing ecommerce stores with IGENTX. From Shopify and WooCommerce to custom Next.js storefronts, we deliver secure, multilingual and conversion-optimised online stores.",
+        "og_image": {
+          "filename": "/assets/images/ecommerce-development.webp",
+          "alt": "Ecommerce development by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_card_type": "summary_large_image",
+        "twitter_title": "Ecommerce Development | IGENTX",
+        "twitter_description": "Ecommerce storefronts that load fast and convert: Shopify, WooCommerce, BigCommerce or custom Next.js.",
+        "twitter_image": {
+          "filename": "/assets/images/ecommerce-development.webp",
+          "alt": "Ecommerce development by IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "structured_data_type": "Service",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Ecommerce Website Development\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"Ecommerce development for Shopify, WooCommerce, BigCommerce and custom headless storefronts.\"\n}"
+      },
+      {
+        "_uid": "ecom-hero-001",
+        "component": "service_hero",
+        "badge_text": "IGENTX Service",
+        "title": "Online stores built for speed, conversion and scale",
+        "summary": "Rigid templates and slow checkout cost sales. We build headless and platform ecommerce for retailers worldwide: fast storefronts, secure payments, multilingual catalogues and integrations that support measurable growth.",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "back_link": {
+          "url": "/services",
+          "linktype": "url",
+          "cached_url": "services"
+        },
+        "back_link_label": "Back to Services",
+        "featured_image": {
+          "filename": "/assets/images/ecommerce-development.webp",
+          "alt": "Ecommerce development",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "Headless and platform ecommerce builds\nSecure checkout and payment integrations\nMultilingual stores for global markets\nSEO, analytics and conversion optimisation",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "ecom-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Commerce Partner",
+        "title": "Ecommerce engineered for performance and growth",
+        "description": "We combine platform expertise with modern front-end engineering so your store loads fast, converts reliably and integrates with the tools your team already uses.",
+        "partner_logos": [
+          {
+            "_uid": "ecom-p-shopify",
+            "component": "trust_band_partner",
+            "name": "Shopify",
+            "icon": {
+              "filename": "/assets/icons/shopify.svg",
+              "alt": "Shopify"
+            }
+          },
+          {
+            "_uid": "ecom-p-bigcommerce",
+            "component": "trust_band_partner",
+            "name": "BigCommerce",
+            "icon": {
+              "filename": "/assets/icons/bigcommerce.svg",
+              "alt": "BigCommerce"
+            }
+          },
+          {
+            "_uid": "ecom-p-woocommerce",
+            "component": "trust_band_partner",
+            "name": "WooCommerce",
+            "icon": {
+              "filename": "/assets/icons/woocommerce.svg",
+              "alt": "WooCommerce"
+            }
+          },
+          {
+            "_uid": "ecom-p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "ecom-m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built",
+            "description": "Tailored storefronts, not generic themes",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "ecom-m2",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "ecom-m3",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Delivery",
+            "description": "Multilingual stores and international payments",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "ecom-m4",
+            "component": "trust_band_metric",
+            "value": "Fast",
+            "label": "Core Web Vitals",
+            "description": "Performance-first checkout experiences",
+            "icon_key": "layers"
+          }
+        ]
+      },
+      {
+        "_uid": "ecom-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "What We Build",
+        "title": "Commerce experiences that convert",
+        "description": "From platform stores to headless architectures, we scope and build ecommerce that improves page speed, checkout completion and long-term scalability.",
+        "features": [
+          {
+            "_uid": "ecom-f1",
+            "component": "differentiator_feature",
+            "title": "Headless Storefronts",
+            "highlight": "Maximum performance",
+            "description": "Custom Next.js storefronts connected to Shopify, BigCommerce or commercetools APIs for design freedom and fast Core Web Vitals.",
+            "icon": {
+              "filename": "/assets/icons/headless-cms-icon.svg",
+              "alt": "Headless storefronts",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-f2",
+            "component": "differentiator_feature",
+            "title": "Shopify Development",
+            "highlight": "Fast to market",
+            "description": "Custom Shopify themes, app integrations and checkout optimisations for retailers who need a proven platform with a strong app ecosystem.",
+            "icon": {
+              "filename": "/assets/icons/shopify.svg",
+              "alt": "Shopify development",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-f3",
+            "component": "differentiator_feature",
+            "title": "BigCommerce & WooCommerce",
+            "highlight": "Flexible platforms",
+            "description": "Store builds and migrations on BigCommerce for larger catalogues and B2B features, or WooCommerce for WordPress-based commerce stacks.",
+            "icon": {
+              "filename": "/assets/icons/bigcommerce.svg",
+              "alt": "BigCommerce and WooCommerce",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-f4",
+            "component": "differentiator_feature",
+            "title": "Payments & Checkout",
+            "highlight": "Secure transactions",
+            "description": "Stripe, PayPal, regional gateways and one-page checkout flows designed to reduce abandonment and support global customers.",
+            "icon": {
+              "filename": "/assets/icons/api-integrations-icon.svg",
+              "alt": "Payment integrations",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-f5",
+            "component": "differentiator_feature",
+            "title": "Multilingual Stores",
+            "highlight": "Global reach",
+            "description": "Localised catalogues, currency support and multilingual content so you can sell across regions without rebuilding your stack.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Multilingual stores",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "ecom-f6",
+            "component": "differentiator_feature",
+            "title": "SEO & Conversion",
+            "highlight": "More qualified traffic",
+            "description": "Technical SEO, structured data, analytics and CRO-focused layouts so your store ranks better and turns visitors into buyers.",
+            "icon": {
+              "filename": "/assets/icons/google-analytics-icon.svg",
+              "alt": "SEO and conversion",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "ecom-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to build an online store that converts?",
+        "description": "Book a free consultation to discuss your catalogue, platform options, payment integrations and launch timeline. We will scope a realistic proposal from MVP store to headless commerce.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View Case Studies",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
+      },
+      {
+        "_uid": "ecom-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about ecommerce platforms, headless commerce, payments, timelines and ongoing support.",
+        "initial_visible_count": 8,
+        "faqs": [
+          {
+            "_uid": "ecom-faq-q1",
+            "component": "faq_item",
+            "question": "What ecommerce platforms do you build on?",
+            "answer": "We work with Shopify, BigCommerce, WooCommerce and custom headless storefronts using Next.js connected to commerce APIs such as Shopify Storefront, BigCommerce and commercetools. Platform choice depends on your catalogue size, customisation needs, integrations and growth plans.",
+            "category": "General"
+          },
+          {
+            "_uid": "ecom-faq-q2",
+            "component": "faq_item",
+            "question": "Shopify vs BigCommerce: which is right for my business?",
+            "answer": "Shopify excels for fast setup, a strong app ecosystem and smaller-to-mid catalogues. BigCommerce suits larger catalogues, B2B features and headless commerce flexibility. We assess your product count, integration needs and growth plans to recommend the right platform, or a headless approach for maximum performance and design freedom.",
+            "category": "Platforms"
+          },
+          {
+            "_uid": "ecom-faq-q3",
+            "component": "faq_item",
+            "question": "What is headless ecommerce?",
+            "answer": "Headless ecommerce separates the storefront (what customers see) from the commerce backend (products, cart, checkout). This lets us build fast, custom front ends with Next.js while using proven platforms for inventory, payments and order management. It is ideal when performance, design freedom and integrations matter.",
+            "category": "Platforms"
+          },
+          {
+            "_uid": "ecom-faq-q4",
+            "component": "faq_item",
+            "question": "Can you migrate my existing online store?",
+            "answer": "Yes. We migrate stores from WordPress, WooCommerce, Magento, legacy Shopify themes and custom builds to modern platforms or headless architectures. We plan URL redirects, preserve SEO equity where possible and improve page speed and checkout as part of the migration.",
+            "category": "Process"
+          },
+          {
+            "_uid": "ecom-faq-q5",
+            "component": "faq_item",
+            "question": "Do you integrate payment gateways?",
+            "answer": "Yes. We integrate Stripe, PayPal, Apple Pay, Google Pay and regional gateways required for your markets. Checkout flows are scoped for security, mobile usability and conversion, with testing across devices before launch.",
+            "category": "Payments"
+          },
+          {
+            "_uid": "ecom-faq-q6",
+            "component": "faq_item",
+            "question": "How long does ecommerce development take?",
+            "answer": "A focused Shopify or WooCommerce store often takes 3-6 weeks depending on catalogue size, design scope and integrations. Headless builds and larger catalogues typically take 6-10 weeks. We provide a realistic timeline after discovery based on features, content readiness and third-party integrations.",
+            "category": "Process"
+          },
+          {
+            "_uid": "ecom-faq-q7",
+            "component": "faq_item",
+            "question": "Do you build multilingual ecommerce stores?",
+            "answer": "Yes. We build multilingual storefronts with localised product content, currency support and SEO-friendly URL structures. This helps retailers serve global audiences and diverse local markets from a single commerce stack.",
+            "category": "General"
+          },
+          {
+            "_uid": "ecom-faq-q8",
+            "component": "faq_item",
+            "question": "Do you provide maintenance after launch?",
+            "answer": "Yes. We offer ongoing support covering security updates, platform upgrades, performance monitoring, catalogue changes and conversion improvements. Support can be scoped as ad-hoc hours or a monthly retainer with agreed response times.",
+            "category": "Support"
+          },
+          {
+            "_uid": "ecom-faq-uae-link",
+            "component": "faq_item",
+            "question": "Do you build ecommerce stores for the UAE?",
+            "answer": "Yes. We build UAE ecommerce with local payment gateways, bilingual catalogues and COD-friendly checkout. See our UAE ecommerce development page for regional projects.",
+            "category": "General"
+          }
+        ]
+      }
+    ]
+  }
+}

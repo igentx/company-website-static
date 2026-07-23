@@ -1,0 +1,1868 @@
+{
+  "slug": "uae",
+  "name": "UAE",
+  "published_at": "2026-07-23T16:53:00.913Z",
+  "content": {
+    "_uid": "5ec98fe7-84b4-492e-8002-3d50cb630d31",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "uae-seo-001",
+        "component": "seo",
+        "title": "Digital Agency Dubai & Childcare Management Software UAE | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "website",
+        "keywords": "digital agency Dubai, web development UAE, childcare management software UAE, nursery management software UAE, preschool management system Dubai, childcare centre software Abu Dhabi, early childhood education software UAE, DaycareMate UAE, AI agency Dubai, SEO services Dubai",
+        "og_image": {
+          "filename": "/assets/images/daycaremate-hero.webp",
+          "alt": "DaycareMate childcare management software for UAE centres",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "Digital Agency Dubai & Childcare Management Software UAE | IGENTX",
+        "publisher": "IGENTX",
+        "description": "DaycareMate by IGENTX: childcare management software for nurseries and preschools in Dubai and Abu Dhabi. Plus bilingual websites, ecommerce, branding, local SEO and AI enquiry tools for UAE businesses.",
+        "article_tags": "childcare management software UAE, nursery management software Dubai, DaycareMate UAE, digital agency Dubai, web development UAE",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/uae",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/daycaremate-hero.webp",
+          "alt": "DaycareMate childcare management software for UAE centres",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "Digital Agency Dubai & Childcare Management Software UAE | IGENTX",
+        "article_author": "IGENTX",
+        "og_description": "Childcare centre software and digital agency services for the UAE. DaycareMate for centre operations; IGENTX for websites, SEO and AI-powered growth.",
+        "article_section": "UAE",
+        "robots_nosnippet": false,
+        "robots_noarchive": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "DaycareMate for UAE childcare centres. Web development, ecommerce, branding and SEO for growing businesses across the Emirates.",
+        "structured_data_type": "Custom",
+        "article_published_time": "2025-10-26 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"Service\",\n      \"serviceType\": \"Digital Agency Services\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\",\n        \"logo\": \"https://www.igentx.com/assets/images/logo.png\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      },\n      \"hasOfferCatalog\": {\n        \"@type\": \"OfferCatalog\",\n        \"name\": \"IGENTX UAE Services and Products\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Web Development UAE\",\n              \"url\": \"https://www.igentx.com/services/web-development-uae\",\n              \"description\": \"Bilingual, high-performance websites for Dubai, Abu Dhabi and the Emirates.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Ecommerce Development UAE\",\n              \"url\": \"https://www.igentx.com/services/ecommerce-website-development-uae\",\n              \"description\": \"UAE ecommerce with local payment gateways and Arabic catalogues.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Branding and Graphic Design UAE\",\n              \"url\": \"https://www.igentx.com/services/graphic-design-uae\",\n              \"description\": \"Brand identity and marketing creative for UAE businesses.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"SEO Services UAE\",\n              \"url\": \"https://www.igentx.com/services/seo-service-uae\",\n              \"description\": \"Technical and local SEO for Dubai and UAE search visibility.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"AI Solutions\",\n              \"url\": \"https://www.igentx.com/services/ai-solutions\",\n              \"description\": \"AI integrations, automation and intelligent workflows for business growth.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Software Development\",\n              \"url\": \"https://www.igentx.com/services/custom-software-development\",\n              \"description\": \"Bespoke web applications and internal tools tailored to your workflows.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"AI Customer Service Agent\",\n              \"url\": \"https://www.igentx.com/products/ai-customer-service-agent\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"description\": \"24/7 multilingual AI enquiry assistant with RAG and one-line website integration.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"DaycareMate\",\n              \"url\": \"https://www.igentx.com/products/daycaremate\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"areaServed\": {\n                \"@type\": \"Country\",\n                \"name\": \"United Arab Emirates\"\n              },\n              \"description\": \"Childcare centre management software for nurseries and preschools: admissions, attendance, family messaging, activity feed and invoice-first billing.\"\n            }\n          }\n        ]\n      }\n    },\n    {\n      \"@type\": \"SoftwareApplication\",\n      \"name\": \"DaycareMate\",\n      \"url\": \"https://www.igentx.com/products/daycaremate\",\n      \"applicationCategory\": \"BusinessApplication\",\n      \"operatingSystem\": \"Web\",\n      \"description\": \"Childcare management platform by IGENTX for nurseries, preschools and early learning centres in the UAE and worldwide. Admissions, attendance, messaging and billing in one system.\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      }\n    }\n  ]\n}"
+      },
+      {
+        "_uid": "uae-hero-001",
+        "component": "igentx_hero",
+        "badge_text": "UAE · Dubai · Abu Dhabi",
+        "subheadline": "Bilingual websites, local SEO, AI products and proven UAE case studies that help you capture more leads and grow faster.",
+        "slides": [
+          {
+            "_uid": "uae-slide-01",
+            "title": "Your AI-First Digital Partner in Dubai and the UAE",
+            "summary": "We help UAE businesses launch faster with bilingual English and Arabic websites, local SEO, secure payment integrations and AI-powered enquiry capture. From Dubai startups to established brands across the Emirates, we deliver measurable growth.",
+            "category": "UAE Digital Agency",
+            "cta_link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "contact"
+            },
+            "cta_text": "Book a Free Consultation",
+            "secondary_cta_link": {
+              "url": "case-studies",
+              "linktype": "url",
+              "cached_url": "case-studies"
+            },
+            "secondary_cta_text": "View UAE Case Studies",
+            "component": "hero_slide",
+            "featured_image": {
+              "alt": "AI-powered web development",
+              "filename": "/assets/images/web-development.webp",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "quick_features": "Bilingual English and Arabic websites\nLocal SEO for Dubai, Abu Dhabi, Sharjah and Ajman\nUAE payment gateway integration\nProven regional case studies",
+            "pricing_preview": "",
+            "duration": ""
+          },
+          {
+            "_uid": "uae-slide-02",
+            "title": "24/7 AI Enquiry Assistant for UAE Websites",
+            "summary": "Capture leads outside office hours with our AI Customer Service Agent. Answers visitor questions instantly in English and Arabic, trained on your content and ready to deploy on any website in minutes.",
+            "category": "AI Solutions",
+            "cta_link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "products/ai-customer-service-agent"
+            },
+            "cta_text": "Request a Demo",
+            "component": "hero_slide",
+            "featured_image": {
+              "alt": "AI Customer Service Agent for UAE businesses",
+              "filename": "/assets/images/ai-customer-service-agent-home.webp",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "quick_features": "English and Arabic support\nLearns from your website content\nOne-line integration\nManual lead review by your team",
+            "pricing_preview": "",
+            "duration": ""
+          },
+          {
+            "_uid": "uae-slide-03-daycaremate",
+            "title": "Childcare Management Software Built for UAE Centres",
+            "summary": "One platform for admissions, attendance, family communication and billing. Built by IGENTX and deployed at BloomWave Learning and Daycare in Abu Dhabi.",
+            "category": "IGENTX Product",
+            "cta_link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "products/daycaremate"
+            },
+            "cta_text": "Explore DaycareMate",
+            "secondary_cta_link": {
+              "url": "case-studies/bloomwave-learning-daycare",
+              "linktype": "url",
+              "cached_url": "case-studies/bloomwave-learning-daycare"
+            },
+            "secondary_cta_text": "Read BloomWave Case Study",
+            "component": "hero_slide",
+            "featured_image": {
+              "alt": "DaycareMate childcare management software for UAE centres",
+              "filename": "/assets/images/daycaremate-hero.webp",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "quick_features": "Admissions and enrolment\nAttendance and daily reports\nFamily messaging\nInvoice-first billing",
+            "pricing_preview": "",
+            "duration": ""
+          }
+        ],
+        "trust_signals": [
+          {
+            "_uid": "uae-ts-1",
+            "label": "Faster Delivery",
+            "value": "3x",
+            "component": "trust_signal_item"
+          },
+          {
+            "_uid": "uae-ts-2",
+            "label": "Core Web Vitals Score",
+            "value": "99+",
+            "component": "trust_signal_item"
+          },
+          {
+            "_uid": "uae-ts-3",
+            "label": "Support",
+            "value": "24/7",
+            "component": "trust_signal_item"
+          },
+          {
+            "_uid": "uae-ts-4",
+            "label": "Bilingual Ready",
+            "value": "EN/AR",
+            "component": "trust_signal_item"
+          }
+        ],
+        "autoplay_delay": "11000",
+        "headline_part1": "Digital Agency for",
+        "headline_part2": "Dubai & the UAE",
+        "headline_part3": "Web, ecommerce, AI products and local SEO built for measurable growth.",
+        "enable_autoplay": true,
+        "background_image": {
+          "alt": "IGENTX UAE digital agency",
+          "filename": "/assets/images/hero-bg-web-development.webp",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "background_video": {
+          "filename": "",
+          "fieldtype": "asset"
+        },
+        "primary_cta_link": {
+          "url": "",
+          "linktype": "story",
+          "cached_url": "contact"
+        },
+        "primary_cta_text": "Book a Free Consultation",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        },
+        "secondary_cta_text": "View UAE Case Studies"
+      },
+      {
+        "_uid": "uae-trust-001",
+        "component": "igentx_trust_band",
+        "badge_text": "Trusted Partner",
+        "title": "Trusted by Growing Businesses",
+        "description": "Helping Dubai, Abu Dhabi and UAE businesses build modern digital experiences that drive leads, conversions and long-term growth.",
+        "partner_logos": [
+          {
+            "_uid": "p-nextjs",
+            "component": "trust_band_partner",
+            "name": "Next.js",
+            "icon": {
+              "filename": "/assets/icons/nextjs-icon.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "_uid": "p-react",
+            "component": "trust_band_partner",
+            "name": "React",
+            "icon": {
+              "filename": "/assets/icons/react-icon.svg",
+              "alt": "React"
+            }
+          },
+          {
+            "_uid": "p-vercel",
+            "component": "trust_band_partner",
+            "name": "Vercel",
+            "icon": {
+              "filename": "/assets/icons/vercel-icon.svg",
+              "alt": "Vercel"
+            }
+          },
+          {
+            "_uid": "p-aws",
+            "component": "trust_band_partner",
+            "name": "AWS",
+            "icon": {
+              "filename": "/assets/icons/aws-icon.svg",
+              "alt": "AWS"
+            }
+          },
+          {
+            "_uid": "p-shopify",
+            "component": "trust_band_partner",
+            "name": "Shopify",
+            "icon": {
+              "filename": "/assets/icons/shopify.svg",
+              "alt": "Shopify"
+            }
+          },
+          {
+            "_uid": "p-storyblok",
+            "component": "trust_band_partner",
+            "name": "Storyblok",
+            "icon": {
+              "filename": "/assets/icons/storyblok_icon.svg",
+              "alt": "Storyblok"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "m1",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Custom-Built Solutions",
+            "description": "Tailored to your business, not templates",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "m3",
+            "component": "trust_band_metric",
+            "value": "10+",
+            "label": "Years of Experience",
+            "description": "Delivering innovation since 2014",
+            "icon_key": "experience"
+          },
+          {
+            "_uid": "m2",
+            "component": "trust_band_metric",
+            "value": "100%",
+            "label": "Client Satisfaction",
+            "description": "Long-term partnerships built on trust",
+            "icon_key": "satisfaction"
+          },
+          {
+            "_uid": "m4",
+            "component": "trust_band_metric",
+            "value": "Global",
+            "label": "Multi-Country Support",
+            "description": "Global presence with local expertise",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "m5",
+            "component": "trust_band_metric",
+            "value": "24/7",
+            "label": "Customer Support",
+            "description": "Always here when you need us",
+            "icon_key": "support"
+          }
+        ]
+      },
+      {
+        "_uid": "uae-products-001",
+        "title": "Childcare Management Software for UAE Centres",
+        "cta_link": {
+          "id": "",
+          "url": "products",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "products"
+        },
+        "cta_text": "View all IGENTX products",
+        "component": "igentx_products",
+        "badge_text": "Built by IGENTX · UAE Primary Market",
+        "description": "DaycareMate helps nurseries, preschools and childcare centres run admissions, attendance, family communication and billing in one platform. Pair it with our AI Customer Service Agent to capture website enquiries and streamline centre operations.",
+        "featured_product": {
+          "badge_text": "Featured Product",
+          "logo": {
+            "filename": "/assets/images/daycaremate-vertical-logo.webp",
+            "alt": "DaycareMate logo"
+          },
+          "title": "DaycareMate",
+          "tagline": "Complete Childcare Management Platform",
+          "description": "DaycareMate gives nurseries, preschools and early learning centres in the UAE and worldwide everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform. Each centre runs on a dedicated deployment.",
+          "brand_link": {
+            "text": "DaycareMate",
+            "url": "https://www.daycaremate.com"
+          },
+          "feature_pills": [
+            {
+              "label": "Admissions",
+              "icon": "admissions"
+            },
+            {
+              "label": "Attendance",
+              "icon": "attendance"
+            },
+            {
+              "label": "Activity Feed",
+              "icon": "activity_feed"
+            },
+            {
+              "label": "Family Portal",
+              "icon": "parent_app"
+            },
+            {
+              "label": "Messaging",
+              "icon": "messaging"
+            },
+            {
+              "label": "Billing",
+              "icon": "billing"
+            },
+            {
+              "label": "Reports",
+              "icon": "reports"
+            }
+          ],
+          "trust_banner": "Deployed at BloomWave Learning and Daycare in Abu Dhabi. Built for real centre operations, not generic school admin software.",
+          "cta_text": "Book a DaycareMate Demo",
+          "cta_link": {
+            "url": "",
+            "linktype": "story",
+            "cached_url": "contact"
+          },
+          "screenshot": {
+            "filename": "/assets/images/daycaremate-dashboard.webp",
+            "alt": "DaycareMate childcare management dashboard"
+          }
+        },
+        "ai_product": {
+          "badge_text": "AI Solution",
+          "title": "AI Customer Service Agent",
+          "description": "Turn your UAE website into a 24/7 enquiry assistant that answers questions instantly in English and Arabic, qualifies leads and reduces support workload. Leads are reviewed manually by your team.",
+          "feature_pills": [
+            "Instant Replies",
+            "Learns Your Content",
+            "Multilingual",
+            "One-Line Integration"
+          ],
+          "stats": [
+            {
+              "value": "Available in Minutes"
+            },
+            {
+              "value": "English and Arabic"
+            },
+            {
+              "value": "One-Line Integration"
+            }
+          ],
+          "cta_text": "View Demo",
+          "cta_link": {
+            "id": "",
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": "products/ai-customer-service-agent"
+          },
+          "image": {
+            "filename": "/assets/images/ai-customer-service.webp",
+            "alt": "AI Customer Service Agent illustration"
+          }
+        },
+        "coming_soon": {
+          "badge_text": "Coming Soon",
+          "title": "More Products On The Way",
+          "description": "We're building more AI-powered solutions to help businesses automate, scale and grow.",
+          "category_pills": [
+            "AI Automation",
+            "Analytics Platform",
+            "Commerce Tools",
+            "And More"
+          ],
+          "image": {
+            "filename": "/assets/images/more-products-on-the-way.webp",
+            "alt": ""
+          }
+        }
+      },
+      {
+        "_uid": "uae-dm-features-001",
+        "component": "why_choose_igentx",
+        "badge_text": "DaycareMate Platform",
+        "title": "Everything Your UAE Centre Runs On",
+        "description": "One integrated platform from the first family enquiry to daily care, communication and billing. Global deployments with configurable currency, timezone and tax settings for each centre.",
+        "features": [
+          {
+            "_uid": "dm-f-admissions",
+            "component": "differentiator_feature",
+            "title": "Admissions",
+            "highlight": "Magic-link onboarding",
+            "description": "Replace paper forms with configurable admission templates, parent magic-link onboarding, and one-click approval into student records and first invoices.",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Admissions",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-leads",
+            "component": "differentiator_feature",
+            "title": "Leads Pipeline",
+            "highlight": "Enquiry to enrolment",
+            "description": "Capture website enquiries, review optional AI chat conversations, and convert qualified families into admissions without a separate CRM. Staff manually convert leads to the pipeline.",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Leads pipeline",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-attendance",
+            "component": "differentiator_feature",
+            "title": "Attendance",
+            "highlight": "Tap-and-go roster",
+            "description": "Daily check-in and check-out, QR scan check-in, leave requests with staff approval, and a real-time picture of who is in for admins and families.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Attendance",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-activity",
+            "component": "differentiator_feature",
+            "title": "Activity Feed",
+            "highlight": "Family trust",
+            "description": "Teachers log meals, naps, learning, mood, and milestones in seconds. Photo attachments reach families through private storage, scoped to authorised parents only.",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Activity feed",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-messaging",
+            "component": "differentiator_feature",
+            "title": "Messaging",
+            "highlight": "One channel",
+            "description": "1:1 conversations between parents, teachers, and admins, plus broadcasts for closures and reminders. Realtime inbox updates and email notifications when configured.",
+            "icon": {
+              "filename": "/assets/icons/ai-chat.svg",
+              "alt": "Messaging",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-billing",
+            "component": "differentiator_feature",
+            "title": "Billing",
+            "highlight": "Invoice-first",
+            "description": "Reusable fee plans, billing runs, parent payment proof workflow, credit notes, and account statements with tax frozen at issue time.",
+            "icon": {
+              "filename": "/assets/icons/seo-first.svg",
+              "alt": "Billing",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-lifecycle",
+            "component": "differentiator_feature",
+            "title": "Student Lifecycle",
+            "highlight": "Full journey",
+            "description": "Manage withdrawal with retention policies, archives, re-enrollment for returning families, and program promotion to the next classroom.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Student lifecycle",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-embed",
+            "component": "differentiator_feature",
+            "title": "Embeddable Enquiry Forms",
+            "highlight": "Lead capture",
+            "description": "Drop enquiry forms into your existing centre website with consent capture. Leads land in your admin board for review and one-click admission conversion.",
+            "icon": {
+              "filename": "/assets/icons/lightning-fast.svg",
+              "alt": "Embeddable forms",
+              "fieldtype": "asset"
+            }
+          }
+        ],
+        "show_speed_comparison": true,
+        "speed_comparison_title": "The Difference an Integrated Platform Makes",
+        "speed_comparison_description": "See how DaycareMate replaces fragmented tools with one system built for early childhood education operations.",
+        "traditional_approach_title": "Without DaycareMate",
+        "traditional_approach_points": [
+          {
+            "_uid": "dm-tap1",
+            "text": "Spreadsheets, WhatsApp, and paper forms for admissions and billing",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-tap2",
+            "text": "Manual follow-up on every family enquiry",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-tap3",
+            "text": "Parents call or message for daily updates",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-tap4",
+            "text": "Billing errors and painful reconciliation",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-tap5",
+            "text": "Data scattered across disconnected tools",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "igentx_advantage_label": "IGENTX Advantage",
+        "igentx_approach_title": "With DaycareMate",
+        "igentx_approach_points": [
+          {
+            "_uid": "dm-iap1",
+            "text": "One platform from enquiry to receipt PDF",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-iap2",
+            "text": "Magic-link admissions with one-click approval",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-iap3",
+            "text": "Activity feed and messaging keep families informed in-app",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-iap4",
+            "text": "Audit-logged invoices and parent account statements",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "dm-iap5",
+            "text": "Dedicated deployment per centre with role-based access",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "uae_signals_title": "Three Portals, One Platform",
+        "uae_signals_description": "Tailored experiences for every role, with responsive web portals and PWA install support today.",
+        "uae_signals": [
+          {
+            "_uid": "dm-portal-admin",
+            "component": "uae_signal_item",
+            "title": "Admin Portal",
+            "description": "Admissions, billing runs, staff management, leads pipeline, and centre-wide reporting.",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Admin portal",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-portal-teacher",
+            "component": "uae_signal_item",
+            "title": "Teacher Portal",
+            "description": "Classroom attendance, activity logging, and parent messaging built for fast phone entry.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Teacher portal",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-portal-family",
+            "component": "uae_signal_item",
+            "title": "Family Portal",
+            "description": "Daily activity feed, messaging, billing statements, and leave requests for parents and guardians.",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Family portal",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-portal-pwa",
+            "component": "uae_signal_item",
+            "title": "PWA and Mobile-Ready Web",
+            "description": "Responsive portals with add-to-homescreen support. Native mobile apps are on the roadmap.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Mobile ready",
+              "fieldtype": "asset"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "uae-why-001",
+        "title": "Why UAE Businesses Choose IGENTX",
+        "features": [
+          {
+            "_uid": "wc1",
+            "component": "differentiator_feature",
+            "title": "AI-First Development",
+            "highlight": "Faster delivery",
+            "description": "Modern AI-powered workflows that accelerate delivery without compromising quality.",
+            "icon": {
+              "filename": "/assets/icons/ai-powered.svg",
+              "alt": "AI"
+            }
+          },
+          {
+            "_uid": "wc2",
+            "component": "differentiator_feature",
+            "title": "Performance by Default",
+            "highlight": "Core Web Vitals",
+            "description": "Every solution is built for speed, accessibility, SEO and Core Web Vitals from day one.",
+            "icon": {
+              "filename": "/assets/icons/lightning-fast.svg",
+              "alt": "Performance"
+            }
+          },
+          {
+            "_uid": "wc3",
+            "component": "differentiator_feature",
+            "title": "Modern, Scalable Architecture",
+            "highlight": "Production-ready stack",
+            "description": "Scalable solutions using Next.js, React, AWS, Vercel and modern cloud technologies.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Architecture"
+            }
+          },
+          {
+            "_uid": "wc4",
+            "component": "differentiator_feature",
+            "title": "Business-Focused Delivery",
+            "highlight": "Outcomes first",
+            "description": "We solve business problems, not just technical challenges, with clear ROI at every stage.",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Business"
+            }
+          },
+          {
+            "_uid": "wc5",
+            "component": "differentiator_feature",
+            "title": "Multi-Language Support",
+            "highlight": "English and Arabic",
+            "description": "English, Arabic, and additional languages so your product connects with local and global audiences.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Multi-language"
+            }
+          },
+          {
+            "_uid": "wc6",
+            "component": "differentiator_feature",
+            "title": "Long-Term Partnership",
+            "highlight": "Beyond launch",
+            "description": "Continuous optimisation, support and growth beyond launch. We stay with you as you scale.",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Partnership"
+            }
+          }
+        ],
+        "component": "why_choose_igentx",
+        "badge_text": "Why Choose IGENTX",
+        "description": "An AI-first technology partner with deep UAE market experience, delivering bilingual websites, local SEO and measurable business outcomes from launch to growth.",
+        "uae_signals": [
+          {
+            "_uid": "66da9cb9-a8e9-4d79-951c-360d68acdd99",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "filename": null,
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "title": "Regional Expertise",
+            "component": "uae_signal_item",
+            "description": "Deep experience in the UAE market: bilingual delivery, local compliance, and regional partnerships."
+          },
+          {
+            "_uid": "dfa685f4-5b98-4338-8483-ccca4fceb091",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "title": "Arabic + English Support",
+            "component": "uae_signal_item",
+            "description": "English and Arabic delivery to connect with local and global audiences."
+          },
+          {
+            "_uid": "93360649-4326-4665-8f57-8bc2705dc6b2",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "title": "UAE Market Ready",
+            "component": "uae_signal_item",
+            "description": "Solutions designed with UAE market requirements and data practices in mind."
+          }
+        ],
+        "uae_signals_title": "Global delivery · UAE expertise",
+        "igentx_approach_title": "AI-Driven Development",
+        "show_speed_comparison": true,
+        "igentx_advantage_label": "IGENTX Advantage",
+        "igentx_approach_points": [
+          {
+            "_uid": "iap1",
+            "text": "Structured discovery and clear milestones",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap2",
+            "text": "AI-assisted design and development",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap3",
+            "text": "Performance checked before launch",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap4",
+            "text": "Proactive maintenance and optimisation",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "speed_comparison_title": "Speed Is Everything Online",
+        "uae_signals_description": "Worldwide delivery. Deep UAE market experience.",
+        "traditional_approach_title": "Traditional Approach",
+        "traditional_approach_points": [
+          {
+            "_uid": "tap1",
+            "text": "Lengthy timelines with unclear scope",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap2",
+            "text": "Manual coding with limited automation",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap3",
+            "text": "Performance issues discovered late",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap4",
+            "text": "Higher long-term maintenance costs",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "speed_comparison_description": "Our AI-driven workflow is designed to move faster than traditional web development, with clearer milestones and stronger performance from launch."
+      },
+      {
+        "_uid": "uae-services-grid-001",
+        "title": "Digital Services for UAE Businesses",
+        "columns": "3",
+        "cta_link": {
+          "id": "",
+          "url": "contact",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "contact"
+        },
+        "cta_text": "Book a Free Consultation",
+        "services": [
+          {
+            "_uid": "uae-svc-custom",
+            "component": "service_card",
+            "title": "Custom Software Development",
+            "excerpt": "Bespoke web applications, internal tools and product platforms built for UAE business workflows, integrations and growth goals.",
+            "category": "",
+            "tags": "",
+            "is_popular": false,
+            "key_features": "Custom portals and dashboards\nAPI integrations and automation\nMultilingual and RTL-ready builds\nScalable cloud architecture",
+            "pricing_preview": "",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "services/custom-software-development"
+            },
+            "featured_image": {
+              "filename": "/assets/images/custom-software-development.webp",
+              "alt": "Custom software development for UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "icon": {
+              "filename": "",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "uae-svc-ai",
+            "component": "service_card",
+            "title": "AI Solutions",
+            "excerpt": "AI integrations, automation and intelligent workflows that help UAE businesses save time, capture more leads and improve customer experiences.",
+            "category": "",
+            "tags": "",
+            "is_popular": false,
+            "key_features": "AI Customer Service Agent deployment\nWorkflow automation and integrations\nRAG-powered knowledge assistants\nEnglish and Arabic support",
+            "pricing_preview": "",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "services/ai-solutions"
+            },
+            "featured_image": {
+              "filename": "/assets/images/ai-solutions.webp",
+              "alt": "AI solutions for UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            },
+            "icon": {
+              "filename": "",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "2595926d-281e-4017-a1b3-fba79dc3b00b",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "link": {
+              "id": "d93d3d6d-8551-4ead-8d0b-dad81c12b5fb",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "services/web-development-uae"
+            },
+            "tags": "",
+            "title": "Custom Web Development Services",
+            "excerpt": "Powerful, scalable, and high-performance web applications built to elevate your business presence and drive measurable results.",
+            "category": "",
+            "component": "service_card",
+            "is_popular": true,
+            "key_features": "Responsive & Mobile-First Design\nFast, Secure & SEO-Optimized Code\nCMS, Web Portals & Custom Solutions",
+            "featured_image": {
+              "id": 105577527292831,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/images/web-development-uae.webp",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "pricing_preview": ""
+          },
+          {
+            "_uid": "2db52192-5c66-470c-aca2-b8ecad49ea3c",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "link": {
+              "id": "55ecf036-4283-4508-aee1-d8c6ca97cf2e",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "services/ecommerce-website-development-uae"
+            },
+            "tags": "",
+            "title": "Ecommerce Development Solutions",
+            "excerpt": "Launch your online store with speed, reliability, and style. We build ecommerce experiences that convert visitors into customers.",
+            "category": "",
+            "component": "service_card",
+            "is_popular": false,
+            "key_features": "Custom Storefronts with Shopify, Bigcommerce, WooCommerce, or Custom Stack\nPayment Gateway Integration (UAE & Global)\nProduct Management & Analytics Dashboard",
+            "featured_image": {
+              "id": 105577785783202,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/images/ecommerce-website-development-uae.webp",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "pricing_preview": ""
+          },
+          {
+            "_uid": "faf879a6-2c7c-40bd-870d-8506dec81e9c",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "link": {
+              "id": "a15bc4d4-2437-4fdf-ac2d-d1607b8d8e73",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "services/graphic-design-uae"
+            },
+            "tags": "",
+            "title": "Branding & Graphic Design",
+            "excerpt": "Build a brand that stands out. From logo to visual language, we help you design creative assets that connect emotionally and visually.",
+            "category": "",
+            "component": "service_card",
+            "is_popular": false,
+            "key_features": "Logo, Business Card & Stationery Design\nBrand Guidelines & Social Media Creatives\nModern, Minimal & Brand-Driven Aesthetics",
+            "featured_image": {
+              "id": 105577655096224,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/images/graphic-designing-uae.webp",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "pricing_preview": ""
+          },
+          {
+            "_uid": "8619b0a1-5927-4bdb-afb5-b9738dee817e",
+            "icon": {
+              "id": null,
+              "alt": null,
+              "name": "",
+              "focus": null,
+              "title": null,
+              "source": null,
+              "filename": "",
+              "copyright": null,
+              "fieldtype": "asset",
+              "meta_data": {}
+            },
+            "link": {
+              "id": "cbd59809-f400-4e83-a1b6-63f551a8438f",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "services/seo-service-uae"
+            },
+            "tags": "",
+            "title": "Search Engine Optimisation (SEO)",
+            "excerpt": "Rank higher, attract quality traffic, and boost your visibility with our AI-driven SEO strategy designed for UAE-based and global markets.",
+            "category": "",
+            "component": "service_card",
+            "is_popular": true,
+            "key_features": "On-Page & Technical SEO\nLocal SEO for Google Maps Ranking\nKeyword Strategy & Performance Reports",
+            "featured_image": {
+              "id": 105593829606376,
+              "alt": "",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "source": "",
+              "filename": "/assets/images/seo-optimisation.webp",
+              "copyright": "",
+              "fieldtype": "asset",
+              "meta_data": {},
+              "is_external_url": false
+            },
+            "pricing_preview": ""
+          }
+        ],
+        "component": "service_grid",
+        "badge_text": "Services in the UAE",
+        "description": "From bilingual websites and ecommerce to branding, SEO, AI solutions and custom software. Explore our UAE-focused services or contact us for a tailored proposal.",
+        "show_filters": false,
+        "filter_categories": "Category, Web Development"
+      },
+      {
+        "_uid": "uae-portfolio-001",
+        "title": "How UAE Centres and Businesses Grow with IGENTX",
+        "component": "igentx_portfolio",
+        "badge_text": "Success Stories",
+        "description": "From BloomWave's DaycareMate rollout in Abu Dhabi to Moduluxe Group's bilingual SEO growth, see measurable outcomes for UAE childcare centres and businesses across Dubai, Sharjah and the Emirates.",
+        "case_studies": [
+          {
+            "_uid": "a8f2c91e-4b3d-4e17-9c6a-1d7e5f0b2a84",
+            "image": {
+              "id": null,
+              "alt": "BloomWave Learning & Daycare website with AI enquiry assistant",
+              "name": "",
+              "focus": "",
+              "title": "BloomWave Learning & Daycare",
+              "source": "bloomwave.ae",
+              "filename": "/assets/images/bloomwave-homepage.jpg",
+              "copyright": "IGENTX",
+              "fieldtype": "asset",
+              "meta_data": {
+                "alt": "BloomWave Learning & Daycare website with AI enquiry assistant",
+                "title": "BloomWave Learning & Daycare",
+                "source": "bloomwave.ae",
+                "copyright": "IGENTX"
+              },
+              "is_external_url": false
+            },
+            "title": "BloomWave: Website, AI Agent & DaycareMate",
+            "results": [
+              {
+                "_uid": "bw1",
+                "value": "24/7",
+                "metric": "AI Enquiries",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "bw2",
+                "value": "3-in-1",
+                "metric": "Website + AI + Platform",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "bw3",
+                "value": "bloomwave.ae",
+                "metric": "Live Site",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "bw4",
+                "value": "DaycareMate",
+                "metric": "Operations Platform",
+                "component": "result_metric"
+              }
+            ],
+            "category": "Full Solution",
+            "live_url": "https://bloomwave.ae",
+            "component": "case_study_item",
+            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.",
+            "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nDaycareMate",
+            "case_study_url": "/case-studies/bloomwave-learning-daycare",
+            "industry": "Childcare & Education",
+            "country": "UAE",
+            "challenge": "BloomWave needed a trustworthy marketing presence, after-hours parent enquiry capture, and a single system for centre operations."
+          },
+          {
+            "_uid": "b12da0cb-57c4-4db6-8e91-97c81a9063a4",
+            "image": {
+              "id": 104612999507944,
+              "alt": "www.moduluxegroup.com",
+              "name": "",
+              "focus": "",
+              "title": "Moduluxe Group UAE",
+              "source": "www.moduluxegroup.com",
+              "filename": "/assets/images/moduluxegroup.webp",
+              "copyright": "IGENTX",
+              "fieldtype": "asset",
+              "meta_data": {
+                "alt": "www.moduluxegroup.com",
+                "title": "Moduluxe Group UAE",
+                "source": "www.moduluxegroup.com",
+                "copyright": "IGENTX"
+              },
+              "is_external_url": false
+            },
+            "title": "Read how we helped Moduluxe Group achieve 300% traffic growth",
+            "results": [
+              {
+                "_uid": "cbf560a6-5cde-4bba-8e30-f6f0e11ed36d",
+                "value": "300%",
+                "metric": "Organic Traffic",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "0c0423ee-09df-4c33-89e7-6a0fe91cf05b",
+                "value": "0.8s",
+                "metric": "Load Time",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "565ca5f9-5ce4-49d3-9544-ae2a329ffb24",
+                "value": "95%",
+                "metric": "Performance Score",
+                "component": "result_metric"
+              },
+              {
+                "_uid": "1e683ec1-6cb5-42e8-a8cc-a1793150ea94",
+                "value": "150%",
+                "metric": "Conversion Rate",
+                "component": "result_metric"
+              }
+            ],
+            "category": "Web Development",
+            "live_url": "https://www.moduluxegroup.com/",
+            "component": "case_study_item",
+            "description": "AI-driven multilingual website with advanced SEO optimisation led to remarkable organic growth",
+            "technologies": "Next.js\nStoryblok\nTailwind CSS\nTypeScript\nVercel",
+            "case_study_url": "/case-studies/web-development-uae-startup-moduluxe-group",
+            "industry": "Real Estate",
+            "country": "UAE",
+            "challenge": "Moduluxe needed a multilingual website that ranked in Arabic and English search and converted visitors into qualified leads."
+          }
+        ],
+        "testimonials": [
+          {
+            "_uid": "t-murshid",
+            "component": "testimonial_item",
+            "name": "Murshid CK",
+            "position": "Operations Head",
+            "company": "Moduluxe",
+            "country": "UAE",
+            "verified": true,
+            "rating": "5",
+            "content": "The new website transformed our online presence. We started getting quality leads from day one, and the bilingual SEO setup helped us rank in both Arabic and English searches.",
+            "avatar": {
+              "filename": "",
+              "alt": ""
+            }
+          },
+          {
+            "_uid": "t-ajas-bloomwave",
+            "component": "testimonial_item",
+            "name": "Ajas Muhammed",
+            "position": "Managing Director",
+            "company": "BloomWave Learning & Daycare",
+            "country": "UAE",
+            "verified": true,
+            "rating": "5",
+            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+            "avatar": {
+              "filename": "",
+              "alt": ""
+            }
+          }
+        ],
+        "demo_cta_title": "Want to See More?",
+        "demo_cta_primary": "Request Live Demos",
+        "performance_title": "Before vs After: Real Performance Impact",
+        "demo_cta_secondary": "Read Our Case Studies",
+        "testimonials_title": "What Our Clients Say",
+        "performance_metrics": [
+          {
+            "_uid": "2ae0e4f6-dbad-497f-b55b-101777514ff0",
+            "after": "0.8s",
+            "before": "4.2s",
+            "component": "performance_metric",
+            "improvement": "81% Faster",
+            "metric_name": "Page Load Speed"
+          },
+          {
+            "_uid": "e0357202-99ff-4cd5-b6b6-d97fc35d46aa",
+            "after": "98/100",
+            "before": "65/100",
+            "component": "performance_metric",
+            "improvement": "+51% Better",
+            "metric_name": "SEO Score"
+          },
+          {
+            "_uid": "bdedadfb-1500-4599-a780-2d98934d2633",
+            "after": "95/100",
+            "before": "72/100",
+            "component": "performance_metric",
+            "improvement": "+32% Better",
+            "metric_name": "Mobile Performance"
+          },
+          {
+            "_uid": "fd172155-1793-4186-acbc-f7099dd98dee",
+            "after": "99",
+            "before": "65",
+            "component": "performance_metric",
+            "improvement": "40% More",
+            "metric_name": "Accessibility"
+          }
+        ],
+        "demo_cta_description": "Explore our demo projects and see how AI-driven development can transform your business.",
+        "demo_cta_primary_link": {
+          "id": "",
+          "url": "contact",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "contact"
+        },
+        "demo_cta_secondary_link": {
+          "id": "",
+          "url": "case-studies",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "case-studies"
+        },
+        "performance_description": "See how our AI-driven approach delivers measurable improvements in website performance and user experience.",
+        "testimonials_description": "Hear from clients we have helped grow online",
+        "show_performance_comparison": false
+      },
+      {
+        "_uid": "uae-blog-001",
+        "component": "blog_grid",
+        "badge_text": "UAE Insights",
+        "title": "Guides for UAE Childcare Centres and Businesses",
+        "description": "Practical guides on childcare centre management software, web development, AI and SEO for businesses in Dubai, Abu Dhabi and across the Emirates.",
+        "intro_text": "Written for UAE centre owners, operations teams and business leaders who need clear guidance on software, websites, search visibility and AI-powered enquiry capture.",
+        "columns": "3",
+        "show_filters": false,
+        "filter_categories": "",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "featured_blog": {
+          "_uid": "card-local-seo",
+          "component": "blog_card",
+          "title": "Local SEO in Dubai and the UAE: A Practical Guide for 2026",
+          "excerpt": "Local search drives enquiries for UAE businesses every day. This guide covers Google Business Profile, bilingual landing pages, citations and the technical foundations that help you rank in Dubai, Abu Dhabi and across the Emirates.",
+          "category": "SEO",
+          "author_name": "IGENTX Digital Team",
+          "publish_date": "2026-07-23",
+          "reading_time": "7 min read",
+          "link": {
+            "url": "",
+            "linktype": "story",
+            "cached_url": "blog/local-seo-dubai-uae-guide"
+          },
+          "featured_image": {
+            "filename": "/assets/blog/seo-og.webp",
+            "alt": "Local SEO guide for Dubai and UAE businesses",
+            "fieldtype": "asset",
+            "is_external_url": false
+          }
+        },
+        "blogs": [
+          {
+            "_uid": "card-agency",
+            "component": "blog_card",
+            "title": "How to Choose the Best Web Development Agency in the UAE",
+            "excerpt": "Choosing the right web development agency can define your business success. Here is how to evaluate partners and what to look for.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-10-28",
+            "reading_time": "4 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/how-to-choose-best-web-development-agency-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/best-web-development-agency-uae-og.webp",
+              "alt": "How to choose the best web development agency in the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-importance",
+            "component": "blog_card",
+            "title": "Why Every UAE Business Needs a Strong Website in 2025",
+            "excerpt": "In a competitive, tech-driven market, your website is your engine for growth, trust and visibility. Here is what to prioritise.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-10-28",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/importance-of-website-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Why UAE businesses need a strong website in 2025",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-ai-web",
+            "component": "blog_card",
+            "title": "How AI Is Revolutionizing Web Development in the UAE",
+            "excerpt": "Discover how AI is transforming website design, SEO and user experience for UAE businesses building smarter digital platforms.",
+            "category": "AI",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-10-28",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/ai-in-web-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/ai-in-web-development.webp",
+              "alt": "How AI is revolutionizing web development in the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-web-dev-uae",
+            "component": "blog_card",
+            "title": "Web Development in the UAE: A Practical Guide for Growing Businesses",
+            "excerpt": "A practical guide to planning, building and optimising high-performance websites for businesses in Dubai, Abu Dhabi and across the UAE.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-11-06",
+            "reading_time": "8 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/web-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Web development guide for UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-ai-agent",
+            "component": "blog_card",
+            "title": "AI Customer Service Agent with Smart Lead Generation",
+            "excerpt": "Automate your website chat and lead generation with the IGENTX AI Customer Service Agent. 24/7 multilingual support built for UAE businesses and global brands.",
+            "category": "AI",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2025-11-30",
+            "reading_time": "3 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/ai-customer-service-agent-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/igentchat.webp",
+              "alt": "IGENTX AI Customer Service Agent for website lead generation",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-daycaremate-guide",
+            "component": "blog_card",
+            "title": "DaycareMate: A Practical Guide to Childcare Centre Management Software",
+            "excerpt": "What childcare centre management software should deliver, from admissions and attendance to family communication and billing, with DaycareMate by IGENTX.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "8 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/daycaremate-childcare-management-software-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-dashboard.webp",
+              "alt": "DaycareMate dashboard showing attendance, admissions and billing for childcare centres",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-local-seo",
+            "component": "blog_card",
+            "title": "Local SEO in Dubai and the UAE: A Practical Guide for 2026",
+            "excerpt": "Google Business Profile, bilingual landing pages, citations and technical foundations for local search in the Emirates.",
+            "category": "SEO",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "7 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/local-seo-dubai-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/seo-og.webp",
+              "alt": "Local SEO guide for Dubai and UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-tech-seo",
+            "component": "blog_card",
+            "title": "Technical SEO Checklist for UAE Websites in 2026",
+            "excerpt": "Audit Core Web Vitals, mobile performance, schema, hreflang and crawlability before you invest in content alone.",
+            "category": "SEO",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/technical-seo-checklist-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/seo-banner.webp",
+              "alt": "Technical SEO checklist for UAE websites",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-ecommerce",
+            "component": "blog_card",
+            "title": "Ecommerce Website Development in Dubai and the UAE",
+            "excerpt": "Platform selection, checkout UX, local payments and SEO for online stores in Dubai and across the Emirates.",
+            "category": "Ecommerce",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "7 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/ecommerce-website-development-dubai-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/ecommerce-og.webp",
+              "alt": "Ecommerce website development guide for Dubai and UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-bilingual",
+            "component": "blog_card",
+            "title": "Bilingual Arabic and English Website Development in the UAE",
+            "excerpt": "RTL design, hreflang, content localisation and technical patterns for bilingual sites that rank and convert.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/bilingual-website-development-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/web-development-uae.webp",
+              "alt": "Bilingual website development for UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-custom-sw",
+            "component": "blog_card",
+            "title": "Custom Software Development in the UAE: A Practical Guide",
+            "excerpt": "When custom software makes sense for UAE workflows, integrations and compliance needs.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/custom-software-development-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/custom-software-development.webp",
+              "alt": "Custom software development guide for UAE businesses",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-branding",
+            "component": "blog_card",
+            "title": "Branding for UAE Startups: Logo, Identity and Digital Presence",
+            "excerpt": "Visual identity, messaging and digital touchpoints that help UAE startups win trust and convert.",
+            "category": "Branding",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "5 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/branding-uae-startups-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/blog/branding-og.webp",
+              "alt": "Branding guide for UAE startups",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-childcare-buyer",
+            "component": "blog_card",
+            "title": "How to Choose Childcare Management Software in the UAE",
+            "excerpt": "Buyer guide for evaluating nursery and preschool management software vendors in the UAE.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "8 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/childcare-management-software-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-hero.webp",
+              "alt": "Childcare management software buyer guide for UAE centres",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-nursery-tools",
+            "component": "blog_card",
+            "title": "Opening a Nursery in Dubai: Essential Digital Tools for Launch",
+            "excerpt": "Digital checklist for new nurseries: website, enquiry capture, centre software and parent communication.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "7 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/opening-nursery-dubai-digital-tools"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-dashboard.webp",
+              "alt": "Digital tools for opening a nursery in Dubai",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-moduluxe-blog",
+            "component": "blog_card",
+            "title": "How Moduluxe Group Grew Organic Traffic by 300%",
+            "excerpt": "Bilingual SEO and performance results for a UAE real estate brand.",
+            "category": "Web Development",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/moduluxe-group-seo-case-study"
+            },
+            "featured_image": {
+              "filename": "/assets/images/moduluxegroup.webp",
+              "alt": "Moduluxe Group SEO case study",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "card-bloomwave-blog",
+            "component": "blog_card",
+            "title": "BloomWave: Digital Transformation with Website, AI and DaycareMate",
+            "excerpt": "How one UAE centre launched bloomwave.ae, an AI enquiry assistant and DaycareMate operations platform.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/bloomwave-daycaremate-digital-transformation"
+            },
+            "featured_image": {
+              "filename": "/assets/images/bloomwave-homepage.jpg",
+              "alt": "BloomWave digital transformation case study",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ],
+        "topic_links": [
+          {
+            "_uid": "uae-topic-daycaremate",
+            "component": "blog_topic_link",
+            "title": "DaycareMate",
+            "description": "Childcare centre management: admissions, attendance, messaging and billing.",
+            "link": {
+              "url": "/products/daycaremate",
+              "linktype": "url",
+              "cached_url": "products/daycaremate"
+            }
+          },
+          {
+            "_uid": "uae-topic-web",
+            "component": "blog_topic_link",
+            "title": "Web Development UAE",
+            "description": "Bilingual websites built for performance, SEO and conversions.",
+            "link": {
+              "url": "/services/web-development-uae",
+              "linktype": "url",
+              "cached_url": "services/web-development-uae"
+            }
+          },
+          {
+            "_uid": "uae-topic-seo",
+            "component": "blog_topic_link",
+            "title": "SEO Services UAE",
+            "description": "Technical SEO and ongoing optimisation to grow organic traffic.",
+            "link": {
+              "url": "/services/seo-service-uae",
+              "linktype": "url",
+              "cached_url": "services/seo-service-uae"
+            }
+          },
+          {
+            "_uid": "uae-topic-ecommerce",
+            "component": "blog_topic_link",
+            "title": "Ecommerce Development UAE",
+            "description": "Online stores with UAE payment gateways and conversion-focused checkout.",
+            "link": {
+              "url": "/services/ecommerce-website-development-uae",
+              "linktype": "url",
+              "cached_url": "services/ecommerce-website-development-uae"
+            }
+          },
+          {
+            "_uid": "uae-topic-branding",
+            "component": "blog_topic_link",
+            "title": "Branding & Design UAE",
+            "description": "Logo, brand identity and marketing creative for UAE businesses.",
+            "link": {
+              "url": "/services/graphic-design-uae",
+              "linktype": "url",
+              "cached_url": "services/graphic-design-uae"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "uae-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Expert answers about DaycareMate, web development, AI, SEO and our process for childcare centres and businesses in Dubai, Abu Dhabi and across the UAE.",
+        "initial_visible_count": 10,
+        "faqs": [
+          {
+            "_uid": "uae-faq-dm-parents",
+            "component": "faq_item",
+            "question": "How does DaycareMate handle parent communication?",
+            "answer": "DaycareMate includes a Family portal with a per-child activity feed, 1:1 messaging with teachers and admins, and broadcasts for closures and reminders. Teachers log meals, naps, learning and milestones in seconds. Photo attachments reach families through private storage, scoped to authorised parents only.",
+            "category": "Daycare Software"
+          },
+          {
+            "_uid": "uae-faq-dm-bundle",
+            "component": "faq_item",
+            "question": "Can we combine a website, AI enquiries and DaycareMate?",
+            "answer": "Yes. IGENTX delivered this for BloomWave Learning and Daycare in Abu Dhabi: bloomwave.ae for parent trust, a 24/7 AI enquiry assistant for after-hours lead capture, and DaycareMate for admissions and daily centre operations. One team can scope and roll out the full stack for your centre.",
+            "category": "Daycare Software"
+          },
+          {
+            "_uid": "uae-faq-dm-billing",
+            "component": "faq_item",
+            "question": "Does DaycareMate support billing and regional settings for UAE centres?",
+            "answer": "Yes. Each DaycareMate deployment supports configurable currency, timezone and tax/VAT settings. Tax rates are frozen on each invoice at issue time, with per-line taxable flags and audit-logged billing runs. This helps UAE centres bill accurately while keeping parent statements clear.",
+            "category": "Daycare Software"
+          },
+          {
+            "_uid": "uae-faq-why-uae",
+            "component": "faq_item",
+            "question": "Why choose IGENTX for UAE projects?",
+            "answer": "IGENXT combines AI-accelerated delivery with deep UAE market experience. We build bilingual Arabic and English websites, integrate local payment gateways such as PayTabs and Telr, optimise for Dubai and Abu Dhabi local SEO, and measure success by leads and conversions. Our regional case studies include Moduluxe Group and BloomWave Learning and Daycare.",
+            "category": "UAE"
+          },
+          {
+            "_uid": "faq-Why choose IGENTX ov",
+            "component": "faq_item",
+            "question": "Why choose IGENTX over other web development companies?",
+            "answer": "IGENXT combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with bilingual Arabic and English delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.",
+            "category": "General"
+          },
+          {
+            "_uid": "faq-Do you work with sta",
+            "component": "faq_item",
+            "question": "Do you work with startups and enterprises?",
+            "answer": "Yes. For startups, we focus on fast MVP delivery, clear scope and foundations that scale. For enterprises, we emphasise architecture, security, integrations and phased rollouts. Our process adapts to your team size, budget and timeline, from a single landing page to multi-language platforms with headless CMS, ecommerce and AI automation. Contact us for a scoped proposal based on your goals.",
+            "category": "General"
+          },
+          {
+            "_uid": "uae-faq-bilingual",
+            "component": "faq_item",
+            "question": "Do you build bilingual Arabic and English websites?",
+            "answer": "Yes. Bilingual delivery is core to our UAE work. We build RTL-ready Arabic pages alongside English content, with proper hreflang, multilingual SEO and culturally appropriate design. This helps businesses rank in both Arabic and English search and serve local and expatriate audiences effectively.",
+            "category": "UAE"
+          },
+          {
+            "_uid": "uae-faq-payments",
+            "component": "faq_item",
+            "question": "Do you integrate UAE payment gateways?",
+            "answer": "Yes. We integrate PayTabs, Telr, Stripe, Checkout.com and other UAE-compliant payment gateways for ecommerce and custom applications. We advise on the right gateway based on your business model, currency requirements and checkout experience goals.",
+            "category": "UAE"
+          },
+          {
+            "_uid": "faq-How long does websit",
+            "component": "faq_item",
+            "question": "How long does website development take?",
+            "answer": "Timeline depends on scope: a focused marketing site typically takes 2–4 weeks; larger corporate or ecommerce projects take 4–8 weeks. Factors include page count, integrations, multilingual requirements and content readiness. Our seven-step process includes discovery, strategy, design, development, QA, launch and ongoing growth, with clear milestones at each stage. We provide a realistic timeline after a brief discovery call.",
+            "category": "Web Development"
+          },
+          {
+            "_uid": "faq-How does your AI Cus",
+            "component": "faq_item",
+            "question": "How does your AI Customer Service Agent work?",
+            "answer": "Our AI agent is trained on your website content, documents and FAQs using retrieval-augmented generation (RAG). It answers visitor questions instantly, qualifies leads and supports English and Arabic. Integration takes one line of code on any website. You control the knowledge base, review conversations and update content as your business evolves. It is deployable for subscribers and designed for accuracy, not generic chatbot responses.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "faq-Does the AI agent su",
+            "component": "faq_item",
+            "question": "Does the AI agent support Arabic and English?",
+            "answer": "Yes. The agent supports multilingual conversations including Arabic (RTL) and English. This is essential for UAE businesses serving both local and expatriate audiences. Language detection and bilingual knowledge bases ensure visitors receive accurate responses in their preferred language, improving engagement and conversion for bilingual markets.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "uae-faq-freezones",
+            "component": "faq_item",
+            "question": "Do you work with startups in Dubai free zones?",
+            "answer": "Yes. We work with startups and growing businesses across Dubai mainland and free zones. Our process focuses on fast MVP delivery, clear scope and foundations that scale as you grow. Contact us for a no-obligation consultation to discuss your goals and timeline.",
+            "category": "UAE"
+          },
+          {
+            "_uid": "faq-Do you provide local",
+            "component": "faq_item",
+            "question": "Do you provide local SEO for Dubai and the UAE?",
+            "answer": "Yes. We optimise Google Business Profile, local citations, Arabic and English landing pages, and location-specific schema markup. UAE local search requires bilingual strategy, mobile-first performance and culturally relevant content. We have experience helping businesses rank for Dubai, Abu Dhabi and emirate-specific queries while supporting international visibility.",
+            "category": "SEO"
+          },
+          {
+            "_uid": "uae-faq-dm-uae-who",
+            "component": "faq_item",
+            "question": "What is DaycareMate and who is it for in the UAE?",
+            "answer": "DaycareMate is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers in the UAE and worldwide. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets a dedicated deployment. BloomWave Learning and Daycare in Abu Dhabi uses DaycareMate alongside their IGENTX-built website and AI enquiry assistant.",
+            "category": "Daycare Software"
+          },
+          {
+            "_uid": "uae-faq-outside-dubai",
+            "component": "faq_item",
+            "question": "Do you work with centres and businesses outside Dubai?",
+            "answer": "Yes. IGENTX serves clients across the UAE including Abu Dhabi, Sharjah, Ajman and Ras Al Khaimah, as well as international businesses. We deliver bilingual websites, local SEO, ecommerce, branding and centre software with remote collaboration and clear project milestones.",
+            "category": "UAE"
+          },
+          {
+            "_uid": "uae-faq-web-project",
+            "component": "faq_item",
+            "question": "What is included in a typical UAE web project?",
+            "answer": "A typical project includes discovery, UX and design, development on Next.js or your chosen stack, bilingual setup where needed, technical and on-page SEO, QA, launch support and optional ongoing optimisation. Scope varies by page count, integrations and content readiness. We provide a detailed proposal after a free consultation.",
+            "category": "Web Development"
+          },
+          {
+            "_uid": "uae-faq-wordpress-migrate",
+            "component": "faq_item",
+            "question": "Can you migrate from WordPress to Next.js?",
+            "answer": "Yes. We help UAE businesses migrate from WordPress and other CMS platforms to Next.js for better performance, security and scalability. Migrations include content transfer, URL redirects, SEO preservation and training. Contact us to assess your current site and migration timeline.",
+            "category": "Web Development"
+          },
+          {
+            "_uid": "faq-How can I get a free",
+            "component": "faq_item",
+            "question": "How can I get a free consultation?",
+            "answer": "Click \"Book a Free Consultation\" or email hello@igentx.com. Our team will respond within business hours to discuss your goals, timeline and budget. The consultation is no-obligation. We will recommend the right approach whether that is a new website, AI agent, ecommerce build or custom application. We serve clients in the UAE and internationally.",
+            "category": "General"
+          }
+        ]
+      },
+      {
+        "_uid": "uae-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Running a Centre or Business in the UAE?",
+        "description": "Book a consultation for DaycareMate and centre operations, or talk to us about bilingual websites, ecommerce, AI enquiry assistants and full digital rollout for your business.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "Explore DaycareMate",
+        "secondary_cta_link": {
+          "url": "products/daycaremate",
+          "linktype": "url",
+          "cached_url": "products/daycaremate"
+        }
+      }
+    ]
+  }
+}

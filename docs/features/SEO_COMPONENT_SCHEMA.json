@@ -1,0 +1,312 @@
+{
+    "name": "seo",
+    "display_name": "SEO",
+    "component": "seo",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+        "title": {
+            "type": "text",
+            "pos": 0,
+            "display_name": "Title",
+            "description": "SEO title for search engines (50-60 characters recommended)",
+            "translatable": true
+        },
+        "description": {
+            "type": "textarea",
+            "pos": 1,
+            "display_name": "Description",
+            "description": "Meta description for search results (150-160 characters recommended)",
+            "translatable": true,
+            "max_length": 240
+        },
+        "keywords": {
+            "type": "text",
+            "pos": 2,
+            "display_name": "Keywords",
+            "description": "Comma-separated keywords",
+            "translatable": true
+        },
+        "canonical_url": {
+            "type": "text",
+            "pos": 3,
+            "display_name": "Canonical Url",
+            "description": "Canonical URL (leave empty for auto-generate)"
+        },
+        "og_title": {
+            "type": "text",
+            "pos": 4,
+            "display_name": "Og Title",
+            "description": "Open Graph title (leave empty to use SEO Title)",
+            "translatable": true
+        },
+        "og_description": {
+            "type": "textarea",
+            "pos": 5,
+            "display_name": "Og Description",
+            "description": "Open Graph description (leave empty to use Description)",
+            "translatable": true
+        },
+        "og_image": {
+            "type": "asset",
+            "pos": 6,
+            "filetypes": [
+                "images"
+            ],
+            "display_name": "Og Image",
+            "description": "Image for social sharing (1200x630px recommended)"
+        },
+        "og_type": {
+            "type": "option",
+            "pos": 7,
+            "display_name": "Og Type",
+            "description": "Content type for Open Graph",
+            "default_value": "website",
+            "options": [
+                {
+                    "value": "website",
+                    "name": "Website"
+                },
+                {
+                    "value": "article",
+                    "name": "Article"
+                },
+                {
+                    "value": "product",
+                    "name": "Product"
+                },
+                {
+                    "value": "profile",
+                    "name": "Profile"
+                }
+            ]
+        },
+        "twitter_title": {
+            "type": "text",
+            "pos": 8,
+            "display_name": "Twitter Title",
+            "description": "Twitter card title (leave empty to use OG Title)",
+            "translatable": true
+        },
+        "twitter_description": {
+            "type": "textarea",
+            "pos": 9,
+            "display_name": "Twitter Description",
+            "description": "Twitter card description (leave empty to use OG Description)",
+            "translatable": true
+        },
+        "twitter_image": {
+            "type": "asset",
+            "pos": 10,
+            "filetypes": [
+                "images"
+            ],
+            "display_name": "Twitter Image",
+            "description": "Twitter card image (leave empty to use OG Image)"
+        },
+        "twitter_card_type": {
+            "type": "option",
+            "pos": 11,
+            "display_name": "Twitter Card Type",
+            "default_value": "summary_large_image",
+            "options": [
+                {
+                    "value": "summary",
+                    "name": "Summary"
+                },
+                {
+                    "value": "summary_large_image",
+                    "name": "Summary Large Image"
+                },
+                {
+                    "value": "app",
+                    "name": "App"
+                },
+                {
+                    "value": "player",
+                    "name": "Player"
+                }
+            ]
+        },
+        "robots_index": {
+            "type": "boolean",
+            "pos": 12,
+            "display_name": "Robots Index",
+            "description": "Allow search engines to index this page",
+            "default_value": true
+        },
+        "robots_follow": {
+            "type": "boolean",
+            "pos": 13,
+            "display_name": "Robots Follow",
+            "description": "Allow search engines to follow links",
+            "default_value": true
+        },
+        "robots_noarchive": {
+            "type": "boolean",
+            "pos": 14,
+            "display_name": "Robots Noarchive",
+            "description": "Prevent search engines from caching"
+        },
+        "robots_nosnippet": {
+            "type": "boolean",
+            "pos": 15,
+            "display_name": "Robots Nosnippet",
+            "description": "Prevent search engines from showing snippets"
+        },
+        "structured_data_type": {
+            "type": "option",
+            "pos": 16,
+            "display_name": "Structured Data Type",
+            "description": "Schema.org structured data type for this page",
+            "options": [
+                {
+                    "value": "WebSite",
+                    "name": "WebSite"
+                },
+                {
+                    "value": "Organization",
+                    "name": "Organization"
+                },
+                {
+                    "value": "LocalBusiness",
+                    "name": "Local Business"
+                },
+                {
+                    "value": "Article",
+                    "name": "Article"
+                },
+                {
+                    "value": "Product",
+                    "name": "Product"
+                },
+                {
+                    "value": "Event",
+                    "name": "Event"
+                },
+                {
+                    "value": "FAQ",
+                    "name": "FAQ"
+                },
+                {
+                    "value": "BreadcrumbList",
+                    "name": "Breadcrumb List"
+                },
+                {
+                    "value": "Custom",
+                    "name": "Custom JSON-LD"
+                }
+            ]
+        },
+        "structured_data_custom": {
+            "type": "textarea",
+            "pos": 17,
+            "display_name": "Structured Data Custom",
+            "description": "Custom JSON-LD structured data (only used when Custom is selected)"
+        },
+        "author": {
+            "type": "text",
+            "pos": 18,
+            "display_name": "Author",
+            "description": "Content author name",
+            "translatable": true
+        },
+        "publisher": {
+            "type": "text",
+            "pos": 19,
+            "display_name": "Publisher",
+            "description": "Content publisher name",
+            "translatable": true
+        },
+        "article_published_time": {
+            "type": "datetime",
+            "pos": 20,
+            "display_name": "Article Published Time",
+            "description": "Article publication date"
+        },
+        "article_modified_time": {
+            "type": "datetime",
+            "pos": 21,
+            "display_name": "Article Modified Time",
+            "description": "Article last modified date"
+        },
+        "article_author": {
+            "type": "text",
+            "pos": 22,
+            "display_name": "Article Author",
+            "description": "Article author name",
+            "translatable": true
+        },
+        "article_section": {
+            "type": "text",
+            "pos": 23,
+            "display_name": "Article Section",
+            "description": "Article category or section",
+            "translatable": true
+        },
+        "article_tags": {
+            "type": "text",
+            "pos": 24,
+            "display_name": "Article Tags",
+            "description": "Comma-separated article tags",
+            "translatable": true
+        }
+    },
+    "tabs": [
+        {
+            "name": "General",
+            "keys": [
+                "title",
+                "description",
+                "keywords",
+                "canonical_url"
+            ]
+        },
+        {
+            "name": "Open Graph Fields",
+            "keys": [
+                "og_title",
+                "og_description",
+                "og_image",
+                "og_type"
+            ]
+        },
+        {
+            "name": "Twitter Card Fields",
+            "keys": [
+                "twitter_title",
+                "twitter_description",
+                "twitter_image",
+                "twitter_card_type"
+            ]
+        },
+        {
+            "name": "Advanced SEO Fields",
+            "keys": [
+                "robots_index",
+                "robots_follow",
+                "robots_noarchive",
+                "robots_nosnippet"
+            ]
+        },
+        {
+            "name": "Structured Data Fields",
+            "keys": [
+                "structured_data_type",
+                "structured_data_custom"
+            ]
+        },
+        {
+            "name": "Additional Fields",
+            "keys": [
+                "author",
+                "publisher",
+                "article_published_time",
+                "article_modified_time",
+                "article_author",
+                "article_section",
+                "article_tags"
+            ]
+        }
+    ]
+}

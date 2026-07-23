@@ -1,0 +1,714 @@
+{
+  "slug": "products/ai-customer-service-agent",
+  "name": "ai-customer-service-agent",
+  "published_at": "2025-11-26T09:53:40.633Z",
+  "content": {
+    "_uid": "5a8529bd-34d0-45ad-ac1f-b2f4534379b8",
+    "body": [
+      {
+        "_uid": "ee48c556-c803-42a5-822e-a2588c25c558",
+        "title": "AI Customer Service Agent | 24/7 Website Chatbot | IGENTX",
+        "author": "",
+        "og_type": "website",
+        "keywords": "AI customer service agent, website chatbot, AI support widget, RAG chatbot, multilingual chatbot",
+        "og_image": {
+          "filename": "/assets/images/ai-customer-service-agent-home.webp",
+          "alt": "AI Customer Service Agent",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "AI Customer Service Agent | IGENTX",
+        "component": "seo",
+        "publisher": "",
+        "description": "Turn your website into a 24/7 AI sales and support assistant. RAG-trained on your content, multilingual, one-line integration. Serving businesses worldwide, with the UAE as our primary market.",
+        "article_tags": "",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/products/ai-customer-service-agent",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/ai-customer-service-agent-home.webp",
+          "alt": "AI Customer Service Agent",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "AI Customer Service Agent | IGENTX",
+        "article_author": "",
+        "og_description": "24/7 AI support agent trained on your content. Instant replies, lead capture, multilingual support, deployable on any website worldwide.",
+        "article_section": "",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Add intelligent 24/7 customer support to your website with IGENTX AI Agent: RAG-trained, multilingual, one-line integration.",
+        "structured_data_type": "Product",
+        "article_modified_time": "",
+        "article_published_time": "",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"name\": \"AI Customer Service Agent\",\n  \"brand\": \"IGENTX\",\n  \"description\": \"AI-powered customer service agent for websites with 24/7 responses and one-line integration.\",\n  \"applicationCategory\": \"AI Chatbot, Customer Support Software\"\n}"
+      },
+      {
+        "_uid": "05f85a8c-bc0a-4675-be26-3993f753554e",
+        "title": "AI Customer Service Agent for Modern Businesses",
+        "summary": "Transform your website into a 24/7 sales and support assistant. Our AI Customer Service Agent answers questions instantly, qualifies leads, supports multiple languages, and integrates with your existing website in minutes.",
+        "category": "AI Solutions",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "cta_text": "Book a Free Consultation",
+        "duration": "",
+        "back_link": {
+          "url": "/products",
+          "linktype": "url",
+          "cached_url": "products"
+        },
+        "back_link_label": "Back to Products",
+        "component": "service_hero",
+        "featured_image": {
+          "alt": "AI Customer Service Agent",
+          "filename": "/assets/images/ai-customer-service-agent-home.webp",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "quick_features": "Works with any website\nSetup in under 30 minutes\nLearns from your website and documents\nMultilingual support",
+        "pricing_preview": ""
+      },
+      {
+        "_uid": "ai-trust-band-001",
+        "component": "igentx_trust_band",
+        "badge_text": "AI Solution",
+        "title": "Built for Growing Businesses",
+        "description": "Enterprise-grade AI technology that helps businesses capture more leads, reduce support workload and deliver instant customer experiences.",
+        "partner_logos": [
+          {
+            "_uid": "p-openai",
+            "component": "trust_band_partner",
+            "name": "OpenAI",
+            "icon": {
+              "filename": "/assets/icons/openai-icon.svg",
+              "alt": "OpenAI"
+            }
+          },
+          {
+            "_uid": "p-claude",
+            "component": "trust_band_partner",
+            "name": "Claude",
+            "icon": {
+              "filename": "/assets/icons/claude-icon.svg",
+              "alt": "Claude"
+            }
+          },
+          {
+            "_uid": "p-gemini",
+            "component": "trust_band_partner",
+            "name": "Gemini",
+            "icon": {
+              "filename": "/assets/icons/gemini-icon.svg",
+              "alt": "Gemini"
+            }
+          },
+          {
+            "_uid": "p-rag",
+            "component": "trust_band_partner",
+            "name": "RAG",
+            "icon": {
+              "filename": "/assets/icons/rag-icon.svg",
+              "alt": "RAG"
+            }
+          },
+          {
+            "_uid": "p-aws",
+            "component": "trust_band_partner",
+            "name": "AWS",
+            "icon": {
+              "filename": "/assets/icons/aws-icon.svg",
+              "alt": "AWS"
+            }
+          }
+        ],
+        "metrics": [
+          {
+            "_uid": "m-setup",
+            "component": "trust_band_metric",
+            "value": "<30 min",
+            "label": "Setup Time",
+            "description": "Deploy on your website quickly",
+            "icon_key": "lightning"
+          },
+          {
+            "_uid": "m-lang",
+            "component": "trust_band_metric",
+            "value": "Multi",
+            "label": "Multilingual",
+            "description": "Replies in your customers' preferred languages",
+            "icon_key": "global"
+          },
+          {
+            "_uid": "m-247",
+            "component": "trust_band_metric",
+            "value": "24/7",
+            "label": "Availability",
+            "description": "Always-on customer support",
+            "icon_key": "support"
+          },
+          {
+            "_uid": "m-code",
+            "component": "trust_band_metric",
+            "value": "1-Line",
+            "label": "Integration",
+            "description": "One script, any website",
+            "icon_key": "custom"
+          },
+          {
+            "_uid": "m-rag",
+            "component": "trust_band_metric",
+            "value": "RAG",
+            "label": "Trained on Your Content",
+            "description": "Answers grounded in your data",
+            "icon_key": "chat"
+          }
+        ]
+      },
+      {
+        "_uid": "05b90894-78d2-4698-aec6-390dd13d22cf",
+        "title": "Everything Your AI Agent Does",
+        "features": [
+          {
+            "_uid": "debcbd1d-2673-46a1-9d81-0fac4c1f1fe5",
+            "icon": {
+              "filename": "/assets/icons/ai-agent-feature.svg",
+              "alt": "24/7 support",
+              "fieldtype": "asset"
+            },
+            "title": "Always Available",
+            "component": "differentiator_feature",
+            "highlight": "24/7 coverage",
+            "description": "Your customers get immediate answers day or night without waiting for human agents."
+          },
+          {
+            "_uid": "00316f4e-d487-475a-9315-fe058c3a1afc",
+            "icon": {
+              "filename": "/assets/icons/ai-chat.svg",
+              "alt": "RAG answers",
+              "fieldtype": "asset"
+            },
+            "title": "Answers From Your Content",
+            "component": "differentiator_feature",
+            "highlight": "RAG-powered",
+            "description": "Upload website pages, PDFs, FAQs, brochures and documents. The agent responds using your verified information."
+          },
+          {
+            "_uid": "41b07e9c-8679-4fe4-9f5e-289e77620d15",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Multilingual",
+              "fieldtype": "asset"
+            },
+            "title": "Multilingual Support",
+            "component": "differentiator_feature",
+            "highlight": "Multilingual",
+            "description": "Communicate naturally in the languages your customers prefer, without being limited to a single locale."
+          },
+          {
+            "_uid": "0b7b4b65-17fa-43fa-a858-1e1123ca5d7e",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "Any website",
+              "fieldtype": "asset"
+            },
+            "title": "Works on Any Website",
+            "component": "differentiator_feature",
+            "highlight": "One-line install",
+            "description": "WordPress, Shopify, Wix, Webflow, Next.js, React and custom HTML. One script, no coding required."
+          },
+          {
+            "_uid": "9dea4213-cbaa-48a7-bc69-7b1473375547",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Lead capture",
+              "fieldtype": "asset"
+            },
+            "title": "Lead Capture and Enquiries",
+            "component": "differentiator_feature",
+            "highlight": "More conversions",
+            "description": "Collect customer details and enquiries to help your team convert visitors into qualified leads."
+          },
+          {
+            "_uid": "d9bc60d7-a508-4f2c-9662-023a49ced245",
+            "icon": {
+              "filename": "/assets/icons/seo-first.svg",
+              "alt": "Contact options",
+              "fieldtype": "asset"
+            },
+            "title": "Built-in Contact Options",
+            "component": "differentiator_feature",
+            "highlight": "WhatsApp, phone, email",
+            "description": "Customers can switch from AI chat to WhatsApp, phone, email or social links for quick conversions."
+          },
+          {
+            "_uid": "feat-jwt-001",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Security",
+              "fieldtype": "asset"
+            },
+            "title": "Secure Widget",
+            "component": "differentiator_feature",
+            "highlight": "JWT and domain protection",
+            "description": "Secure authentication and domain restrictions help protect your business and customer conversations."
+          },
+          {
+            "_uid": "feat-brand-001",
+            "icon": {
+              "filename": "/assets/icons/ai-powered.svg",
+              "alt": "Custom branding",
+              "fieldtype": "asset"
+            },
+            "title": "Custom Branding",
+            "component": "differentiator_feature",
+            "highlight": "Your identity",
+            "description": "Customise the assistant name, appearance, welcome message and behaviour to match your brand."
+          }
+        ],
+        "component": "why_choose_igentx",
+        "badge_text": "Powerful Features",
+        "description": "A complete AI support solution designed to increase conversions, reduce workload and deliver professional customer experiences.",
+        "show_speed_comparison": true,
+        "speed_comparison_title": "The Difference AI Support Makes",
+        "speed_comparison_description": "See how an AI Customer Service Agent changes the experience for your website visitors and support team.",
+        "traditional_approach_title": "Without AI Customer Support",
+        "traditional_approach_points": [
+          {
+            "_uid": "tap1",
+            "text": "Visitors leave when no one replies after hours",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap2",
+            "text": "Support teams overwhelmed by repetitive questions",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap3",
+            "text": "Leads lost outside business hours",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap4",
+            "text": "Language barriers with multilingual audiences",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap5",
+            "text": "Inconsistent answers across channels",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "igentx_advantage_label": "IGENTX Advantage",
+        "igentx_approach_title": "With IGENTX AI Agent",
+        "igentx_approach_points": [
+          {
+            "_uid": "iap1",
+            "text": "Instant answers 24/7 from your verified content",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap2",
+            "text": "AI handles FAQs so your team focuses on complex enquiries",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap3",
+            "text": "Enquiries and leads captured anytime",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap4",
+            "text": "Multilingual support for global and UAE audiences",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "iap5",
+            "text": "Consistent, accurate responses grounded in your data",
+            "enabled": true,
+            "component": "speed_comparison_point"
+          }
+        ],
+        "uae_signals_title": "Perfect For Every Industry",
+        "uae_signals_description": "Serving businesses worldwide, with the UAE as our primary market.",
+        "uae_signals": [
+          {
+            "_uid": "ind-retail",
+            "icon": {
+              "filename": "/assets/icons/shopify.svg",
+              "alt": "Retail",
+              "fieldtype": "asset"
+            },
+            "title": "Retail and eCommerce",
+            "component": "uae_signal_item",
+            "description": "Product questions, shipping details and order enquiries for online stores."
+          },
+          {
+            "_uid": "ind-health",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Healthcare",
+              "fieldtype": "asset"
+            },
+            "title": "Healthcare",
+            "component": "uae_signal_item",
+            "description": "Service information, FAQs and enquiry capture for clinics and healthcare providers."
+          },
+          {
+            "_uid": "ind-edu",
+            "icon": {
+              "filename": "/assets/icons/all-in-one-place.svg",
+              "alt": "Education",
+              "fieldtype": "asset"
+            },
+            "title": "Education",
+            "component": "uae_signal_item",
+            "description": "Admissions enquiries, programme details and parent communication support."
+          },
+          {
+            "_uid": "ind-realestate",
+            "icon": {
+              "filename": "/assets/icons/direct-contact.svg",
+              "alt": "Real estate",
+              "fieldtype": "asset"
+            },
+            "title": "Real Estate",
+            "component": "uae_signal_item",
+            "description": "Property enquiries, availability questions and lead qualification around the clock."
+          },
+          {
+            "_uid": "ind-pro",
+            "icon": {
+              "filename": "/assets/icons/lightning-fast.svg",
+              "alt": "Professional services",
+              "fieldtype": "asset"
+            },
+            "title": "Professional Services",
+            "component": "uae_signal_item",
+            "description": "Service explanations, pricing guidance and consultation enquiries."
+          },
+          {
+            "_uid": "ind-hosp",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Hospitality",
+              "fieldtype": "asset"
+            },
+            "title": "Hospitality",
+            "component": "uae_signal_item",
+            "description": "Guest enquiries, booking information and instant support for visitors."
+          },
+          {
+            "_uid": "ind-finance",
+            "icon": {
+              "filename": "/assets/icons/seo-first.svg",
+              "alt": "Finance",
+              "fieldtype": "asset"
+            },
+            "title": "Finance",
+            "component": "uae_signal_item",
+            "description": "Product FAQs, service details and secure enquiry handling."
+          },
+          {
+            "_uid": "ind-more",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "More industries",
+              "fieldtype": "asset"
+            },
+            "title": "And Many More",
+            "component": "uae_signal_item",
+            "description": "Any business that needs faster responses, more leads and better customer support."
+          }
+        ]
+      },
+      {
+        "_uid": "ai-process-001",
+        "component": "igentx_services",
+        "title": "How It Works",
+        "description": "From training to lead capture, get your AI assistant live in minutes.",
+        "services": [],
+        "show_tech_stack": false,
+        "process_title": "How It Works",
+        "process_description": "A simple four-step process to launch your AI Customer Service Agent on any website.",
+        "process_steps": [
+          {
+            "_uid": "ps-train",
+            "component": "process_step",
+            "title": "Train Your AI",
+            "duration": "Minutes",
+            "description": "Upload your website content, documents, FAQs and business information."
+          },
+          {
+            "_uid": "ps-deploy",
+            "component": "process_step",
+            "title": "Deploy in Minutes",
+            "duration": "<30 min",
+            "description": "Add one line of code to your website. Works on any platform."
+          },
+          {
+            "_uid": "ps-work",
+            "component": "process_step",
+            "title": "AI Starts Working",
+            "duration": "Instant",
+            "description": "The assistant answers visitor questions using your verified content."
+          },
+          {
+            "_uid": "ps-grow",
+            "component": "process_step",
+            "title": "Capture and Grow",
+            "duration": "Ongoing",
+            "description": "Collect enquiries, review conversations and convert more leads."
+          }
+        ]
+      },
+      {
+        "_uid": "ai-tech-001",
+        "component": "igentx_services",
+        "title": "Enterprise Ready",
+        "description": "Built on modern AI infrastructure with security and scalability at the core.",
+        "services": [],
+        "show_tech_stack": true,
+        "tech_stack_badge": "Enterprise AI",
+        "tech_stack_title": "Powered by Enterprise AI Technology",
+        "tech_stack_description": "We combine leading AI models, retrieval-augmented generation and cloud infrastructure to deliver accurate, secure and scalable customer support.",
+        "tech_categories": [
+          {
+            "_uid": "c-AI",
+            "component": "tech_category",
+            "title": "AI Powered",
+            "description": "Smarter enquiries, multilingual assistants and intelligent automation that capture and convert more leads.",
+            "icon_key": "ai",
+            "technologies": [
+              {
+                "_uid": "t-OpenAI",
+                "component": "technology_item",
+                "name": "OpenAI",
+                "icon": {
+                  "filename": "/assets/icons/openai-icon.svg",
+                  "alt": "OpenAI",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Claude",
+                "component": "technology_item",
+                "name": "Claude",
+                "icon": {
+                  "filename": "/assets/icons/claude-icon.svg",
+                  "alt": "Claude",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Gemini",
+                "component": "technology_item",
+                "name": "Gemini",
+                "icon": {
+                  "filename": "/assets/icons/gemini-icon.svg",
+                  "alt": "Gemini",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-RAG",
+                "component": "technology_item",
+                "name": "RAG",
+                "icon": {
+                  "filename": "/assets/icons/rag-icon.svg",
+                  "alt": "RAG",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c-Cloud",
+            "component": "tech_category",
+            "title": "Cloud Native",
+            "description": "Scalable hosting and enterprise-grade infrastructure built for reliability.",
+            "icon_key": "cloud",
+            "technologies": [
+              {
+                "_uid": "t-AWS",
+                "component": "technology_item",
+                "name": "AWS",
+                "icon": {
+                  "filename": "/assets/icons/aws-icon.svg",
+                  "alt": "AWS",
+                  "fieldtype": "asset"
+                }
+              },
+              {
+                "_uid": "t-Cloudflare",
+                "component": "technology_item",
+                "name": "Cloudflare",
+                "icon": {
+                  "filename": "/assets/icons/cloudflare-icon.svg",
+                  "alt": "Cloudflare",
+                  "fieldtype": "asset"
+                }
+              }
+            ]
+          }
+        ],
+        "tech_benefits": [
+          {
+            "_uid": "tb-jwt",
+            "component": "tech_benefit",
+            "title": "JWT Security",
+            "description": "Secure widget authentication",
+            "icon_key": "shield"
+          },
+          {
+            "_uid": "tb-domain",
+            "component": "tech_benefit",
+            "title": "Domain Protection",
+            "description": "Restrict to your domains",
+            "icon_key": "shield"
+          },
+          {
+            "_uid": "tb-privacy",
+            "component": "tech_benefit",
+            "title": "Private Conversations",
+            "description": "Protected customer data",
+            "icon_key": "shield"
+          },
+          {
+            "_uid": "tb-mobile",
+            "component": "tech_benefit",
+            "title": "Mobile Ready",
+            "description": "Responsive on all devices",
+            "icon_key": "lightning"
+          },
+          {
+            "_uid": "tb-global",
+            "component": "tech_benefit",
+            "title": "Global Delivery",
+            "description": "Deploy anywhere worldwide",
+            "icon_key": "layers"
+          }
+        ]
+      },
+      {
+        "_uid": "ai-cta-band-001",
+        "component": "igentx_cta_band",
+        "title": "Transform Your Website into a 24/7 Sales and Support Assistant",
+        "description": "Book a free consultation to see how the AI Customer Service Agent can increase leads, reduce support workload and improve customer satisfaction on your website.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        }
+      },
+      {
+        "_uid": "79cadfa2-67de-4b4e-b0db-e5490df4564c",
+        "faqs": [
+          {
+            "_uid": "faq-what",
+            "question": "What is an AI Customer Service Agent?",
+            "answer": "An AI Customer Service Agent is an automated chat assistant that answers customer questions instantly using artificial intelligence. It handles enquiries, provides support and guides users 24/7 using your business content.",
+            "category": "AI Solutions",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-how",
+            "question": "How does your AI Customer Service Agent work?",
+            "answer": "Our AI agent is trained on your website content, documents and FAQs using retrieval-augmented generation (RAG). It answers visitor questions instantly, qualifies leads and supports multilingual conversations. Integration takes one line of code on any website. You control the knowledge base, review conversations and update content as your business evolves.",
+            "category": "AI Solutions",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-content",
+            "question": "Can the AI answer questions using our website content?",
+            "answer": "Yes. The agent indexes your pages, PDFs, service lists and uploaded documents. When a visitor asks a question, it retrieves relevant content and generates a grounded response. You can update the knowledge base anytime.",
+            "category": "AI Solutions",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-arabic",
+            "question": "Is the AI agent multilingual?",
+            "answer": "Yes. The agent supports multilingual conversations so visitors can get accurate responses in their preferred language. This is valuable for global businesses and UAE teams serving diverse local and international audiences.",
+            "category": "AI Solutions",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-integrate",
+            "question": "Can I integrate the AI into any website?",
+            "answer": "Yes. You can integrate it into WordPress, Shopify, Wix, Webflow, custom HTML, Laravel, React or Next.js with one line of script. No coding knowledge is required.",
+            "category": "Integration",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-whatsapp",
+            "question": "Can the AI integrate with WhatsApp or contact options?",
+            "answer": "Yes. The AI widget includes contact buttons like WhatsApp, phone, email and social media for seamless customer communication alongside the chat assistant.",
+            "category": "Integration",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-setup",
+            "question": "How long does setup take?",
+            "answer": "Setup takes only a few minutes. Embed the script, provide your content and the AI starts answering. Most businesses are live in under 30 minutes.",
+            "category": "Setup",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-leads",
+            "question": "Does the AI handle lead capture?",
+            "answer": "Yes. It can collect customer details, enquiries and specific information to help businesses convert visitors into leads. Your team reviews conversations and follows up on qualified opportunities.",
+            "category": "Setup",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-secure",
+            "question": "Is the AI safe and secure to use?",
+            "answer": "Yes. The widget uses secure authentication with JWT and domain protection. Conversations are handled with privacy in mind for both your business and your customers.",
+            "category": "Security",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-diff",
+            "question": "What makes this different from normal chatbots?",
+            "answer": "Traditional chatbots rely on rules or predefined flows. This AI uses advanced understanding, your real business data and natural language processing to give intelligent answers without manual scripting.",
+            "category": "AI Solutions",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-ecommerce",
+            "question": "Can the AI support ecommerce websites?",
+            "answer": "Yes. It can handle product questions, shipping details, order information and more for online stores, helping reduce cart abandonment and support tickets.",
+            "category": "Integration",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-custom",
+            "question": "Can the AI be customised with my branding?",
+            "answer": "Yes. You can customise the branding name, appearance, welcome message and behaviour to match your business identity.",
+            "category": "Setup",
+            "component": "faq_item"
+          }
+        ],
+        "component": "faq",
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Common questions about the AI Customer Service Agent, integration, security and setup.",
+        "initial_visible_count": 8
+      }
+    ],
+    "component": "page"
+  }
+}
