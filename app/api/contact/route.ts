@@ -153,7 +153,10 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ message: 'Invalid form data' }, { status: 400 })
     }
 
-    if (!formConfig.recipient_email) {
+    const recipientEmail =
+      formConfig.recipient_email || process.env.MAILJET_TO_EMAIL || 'hello@igentx.com'
+
+    if (!recipientEmail) {
       return NextResponse.json({ message: 'Recipient email not configured' }, { status: 400 })
     }
 
@@ -173,7 +176,7 @@ export async function POST(request: NextRequest) {
 
     // Set default sender information
     const senderEmail =
-      formConfig.sender_email || process.env.MAILJET_FROM_EMAIL || 'noreply@example.com'
+      formConfig.sender_email || process.env.MAILJET_FROM_EMAIL || 'contact_form@igentx.com'
     const senderName = formConfig.sender_name || process.env.MAILJET_FROM_NAME || 'Contact Form'
 
     // Generate email content
@@ -190,7 +193,7 @@ export async function POST(request: NextRequest) {
           },
           To: [
             {
-              Email: formConfig.recipient_email,
+              Email: recipientEmail,
             },
           ],
           Subject: formConfig.email_subject,
