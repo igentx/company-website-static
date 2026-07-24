@@ -14,8 +14,8 @@
         "og_type": "website",
         "keywords": "web development agency, ecommerce development, branding design, SEO services, AI web development, digital studio, custom websites",
         "og_image": {
-          "filename": "/assets/images/custom-software-development.webp",
-          "alt": "IGENTX digital services: web development, ecommerce, branding and SEO",
+          "filename": "/assets/og/services-og.webp",
+          "alt": "Web development, ecommerce, branding and SEO services | IGENTX",
           "fieldtype": "asset",
           "is_external_url": false
         },
@@ -27,8 +27,8 @@
         "canonical_url": "https://www.igentx.com/services",
         "robots_follow": true,
         "twitter_image": {
-          "filename": "/assets/images/custom-software-development.webp",
-          "alt": "IGENTX digital services: web development, ecommerce, branding and SEO",
+          "filename": "/assets/og/services-og.webp",
+          "alt": "Web development, ecommerce, branding and SEO services | IGENTX",
           "fieldtype": "asset",
           "is_external_url": false
         },
@@ -43,7 +43,7 @@
         "structured_data_type": "WebSite",
         "article_modified_time": "",
         "article_published_time": "2025-10-26 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Digital Agency Services\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"hasOfferCatalog\": {\n    \"@type\": \"OfferCatalog\",\n    \"name\": \"IGENTX Services\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Custom Web Development\",\n          \"description\": \"Performance-first websites and web applications with multilingual support.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Ecommerce Development\",\n          \"description\": \"Headless and platform ecommerce with secure checkout.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Branding & Graphic Design\",\n          \"description\": \"Logo, identity systems and marketing creative.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Search Engine Optimisation\",\n          \"description\": \"Technical SEO, content strategy and measurable growth.\"\n        }\n      }\n    ]\n  }\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Digital Agency Services\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"hasOfferCatalog\": {\n    \"@type\": \"OfferCatalog\",\n    \"name\": \"IGENTX Services\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Custom Web Development\",\n          \"description\": \"Performance-first websites and web applications with multilingual support.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Ecommerce Development\",\n          \"description\": \"Headless and platform ecommerce with secure checkout.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Branding & Graphic Design\",\n          \"description\": \"Logo, identity systems and marketing creative.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Search Engine Optimisation\",\n          \"description\": \"Technical SEO, content strategy and measurable growth.\"\n        }\n      }\n    ]\n  }\n}"
       },
       {
         "_uid": "sl-hero-001",

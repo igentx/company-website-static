@@ -21,7 +21,7 @@
         },
         "og_title": "SEO Services in UAE | Local & Technical SEO | IGENTX",
         "publisher": "IGENTX",
-        "description": "SEO for UAE businesses: Google Maps local SEO, technical audits, Arabic and English content strategy, and monthly reporting.",
+        "description": "SEO for UAE businesses: Google Maps local SEO, technical audits, multilingual content strategy, and monthly reporting.",
         "article_tags": "seo uae, seo dubai, seo services uae, on-page optimisation, local seo, technical seo, igentx seo",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/services/seo-service-uae",
@@ -34,22 +34,22 @@
         },
         "twitter_title": "SEO Services UAE | IGENTX",
         "article_author": "IGENTX",
-        "og_description": "Technical and local SEO for UAE businesses. Google Maps visibility, bilingual keyword strategy and performance reporting from IGENTX.",
+        "og_description": "Technical and local SEO for UAE businesses. Google Maps visibility, multilingual keyword strategy and performance reporting from IGENTX.",
         "article_section": "Search Engine Optimisation",
         "robots_noarchive": false,
         "robots_nosnippet": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "SEO for UAE businesses: local search, technical audits, and bilingual content strategy. Book a free consultation for a tailored plan.",
+        "twitter_description": "SEO for UAE businesses: local search, technical audits, and multilingual content strategy. Book a free consultation for a tailored plan.",
         "structured_data_type": "Service",
         "article_published_time": "2025-10-27 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Search Engine Optimisation in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"description\": \"SEO services for UAE businesses including on-page optimisation, technical audits, keyword strategy, and local SEO.\"\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Search Engine Optimisation in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"description\": \"SEO services for UAE businesses including on-page optimisation, technical audits, keyword strategy, and local SEO.\"\n}"
       },
       {
         "_uid": "58fe7ae8-7dbd-4446-b1d0-b31a7d5f5e54",
         "component": "service_hero",
         "badge_text": "IGENTX Service · UAE",
         "title": "Rank higher in Dubai, Abu Dhabi and across the UAE",
-        "summary": "Local SEO for Google Maps, bilingual Arabic and English keyword strategy, and technical foundations that help UAE businesses capture more qualified search traffic.",
+        "summary": "Local SEO for Google Maps, multilingual keyword strategy, and technical foundations that help UAE businesses capture more qualified search traffic.",
         "category": "SEO Services in UAE",
         "cta_text": "Book a Free Consultation",
         "cta_link": {
@@ -70,7 +70,7 @@
           "fieldtype": "asset",
           "is_external_url": false
         },
-        "quick_features": "Google Maps and local SEO for UAE cities\nBilingual Arabic and English keyword strategy\nTechnical audits and Core Web Vitals fixes\nMonthly reporting with clear next steps",
+        "quick_features": "Google Maps and local SEO for UAE cities\nMultilingual keyword strategy\nTechnical audits and Core Web Vitals fixes\nMonthly reporting with clear next steps",
         "pricing_preview": ""
       },
       {
@@ -78,7 +78,7 @@
         "component": "igentx_trust_band",
         "badge_text": "UAE Growth Partner",
         "title": "Local search visibility built on technical foundations",
-        "description": "We help UAE businesses rank in both English and Arabic searches with technical SEO, local listings optimisation and content that converts visitors into enquiries.",
+        "description": "We help UAE businesses rank across languages, including Arabic and English, with technical SEO, local listings optimisation and content that converts visitors into enquiries.",
         "partner_logos": [
           {
             "_uid": "seo-uae-p-gsc",
@@ -138,8 +138,8 @@
             "_uid": "seo-uae-m3",
             "component": "trust_band_metric",
             "value": "EN + AR",
-            "label": "Bilingual SEO",
-            "description": "Rank in English and Arabic searches",
+            "label": "Multilingual SEO",
+            "description": "Rank across languages including Arabic and English",
             "icon_key": "global"
           },
           {
@@ -157,7 +157,7 @@
         "component": "why_choose_igentx",
         "badge_text": "UAE SEO Capabilities",
         "title": "SEO programmes for the Emirates",
-        "description": "From Google Business Profile optimisation to bilingual content and technical fixes, we scope SEO around your UAE markets and competition.",
+        "description": "From Google Business Profile optimisation to multilingual content and technical fixes, we scope SEO around your UAE markets and competition.",
         "features": [
           {
             "_uid": "seo-uae-f1",
@@ -174,12 +174,12 @@
           {
             "_uid": "seo-uae-f2",
             "component": "differentiator_feature",
-            "title": "Bilingual Arabic and English SEO",
-            "highlight": "Rank in both languages",
-            "description": "Hreflang setup, Arabic RTL pages and keyword research for how UAE audiences search in English and Arabic.",
+            "title": "Multilingual SEO",
+            "highlight": "Rank across languages",
+            "description": "Hreflang setup, Arabic RTL pages and keyword research for how UAE audiences search across languages.",
             "icon": {
               "filename": "/assets/icons/flexible.svg",
-              "alt": "Bilingual SEO",
+              "alt": "Multilingual SEO",
               "fieldtype": "asset"
             }
           },
@@ -237,7 +237,7 @@
         "_uid": "seo-uae-cta-001",
         "component": "igentx_cta_band",
         "title": "Ready to improve your UAE search visibility?",
-        "description": "Book a free consultation for a local SEO overview, bilingual keyword opportunities and a realistic growth plan for your UAE markets.",
+        "description": "Book a free consultation for a local SEO overview, multilingual keyword opportunities and a realistic growth plan for your UAE markets.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "contact",
@@ -255,29 +255,29 @@
         "_uid": "seo-uae-faq-001",
         "component": "faq",
         "faq_title": "Frequently Asked Questions",
-        "faq_description": "Common questions about SEO services in the UAE, local search, bilingual content and how we measure growth.",
+        "faq_description": "Common questions about SEO services in the UAE, local search, multilingual content and how we measure growth.",
         "initial_visible_count": 8,
         "faqs": [
           {
             "_uid": "seo-uae-faq-q1",
             "component": "faq_item",
             "question": "What SEO services does IGENTX provide in the UAE?",
-            "answer": "We provide technical SEO audits, on-page optimisation, bilingual content strategy, Google Maps local SEO and monthly performance reporting for businesses targeting Dubai, Abu Dhabi and the wider UAE.",
+            "answer": "We provide technical SEO audits, on-page optimisation, multilingual content strategy, Google Maps local SEO and monthly performance reporting for businesses targeting Dubai, Abu Dhabi and the wider UAE.",
             "category": "General"
           },
           {
             "_uid": "seo-uae-faq-q2",
             "component": "faq_item",
             "question": "Do you provide local SEO for Dubai and the UAE?",
-            "answer": "Yes. We optimise Google Business Profile, local citations, location pages and bilingual schema markup. Local search in the UAE benefits from mobile-first performance, relevant Arabic and English content, and strong technical foundations.",
+            "answer": "Yes. We optimise Google Business Profile, local citations, location pages and multilingual schema markup. Local search in the UAE benefits from mobile-first performance, relevant multilingual content, and strong technical foundations.",
             "category": "Local"
           },
           {
             "_uid": "seo-uae-faq-q3",
             "component": "faq_item",
-            "question": "Can you help us rank in both Arabic and English?",
-            "answer": "Yes. We plan hreflang tags, URL structures and keyword strategies for bilingual sites so you can rank in both languages without duplicate content issues.",
-            "category": "Bilingual"
+            "question": "Can you help us rank in multiple languages?",
+            "answer": "Yes. We plan hreflang tags, URL structures and keyword strategies for multilingual sites so you can rank across languages without duplicate content issues.",
+            "category": "Multilingual"
           },
           {
             "_uid": "seo-uae-faq-q4",

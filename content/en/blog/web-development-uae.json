@@ -12,16 +12,10 @@
         "og_type": "article",
         "keywords": "web development UAE, web development company UAE, web development Dubai, web design UAE, website development company Dubai, digital agency UAE, best web development company in Dubai",
         "og_image": {
-          "id": null,
-          "alt": null,
-          "name": "",
-          "focus": null,
-          "title": null,
-          "source": null,
-          "filename": "",
-          "copyright": null,
+          "filename": "/assets/blog/web-development-og.webp",
+          "alt": "Web development guide for UAE businesses by IGENTX",
           "fieldtype": "asset",
-          "meta_data": {}
+          "is_external_url": false
         },
         "og_title": "Web Development in the UAE: A Practical Guide | IGENTX",
         "component": "seo",
@@ -32,16 +26,10 @@
         "canonical_url": "https://www.igentx.com/blog/web-development-uae",
         "robots_follow": true,
         "twitter_image": {
-          "id": null,
-          "alt": null,
-          "name": "",
-          "focus": null,
-          "title": null,
-          "source": null,
-          "filename": "",
-          "copyright": null,
+          "filename": "/assets/blog/web-development-og.webp",
+          "alt": "Web development guide for UAE businesses by IGENTX",
           "fieldtype": "asset",
-          "meta_data": {}
+          "is_external_url": false
         },
         "twitter_title": "Web Development in the UAE: A Practical Guide | IGENTX",
         "article_author": "IGENTX Digital Team",
@@ -298,7 +286,7 @@
                   },
                   "content": [
                     {
-                      "text": "  • Deliver multi-language content (English + Arabic) effortlessly",
+                      "text": "  • Deliver multi-language content effortlessly",
                       "type": "text"
                     }
                   ]
@@ -449,7 +437,7 @@
                       ]
                     },
                     {
-                      "text": "English + Arabic CMS integration made simple.",
+                      "text": "Multilingual CMS integration made simple.",
                       "type": "text"
                     }
                   ]
@@ -1443,7 +1431,7 @@
                   },
                   "content": [
                     {
-                      "text": "3 - Arabic + English Localization",
+                      "text": "3 - Multilingual localisation",
                       "type": "text",
                       "marks": [
                         {

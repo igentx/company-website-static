@@ -236,19 +236,13 @@ export async function getSupportedLanguages(): Promise<Language[]> {
       return transformLanguageCodes(staleCache)
     }
 
-    // Ultimate fallback to default languages (English + Arabic for IGENTX)
+    // Ultimate fallback: English only (matches content/manifest.json)
     const fallbackLanguages = [
       {
         code: DEFAULT_LANGUAGE,
         name: 'English',
         flag: '🇺🇸',
         direction: 'ltr' as const,
-      },
-      {
-        code: 'ar',
-        name: 'العربية',
-        flag: '🇸🇦',
-        direction: 'rtl' as const,
       },
     ]
 

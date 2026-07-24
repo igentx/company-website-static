@@ -2,6 +2,7 @@ import type {
   BlogDetailBlok,
   BlogHeadingBlok,
 } from './types'
+import { getSiteBaseUrl } from './site-url'
 
 export interface BlogLink {
   linktype?: string
@@ -154,6 +155,6 @@ export function normalizeBlogCategories(
 export function absoluteAssetUrl(path?: string): string | undefined {
   if (!path) return undefined
   if (path.startsWith('http')) return path
-  const base = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.igentx.com'
+  const base = getSiteBaseUrl()
   return `${base}${path.startsWith('/') ? path : `/${path}`}`
 }

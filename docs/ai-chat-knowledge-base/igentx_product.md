@@ -57,6 +57,18 @@ Persistent conversations across page navigations with localStorage. Users can co
 - Personalized messaging to match your brand voice
 - Configurable welcome messages and call-to-actions
 
+### Conversational Lead Capture
+During natural chat, the agent may politely ask for contact details (name, email, or phone) when engagement and intent are high. Visitors can share or keep browsing; there is no forced sign-up form upfront.
+
+When contact details are shared:
+- The conversation and contact info are saved to the backend
+- Enquiries appear on the admin dashboard with chat summary, intent signals, and preferred contact method
+- Your team reviews enquiries and follows up manually on qualified opportunities
+
+Pipeline or CRM conversion is **not** automatic. Contact details are recorded for review; your team decides which enquiries to pursue.
+
+For DaycareMate deployments, chat inquiries appear at **Leads → Chat inquiries**. Staff convert qualified enquiries to pipeline leads with one click.
+
 ### Analytics Ready
 Track conversations, user engagement, and support metrics. Gain insights into:
 - Most asked questions

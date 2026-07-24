@@ -26,19 +26,12 @@ export function LanguageProvider({ children, initialLanguage }: LanguageProvider
         setLanguages(supportedLanguages)
       } catch (error) {
         console.error('Failed to load languages:', error)
-        // Fallback to English and Arabic
         setLanguages([
           {
             code: DEFAULT_LANGUAGE,
             name: 'English',
             flag: '🇺🇸',
             direction: 'ltr',
-          },
-          {
-            code: 'ar',
-            name: 'العربية',
-            flag: '🇸🇦',
-            direction: 'rtl',
           },
         ])
       } finally {

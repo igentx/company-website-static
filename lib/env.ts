@@ -5,7 +5,17 @@
 function validateEnv() {
   // Mailjet is optional at build time; contact form checks isEmailEnabled() at runtime.
   if (process.env.NODE_ENV === 'production' && !process.env.NEXT_PUBLIC_SITE_URL) {
-    console.warn('Missing NEXT_PUBLIC_SITE_URL — canonical URLs may fall back to https://www.igentx.com')
+    console.warn(
+      'Missing NEXT_PUBLIC_SITE_URL — canonical URLs may fall back to https://www.igentx.com'
+    )
+  } else if (
+    process.env.NODE_ENV === 'production' &&
+    process.env.NEXT_PUBLIC_SITE_URL?.includes('igentx.com') &&
+    !process.env.NEXT_PUBLIC_SITE_URL.includes('www.')
+  ) {
+    console.warn(
+      'NEXT_PUBLIC_SITE_URL should use https://www.igentx.com (www primary). Apex redirects to www at runtime.'
+    )
   }
 }
 

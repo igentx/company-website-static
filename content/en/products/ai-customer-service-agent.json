@@ -33,7 +33,7 @@
         },
         "twitter_title": "AI Customer Service Agent | IGENTX",
         "article_author": "",
-        "og_description": "24/7 AI support agent trained on your content. Instant replies, lead capture, multilingual support, deployable on any website worldwide.",
+        "og_description": "24/7 AI support agent with conversational lead capture. Contact details and chat summaries saved to your dashboard. Multilingual, one-line integration, deployable worldwide.",
         "article_section": "",
         "robots_noarchive": false,
         "robots_nosnippet": false,
@@ -47,7 +47,7 @@
       {
         "_uid": "05f85a8c-bc0a-4675-be26-3993f753554e",
         "title": "AI Customer Service Agent for Modern Businesses",
-        "summary": "Transform your website into a 24/7 sales and support assistant. Our AI Customer Service Agent answers questions instantly, qualifies leads, supports multiple languages, and integrates with your existing website in minutes.",
+        "summary": "Transform your website into a 24/7 sales and support assistant. Our AI Customer Service Agent answers questions instantly, captures contact details naturally in chat, saves enquiries to your admin dashboard, and integrates with your existing website in minutes.",
         "category": "AI Solutions",
         "cta_link": {
           "url": "/contact",
@@ -69,7 +69,7 @@
           "fieldtype": "asset",
           "is_external_url": false
         },
-        "quick_features": "Works with any website\nSetup in under 30 minutes\nLearns from your website and documents\nMultilingual support",
+        "quick_features": "Works with any website\nSetup in under 30 minutes\nLearns from your website and documents\nConversational lead capture in chat\nEnquiries saved to your admin dashboard\nMultilingual support",
         "pricing_preview": ""
       },
       {
@@ -227,10 +227,10 @@
               "alt": "Lead capture",
               "fieldtype": "asset"
             },
-            "title": "Lead Capture and Enquiries",
+            "title": "Conversational Lead Capture",
             "component": "differentiator_feature",
-            "highlight": "More conversions",
-            "description": "Collect customer details and enquiries to help your team convert visitors into qualified leads."
+            "highlight": "Smart, not pushy",
+            "description": "After a few messages, when intent is clear, the agent politely asks for contact details in natural conversation. Visitors can share or keep browsing. Every inquiry is saved to your dashboard with a chat summary so your team can follow up with context."
           },
           {
             "_uid": "d9bc60d7-a508-4f2c-9662-023a49ced245",
@@ -306,6 +306,12 @@
             "text": "Inconsistent answers across channels",
             "enabled": true,
             "component": "speed_comparison_point"
+          },
+          {
+            "_uid": "tap6",
+            "text": "Contact forms abandoned before anyone follows up",
+            "enabled": true,
+            "component": "speed_comparison_point"
           }
         ],
         "igentx_advantage_label": "IGENTX Advantage",
@@ -325,7 +331,7 @@
           },
           {
             "_uid": "iap3",
-            "text": "Enquiries and leads captured anytime",
+            "text": "Context-rich enquiries on your dashboard: contact details, chat summary, and intent in one place",
             "enabled": true,
             "component": "speed_comparison_point"
           },
@@ -471,7 +477,7 @@
             "component": "process_step",
             "title": "Capture and Grow",
             "duration": "Ongoing",
-            "description": "Collect enquiries, review conversations and convert more leads."
+            "description": "The agent may ask for contact details naturally when intent is high. Shared details and full conversations are saved to your admin dashboard. Your team reviews enquiries and follows up on qualified opportunities."
           }
         ]
       },
@@ -670,8 +676,22 @@
           {
             "_uid": "faq-leads",
             "question": "Does the AI handle lead capture?",
-            "answer": "Yes. It can collect customer details, enquiries and specific information to help businesses convert visitors into leads. Your team reviews conversations and follows up on qualified opportunities.",
+            "answer": "Yes. During natural conversation, the agent may politely ask for contact details when engagement and intent are high. Visitors can share or keep browsing. Contact details and chat summaries are saved to your admin dashboard for review. Your team follows up on qualified enquiries manually.",
             "category": "Setup",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-lead-conversational",
+            "question": "How does conversational lead capture work?",
+            "answer": "No forced form upfront. During natural chat, the agent may ask for name, email, or phone when engagement and intent are high. Visitors can skip and keep chatting. When they share details, the conversation and contact info are recorded on your dashboard for review.",
+            "category": "AI Solutions",
+            "component": "faq_item"
+          },
+          {
+            "_uid": "faq-lead-auto-crm",
+            "question": "Do chat enquiries automatically become CRM leads?",
+            "answer": "Contact details shared in chat are saved and listed on your dashboard. Your team decides which enquiries to pursue and follow up on.",
+            "category": "AI Solutions",
             "component": "faq_item"
           },
           {

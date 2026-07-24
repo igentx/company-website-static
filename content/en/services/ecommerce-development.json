@@ -34,7 +34,7 @@
           "is_external_url": false
         },
         "structured_data_type": "Service",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Ecommerce Website Development\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"Ecommerce development for Shopify, WooCommerce, BigCommerce and custom headless storefronts.\"\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Ecommerce Website Development\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"Ecommerce development for Shopify, WooCommerce, BigCommerce and custom headless storefronts.\"\n}"
       },
       {
         "_uid": "ecom-hero-001",

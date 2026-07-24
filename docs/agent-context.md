@@ -115,8 +115,10 @@ Do not invent features. Key marketing constraints:
 | Language | ECE-inclusive: centre, classroom, family (not daycare-only) |
 | Geography | Global product; UAE is first market |
 | AI enquiry assistant | Deployable for subscribers; **manual** lead conversion (not auto-logged) |
+| Conversational lead capture | Agent may politely ask for contact details in chat after engagement/intent; visitor can skip. Contact details and chat summaries saved to admin dashboard. Pipeline conversion is manual, not auto-CRM. DaycareMate: **Leads → Chat inquiries** tab |
 | Embeddable forms | Enquiry/lead capture only; **not** "visit booking" (no hosted `/visit` page) |
 | Partial features | Use careful language from `product-features.md` notes |
+| White-label branding | Per-deployment: centre name, logo, favicon, branded PDFs. Approved line: "Your centre's branding on your dedicated deployment." Do not claim complete vendor-brand removal. |
 
 ---
 

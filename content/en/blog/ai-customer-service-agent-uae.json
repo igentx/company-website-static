@@ -12,37 +12,23 @@
         "og_type": "article",
         "keywords": "ai customer service agent uae, ai chatbot dubai, ai lead generation uae, multilingual chatbot uae, website chat support dubai, 24/7 ai assistant uae, customer support automation",
         "og_image": {
-          "id": 116538034779139,
-          "alt": "AI Customer Service Agent for UAE websites by IGENTX",
-          "name": "",
-          "focus": "",
-          "title": "",
-          "source": "",
-          "filename": "/assets/images/aai-customer-support-chat-screenshot.png",
-          "copyright": "",
+          "filename": "/assets/og/ai-customer-service-agent-uae-og.webp",
+          "alt": "AI customer service agent for UAE websites | IGENTX",
           "fieldtype": "asset",
-          "meta_data": {},
           "is_external_url": false
         },
         "og_title": "AI Customer Service Agent for UAE Websites | IGENTX",
         "component": "seo",
         "publisher": "IGENTX",
-        "description": "The IGENTX AI Customer Service Agent is a 24/7 enquiry assistant for UAE websites. Instantly answer customer queries in Arabic and English, and help your team capture qualified leads through manual follow-up.",
+        "description": "The IGENTX AI Customer Service Agent is a 24/7 enquiry assistant for UAE websites. Instantly answer customer queries in multiple languages, and help your team capture qualified leads through manual follow-up.",
         "article_tags": "ai customer service agent uae, ai lead generation dubai, multilingual ai chatbot, website assistant uae, igentx ai products",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/blog/ai-customer-service-agent-uae",
         "robots_follow": true,
         "twitter_image": {
-          "id": 116538034779139,
-          "alt": "",
-          "name": "",
-          "focus": "",
-          "title": "",
-          "source": "",
-          "filename": "/assets/images/aai-customer-support-chat-screenshot.png",
-          "copyright": "",
+          "filename": "/assets/og/ai-customer-service-agent-uae-og.webp",
+          "alt": "AI customer service agent for UAE websites | IGENTX",
           "fieldtype": "asset",
-          "meta_data": {},
           "is_external_url": false
         },
         "twitter_title": "AI Customer Service Agent for UAE Websites | IGENTX",
@@ -52,7 +38,7 @@
         "robots_noarchive": false,
         "robots_nosnippet": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "The IGENTX AI Customer Service Agent answers questions in Arabic and English, surfaces enquiry intent, and helps your team follow up manually. Built for UAE businesses.",
+        "twitter_description": "The IGENTX AI Customer Service Agent answers questions in multiple languages, surfaces enquiry intent, and helps your team follow up manually. Built for UAE businesses.",
         "structured_data_type": "BlogPosting",
         "article_modified_time": "2025-11-30 00:00",
         "article_published_time": "2025-11-30 00:00",
@@ -285,7 +271,7 @@
                       "type": "text"
                     },
                     {
-                      "text": "English + Arabic",
+                      "text": "Multilingual",
                       "type": "text",
                       "marks": [
                         {
@@ -437,7 +423,7 @@
                   },
                   "content": [
                     {
-                      "text": "2 - English + Arabic bilingual support",
+                      "text": "2 - Multilingual support",
                       "type": "text",
                       "marks": [
                         {
@@ -549,7 +535,7 @@
                       "type": "hard_break"
                     },
                     {
-                      "text": "Your customers often switch between English and Arabic - and AI Customer Service Agent handles both effortlessly.",
+                      "text": "Your customers use multiple languages, including Arabic and English, and AI Customer Service Agent handles them effortlessly.",
                       "type": "text"
                     }
                   ]
@@ -1562,7 +1548,7 @@
         "show_toc": true,
         "key_takeaways": [
           "AI enquiry assistants can answer questions 24/7 in multiple languages.",
-          "Lead capture works best when visitors can chat naturally and your team follows up manually.",
+          "Lead capture works best when visitors can chat naturally and contact details are saved to your dashboard for team review.",
           "Deploying an AI agent on your website typically requires a single line of integration code."
         ]
       },
@@ -1584,14 +1570,14 @@
             "_uid": "faq-item-ai-customer-service-agent-uae-1",
             "component": "faq_item",
             "question": "Can the IGENTX AI agent capture leads automatically?",
-            "answer": "The agent helps capture enquiry intent through conversation. Your team converts qualified conversations into leads manually, which keeps you in control of follow-up and CRM accuracy.",
+            "answer": "The agent captures contact details naturally during chat and saves them to your admin dashboard with a conversation summary. Your team decides which enquiries to pursue and follows up manually, which keeps you in control of CRM accuracy.",
             "category": "General"
           },
           {
             "_uid": "faq-item-ai-customer-service-agent-uae-2",
             "component": "faq_item",
-            "question": "Does the AI agent support Arabic and English?",
-            "answer": "Yes. The IGENTX AI Customer Service Agent supports multilingual conversations including Arabic and English, which is essential for UAE businesses serving diverse audiences.",
+            "question": "Is the AI agent multilingual?",
+            "answer": "Yes. The IGENTX AI Customer Service Agent supports multilingual conversations so visitors can get accurate responses in their preferred language. This is valuable for UAE businesses serving diverse local and international audiences.",
             "category": "General"
           }
         ]

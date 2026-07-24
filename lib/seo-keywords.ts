@@ -16,7 +16,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/': {
     title: 'Web Development Company UAE | AI Software & Digital Products | IGENTX',
     description:
-      'IGENXT is an AI-first technology company in the UAE. We build high-performance websites, custom software, AI customer agents, headless commerce, and SEO-driven growth — serving businesses in Dubai, Abu Dhabi, and worldwide.',
+      'IGENXT is an AI-first technology company in the UAE. We build high-performance websites, custom software, AI customer agents, headless commerce, and SEO-driven growth for businesses in Dubai, Abu Dhabi, and worldwide.',
     keywords:
       'web development company UAE, website development Dubai, software development UAE, AI development company UAE, custom software development UAE, ecommerce development UAE, headless commerce UAE, SEO company UAE, Next.js development, React development',
   },
@@ -80,6 +80,18 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
       'Technical and local SEO for UAE businesses — Arabic SEO, schema, and performance optimization.',
     keywords: 'SEO services Dubai, Arabic SEO UAE, local SEO Dubai',
   },
+  '/services/ai-solutions': {
+    title: 'AI Solutions & Custom AI Integration | IGENTX',
+    description:
+      'Custom AI solutions for business automation: RAG assistants, workflow automation, intelligent features and product integrations. Delivered globally for growing businesses.',
+    keywords: 'AI solutions, custom AI integration, RAG chatbot, workflow automation, AI development',
+  },
+  '/services/custom-software-development': {
+    title: 'Custom Software Development | Bespoke Web Apps & Platforms | IGENTX',
+    description:
+      'Bespoke web applications, internal tools and product platforms built to fit your workflows and growth goals. Global delivery from an AI-accelerated studio.',
+    keywords: 'custom software development, bespoke web applications, internal tools, API integrations, product platforms',
+  },
   '/products': {
     title: 'IGENTX Products | AI Agent & DaycareMate',
     description:
@@ -115,21 +127,21 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
       'web development case studies, AI agent case study, childcare digital transformation, igentx portfolio, UAE web development success stories',
   },
   '/case-studies/moduluxe-group': {
-    title: 'Moduluxe Group Case Study | IGENTX',
+    title: 'Moduluxe Group: 300% Organic Traffic Growth | IGENTX Case Study',
     description:
-      'How Moduluxe Group achieved 300% organic traffic growth with a bilingual Next.js website.',
-    keywords: 'web development UAE case study, Moduluxe Group',
+      'How Moduluxe Group achieved 300% organic traffic growth in 3 months with a bilingual, SEO-optimised Next.js website built for the UAE market.',
+    keywords: 'web development UAE case study, Moduluxe Group, bilingual website UAE',
   },
   '/case-studies/dr-door': {
-    title: 'Dr.Door Case Study | IGENTX',
+    title: 'DrDoor: 200% Organic Growth & Sub-Second Load Times | IGENTX Case Study',
     description:
-      'Dr.Door digital transformation: 200% organic growth and 96% performance score.',
-    keywords: 'manufacturing website case study, Dr.Door web development',
+      'How DrDoor achieved 200% organic traffic growth with a fast, SEO-optimised Next.js website for the India manufacturing market.',
+    keywords: 'manufacturing website case study, DrDoor web development, SEO growth India',
   },
   '/case-studies/bloomwave-learning-daycare': {
-    title: 'BloomWave Case Study | Website, AI Agent & DaycareMate',
+    title: 'BloomWave: Integrated Web, AI Enquiries & Centre Operations | IGENTX Case Study',
     description:
-      'How BloomWave Learning & Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform.',
+      'How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform in one integrated rollout.',
     keywords: 'childcare centre digital transformation UAE, BloomWave, DaycareMate case study',
   },
   '/blog': {
@@ -204,6 +216,36 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
       'How BloomWave Learning and Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform.',
     keywords: 'BloomWave case study, DaycareMate UAE, childcare centre digital transformation',
   },
+  '/blog/web-development-uae': {
+    title: 'Web Development in the UAE: A Practical Guide | IGENTX',
+    description:
+      'A practical guide to planning, building and optimising high-performance websites for businesses in Dubai, Abu Dhabi and across the UAE.',
+    keywords: 'web development UAE, web development company UAE, web development Dubai, digital agency UAE',
+  },
+  '/blog/ai-in-web-development-uae': {
+    title: 'How AI Is Revolutionizing Web Development in the UAE | IGENTX',
+    description:
+      'Explore how AI is transforming web development in the UAE: faster builds, smarter UX, automated SEO, and scalable digital products for modern businesses.',
+    keywords: 'AI web development UAE, AI websites Dubai, AI digital agency UAE, Next.js AI development',
+  },
+  '/blog/ai-customer-service-agent-uae': {
+    title: 'AI Customer Service Agent for UAE Websites | IGENTX',
+    description:
+      'The IGENTX AI Customer Service Agent is a 24/7 enquiry assistant for UAE websites. Instantly answer customer queries in multiple languages, and help your team capture qualified leads through manual follow-up.',
+    keywords: 'AI customer service agent UAE, AI chatbot Dubai, multilingual AI chatbot, website assistant UAE',
+  },
+  '/blog/how-to-choose-best-web-development-agency-uae': {
+    title: 'How to Choose the Best Web Development Agency in the UAE | IGENTX',
+    description:
+      'Looking for the best web development agency in the UAE? Discover key factors to consider and why IGENTX stands out with AI-powered, SEO-optimized websites built for performance.',
+    keywords: 'best web development agency UAE, web design Dubai, website development Abu Dhabi, AI web development',
+  },
+  '/blog/importance-of-website-uae': {
+    title: 'Why Every UAE Business Needs a Strong Website in 2026 | IGENTX',
+    description:
+      'Discover why having a professional, fast, and SEO-optimised website is crucial for UAE businesses in 2026. Learn how IGENTX helps companies grow with AI-driven web development.',
+    keywords: 'importance of website UAE, website design Dubai, SEO UAE, digital presence UAE',
+  },
   '/privacy': {
     title: 'Privacy Policy | IGENTX',
     description:
@@ -235,6 +277,8 @@ export function getSeoFallbackForSlug(storySlug: string): SeoFallback {
     'services/ecommerce-development': '/services/ecommerce-development',
     'services/branding-graphic-design': '/services/branding-graphic-design',
     'services/seo': '/services/seo',
+    'services/ai-solutions': '/services/ai-solutions',
+    'services/custom-software-development': '/services/custom-software-development',
     'products-landing-page': '/products',
     'products/ai-customer-service-agent': '/products/ai-customer-service-agent',
     'products/daycaremate': '/products/daycaremate',
@@ -256,6 +300,12 @@ export function getSeoFallbackForSlug(storySlug: string): SeoFallback {
     'blog/moduluxe-group-seo-case-study': '/blog/moduluxe-group-seo-case-study',
     'blog/bloomwave-daycaremate-digital-transformation':
       '/blog/bloomwave-daycaremate-digital-transformation',
+    'blog/web-development-uae': '/blog/web-development-uae',
+    'blog/ai-in-web-development-uae': '/blog/ai-in-web-development-uae',
+    'blog/ai-customer-service-agent-uae': '/blog/ai-customer-service-agent-uae',
+    'blog/how-to-choose-best-web-development-agency-uae':
+      '/blog/how-to-choose-best-web-development-agency-uae',
+    'blog/importance-of-website-uae': '/blog/importance-of-website-uae',
     uae: '/uae',
     privacy: '/privacy',
     terms: '/terms',

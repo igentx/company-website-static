@@ -8,8 +8,15 @@ const nextConfig: NextConfig = {
 
   async redirects() {
     return [
+      // Apex (non-www) → www primary domain (308 via permanent: true). Vercel domain settings should mirror this.
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'igentx.com' }],
+        destination: 'https://www.igentx.com/:path*',
+        permanent: true,
+      },
       { source: '/en', destination: '/', permanent: true },
-      { source: '/en/(.*)', destination: '/$1', permanent: true },
+      { source: '/en/:path*', destination: '/:path*', permanent: true },
       {
         source: '/case-studies/web-development-uae-startup-moduluxe-group',
         destination: '/case-studies/moduluxe-group',

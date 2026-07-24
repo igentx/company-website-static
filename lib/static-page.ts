@@ -9,6 +9,7 @@ import {
 import { getSeoFallback } from './seo-keywords'
 import { DEFAULT_LANGUAGE } from './languages'
 import { SEOBlok } from './types'
+import { getSiteBaseUrl } from './site-url'
 
 export function generateStaticLangParams() {
   const languages = getSupportedLanguageCodes()
@@ -23,7 +24,7 @@ export function buildCanonicalPath(lang: string, path: string): string {
 }
 
 export function buildAbsoluteUrl(lang: string, path: string): string {
-  const base = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.igentx.com'
+  const base = getSiteBaseUrl()
   const canonical = buildCanonicalPath(lang, path)
   if (canonical === '/') return `${base}/`
   return `${base}${canonical}`

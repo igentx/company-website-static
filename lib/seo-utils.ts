@@ -2,6 +2,34 @@ import type { Metadata } from 'next'
 import { absoluteAssetUrl } from './blog-utils'
 import { SEOBlok } from './types'
 
+/** Site-wide fallback when a page SEO block has no og_image filename. */
+export const DEFAULT_OG_IMAGE = '/assets/og/default-og.webp'
+export const DEFAULT_OG_WIDTH = 1200
+export const DEFAULT_OG_HEIGHT = 630
+
+const SITE_LOGO_PATH = '/assets/logos/igentx-logo-01.svg'
+
+function resolveOgImagePath(filename?: string): string {
+  return filename?.trim() ? filename : DEFAULT_OG_IMAGE
+}
+
+function buildOgImageMetadata(
+  image: SEOBlok['og_image'] | undefined,
+  fallbackAlt: string
+) {
+  const path = resolveOgImagePath(image?.filename)
+  const url = absoluteAssetUrl(path) ?? path
+  const alt = image?.alt?.trim() || fallbackAlt
+  return [
+    {
+      url,
+      alt,
+      width: DEFAULT_OG_WIDTH,
+      height: DEFAULT_OG_HEIGHT,
+    },
+  ]
+}
+
 /**
  * SEO utility functions for processing Storyblok SEO data
  */
@@ -78,8 +106,18 @@ export function mergeSEOData(
         : global?.robots_follow !== undefined
           ? global.robots_follow
           : true,
-    robots_noarchive: page?.robots_noarchive || global?.robots_noarchive || false,
-    robots_nosnippet: page?.robots_nosnippet || global?.robots_nosnippet || false,
+    robots_noarchive:
+      page?.robots_noarchive !== undefined
+        ? page.robots_noarchive
+        : global?.robots_noarchive !== undefined
+          ? global.robots_noarchive
+          : false,
+    robots_nosnippet:
+      page?.robots_nosnippet !== undefined
+        ? page.robots_nosnippet
+        : global?.robots_nosnippet !== undefined
+          ? global.robots_nosnippet
+          : false,
 
     // Structured data
     structured_data_type: page?.structured_data_type || global?.structured_data_type,
@@ -123,8 +161,14 @@ export function generateMetadataFromSEO(
     },
   }
 
+  const ogAlt =
+    seoData.og_image?.alt?.trim() ||
+    seoData.og_title ||
+    seoData.title ||
+    'IGENTX - AI-Driven Web and Digital Products'
+
   const metadata: Metadata = {
-    title: seoData.title,
+    title: { absolute: seoData.title },
     description: seoData.description,
     keywords: seoData.keywords?.split(',').map((k) => k.trim()),
     authors: seoData.author ? [{ name: seoData.author }] : undefined,
@@ -149,14 +193,7 @@ export function generateMetadataFromSEO(
       siteName: siteName,
       locale: lang,
       type: (seoData.og_type as 'website' | 'article' | 'profile') || 'website',
-      images: seoData.og_image
-        ? [
-          {
-            url: seoData.og_image.filename,
-            alt: seoData.og_image.alt,
-          },
-        ]
-        : undefined,
+      images: buildOgImageMetadata(seoData.og_image, ogAlt),
       // Article-specific Open Graph
       ...(seoData.og_type === 'article' && {
         publishedTime: seoData.article_published_time,
@@ -174,14 +211,10 @@ export function generateMetadataFromSEO(
         'summary_large_image',
       title: seoData.twitter_title,
       description: seoData.twitter_description,
-      images: seoData.twitter_image
-        ? [
-          {
-            url: seoData.twitter_image.filename,
-            alt: seoData.twitter_image.alt,
-          },
-        ]
-        : undefined,
+      images: buildOgImageMetadata(
+        seoData.twitter_image ?? seoData.og_image,
+        seoData.twitter_image?.alt?.trim() || ogAlt
+      ),
     },
 
     // Robots
@@ -231,30 +264,30 @@ export function generateStructuredData(
         description: seoData.description,
         url: currentUrl,
         inLanguage: lang,
-        potentialAction: {
-          '@type': 'SearchAction',
-          target: {
-            '@type': 'EntryPoint',
-            urlTemplate: `${currentUrl}search?q={search_term_string}`,
-          },
-          'query-input': 'required name=search_term_string',
-        },
       }
 
-    case 'Organization':
+    case 'Organization': {
+      const logoUrl = absoluteAssetUrl(SITE_LOGO_PATH)
       return {
         '@context': 'https://schema.org',
         '@type': 'Organization',
         name: siteName,
         description: seoData.description,
         url: currentUrl,
-        logo: seoData.og_image?.filename,
+        logo: logoUrl
+          ? {
+              '@type': 'ImageObject',
+              url: logoUrl,
+            }
+          : undefined,
       }
+    }
 
     case 'Article':
     case 'BlogPosting': {
-      const imageUrl = absoluteAssetUrl(seoData.og_image?.filename)
-      const logoUrl = absoluteAssetUrl('/assets/logos/igentx-logo-01.svg')
+      const imageUrl =
+        absoluteAssetUrl(resolveOgImagePath(seoData.og_image?.filename))
+      const logoUrl = absoluteAssetUrl(SITE_LOGO_PATH)
       return {
         '@context': 'https://schema.org',
         '@type': 'BlogPosting',

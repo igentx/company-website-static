@@ -19,9 +19,23 @@
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/terms",
         "robots_follow": true,
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "og_image": {
+          "filename": "/assets/og/default-og.webp",
+          "alt": "IGENTX - AI-Driven Web and Digital Products",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_image": {
+          "filename": "/assets/og/default-og.webp",
+          "alt": "IGENTX - AI-Driven Web and Digital Products",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
         "twitter_title": "Terms of Service | IGENTX",
         "og_description": "Read the terms and conditions for using the IGENTX website.",
-        "twitter_card_type": "summary",
+        "twitter_card_type": "summary_large_image",
         "twitter_description": "Terms and conditions governing your use of the IGENTX website."
       },
       {

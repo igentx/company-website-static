@@ -14,7 +14,7 @@
         "og_type": "article",
         "keywords": "opening a nursery Dubai, nursery setup UAE, childcare centre digital tools, nursery website Dubai, early learning centre launch UAE",
         "og_image": {
-          "filename": "/assets/images/daycaremate-dashboard.webp",
+          "filename": "/assets/og/opening-nursery-dubai-og.webp",
           "alt": "Digital tools for opening a nursery in Dubai",
           "fieldtype": "asset",
           "is_external_url": false
@@ -27,7 +27,7 @@
         "canonical_url": "https://www.igentx.com/blog/opening-nursery-dubai-digital-tools",
         "robots_follow": true,
         "twitter_image": {
-          "filename": "/assets/images/daycaremate-dashboard.webp",
+          "filename": "/assets/og/opening-nursery-dubai-og.webp",
           "alt": "Digital tools for opening a nursery in Dubai",
           "fieldtype": "asset",
           "is_external_url": false
@@ -43,7 +43,7 @@
         "structured_data_type": "BlogPosting",
         "article_modified_time": "2026-07-23 00:00",
         "article_published_time": "2026-07-23 00:00",
-        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BlogPosting\",\"headline\":\"Opening a Nursery in Dubai: Essential Digital Tools for Launch\",\"description\":\"Digital checklist for opening a nursery in Dubai: website, enquiry capture, centre management software, parent communication and compliance-ready workflows.\",\"url\":\"https://www.igentx.com/blog/opening-nursery-dubai-digital-tools\",\"datePublished\":\"2026-07-23T00:00:00+00:00\",\"dateModified\":\"2026-07-23T00:00:00+00:00\",\"author\":{\"@type\":\"Person\",\"name\":\"IGENTX Digital Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"IGENTX\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"}},\"image\":\"https://www.igentx.com/assets/images/daycaremate-dashboard.webp\",\"articleSection\":\"Products\",\"keywords\":\"opening a nursery Dubai, nursery setup UAE, childcare centre digital tools, nursery website Dubai, early learning centre launch UAE\",\"inLanguage\":\"en\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.igentx.com/blog/opening-nursery-dubai-digital-tools\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Opening a Nursery in Dubai: Essential Digital Tools for Launch\",\"item\":\"https://www.igentx.com/blog/opening-nursery-dubai-digital-tools\"}]}]}"
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BlogPosting\",\"headline\":\"Opening a Nursery in Dubai: Essential Digital Tools for Launch\",\"description\":\"Digital checklist for opening a nursery in Dubai: website, enquiry capture, centre management software, parent communication and compliance-ready workflows.\",\"url\":\"https://www.igentx.com/blog/opening-nursery-dubai-digital-tools\",\"datePublished\":\"2026-07-23T00:00:00+00:00\",\"dateModified\":\"2026-07-23T00:00:00+00:00\",\"author\":{\"@type\":\"Person\",\"name\":\"IGENTX Digital Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"IGENTX\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"}},\"image\":\"https://www.igentx.com/assets/og/opening-nursery-dubai-og.webp\",\"articleSection\":\"Products\",\"keywords\":\"opening a nursery Dubai, nursery setup UAE, childcare centre digital tools, nursery website Dubai, early learning centre launch UAE\",\"inLanguage\":\"en\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.igentx.com/blog/opening-nursery-dubai-digital-tools\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Opening a Nursery in Dubai: Essential Digital Tools for Launch\",\"item\":\"https://www.igentx.com/blog/opening-nursery-dubai-digital-tools\"}]}]}"
       },
       {
         "_uid": "opening-nursery-dubai-digital-tools-hero",

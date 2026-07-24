@@ -63,7 +63,7 @@
           "is_external_url": false
         },
         "featured_image_opacity": 70,
-        "quick_features": "Admissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing and parent statements\nAdmin, Teacher, and Family portals",
+        "quick_features": "Admissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing and parent statements\nAdmin, Teacher, and Family portals\nWhite-label branding per centre",
         "pricing_preview": ""
       },
       {
@@ -71,7 +71,7 @@
         "component": "igentx_trust_band",
         "badge_text": "IGENTX Product",
         "title": "Built for early childhood education centres",
-        "description": "A global platform for preschools, nurseries, childcare centres, and early learning providers. Each centre runs on a dedicated deployment with private data and configurable regional settings.",
+        "description": "A global platform for preschools, nurseries, childcare centres, and early learning providers. Each centre runs on a dedicated deployment with private data, configurable regional settings, and your centre's branding.",
         "partner_logos": [
           {
             "_uid": "p-nextjs",
@@ -244,6 +244,18 @@
             "icon": {
               "filename": "/assets/icons/lightning-fast.svg",
               "alt": "Embeddable forms",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-whitelabel",
+            "component": "differentiator_feature",
+            "title": "White-label Branding",
+            "highlight": "Your centre's identity",
+            "description": "Your centre name, logo, and favicon on your dedicated deployment. Parents and staff see your brand in the portals they use daily, and invoice PDFs carry your centre's branding.",
+            "icon": {
+              "filename": "/assets/icons/flexible.svg",
+              "alt": "White-label branding",
               "fieldtype": "asset"
             }
           }
@@ -483,6 +495,13 @@
             "title": "OpenAPI REST API",
             "description": "Documented API for integrations",
             "icon_key": "lightning"
+          },
+          {
+            "_uid": "dm-tb6",
+            "component": "tech_benefit",
+            "title": "White-label Branding",
+            "description": "Your centre name, logo, and favicon",
+            "icon_key": "custom"
           }
         ]
       },
@@ -557,6 +576,20 @@
             "component": "faq_item",
             "question": "Is each centre on its own deployment?",
             "answer": "Yes. Each centre runs on a dedicated single-tenant deployment with its own database, private storage, and CDN. This keeps centre data isolated and supports configurable regional settings.",
+            "category": "Platform"
+          },
+          {
+            "_uid": "dm-faq-q7b",
+            "component": "faq_item",
+            "question": "What does white-label mean for DaycareMate?",
+            "answer": "White-label means the software runs under your centre's brand, not the vendor's. Your centre name, logo, and favicon appear on your dedicated deployment, and invoice PDFs carry your branding. Parents and staff experience your centre's identity; DaycareMate powers the platform behind the scenes.",
+            "category": "Platform"
+          },
+          {
+            "_uid": "dm-faq-q7c",
+            "component": "faq_item",
+            "question": "Is DaycareMate white-labelled for each centre?",
+            "answer": "Yes. Each centre gets a dedicated deployment with your branding: centre name, logo, favicon, and branded invoice and receipt PDFs. Your families experience your centre's identity on a platform built for early childhood operations.",
             "category": "Platform"
           },
           {

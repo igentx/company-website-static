@@ -199,7 +199,7 @@ export const defaultAboutContent = {
 
 Our AI-driven approach combines the power of Next.js, React, and cutting-edge CMS platforms with intelligent automation, delivering websites up to 60% faster than traditional development—without compromising quality.
 
-We specialize in multilingual websites (Arabic + English), SEO optimization, and high-performance solutions tailored specifically for the UAE market. Every project includes Storyblok CMS from day one, giving you complete control over your content.
+We specialize in multilingual websites, SEO optimization, and high-performance solutions tailored specifically for the UAE market. Every project includes Storyblok CMS from day one, giving you complete control over your content.
 
 Whether you're a startup looking to make your mark or an established business seeking digital transformation, IGENTX provides the technology, expertise, and support you need to succeed in today's competitive online landscape.`,
       team_members: [
@@ -306,9 +306,9 @@ export const igentxDefaultPageContent = {
           description: 'We understand the UAE market, its pace, and business culture.',
         },
         {
-          title: 'Arabic + English Support',
+          title: 'Multi-Language Support',
           description:
-            'Native bilingual capability to help you connect with both local and global audiences.',
+            'Multilingual capability to help you connect with both local and global audiences.',
         },
         {
           title: 'UAE-Compliant Solutions',
@@ -390,7 +390,7 @@ export const igentxDefaultPageContent = {
           description: 'Lightning-fast, SEO-optimized websites built with cutting-edge technology',
           features: [
             'Next.js + TypeScript + Tailwind + Storyblok',
-            'Multilingual (Arabic + English ready)',
+            'Multi-language ready',
             'SEO, Accessibility, Performance, PWA',
             'Mobile-first responsive design',
             'Content Management System included',
@@ -578,7 +578,7 @@ export const igentxDefaultPageContent = {
           features: [
             '5–7 Pages (Corporate / Company Website)',
             'Storyblok CMS (Easy Content Management)',
-            'Multi-lingual Support (English + Arabic)',
+            'Multilingual support',
             'SEO Optimized',
             'Responsive Design (Mobile-First)',
             'Hosted on Vercel (Ultra-Fast Edge Delivery)',
@@ -643,7 +643,7 @@ export const igentxDefaultPageContent = {
         },
         {
           title: 'Multilingual Ready',
-          description: 'Arabic + English support built-in for the UAE market',
+          description: 'Multilingual support built-in for local and global audiences',
         },
         {
           title: 'Lightning Fast',

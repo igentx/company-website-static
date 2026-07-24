@@ -12,8 +12,8 @@
         "og_type": "website",
         "keywords": "AI customer service agent, website chatbot, childcare management software, nursery management system, igentx products",
         "og_image": {
-          "filename": "/assets/images/ai-solutions.webp",
-          "alt": "IGENTX software products: AI Customer Service Agent and DaycareMate",
+          "filename": "/assets/og/products-og.webp",
+          "alt": "IGENTX products: AI Customer Service Agent and DaycareMate",
           "fieldtype": "asset",
           "is_external_url": false
         },
@@ -26,8 +26,8 @@
         "canonical_url": "https://www.igentx.com/products",
         "robots_follow": true,
         "twitter_image": {
-          "filename": "/assets/images/ai-solutions.webp",
-          "alt": "IGENTX software products: AI Customer Service Agent and DaycareMate",
+          "filename": "/assets/og/products-og.webp",
+          "alt": "IGENTX products: AI Customer Service Agent and DaycareMate",
           "fieldtype": "asset",
           "is_external_url": false
         },
@@ -184,10 +184,11 @@
         "ai_product": {
           "badge_text": "AI Solution",
           "title": "AI Customer Service Agent",
-          "description": "Turn your website into a 24/7 AI sales and support assistant that answers questions instantly, qualifies leads and reduces support workload.",
+          "description": "Turn your website into a 24/7 AI sales and support assistant that answers questions instantly, captures contact details naturally in chat, and saves enquiries to your admin dashboard for team review.",
           "feature_pills": [
             "Instant Replies",
             "Learns Your Content",
+            "Dashboard Lead Capture",
             "Multilingual",
             "One-Line Integration"
           ],
@@ -261,7 +262,7 @@
             "_uid": "pl-faq-q3",
             "component": "faq_item",
             "question": "How does the AI Customer Service Agent work?",
-            "answer": "The agent is trained on your website content, documents and FAQs using retrieval-augmented generation. It answers visitor questions instantly, qualifies leads and supports multilingual conversations. Integration takes one line of code on any website.",
+            "answer": "The agent is trained on your website content, documents and FAQs using retrieval-augmented generation. It answers visitor questions instantly, captures contact details naturally in chat, and saves enquiries to your admin dashboard. Integration takes one line of code on any website.",
             "category": "AI Solutions"
           },
           {

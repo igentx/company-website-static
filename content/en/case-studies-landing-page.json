@@ -13,8 +13,8 @@
         "og_type": "website",
         "keywords": "web development case studies, AI agent case study, childcare digital transformation, igentx portfolio, UAE web development success stories, Next.js case studies",
         "og_image": {
-          "filename": "/assets/images/bloomwave-homepage.jpg",
-          "alt": "IGENTX case studies: BloomWave, Moduluxe Group and DrDoor",
+          "filename": "/assets/og/case-studies-og.webp",
+          "alt": "IGENTX client success stories and case studies",
           "fieldtype": "asset",
           "is_external_url": false
         },
@@ -26,8 +26,8 @@
         "canonical_url": "https://www.igentx.com/case-studies",
         "robots_follow": true,
         "twitter_image": {
-          "filename": "/assets/images/bloomwave-homepage.jpg",
-          "alt": "IGENTX case studies: BloomWave, Moduluxe Group and DrDoor",
+          "filename": "/assets/og/case-studies-og.webp",
+          "alt": "IGENTX client success stories and case studies",
           "fieldtype": "asset",
           "is_external_url": false
         },
@@ -273,7 +273,7 @@
             "description": "A bilingual, AI-accelerated website with advanced SEO optimisation that helped Moduluxe rank in Arabic and English search and convert more qualified leads.",
             "technologies": "Next.js\nStoryblok\nTailwind CSS\nTypeScript\nVercel",
             "case_study_url": "/case-studies/moduluxe-group",
-            "industry": "Real Estate",
+            "industry": "Modular equipment rental",
             "country": "UAE",
             "challenge": "Moduluxe needed a multilingual website that ranked in Arabic and English search and converted visitors into qualified leads."
           },
@@ -285,7 +285,7 @@
               "fieldtype": "asset",
               "is_external_url": false
             },
-            "title": "DrDoor: 200% Organic Growth with SEO-First Website",
+            "title": "DrDoor: 200% organic growth with sub-second load times",
             "results": [
               {
                 "_uid": "d6122ac0-72d7-4e14-b1a9-d3bd375eb69e",
@@ -301,14 +301,8 @@
               },
               {
                 "_uid": "3667adab-40c0-4e22-ad97-66df4cd45823",
-                "value": "96%",
-                "metric": "Performance",
-                "component": "result_metric"
-              },
-              {
-                "_uid": "d8750fc1-5d27-4f58-930c-0437f34e32be",
-                "value": "4.9",
-                "metric": "Customer Rating",
+                "value": "96",
+                "metric": "Lighthouse Score",
                 "component": "result_metric"
               }
             ],
@@ -418,7 +412,7 @@
             "_uid": "cs-faq-q3",
             "component": "faq_item",
             "question": "Do you only work with UAE businesses?",
-            "answer": "No. IGENTX delivers globally, with deep experience in the UAE market including bilingual Arabic and English websites, local SEO and compliance-aware delivery. Our case studies include UAE and international clients.",
+            "answer": "No. IGENTX delivers globally, with deep experience in the UAE market including multilingual websites, local SEO and compliance-aware delivery. Our case studies include UAE and international clients.",
             "category": "General"
           },
           {

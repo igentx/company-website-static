@@ -30,7 +30,6 @@
         "description": "Get a tailored quote for web development, ecommerce, branding, SEO, or software products. Our sales team responds within 24 hours. Global delivery with UAE expertise.",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/contact",
-        "canonical_utl": "https://igentx.com/contact",
         "robots_follow": true,
         "twitter_image": {
           "id": 105586839401422,
@@ -48,9 +47,9 @@
         "twitter_title": "Contact IGENTX | Talk to Sales",
         "article_author": "",
         "og_description": "Tell us about your project: web, ecommerce, branding, SEO, or products. We will follow up with a tailored proposal.",
-        "articel_section": "contact",
-        "rebots_nosnippet": true,
-        "robots_noarchive": true,
+        "article_section": "contact",
+        "robots_nosnippet": false,
+        "robots_noarchive": false,
         "twitter_card_type": "summary_large_image",
         "twitter_description": "Book a free consultation for a tailored quote. Global AI-accelerated digital studio with UAE expertise.",
         "structured_data_type": "",
@@ -255,7 +254,7 @@
             "_uid": "contact-faq-003",
             "component": "faq_item",
             "question": "Do you work with UAE and international clients?",
-            "answer": "Yes. The UAE is our primary market, but we deliver projects globally. We support bilingual English and Arabic websites, local SEO for the UAE, and international payment and hosting setups. Distance is not a barrier to a smooth delivery process.",
+            "answer": "Yes. The UAE is our primary market, but we deliver projects globally. We support multilingual websites, local SEO for the UAE, and international payment and hosting setups. Distance is not a barrier to a smooth delivery process.",
             "category": "Contact"
           },
           {

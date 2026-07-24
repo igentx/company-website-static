@@ -1,23 +1,30 @@
 import { MetadataRoute } from 'next'
 import { getManifest } from '@/lib/content'
 import { DEFAULT_LANGUAGE } from '@/lib/languages'
+import { getSiteBaseUrl } from '@/lib/site-url'
 
 export const dynamic = 'force-static'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.igentx.com'
+  const baseUrl = getSiteBaseUrl()
   const manifest = getManifest()
   const languages = manifest.languages.length > 0 ? manifest.languages : ['en']
 
   const entries: MetadataRoute.Sitemap = []
 
   for (const route of manifest.routes) {
-    const languageAlternates = Object.fromEntries(
-      languages.map((l) => [
-        l,
-        l === DEFAULT_LANGUAGE ? `${baseUrl}${route.path}` : `${baseUrl}/${l}${route.path}`,
-      ])
-    )
+    const defaultUrl =
+      route.path === '/' ? `${baseUrl}/` : `${baseUrl}${route.path}`
+
+    const languageAlternates = {
+      'x-default': defaultUrl,
+      ...Object.fromEntries(
+        languages.map((l) => [
+          l,
+          l === DEFAULT_LANGUAGE ? defaultUrl : `${baseUrl}/${l}${route.path}`,
+        ])
+      ),
+    }
 
     entries.push({
       url: `${baseUrl}${route.path}`,

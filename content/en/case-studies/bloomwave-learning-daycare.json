@@ -7,77 +7,70 @@
     "body": [
       {
         "_uid": "4345290d-96ee-4aef-b775-993b3cdde043",
-        "title": "BloomWave Case Study | Website, AI Agent & DaycareMate",
-        "author": "",
-        "og_type": "website",
+        "title": "BloomWave: Integrated Web, AI Enquiries & Centre Operations | IGENTX Case Study",
+        "author": "IGENTX",
+        "og_type": "article",
         "keywords": "childcare case study, Storyblok, AI customer service agent, DaycareMate, bloomwave.ae, early learning centre UAE",
         "og_image": {
-          "id": null,
-          "alt": null,
-          "name": "",
-          "focus": null,
-          "title": null,
-          "source": null,
-          "filename": "",
-          "copyright": null,
-          "fieldtype": "asset",
-          "meta_data": {}
+          "filename": "/assets/images/bloomwave-homepage.jpg",
+          "alt": "BloomWave Learning & Daycare website homepage",
+          "fieldtype": "asset"
         },
-        "og_title": "BloomWave Case Study | Website, AI Agent & DaycareMate",
+        "og_title": "BloomWave: Integrated Web, AI Enquiries & Centre Operations | IGENTX Case Study",
         "component": "seo",
-        "publisher": "",
-        "description": "How BloomWave Learning & Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform.",
+        "publisher": "IGENTX",
+        "description": "How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform in one integrated rollout.",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/case-studies/bloomwave-learning-daycare",
-        "canonical_utl": "https://www.igentx.com/case-studies/bloomwave-learning-daycare",
         "robots_follow": true,
         "twitter_image": {
-          "id": null,
-          "alt": null,
-          "name": "",
-          "focus": null,
-          "title": null,
-          "source": null,
-          "filename": "",
-          "copyright": null,
-          "fieldtype": "asset",
-          "meta_data": {}
+          "filename": "/assets/images/bloomwave-homepage.jpg",
+          "alt": "BloomWave Learning & Daycare website homepage",
+          "fieldtype": "asset"
         },
-        "twitter_title": "BloomWave Case Study | Website, AI Agent & DaycareMate",
-        "article_author": "",
-        "og_description": "How BloomWave Learning & Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform.",
-        "articel_section": "",
-        "rebots_nosnippet": true,
-        "robots_noarchive": true,
+        "twitter_title": "BloomWave: Integrated Web, AI Enquiries & Centre Operations | IGENTX Case Study",
+        "article_author": "IGENTX",
+        "og_description": "How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform in one integrated rollout.",
+        "robots_nosnippet": false,
+        "robots_noarchive": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "How BloomWave Learning & Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform.",
-        "structured_data_type": "Article",
-        "article_modified_time": "",
-        "article_published_time": ""
+        "twitter_description": "How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform in one integrated rollout.",
+        "structured_data_type": "CaseStudy",
+        "article_published_time": "2025-07-01 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"CaseStudy\",\n      \"headline\": \"BloomWave: Integrated Web, AI Enquiries and Centre Operations\",\n      \"description\": \"How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.\",\n      \"image\": \"https://www.igentx.com/assets/images/bloomwave-homepage.jpg\",\n      \"datePublished\": \"2025-07-01\",\n      \"author\": { \"@type\": \"Organization\", \"name\": \"IGENTX\", \"url\": \"https://www.igentx.com\" },\n      \"publisher\": { \"@type\": \"Organization\", \"name\": \"IGENTX\", \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\" } },\n      \"mainEntityOfPage\": { \"@type\": \"WebPage\", \"@id\": \"https://www.igentx.com/case-studies/bloomwave-learning-daycare\" },\n      \"review\": {\n        \"@type\": \"Review\",\n        \"author\": { \"@type\": \"Person\", \"name\": \"Ajas Muhammed\" },\n        \"reviewBody\": \"IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.\"\n      }\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [\n        { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Home\", \"item\": \"https://www.igentx.com\" },\n        { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Case Studies\", \"item\": \"https://www.igentx.com/case-studies\" },\n        { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"BloomWave Learning & Daycare\", \"item\": \"https://www.igentx.com/case-studies/bloomwave-learning-daycare\" }\n      ]\n    }\n  ]\n}"
       },
       {
         "_uid": "55de508b-9ac1-46e0-8cb8-4d4606044fdb",
-        "title": "BloomWave Learning & Daycare",
-        "summary": "A UAE early learning centre needed a professional web presence, 24/7 parent enquiries, and centre operations software, delivered as one integrated stack.",
+        "title": "One integrated stack for web, AI enquiries and centre operations",
+        "summary": "BloomWave Learning & Daycare needed a trustworthy parent-facing presence, after-hours enquiry capture and unified centre operations, delivered as one rollout in two weeks.",
         "category": "Childcare · Web · AI · SaaS",
         "industry": "Early Childhood Education",
-        "location": "Abu Dhabi",
+        "location": "Abu Dhabi, UAE",
         "back_link": {
-          "id": "26677d84-1fe4-453c-8645-c78f824c8843",
-          "url": "",
           "linktype": "story",
           "fieldtype": "multilink",
           "cached_url": "case-studies"
         },
         "component": "case_study_hero",
-        "client_name": "BloomWave",
-        "quick_stats": [],
+        "client_name": "BloomWave Learning & Daycare",
+        "quick_stats": [
+          { "_uid": "bw-qs1", "value": "24/7", "label": "AI enquiries", "component": "stat_item" },
+          { "_uid": "bw-qs2", "value": "2 weeks", "label": "Delivery", "component": "stat_item" },
+          { "_uid": "bw-qs3", "value": "1", "label": "Integrated platform", "component": "stat_item" }
+        ],
         "featured_image": {
-          "filename": "/assets/logos/bloomwave.png",
-          "alt": "BloomWave Learning & Daycare",
+          "filename": "/assets/images/bloomwave-homepage.jpg",
+          "alt": "BloomWave Learning & Daycare website homepage",
           "fieldtype": "asset"
         },
-        "project_duration": "2 weeks"
+        "project_duration": "2 weeks",
+        "project_url": {
+          "url": "https://bloomwave.ae",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://bloomwave.ae"
+        },
+        "primary_cta_text": "Book a Free Consultation"
       },
       {
         "_uid": "150d31b4-d895-4af2-b0af-61f6905f5c67",
@@ -86,9 +79,6 @@
           "content": [
             {
               "type": "paragraph",
-              "attrs": {
-                "textAlign": null
-              },
               "content": [
                 {
                   "text": "BloomWave Learning & Daycare, an early learning centre in Abu Dhabi, needed a trustworthy marketing presence that parents could explore at any time, plus a way to capture enquiries outside office hours without adding admin burden.",
@@ -98,12 +88,9 @@
             },
             {
               "type": "paragraph",
-              "attrs": {
-                "textAlign": null
-              },
               "content": [
                 {
-                  "text": "IGENTX delivered bloomwave.ae on Next.js with Storyblok CMS for easy content updates, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries, and implemented whitelabeled DaycareMate as the centre operations platform for admissions and daily care.",
+                  "text": "IGENTX delivered bloomwave.ae on Next.js with Storyblok CMS for easy content updates, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries, and implemented whitelabel DaycareMate as the centre operations platform for admissions and daily care.",
                   "type": "text"
                 }
               ]
@@ -111,25 +98,17 @@
           ]
         },
         "category": "Full Solution",
-        "solution": "IGENTX delivered bloomwave.ae, deployed the IGENTX AI Customer Service Agent on the website, and implemented DaycareMate as the centre operations platform.",
         "challenge": "BloomWave needed a trustworthy marketing site, after-hours parent enquiry capture, and a single system for admissions and daily operations, without juggling spreadsheets and separate apps.",
+        "solution": "IGENTX delivered bloomwave.ae on Next.js and Storyblok, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries with manual lead conversion to the admin dashboard, and implemented DaycareMate as the whitelabel centre operations platform.",
+        "outcome": "BloomWave now has a professional parent-facing presence on bloomwave.ae, captures enquiries outside office hours through the AI assistant, and manages admissions and daily operations in one platform. One team delivered the full stack in a two-week rollout.",
         "component": "case_study_detail",
         "client_logo": {
-          "id": null,
-          "alt": "BloomWave Learning & Daycare",
-          "name": "",
-          "focus": "",
-          "title": "",
-          "source": "",
           "filename": "/assets/logos/bloomwave.png",
-          "copyright": "",
-          "fieldtype": "asset",
-          "meta_data": {},
-          "is_external_url": false
+          "alt": "BloomWave Learning & Daycare logo",
+          "fieldtype": "asset"
         },
         "client_name": "BloomWave Learning & Daycare",
         "project_url": {
-          "id": "",
           "url": "https://bloomwave.ae",
           "linktype": "url",
           "fieldtype": "multilink",
@@ -143,53 +122,97 @@
           "DaycareMate",
           "Tailwind CSS"
         ],
-        "project_images": [],
+        "service_links": [
+          { "label": "DaycareMate", "url": "/products/daycaremate" },
+          { "label": "AI Customer Service Agent", "url": "/products/ai-customer-service-agent" },
+          { "label": "Web Development UAE", "url": "/services/web-development-uae" }
+        ],
+        "project_images": [
+          {
+            "filename": "/assets/images/bloomwave-homepage.jpg",
+            "alt": "BloomWave Learning & Daycare website homepage",
+            "fieldtype": "asset"
+          }
+        ],
         "results_metrics": [
           {
             "_uid": "bw-m1",
-            "label": "Website",
-            "value": "bloomwave.ae",
+            "label": "After-hours enquiries",
+            "value": "24/7",
             "component": "metric_item",
-            "description": "Marketing site launched on Next.js with Storyblok CMS for flexible content management."
+            "description": "AI enquiry assistant captures parent questions outside office hours. Leads are reviewed and converted manually in the admin dashboard."
           },
           {
             "_uid": "bw-m2",
-            "label": "AI Agent",
-            "value": "24/7",
+            "label": "Delivery time",
+            "value": "2 weeks",
             "component": "metric_item",
-            "description": "IGENTX AI Customer Service Agent handles parent enquiries around the clock."
+            "description": "Website, AI agent and centre operations platform delivered in one coordinated rollout."
           },
           {
             "_uid": "bw-m3",
-            "label": "Platform",
-            "value": "DaycareMate",
+            "label": "Operations unified",
+            "value": "1 platform",
             "component": "metric_item",
-            "description": "Whitelabeled centre operations platform for admissions, attendance, and family communication."
+            "description": "Admissions, attendance and family communication managed through whitelabel DaycareMate instead of separate tools."
           }
         ],
         "testimonial_role": "Managing Director, BloomWave Learning & Daycare",
         "testimonial_text": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
-        "testimonial_author": "Ajas Muhammed",
-        "results": [
+        "testimonial_author": "Ajas Muhammed"
+      },
+      {
+        "_uid": "bw-related-001",
+        "component": "case_study_related",
+        "title": "More success stories",
+        "related_case_studies": [
           {
-            "_uid": "bw-r1",
-            "metric": "Website",
-            "value": "bloomwave.ae",
-            "component": "result_item"
+            "title": "300% organic traffic growth in 3 months",
+            "excerpt": "How Moduluxe Group tripled organic visitors with a bilingual, performance-first Next.js website.",
+            "client_name": "Moduluxe Group",
+            "featured_image": {
+              "filename": "/assets/images/moduluxegroup.webp",
+              "alt": "Moduluxe Group website"
+            },
+            "link": {
+              "url": "/case-studies/moduluxe-group",
+              "linktype": "url",
+              "cached_url": "case-studies/moduluxe-group"
+            }
           },
           {
-            "_uid": "bw-r2",
-            "metric": "AI Agent",
-            "value": "24/7 enquiries",
-            "component": "result_item"
-          },
-          {
-            "_uid": "bw-r3",
-            "metric": "Platform",
-            "value": "DaycareMate",
-            "component": "result_item"
+            "title": "200% organic growth with sub-second load times",
+            "excerpt": "How DrDoor strengthened lead generation with a fast, SEO-first manufacturing website.",
+            "client_name": "DrDoor",
+            "featured_image": {
+              "filename": "/assets/images/drdoor.webp",
+              "alt": "DrDoor website"
+            },
+            "link": {
+              "url": "/case-studies/dr-door",
+              "linktype": "url",
+              "cached_url": "case-studies/dr-door"
+            }
           }
         ]
+      },
+      {
+        "_uid": "bw-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to launch your centre's digital foundation?",
+        "description": "Whether you need a parent-facing website, a 24/7 AI enquiry assistant or centre operations software, our team can deliver an integrated rollout tailored to your early learning centre.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View all case studies",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
       }
     ],
     "component": "page"

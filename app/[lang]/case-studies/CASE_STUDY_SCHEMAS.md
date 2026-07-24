@@ -240,6 +240,16 @@ This document provides detailed JSON schemas for importing into Storyblok or as 
         "linktype": "story",
         "cached_url": "case-studies"
       }
+    },
+    "project_url": {
+      "type": "multilink",
+      "pos": 10,
+      "description": "Link to live client project (secondary hero CTA)"
+    },
+    "primary_cta_text": {
+      "type": "text",
+      "pos": 11,
+      "description": "Primary hero CTA label (defaults to Book a Free Consultation)"
     }
   },
   "is_root": false,
@@ -291,9 +301,14 @@ This document provides detailed JSON schemas for importing into Storyblok or as 
       "pos": 6,
       "description": "The solution section"
     },
+    "outcome": {
+      "type": "richtext",
+      "pos": 7,
+      "description": "Business outcome section (Problem → Solution → Outcome narrative)"
+    },
     "project_images": {
       "type": "multiasset",
-      "pos": 7,
+      "pos": 8,
       "filetypes": ["images"],
       "description": "Project gallery images"
     },
@@ -306,12 +321,17 @@ This document provides detailed JSON schemas for importing into Storyblok or as 
     },
     "technologies": {
       "type": "text",
-      "pos": 9,
+      "pos": 10,
       "description": "Comma-separated technologies used"
+    },
+    "service_links": {
+      "type": "bloks",
+      "pos": 11,
+      "description": "Related service/product links (label + url)"
     },
     "testimonial_text": {
       "type": "textarea",
-      "pos": 10,
+      "pos": 12,
       "description": "Client testimonial quote"
     },
     "testimonial_author": {
@@ -328,6 +348,31 @@ This document provides detailed JSON schemas for importing into Storyblok or as 
       "type": "multilink",
       "pos": 13,
       "description": "Link to live project"
+    }
+  },
+  "is_root": false,
+  "is_nestable": true,
+  "component_group_name": "Case Studies"
+}
+```
+
+## Component 7: case_study_related
+
+```json
+{
+  "name": "case_study_related",
+  "display_name": "Case Study Related",
+  "schema": {
+    "title": {
+      "type": "text",
+      "pos": 0,
+      "default_value": "More success stories",
+      "description": "Section heading"
+    },
+    "related_case_studies": {
+      "type": "bloks",
+      "pos": 1,
+      "description": "Two sibling case study cards (title, excerpt, client_name, featured_image, link)"
     }
   },
   "is_root": false,

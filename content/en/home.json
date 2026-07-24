@@ -6,6 +6,37 @@
     "_uid": "570d84eb-2513-42a3-a9cf-4ca3ded68f77",
     "body": [
       {
+        "_uid": "home-seo-001",
+        "component": "seo",
+        "title": "Web Development Company UAE | AI Software & Digital Products | IGENTX",
+        "description": "IGENXT is an AI-first technology company in the UAE. We build high-performance websites, custom software, AI customer agents, headless commerce, and SEO-driven growth for businesses in Dubai, Abu Dhabi, and worldwide.",
+        "keywords": "web development company UAE, website development Dubai, software development UAE, AI development company UAE, custom software development UAE, ecommerce development UAE, headless commerce UAE, SEO company UAE, Next.js development, React development",
+        "canonical_url": "https://www.igentx.com/",
+        "robots_index": true,
+        "robots_follow": true,
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "og_type": "website",
+        "og_title": "Web Development Company UAE | AI Software & Digital Products | IGENTX",
+        "og_description": "High-performance websites, custom software, AI customer agents, and SEO-driven growth. Serving businesses in Dubai, Abu Dhabi, and worldwide.",
+        "og_image": {
+          "filename": "/assets/og/home-og.webp",
+          "alt": "Web development and AI products for growing businesses | IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_card_type": "summary_large_image",
+        "twitter_title": "Web Development Company UAE | IGENTX",
+        "twitter_description": "AI-first web development, custom software, AI agents, and digital products for growing businesses worldwide.",
+        "twitter_image": {
+          "filename": "/assets/og/home-og.webp",
+          "alt": "Web development and AI products for growing businesses | IGENTX",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "structured_data_type": "WebSite"
+      },
+      {
         "_uid": "358ea5a6-d937-408b-993a-7de94392d5f6",
         "slides": [
           {
@@ -37,7 +68,7 @@
               "fieldtype": "asset",
               "is_external_url": false
             },
-            "quick_features": "High-performance websites built for speed and SEO\nAI-powered automation that saves time\nEnterprise-grade security & cloud hosting\nEnglish & Arabic ready",
+            "quick_features": "High-performance websites built for speed and SEO\nAI-powered automation that saves time\nEnterprise-grade security & cloud hosting\nMulti-language ready",
             "pricing_preview": "",
             "duration": ""
           },
@@ -62,7 +93,7 @@
               "fieldtype": "asset",
               "is_external_url": false
             },
-            "quick_features": "Instant AI responses\nLearns from your website & documents\nOne-line integration\nEnglish & Arabic support",
+            "quick_features": "Instant AI responses\nLearns from your website & documents\nOne-line integration\nMultilingual support",
             "pricing_preview": "",
             "duration": ""
           },
@@ -406,7 +437,7 @@
             "_uid": "wc5",
             "component": "differentiator_feature",
             "title": "Multi-Language Support",
-            "highlight": "English and Arabic",
+            "highlight": "Multilingual",
             "description": "English, Arabic, and additional languages so your product connects with local and global audiences.",
             "icon": {
               "filename": "/assets/icons/flexible.svg",
@@ -461,9 +492,9 @@
               "fieldtype": "asset",
               "meta_data": {}
             },
-            "title": "Arabic + English Support",
+            "title": "Multi-Language Support",
             "component": "uae_signal_item",
-            "description": "English and Arabic delivery to connect with local and global audiences."
+            "description": "Multilingual delivery with Arabic (RTL) and additional languages for local and global audiences."
           },
           {
             "_uid": "93360649-4326-4665-8f57-8bc2705dc6b2",
@@ -567,7 +598,7 @@
           },
           "title": "DaycareMate",
           "tagline": "Complete Childcare Management Platform",
-          "description": "DaycareMate gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform.",
+          "description": "DaycareMate gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform, with white-label branding on each dedicated deployment.",
           "brand_link": {
             "text": "DaycareMate",
             "url": "https://www.daycaremate.com"
@@ -579,7 +610,8 @@
             { "label": "Family Portal", "icon": "parent_app" },
             { "label": "Messaging", "icon": "messaging" },
             { "label": "Billing", "icon": "billing" },
-            { "label": "Reports", "icon": "reports" }
+            { "label": "Reports", "icon": "reports" },
+            { "label": "White-label", "icon": "parent_app" }
           ],
           "trust_banner": "Built for childcare centres to simplify operations and improve family engagement.",
           "cta_text": "Explore DaycareMate",
@@ -598,16 +630,17 @@
         "ai_product": {
           "badge_text": "AI Solution",
           "title": "AI Customer Service Agent",
-          "description": "Turn your website into a 24/7 AI sales and support assistant that answers questions instantly, qualifies leads and reduces support workload.",
+          "description": "Turn your website into a 24/7 AI sales and support assistant that answers questions instantly, captures contact details naturally in chat, and saves enquiries to your admin dashboard for team review.",
           "feature_pills": [
             "Instant Replies",
             "Learns Your Content",
+            "Dashboard Lead Capture",
             "Multilingual",
             "One-Line Integration"
           ],
           "stats": [
             { "value": "Available in Minutes" },
-            { "value": "Supports English & Arabic" },
+            { "value": "Multilingual support" },
             { "value": "No Code Required" }
           ],
           "cta_text": "View Demo",
@@ -1292,7 +1325,7 @@
               },
               "is_external_url": false
             },
-            "title": "Read how we helped Moduluxe Group achieve 300% traffic growth",
+            "title": "Moduluxe Group: 300% organic traffic growth",
             "results": [
               {
                 "_uid": "cbf560a6-5cde-4bba-8e30-f6f0e11ed36d",
@@ -1322,10 +1355,10 @@
             "category": "Web Development",
             "live_url": "https://www.moduluxegroup.com/",
             "component": "case_study_item",
-            "description": "AI-driven multilingual website with advanced SEO optimisation led to remarkable organic growth",
+            "description": "A bilingual, performance-first website with advanced SEO optimisation that helped Moduluxe rank in Arabic and English search and convert more qualified leads.",
             "technologies": "Next.js\nStoryblok\nTailwind CSS\nTypeScript\nVercel",
-            "case_study_url": "/case-studies/web-development-uae-startup-moduluxe-group",
-            "industry": "Real Estate",
+            "case_study_url": "/case-studies/moduluxe-group",
+            "industry": "Modular equipment rental",
             "country": "UAE",
             "challenge": "Moduluxe needed a multilingual website that ranked in Arabic and English search and converted visitors into qualified leads."
           },
@@ -1344,7 +1377,7 @@
               "meta_data": {},
               "is_external_url": false
             },
-            "title": "DrDoor: 200% Organic Growth with SEO-First Website",
+            "title": "DrDoor: 200% organic growth with sub-second load times",
             "results": [
               {
                 "_uid": "d6122ac0-72d7-4e14-b1a9-d3bd375eb69e",
@@ -1360,23 +1393,17 @@
               },
               {
                 "_uid": "3667adab-40c0-4e22-ad97-66df4cd45823",
-                "value": "96%",
-                "metric": "Performance",
-                "component": "result_metric"
-              },
-              {
-                "_uid": "d8750fc1-5d27-4f58-930c-0437f34e32be",
-                "value": "4.9",
-                "metric": "Customer Rating",
+                "value": "96",
+                "metric": "Lighthouse Score",
                 "component": "result_metric"
               }
             ],
             "category": "Web Development",
             "live_url": "https://drdoor.in/",
             "component": "case_study_item",
-            "description": "We partnered with DrDoor, an India-based FRP door manufacturer, to deliver a high-performance website, intuitive user experience, and strong SEO foundation to maximise lead generation and customer engagement. The project targeted conversion uplift, performance excellence and brand credibility.",
+            "description": "How IGENTX helped DrDoor, an India-based FRP door manufacturer, achieve 200% organic traffic growth with a fast, SEO-optimised website.",
             "technologies": "Next.js\nTailwind CSS\nVercel\nSEO",
-            "case_study_url": "/case-studies/web-development-startup-dr-door",
+            "case_study_url": "/case-studies/dr-door",
             "industry": "Manufacturing",
             "country": "India",
             "challenge": "DrDoor required a high-performance digital platform to maximise lead generation and build brand credibility in a competitive market."
@@ -1513,7 +1540,7 @@
             "_uid": "faq-Why choose IGENTX ov",
             "component": "faq_item",
             "question": "Why choose IGENTX over other web development companies?",
-            "answer": "IGENXT combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with bilingual Arabic and English delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.",
+            "answer": "IGENXT combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with multilingual delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.",
             "category": "General"
           },
           {
@@ -1555,7 +1582,7 @@
             "_uid": "faq-How does your AI Cus",
             "component": "faq_item",
             "question": "How does your AI Customer Service Agent work?",
-            "answer": "Our AI agent is trained on your website content, documents and FAQs using retrieval-augmented generation (RAG). It answers visitor questions instantly, qualifies leads and supports English and Arabic. Integration takes one line of code on any website. You control the knowledge base, review conversations and update content as your business evolves. It is deployable for subscribers and designed for accuracy, not generic chatbot responses.",
+            "answer": "Our AI agent is trained on your website content, documents and FAQs using retrieval-augmented generation (RAG). It answers visitor questions instantly, captures contact details naturally in chat, and saves enquiries to your admin dashboard. Integration takes one line of code on any website. You control the knowledge base, review conversations and update content as your business evolves. It is deployable for subscribers and designed for accuracy, not generic chatbot responses.",
             "category": "AI Solutions"
           },
           {
@@ -1568,8 +1595,8 @@
           {
             "_uid": "faq-Does the AI agent su",
             "component": "faq_item",
-            "question": "Does the AI agent support Arabic and English?",
-            "answer": "Yes. The agent supports multilingual conversations including Arabic (RTL) and English. This is essential for UAE businesses serving both local and expatriate audiences. Language detection and bilingual knowledge bases ensure visitors receive accurate responses in their preferred language, improving engagement and conversion for bilingual markets.",
+            "question": "Is the AI agent multilingual?",
+            "answer": "Yes. The agent supports multilingual conversations so visitors can get accurate responses in their preferred language. This is valuable for global businesses and UAE teams serving diverse local and international audiences.",
             "category": "AI Solutions"
           },
           {
@@ -1583,7 +1610,7 @@
             "_uid": "faq-Do you provide local",
             "component": "faq_item",
             "question": "Do you provide local SEO for Dubai and the UAE?",
-            "answer": "Yes. We optimise Google Business Profile, local citations, Arabic and English landing pages, and location-specific schema markup. UAE local search requires bilingual strategy, mobile-first performance and culturally relevant content. We have experience helping businesses rank for Dubai, Abu Dhabi and emirate-specific queries while supporting international visibility.",
+            "answer": "Yes. We optimise Google Business Profile, local citations, multilingual landing pages, and location-specific schema markup. UAE local search requires multilingual strategy, mobile-first performance and culturally relevant content. We have experience helping businesses rank for Dubai, Abu Dhabi and emirate-specific queries while supporting international visibility.",
             "category": "SEO"
           },
           {
@@ -1611,7 +1638,7 @@
             "_uid": "faq-What is DaycareMate ",
             "component": "faq_item",
             "question": "What is DaycareMate and who is it for?",
-            "answer": "DaycareMate is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets dedicated deployment. It is built by the same team behind BloomWave's digital transformation, designed for real centre operations, not generic school admin software.",
+            "answer": "DaycareMate is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets a dedicated deployment with white-label branding: your centre name, logo, favicon, and branded invoice PDFs. It is built by the same team behind BloomWave's digital transformation, designed for real centre operations, not generic school admin software.",
             "category": "Daycare Software"
           },
           {

@@ -20,6 +20,7 @@ Vercel offers the best integration with Next.js and provides automatic deploymen
    NEXT_PUBLIC_STORYBLOK_ACCESS_TOKEN=your_public_token
    STORYBLOK_PREVIEW_TOKEN=your_preview_token
    STORYBLOK_WEBHOOK_SECRET=your_webhook_secret
+   # Required in production: canonical URLs, sitemap.xml, robots.txt, and feed.xml
    NEXT_PUBLIC_SITE_URL=https://your-domain.vercel.app
    ```
 
@@ -29,6 +30,36 @@ Vercel offers the best integration with Next.js and provides automatic deploymen
    - Output Directory: `.next`
 
 4. **Deploy**: Vercel will automatically build and deploy your application
+
+#### Primary domain (www)
+
+Production uses **`https://www.igentx.com`** as the canonical host. All absolute URLs in sitemap, RSS, `robots.txt`, and `llms.txt` use the `www` subdomain.
+
+- Set **`NEXT_PUBLIC_SITE_URL=https://www.igentx.com`** in Vercel (never the apex or a preview URL in production).
+- In Vercel → Project → Domains: set `www.igentx.com` as primary; configure `igentx.com` to redirect to `www` (308).
+- [`next.config.ts`](../next.config.ts) also redirects apex host `igentx.com` → `https://www.igentx.com` as a fallback.
+
+After deploy, confirm apex redirect:
+
+```bash
+curl -I https://igentx.com/
+# Expect: 308 → https://www.igentx.com/
+```
+
+#### Pre-deploy verification (crawlability)
+
+Before going live or after changing domains, confirm `NEXT_PUBLIC_SITE_URL` is set to **`https://www.igentx.com`** (with `www`). Without it, `robots.txt`, `sitemap.xml`, `feed.xml`, and canonical URLs may point at the wrong host.
+
+After deploy, spot-check:
+
+- `curl -I https://igentx.com/` → `308` to `https://www.igentx.com/`
+- `curl -I https://www.igentx.com/en/blog` → `308` to `/blog`
+- `curl https://www.igentx.com/robots.txt` → `Sitemap: https://www.igentx.com/sitemap.xml`
+- `curl https://www.igentx.com/sitemap.xml` → contains `x-default` hreflang entries
+- `curl -I https://www.igentx.com/ar` → `404`
+- `curl https://www.igentx.com/llms.txt` → plain text, not HTML
+
+Resubmit the sitemap in Google Search Console after major routing or URL changes.
 
 #### Webhook Configuration:
 
@@ -83,8 +114,21 @@ For self-hosted deployments:
 
 ## 🔧 Pre-Deployment Checklist
 
+### `NEXT_PUBLIC_SITE_URL`
+
+This variable must match your public HTTPS origin (no trailing slash), for example `https://www.igentx.com`. The app uses it for:
+
+- Canonical and Open Graph URLs in page metadata
+- `app/sitemap.ts` absolute URLs
+- `app/robots.txt/route.ts` sitemap and discovery comments
+- `app/feed.xml/route.ts` and `lib/rss.ts` item links
+
+**Primary domain:** use `https://www.igentx.com` (with `www`). The apex `igentx.com` redirects to `www` with 308 via [`next.config.ts`](../../next.config.ts) and Vercel domain settings. `lib/site-url.ts` normalizes apex values to `www` if misconfigured.
+
+If it is missing or wrong in production, crawlers and RSS clients may see `localhost` or placeholder domains.
+
 - [ ] Set all required environment variables
-- [ ] Update `NEXT_PUBLIC_SITE_URL` to your production URL
+- [ ] Set `NEXT_PUBLIC_SITE_URL` to your production URL (required for canonical URLs, `sitemap.xml`, `robots.txt`, and `feed.xml` RSS links)
 - [ ] Configure Storyblok webhooks with production URL
 - [ ] Test build locally: `npm run build`
 - [ ] Verify all pages render correctly

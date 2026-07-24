@@ -34,7 +34,7 @@
           "is_external_url": false
         },
         "structured_data_type": "Service",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Search Engine Optimisation\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"Technical SEO, content strategy, local SEO and performance reporting for measurable organic growth.\"\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Search Engine Optimisation\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"Technical SEO, content strategy, local SEO and performance reporting for measurable organic growth.\"\n}"
       },
       {
         "_uid": "seo-hero-001",
@@ -308,7 +308,7 @@
             "_uid": "seo-faq-uae-link",
             "component": "faq_item",
             "question": "Do you provide SEO services in the UAE?",
-            "answer": "Yes. We offer dedicated SEO for UAE businesses including Google Maps local SEO, bilingual Arabic and English strategy and technical audits. See our UAE SEO services page for regional engagements.",
+            "answer": "Yes. We offer dedicated SEO for UAE businesses including Google Maps local SEO, multilingual strategy and technical audits. See our UAE SEO services page for regional engagements.",
             "category": "Local"
           }
         ]

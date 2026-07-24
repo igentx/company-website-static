@@ -7,90 +7,72 @@
     "body": [
       {
         "_uid": "793fd1c7-2afc-4f0d-b1c5-58de146f4145",
-        "title": "DrDoor Case Study | 200% Traffic Growth with AI-Powered Website | IGENTX",
-        "author": "IGENTX Digital Team",
+        "title": "DrDoor: 200% Organic Growth & Sub-Second Load Times | IGENTX Case Study",
+        "author": "IGENTX",
         "og_type": "article",
-        "keywords": "DrDoor case study, website development India, SEO growth case study, manufacturing website India, Next.js web development India, digital transformation India, igentx case study, SEO success story",
+        "keywords": "DrDoor case study, website development India, SEO growth case study, manufacturing website India, Next.js web development, digital transformation, igentx case study",
         "og_image": {
-          "id": 106030453307697,
-          "alt": "",
-          "name": "",
-          "focus": "",
-          "title": "",
-          "source": "",
           "filename": "/assets/images/drdoor-case-study.webp",
-          "copyright": "",
-          "fieldtype": "asset",
-          "meta_data": {},
-          "is_external_url": false
+          "alt": "DrDoor website digital transformation",
+          "fieldtype": "asset"
         },
-        "og_title": "DrDoor Case Study | Digital Transformation & 200% Organic Growth | IGENTX",
+        "og_title": "DrDoor: 200% Organic Growth & Sub-Second Load Times | IGENTX Case Study",
         "component": "seo",
         "publisher": "IGENTX",
-        "description": "Discover how IGENTX helped DrDoor, an India-based FRP door manufacturer, achieve 200% organic growth with a fast, SEO-optimised website powered by Next.js and Storyblok.",
-        "article_tags": "DrDoor case study, website development India, SEO optimisation, digital transformation India, Next.js development, Storyblok CMS, performance SEO, IGENTX case studies",
+        "description": "How IGENTX helped DrDoor, an India-based FRP door manufacturer, achieve 200% organic traffic growth with a fast, SEO-optimised Next.js website.",
+        "article_tags": "DrDoor case study, website development India, SEO optimisation, digital transformation, Next.js development, Storyblok CMS, IGENTX case studies",
         "robots_index": true,
-        "canonical_url": "https://igentx.com/case-studies/web-development-startup-dr-door",
-        "canonical_utl": "",
+        "canonical_url": "https://www.igentx.com/case-studies/dr-door",
         "robots_follow": true,
         "twitter_image": {
-          "id": 106030453307697,
-          "alt": "",
-          "name": "",
-          "focus": "",
-          "title": "",
-          "source": "",
           "filename": "/assets/images/drdoor-case-study.webp",
-          "copyright": "",
-          "fieldtype": "asset",
-          "meta_data": {},
-          "is_external_url": false
+          "alt": "DrDoor website digital transformation",
+          "fieldtype": "asset"
         },
-        "twitter_title": "DrDoor Digital Transformation Case Study | 200% Traffic Growth | IGENTX",
+        "twitter_title": "DrDoor: 200% Organic Growth & Sub-Second Load Times | IGENTX Case Study",
         "article_author": "IGENTX",
-        "og_description": "IGENTX partnered with DrDoor to deliver a high-performance website for their India market that achieved 200% organic growth, 0.6s load time, and 96% performance. Read the full story.",
-        "articel_section": "",
+        "og_description": "How IGENTX helped DrDoor achieve 200% organic traffic growth, 0.6s load time and 96% Lighthouse performance with an SEO-first Next.js website.",
         "article_section": "Case Studies",
-        "rebots_nosnippet": false,
+        "robots_nosnippet": false,
         "robots_noarchive": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "AI-powered website transformation for DrDoor led by IGENTX. 200% organic growth, 0.6s load time, and SEO-first architecture. Read how we achieved it.",
-        "structured_data_type": "Article",
-        "article_modified_time": "",
-        "article_published_time": "2025-10-27 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"CaseStudy\",\n  \"headline\": \"DrDoor Digital Transformation Case Study\",\n  \"description\": \"IGENTX helped DrDoor achieve 200% organic traffic growth with an AI-powered website built using Next.js, Storyblok, and SEO automation.\",\n  \"image\": \"https://igentx.com/assets/images/case-studies/drdoor-og-banner.jpg\",\n  \"author\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://igentx.com\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://igentx.com/assets/images/logo.png\"\n    }\n  },\n  \"datePublished\": \"2025-01-15\",\n  \"dateModified\": \"2025-10-27\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://igentx.com/case-studies/drdoor\"\n  }\n}"
+        "twitter_description": "How IGENTX helped DrDoor achieve 200% organic traffic growth, 0.6s load time and 96% Lighthouse performance with an SEO-first Next.js website.",
+        "structured_data_type": "CaseStudy",
+        "article_published_time": "2025-07-01 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"CaseStudy\",\n      \"headline\": \"DrDoor: 200% Organic Growth with Sub-Second Load Times\",\n      \"description\": \"IGENTX helped DrDoor achieve 200% organic traffic growth with a fast, SEO-optimised website built using Next.js and Storyblok.\",\n      \"image\": \"https://www.igentx.com/assets/images/drdoor-case-study.webp\",\n      \"datePublished\": \"2025-07-01\",\n      \"author\": { \"@type\": \"Organization\", \"name\": \"IGENTX\", \"url\": \"https://www.igentx.com\" },\n      \"publisher\": { \"@type\": \"Organization\", \"name\": \"IGENTX\", \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\" } },\n      \"mainEntityOfPage\": { \"@type\": \"WebPage\", \"@id\": \"https://www.igentx.com/case-studies/dr-door\" },\n      \"review\": {\n        \"@type\": \"Review\",\n        \"author\": { \"@type\": \"Person\", \"name\": \"Muhammed Ashraf\" },\n        \"reviewBody\": \"The new website transformed our business image and lead generation. Within weeks, we started receiving qualified inquiries, and our ranking performance improved drastically. The speed and SEO improvements exceeded our expectations.\"\n      }\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [\n        { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Home\", \"item\": \"https://www.igentx.com\" },\n        { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Case Studies\", \"item\": \"https://www.igentx.com/case-studies\" },\n        { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"DrDoor\", \"item\": \"https://www.igentx.com/case-studies/dr-door\" }\n      ]\n    }\n  ]\n}"
       },
       {
         "_uid": "fbc43bdd-4ea0-46c9-9846-15ebf0962f47",
-        "title": "DrDoor – Digital Transformation That Drove 200% Organic Growth",
-        "summary": "We partnered with DrDoor to create a high-performance, SEO-first website that strengthened their digital presence in India. The result: faster load times, better conversions, and a scalable foundation for long-term growth.",
-        "category": "Web Development | Digital Transformation",
-        "industry": "Manufacturing (FRP Doors & Industrial Solutions)",
+        "title": "200% organic growth with sub-second load times",
+        "summary": "We partnered with DrDoor to create a high-performance, SEO-first website that strengthened their digital presence in India. The result: faster load times, better conversions and a scalable foundation for long-term growth.",
+        "category": "Web Development · Digital Transformation",
+        "industry": "Manufacturing (FRP doors & industrial solutions)",
         "location": "India",
         "back_link": {
-          "id": "",
-          "url": "",
           "linktype": "story",
           "fieldtype": "multilink",
-          "cached_url": ""
+          "cached_url": "case-studies"
         },
         "component": "case_study_hero",
-        "client_name": "Dr.Door",
-        "quick_stats": [],
+        "client_name": "DrDoor",
+        "quick_stats": [
+          { "_uid": "dd-qs1", "value": "200%", "label": "Organic traffic", "component": "stat_item" },
+          { "_uid": "dd-qs2", "value": "96", "label": "Lighthouse score", "component": "stat_item" },
+          { "_uid": "dd-qs3", "value": "0.6s", "label": "Load time", "component": "stat_item" }
+        ],
         "featured_image": {
-          "id": 105580143027119,
-          "alt": "",
-          "name": "",
-          "focus": "",
-          "title": "",
-          "source": "",
           "filename": "/assets/images/drdoor.webp",
-          "copyright": "",
-          "fieldtype": "asset",
-          "meta_data": {},
-          "is_external_url": false
+          "alt": "DrDoor website homepage",
+          "fieldtype": "asset"
         },
-        "project_duration": "3 Weeks"
+        "project_duration": "3 weeks",
+        "project_url": {
+          "url": "https://drdoor.in",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://drdoor.in"
+        },
+        "primary_cta_text": "Book a Free Consultation"
       },
       {
         "_uid": "72496953-cf55-4cc1-b33a-cb7a5cc8fc7e",
@@ -99,95 +81,36 @@
           "content": [
             {
               "type": "paragraph",
-              "attrs": {
-                "textAlign": null
-              },
               "content": [
                 {
-                  "text": "DrDoor had a legacy website that lacked speed, structure, and SEO foundation.",
-                  "type": "text"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "text": "Despite offering high-quality FRP door solutions, their digital platform failed to reflect their market leadership and was missing visibility in India search results.",
+                  "text": "DrDoor had a legacy website that lacked speed, structure and SEO foundation. Despite offering high-quality FRP door solutions, their digital platform failed to reflect their market leadership and was missing visibility in India search results.",
                   "type": "text"
                 }
               ]
             }
           ]
         },
-        "category": "Web Development | Digital Transformation",
+        "category": "Web Development · Digital Transformation",
+        "challenge": "DrDoor faced low organic visibility, long page load times, an unoptimised UI/UX with no clear conversion funnel, no CMS for content updates and poor mobile performance.",
         "solution": {
           "type": "doc",
           "content": [
             {
               "type": "paragraph",
-              "attrs": {
-                "textAlign": null
-              },
               "content": [
-                {
-                  "text": "We completely redesigned DrDoor's digital ecosystem, focusing on ",
-                  "type": "text"
-                },
-                {
-                  "text": "speed",
-                  "type": "text",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "text": ", ",
-                  "type": "text"
-                },
-                {
-                  "text": "conversion",
-                  "type": "text",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "text": ", and ",
-                  "type": "text"
-                },
-                {
-                  "text": "SEO performance",
-                  "type": "text",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "text": ".",
-                  "type": "text"
-                }
+                { "text": "We completely redesigned DrDoor's digital ecosystem, focusing on ", "type": "text" },
+                { "text": "speed", "type": "text", "marks": [{ "type": "bold" }] },
+                { "text": ", ", "type": "text" },
+                { "text": "conversion", "type": "text", "marks": [{ "type": "bold" }] },
+                { "text": " and ", "type": "text" },
+                { "text": "SEO performance", "type": "text", "marks": [{ "type": "bold" }] },
+                { "text": ".", "type": "text" }
               ]
             },
             {
               "type": "paragraph",
-              "attrs": {
-                "textAlign": null
-              },
               "content": [
-                {
-                  "text": "Core Implementations:",
-                  "type": "text",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
+                { "text": "Core implementations:", "type": "text", "marks": [{ "type": "bold" }] }
               ]
             },
             {
@@ -198,23 +121,9 @@
                   "content": [
                     {
                       "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
                       "content": [
-                        {
-                          "text": "Next.js + Storyblok Architecture:",
-                          "type": "text",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "text": " Built a high-speed, CMS-driven web platform that allows DrDoor to manage pages easily.",
-                          "type": "text"
-                        }
+                        { "text": "Next.js + Storyblok architecture:", "type": "text", "marks": [{ "type": "bold" }] },
+                        { "text": " Built a high-speed, CMS-driven web platform that allows DrDoor to manage pages easily.", "type": "text" }
                       ]
                     }
                   ]
@@ -224,23 +133,9 @@
                   "content": [
                     {
                       "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
                       "content": [
-                        {
-                          "text": "AI-Enhanced SEO Foundation:",
-                          "type": "text",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "text": " Integrated AI tools for keyword mapping, structured metadata, and local search targeting.",
-                          "type": "text"
-                        }
+                        { "text": "AI-enhanced SEO foundation:", "type": "text", "marks": [{ "type": "bold" }] },
+                        { "text": " Integrated AI tools for keyword mapping, structured metadata and local search targeting.", "type": "text" }
                       ]
                     }
                   ]
@@ -250,49 +145,13 @@
                   "content": [
                     {
                       "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
                       "content": [
-                        {
-                          "text": "Core Web Vitals Optimization:",
-                          "type": "text",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "text": " Reduced load time from 3.2s to ",
-                          "type": "text"
-                        },
-                        {
-                          "text": "0.6s",
-                          "type": "text",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "text": " and achieved a ",
-                          "type": "text"
-                        },
-                        {
-                          "text": "96% performance score",
-                          "type": "text",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "text": " on Lighthouse.",
-                          "type": "text"
-                        }
+                        { "text": "Core Web Vitals optimisation:", "type": "text", "marks": [{ "type": "bold" }] },
+                        { "text": " Reduced load time from 3.2s to ", "type": "text" },
+                        { "text": "0.6s", "type": "text", "marks": [{ "type": "bold" }] },
+                        { "text": " and achieved a ", "type": "text" },
+                        { "text": "96% performance score", "type": "text", "marks": [{ "type": "bold" }] },
+                        { "text": " on Lighthouse.", "type": "text" }
                       ]
                     }
                   ]
@@ -302,23 +161,9 @@
                   "content": [
                     {
                       "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
                       "content": [
-                        {
-                          "text": "Local SEO for India:",
-                          "type": "text",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "text": " Structured metadata, local search targeting and content optimised for manufacturing enquiries across India.",
-                          "type": "text"
-                        }
+                        { "text": "Local SEO for India:", "type": "text", "marks": [{ "type": "bold" }] },
+                        { "text": " Structured metadata, local search targeting and content optimised for manufacturing enquiries across India.", "type": "text" }
                       ]
                     }
                   ]
@@ -328,49 +173,9 @@
                   "content": [
                     {
                       "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
                       "content": [
-                        {
-                          "text": "Brand & UX Revamp:",
-                          "type": "text",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "text": " Designed a clean, modern interface that reflects brand authority while optimising conversion flow.",
-                          "type": "text"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
-                      "content": [
-                        {
-                          "text": "Mailjet & Analytics Integration:",
-                          "type": "text",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "text": " Implemented contact workflows and real-time analytics dashboards for lead tracking.",
-                          "type": "text"
-                        }
+                        { "text": "Mailjet & Analytics integration:", "type": "text", "marks": [{ "type": "bold" }] },
+                        { "text": " Implemented contact workflows and real-time analytics dashboards for lead tracking.", "type": "text" }
                       ]
                     }
                   ]
@@ -379,172 +184,112 @@
             }
           ]
         },
-        "challenge": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
-                      "content": [
-                        {
-                          "text": "Low organic visibility and limited keyword reach",
-                          "type": "text"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
-                      "content": [
-                        {
-                          "text": "Long page load times affecting user engagement",
-                          "type": "text"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
-                      "content": [
-                        {
-                          "text": "Unoptimised UI/UX with no clear conversion funnel",
-                          "type": "text"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
-                      "content": [
-                        {
-                          "text": "No CMS or content workflow for updates",
-                          "type": "text"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "attrs": {
-                        "textAlign": null
-                      },
-                      "content": [
-                        {
-                          "text": "Outdated SEO setup with poor mobile performance",
-                          "type": "text"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
+        "outcome": "Within three months, DrDoor achieved 200% organic traffic growth, received qualified manufacturing enquiries and strengthened brand credibility with a fast, modern website that ranks better across India search results.",
         "component": "case_study_detail",
         "client_logo": {
-          "id": 106026396211143,
-          "alt": "",
-          "name": "",
-          "focus": "",
-          "title": "",
-          "source": "",
           "filename": "/assets/logos/dr_door_logo.webp",
-          "copyright": "",
-          "fieldtype": "asset",
-          "meta_data": {},
-          "is_external_url": false
+          "alt": "DrDoor logo",
+          "fieldtype": "asset"
         },
-        "client_name": "Dr.Door",
+        "client_name": "DrDoor",
         "project_url": {
-          "id": "",
           "url": "https://drdoor.in",
           "linktype": "url",
           "fieldtype": "multilink",
           "cached_url": "https://drdoor.in"
         },
-        "project_date": "",
+        "project_date": "2025-07",
         "technologies": "Next.js, TypeScript, Tailwind CSS, Storyblok, Mailjet, Google Analytics, SEO Tools, Vercel",
+        "service_links": [
+          { "label": "Web Development UAE", "url": "/services/web-development-uae" },
+          { "label": "SEO Services", "url": "/services/seo" }
+        ],
         "project_images": [
           {
-            "id": 105580143027119,
-            "alt": "",
-            "name": "",
-            "focus": "",
-            "title": "",
-            "source": "",
             "filename": "/assets/images/drdoor.webp",
-            "copyright": "",
-            "fieldtype": "asset",
-            "meta_data": {}
+            "alt": "DrDoor website homepage",
+            "fieldtype": "asset"
           }
         ],
         "results_metrics": [
           {
             "_uid": "bb21d98c-306e-4365-a74a-753c1eaf8ffc",
-            "label": "Within 3 months",
-            "value": "200% Organic Traffic Growth",
+            "label": "Organic traffic growth",
+            "value": "200%",
             "component": "metric_item",
-            "description": "Driven by new SEO setup and technical optimisation"
-          },
-          {
-            "_uid": "0cc31bfe-8a7a-4223-ac2f-2eb3cc88fc87",
-            "label": "Based on client feedback",
-            "value": "4.9 Customer Rating",
-            "component": "metric_item",
-            "description": "Improved user experience and performance consistency"
+            "description": "Achieved within 3 months through new SEO setup and technical optimisation."
           },
           {
             "_uid": "c9cc98d5-9e25-4fcc-8c9c-89e106ebdb12",
-            "label": "Measured via Lighthouse",
-            "value": "96% Performance Score",
+            "label": "Lighthouse performance",
+            "value": "96",
             "component": "metric_item",
-            "description": "Fast, mobile-optimised pages"
+            "description": "Fast, mobile-optimised pages measured via Lighthouse."
           },
           {
             "_uid": "9ce584cb-3c45-4bcf-a870-8314f455b2a6",
-            "label": "After deployment",
-            "value": "0.6s Load Time",
+            "label": "Page load time",
+            "value": "0.6s",
             "component": "metric_item",
-            "description": "Achieved through Next.js + Vercel Edge optimization"
+            "description": "Reduced from 3.2s through Next.js and Vercel edge optimisation."
           }
         ],
         "testimonial_role": "Managing Director, DrDoor",
         "testimonial_text": "The new website transformed our business image and lead generation. Within weeks, we started receiving qualified inquiries, and our ranking performance improved drastically. The speed and SEO improvements exceeded our expectations.",
         "testimonial_author": "Muhammed Ashraf"
+      },
+      {
+        "_uid": "dd-related-001",
+        "component": "case_study_related",
+        "title": "More success stories",
+        "related_case_studies": [
+          {
+            "title": "300% organic traffic growth in 3 months",
+            "excerpt": "How Moduluxe Group tripled organic visitors with a bilingual, performance-first Next.js website.",
+            "client_name": "Moduluxe Group",
+            "featured_image": {
+              "filename": "/assets/images/moduluxegroup.webp",
+              "alt": "Moduluxe Group website"
+            },
+            "link": {
+              "url": "/case-studies/moduluxe-group",
+              "linktype": "url",
+              "cached_url": "case-studies/moduluxe-group"
+            }
+          },
+          {
+            "title": "One integrated stack for web, AI enquiries and centre operations",
+            "excerpt": "How BloomWave launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.",
+            "client_name": "BloomWave Learning & Daycare",
+            "featured_image": {
+              "filename": "/assets/images/bloomwave-homepage.jpg",
+              "alt": "BloomWave Learning & Daycare website"
+            },
+            "link": {
+              "url": "/case-studies/bloomwave-learning-daycare",
+              "linktype": "url",
+              "cached_url": "case-studies/bloomwave-learning-daycare"
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "dd-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to transform your digital presence?",
+        "description": "Whether you need a performance-first rebuild, SEO foundation or a CMS-driven website for global markets, our team helps businesses generate more qualified enquiries.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "contact",
+          "linktype": "url",
+          "cached_url": "contact"
+        },
+        "secondary_cta_text": "View all case studies",
+        "secondary_cta_link": {
+          "url": "case-studies",
+          "linktype": "url",
+          "cached_url": "case-studies"
+        }
       }
     ],
     "component": "page"

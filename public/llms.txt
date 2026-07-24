@@ -5,14 +5,19 @@
 Contact: hello@igentx.com
 Website: https://www.igentx.com
 Sitemap: https://www.igentx.com/sitemap.xml
+Feed: https://www.igentx.com/feed.xml
+Full guide: https://www.igentx.com/llms-full.txt
 Parent products: DaycareMate (https://daycaremate.com)
 
 ## Services (global)
 
+- [Services hub](https://www.igentx.com/services): Web development, ecommerce, branding, SEO, custom software and AI solutions
 - [Web Development](https://www.igentx.com/services/web-development): Custom web development company
 - [Ecommerce Development](https://www.igentx.com/services/ecommerce-development): Online store development
 - [Branding & Design](https://www.igentx.com/services/branding-graphic-design): Brand identity and graphic design
 - [Technical SEO](https://www.igentx.com/services/seo): Core Web Vitals, schema, AI search optimization
+- [Custom Software Development](https://www.igentx.com/services/custom-software-development): Bespoke web apps, portals and integrations
+- [AI Solutions](https://www.igentx.com/services/ai-solutions): AI agents, automation and intelligent workflows
 
 ## UAE hub
 
@@ -24,11 +29,13 @@ Parent products: DaycareMate (https://daycaremate.com)
 
 ## Products
 
+- [Products hub](https://www.igentx.com/products): IGENTX digital products
 - [AI Customer Service Agent](https://www.igentx.com/products/ai-customer-service-agent): RAG-powered website chat widget
 - [DaycareMate](https://www.igentx.com/products/daycaremate): Childcare management software by IGENTX
 
 ## Case studies
 
+- [Case studies hub](https://www.igentx.com/case-studies): Client outcomes and project highlights
 - [BloomWave](https://www.igentx.com/case-studies/bloomwave-learning-daycare): Website + AI agent + DaycareMate
 - [Moduluxe Group](https://www.igentx.com/case-studies/moduluxe-group): Bilingual UAE startup website
 - [Dr.Door](https://www.igentx.com/case-studies/dr-door): Manufacturing digital transformation
@@ -36,6 +43,22 @@ Parent products: DaycareMate (https://daycaremate.com)
 ## Blog
 
 - [Blog](https://www.igentx.com/blog): Web development and AI insights
+- [Why Every UAE Business Needs a Strong Website in 2025](https://www.igentx.com/blog/importance-of-website-uae)
+- [How AI Is Revolutionizing Web Development in the UAE](https://www.igentx.com/blog/ai-in-web-development-uae)
+- [How to Choose the Best Web Development Agency in the UAE](https://www.igentx.com/blog/how-to-choose-best-web-development-agency-uae)
+- [Web Development in the UAE: A Practical Guide](https://www.igentx.com/blog/web-development-uae)
+- [AI Customer Service Agent for UAE Websites](https://www.igentx.com/blog/ai-customer-service-agent-uae)
+- [DaycareMate Childcare Centre Management Software Guide](https://www.igentx.com/blog/daycaremate-childcare-management-software-guide)
+- [Local SEO in Dubai and the UAE](https://www.igentx.com/blog/local-seo-dubai-uae-guide)
+- [Technical SEO Checklist for UAE Websites](https://www.igentx.com/blog/technical-seo-checklist-uae)
+- [Ecommerce Website Development in Dubai and the UAE](https://www.igentx.com/blog/ecommerce-website-development-dubai-uae)
+- [Bilingual Website Development in the UAE](https://www.igentx.com/blog/bilingual-website-development-uae)
+- [Custom Software Development UAE Guide](https://www.igentx.com/blog/custom-software-development-uae-guide)
+- [Branding for UAE Startups](https://www.igentx.com/blog/branding-uae-startups-guide)
+- [Childcare Management Software UAE Buyer's Guide](https://www.igentx.com/blog/childcare-management-software-uae-guide)
+- [Opening a Nursery in Dubai: Digital Tools](https://www.igentx.com/blog/opening-nursery-dubai-digital-tools)
+- [Moduluxe Group SEO Case Study](https://www.igentx.com/blog/moduluxe-group-seo-case-study)
+- [BloomWave Digital Transformation](https://www.igentx.com/blog/bloomwave-daycaremate-digital-transformation)
 
 ## Contact
 

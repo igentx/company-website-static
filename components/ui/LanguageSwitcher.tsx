@@ -18,6 +18,10 @@ export default function LanguageSwitcher({ isScrolled = false, isInfoBar = false
 
   const currentLang = languages.find((lang) => lang.code === currentLanguage) || languages[0]
 
+  if (languages.length <= 1) {
+    return null
+  }
+
   // Calculate dropdown position when it opens
   useEffect(() => {
     if (isOpen && buttonRef.current) {

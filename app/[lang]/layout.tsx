@@ -1,7 +1,8 @@
 import type { Metadata } from 'next'
+import { notFound } from 'next/navigation'
 import { Poppins, Cairo } from 'next/font/google'
 import '../globals.css'
-import { getGlobalContent } from '@/lib/content'
+import { getGlobalContent, getSupportedLanguageCodes } from '@/lib/content'
 import { BlockRenderer } from '@/lib/blocks'
 import { LanguageProvider } from '@/contexts/LanguageContext'
 import { ThemeProvider } from '@/contexts/ThemeContext'
@@ -15,6 +16,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next'
 import { Analytics } from '@vercel/analytics/react'
 import { generateStaticLangParams } from '@/lib/static-page'
 import { getSeoFallback } from '@/lib/seo-keywords'
+import { getSiteBaseUrl } from '@/lib/site-url'
 
 const poppins = Poppins({
   subsets: ['latin'],
@@ -56,12 +58,20 @@ interface Props {
 }
 
 export const dynamic = 'force-static'
+export const dynamicParams = false
 
 export default async function LanguageLayout({ children, params }: Props) {
   const { lang } = await params
+
+  if (!getSupportedLanguageCodes().includes(lang)) {
+    notFound()
+  }
+
   const headerContent = getGlobalContent('header', lang)
   const footerContent = getGlobalContent('footer', lang)
   const isRTL = isRTLLanguage(lang)
+
+  const siteBaseUrl = getSiteBaseUrl()
 
   let structuredData: Record<string, unknown> | null = null
   try {
@@ -73,12 +83,12 @@ export default async function LanguageLayout({ children, params }: Props) {
           title: siteFallback.title,
           description: siteFallback.description,
           siteName: 'IGENTX',
-          url: isRTL ? `https://www.igentx.com/${lang}/` : 'https://www.igentx.com/',
+          url: isRTL ? `${siteBaseUrl}/${lang}/` : `${siteBaseUrl}/`,
         },
       })
       structuredData = generateStructuredData(
         seoData,
-        isRTL ? `https://www.igentx.com/${lang}/` : 'https://www.igentx.com/',
+        isRTL ? `${siteBaseUrl}/${lang}/` : `${siteBaseUrl}/`,
         lang,
         'IGENTX'
       ) as Record<string, unknown>
@@ -93,7 +103,7 @@ export default async function LanguageLayout({ children, params }: Props) {
       '@type': 'WebSite',
       name: 'IGENTX',
       description: siteFallback.description,
-      url: isRTL ? `https://www.igentx.com/${lang}/` : 'https://www.igentx.com/',
+      url: isRTL ? `${siteBaseUrl}/${lang}/` : `${siteBaseUrl}/`,
       inLanguage: lang,
     }
   }

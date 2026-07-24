@@ -19,9 +19,23 @@
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/privacy",
         "robots_follow": true,
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "og_image": {
+          "filename": "/assets/og/default-og.webp",
+          "alt": "IGENTX - AI-Driven Web and Digital Products",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_image": {
+          "filename": "/assets/og/default-og.webp",
+          "alt": "IGENTX - AI-Driven Web and Digital Products",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
         "twitter_title": "Privacy Policy | IGENTX",
         "og_description": "Learn how IGENTX handles your personal data, cookies, and analytics on our website.",
-        "twitter_card_type": "summary",
+        "twitter_card_type": "summary_large_image",
         "twitter_description": "How IGENTX collects, uses, and protects your personal information."
       },
       {

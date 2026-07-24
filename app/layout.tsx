@@ -1,10 +1,20 @@
 import type { Metadata, Viewport } from 'next'
+import {
+  DEFAULT_OG_HEIGHT,
+  DEFAULT_OG_IMAGE,
+  DEFAULT_OG_WIDTH,
+} from '@/lib/seo-utils'
+import { getSiteBaseUrl } from '@/lib/site-url'
+
+const defaultOgImage = {
+  url: DEFAULT_OG_IMAGE,
+  alt: 'IGENTX - AI-Driven Web and Digital Products',
+  width: DEFAULT_OG_WIDTH,
+  height: DEFAULT_OG_HEIGHT,
+}
 
 export const metadata: Metadata = {
-  title: {
-    default: 'IGENTX - AI-Driven Web & Branding Solutions',
-    template: '%s | IGENTX',
-  },
+  title: 'IGENTX - AI-Driven Web & Branding Solutions',
   description:
     'AI-Driven Web & Branding Solutions for Fast-Growing Businesses in the UAE. Modern web development with Next.js, React, and cutting-edge CMS platforms.',
   keywords: [
@@ -22,12 +32,15 @@ export const metadata: Metadata = {
   authors: [{ name: 'IGENTX' }],
   creator: 'IGENTX',
   publisher: 'IGENTX',
-  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'),
+  metadataBase: new URL(getSiteBaseUrl()),
   alternates: {
     canonical: '/',
     languages: {
-      en: '/en',
-      ar: '/ar',
+      en: '/',
+      'x-default': '/',
+    },
+    types: {
+      'application/rss+xml': '/feed.xml',
     },
   },
   robots: {
@@ -53,12 +66,12 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    alternateLocale: ['ar_AE'],
     url: '/',
     title: 'IGENTX - AI-Driven Web & Branding Solutions',
     description:
       'AI-Driven Web & Branding Solutions for Fast-Growing Businesses in the UAE. Modern web development with Next.js, React, and cutting-edge CMS platforms.',
     siteName: 'IGENTX',
+    images: [defaultOgImage],
   },
   twitter: {
     card: 'summary_large_image',
@@ -66,6 +79,7 @@ export const metadata: Metadata = {
     description:
       'AI-Driven Web & Branding Solutions for Fast-Growing Businesses in the UAE. Modern web development with Next.js, React, and cutting-edge CMS platforms.',
     creator: '@igentx',
+    images: [defaultOgImage],
   },
   verification: {
     google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION,

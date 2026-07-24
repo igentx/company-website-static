@@ -865,8 +865,32 @@ export interface CaseStudyHeroBlok extends SbBlokData {
   location?: string
   quick_stats?: CaseStudyStat[]
   back_link?: {
-    url: string
+    url?: string
+    cached_url?: string
     linktype: string
+  }
+  project_url?: {
+    url?: string
+    cached_url?: string
+    linktype?: string
+  }
+  primary_cta_text?: string
+}
+
+export interface CaseStudyServiceLink {
+  label: string
+  url: string
+}
+
+export interface CaseStudyRelatedItem {
+  title: string
+  excerpt?: string
+  client_name?: string
+  featured_image?: CaseStudyImage
+  link?: {
+    url?: string
+    cached_url?: string
+    linktype?: string
   }
 }
 
@@ -881,17 +905,27 @@ export interface CaseStudyDetailBlok extends SbBlokData {
   content?: any
   challenge?: any
   solution?: any
+  outcome?: any
   project_images?: CaseStudyImage[]
   results_metrics?: CaseStudyMetric[]
+  service_links?: CaseStudyServiceLink[]
   // Accept comma-separated string or array from CMS
   technologies?: string | string[]
   testimonial_text?: string
   testimonial_author?: string
   testimonial_role?: string
   project_url?: {
-    url: string
-    linktype: string
+    url?: string
+    cached_url?: string
+    linktype?: string
   }
+}
+
+// CaseStudyRelated Block - Related case studies on detail pages
+export interface CaseStudyRelatedBlok extends SbBlokData {
+  component: 'case_study_related'
+  title?: string
+  related_case_studies?: CaseStudyRelatedItem[]
 }
 
 // ============================================

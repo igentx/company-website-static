@@ -12,7 +12,7 @@
         "og_type": "website",
         "keywords": "igentx blog, web development articles, seo blog uae, ecommerce insights, ai web design uae, digital agency dubai",
         "og_image": {
-          "filename": "/assets/blog/web-development-og.webp",
+          "filename": "/assets/og/blog-og.webp",
           "alt": "IGENTX blog: web development, AI and SEO insights",
           "fieldtype": "asset",
           "is_external_url": false
@@ -26,7 +26,7 @@
         "canonical_url": "https://www.igentx.com/blog",
         "robots_follow": true,
         "twitter_image": {
-          "filename": "/assets/blog/web-development-og.webp",
+          "filename": "/assets/og/blog-og.webp",
           "alt": "IGENTX blog: web development, AI and SEO insights",
           "fieldtype": "asset",
           "is_external_url": false

@@ -14,8 +14,8 @@
         "og_type": "article",
         "keywords": "custom software development UAE, bespoke software Dubai, web application development UAE, SaaS development UAE, software agency Dubai",
         "og_image": {
-          "filename": "/assets/images/custom-software-development.webp",
-          "alt": "Custom software development guide for UAE businesses",
+          "filename": "/assets/og/custom-software-uae-og.webp",
+          "alt": "Custom software development UAE guide | IGENTX",
           "fieldtype": "asset",
           "is_external_url": false
         },
@@ -27,8 +27,8 @@
         "canonical_url": "https://www.igentx.com/blog/custom-software-development-uae-guide",
         "robots_follow": true,
         "twitter_image": {
-          "filename": "/assets/images/custom-software-development.webp",
-          "alt": "Custom software development guide for UAE businesses",
+          "filename": "/assets/og/custom-software-uae-og.webp",
+          "alt": "Custom software development UAE guide | IGENTX",
           "fieldtype": "asset",
           "is_external_url": false
         },
@@ -43,7 +43,7 @@
         "structured_data_type": "BlogPosting",
         "article_modified_time": "2026-07-23 00:00",
         "article_published_time": "2026-07-23 00:00",
-        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BlogPosting\",\"headline\":\"Custom Software Development in the UAE: A Practical Guide for Growing Businesses\",\"description\":\"When to choose custom software in the UAE, how to scope projects, select a partner and deliver measurable operational efficiency and growth.\",\"url\":\"https://www.igentx.com/blog/custom-software-development-uae-guide\",\"datePublished\":\"2026-07-23T00:00:00+00:00\",\"dateModified\":\"2026-07-23T00:00:00+00:00\",\"author\":{\"@type\":\"Person\",\"name\":\"IGENTX Digital Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"IGENTX\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"}},\"image\":\"https://www.igentx.com/assets/images/custom-software-development.webp\",\"articleSection\":\"Web Development\",\"keywords\":\"custom software development UAE, bespoke software Dubai, web application development UAE, SaaS development UAE, software agency Dubai\",\"inLanguage\":\"en\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.igentx.com/blog/custom-software-development-uae-guide\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Custom Software Development in the UAE: A Practical Guide for Growing Businesses\",\"item\":\"https://www.igentx.com/blog/custom-software-development-uae-guide\"}]}]}"
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"BlogPosting\",\"headline\":\"Custom Software Development in the UAE: A Practical Guide for Growing Businesses\",\"description\":\"When to choose custom software in the UAE, how to scope projects, select a partner and deliver measurable operational efficiency and growth.\",\"url\":\"https://www.igentx.com/blog/custom-software-development-uae-guide\",\"datePublished\":\"2026-07-23T00:00:00+00:00\",\"dateModified\":\"2026-07-23T00:00:00+00:00\",\"author\":{\"@type\":\"Person\",\"name\":\"IGENTX Digital Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"IGENTX\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"}},\"image\":\"https://www.igentx.com/assets/og/custom-software-uae-og.webp\",\"articleSection\":\"Web Development\",\"keywords\":\"custom software development UAE, bespoke software Dubai, web application development UAE, SaaS development UAE, software agency Dubai\",\"inLanguage\":\"en\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.igentx.com/blog/custom-software-development-uae-guide\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.igentx.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.igentx.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Custom Software Development in the UAE: A Practical Guide for Growing Businesses\",\"item\":\"https://www.igentx.com/blog/custom-software-development-uae-guide\"}]}]}"
       },
       {
         "_uid": "custom-software-development-uae-guide-hero",

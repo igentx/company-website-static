@@ -12,16 +12,9 @@
         "og_type": "website",
         "keywords": "web development UAE, AI web development Dubai, multilingual websites UAE, Next.js developers UAE, website design Dubai",
         "og_image": {
-          "id": 106601555299758,
-          "alt": "",
-          "name": "",
-          "focus": "",
-          "title": "",
-          "source": "",
-          "filename": "/assets/blog/web-development-og.webp",
-          "copyright": "",
+          "filename": "/assets/og/web-development-uae-service-og.webp",
+          "alt": "Web development company UAE | IGENTX",
           "fieldtype": "asset",
-          "meta_data": {},
           "is_external_url": false
         },
         "og_title": "Web Development in UAE | Fast, Secure & Multilingual | IGENTX",
@@ -33,36 +26,28 @@
         "canonical_url": "https://www.igentx.com/services/web-development-uae",
         "robots_follow": true,
         "twitter_image": {
-          "id": 106601555299758,
-          "alt": "",
-          "name": "",
-          "focus": "",
-          "title": "",
-          "source": "",
-          "filename": "/assets/blog/web-development-og.webp",
-          "copyright": "",
+          "filename": "/assets/og/web-development-uae-service-og.webp",
+          "alt": "Web development company UAE | IGENTX",
           "fieldtype": "asset",
-          "meta_data": {},
           "is_external_url": false
         },
         "twitter_title": "Web Development in UAE | IGENTX",
         "article_author": "IGENTX Team",
-        "og_description": "Build fast, SEO-first websites with IGENTX for the UAE. Next.js, Tailwind, and Vercel for performance, bilingual delivery, and measurable growth.",
-        "articel_section": "Web Development",
+        "og_description": "Build fast, SEO-first websites with IGENTX for the UAE. Next.js, Tailwind, and Vercel for performance, multilingual delivery, and measurable growth.",
         "article_section": "Web Development",
-        "rebots_nosnippet": true,
+        "robots_nosnippet": false,
         "robots_noarchive": false,
         "twitter_card_type": "summary_large_image",
         "twitter_description": "AI-powered web development in the UAE with IGENTX. Multilingual, SEO-optimised sites built for performance and scalability.",
         "structured_data_type": "Service",
         "article_modified_time": "",
         "article_published_time": "2025-10-26 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Web Development in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"description\": \"AI-powered multilingual web development with Next.js, Tailwind, and SEO optimization.\",\n    \"availability\": \"https://schema.org/InStock\"\n  },\n  \"hasOfferCatalog\": {\n    \"@type\": \"OfferCatalog\",\n    \"name\": \"Web Development Services\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Startup\",\n          \"description\": \"Fast, SEO-optimized starter website for small businesses.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Business\",\n          \"description\": \"Scalable multilingual web development for growing companies.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Enterprise\",\n          \"description\": \"Custom enterprise-grade web platform with advanced integrations.\"\n        }\n      }\n    ]\n  }\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Web Development in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"description\": \"AI-powered multilingual web development with Next.js, Tailwind, and SEO optimization.\",\n    \"availability\": \"https://schema.org/InStock\"\n  },\n  \"hasOfferCatalog\": {\n    \"@type\": \"OfferCatalog\",\n    \"name\": \"Web Development Services\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Startup\",\n          \"description\": \"Fast, SEO-optimized starter website for small businesses.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Business\",\n          \"description\": \"Scalable multilingual web development for growing companies.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Enterprise\",\n          \"description\": \"Custom enterprise-grade web platform with advanced integrations.\"\n        }\n      }\n    ]\n  }\n}"
       },
       {
         "_uid": "e367b00e-a5ed-43f8-a33b-38733b090fd2",
         "title": "Fast, Secure & Multilingual",
-        "summary": "Bilingual Arabic and English websites for UAE businesses: local SEO for Dubai and Abu Dhabi, UAE payment gateway integration, and proven regional case studies including Moduluxe Group.",
+        "summary": "Multilingual websites for UAE businesses with Arabic (RTL) and additional languages: local SEO for Dubai and Abu Dhabi, UAE payment gateway integration, and proven regional case studies including Moduluxe Group.",
         "category": "Web Development in UAE",
         "cta_link": {
           "id": "",
@@ -94,7 +79,7 @@
           "meta_data": {},
           "is_external_url": false
         },
-        "quick_features": "Bilingual Arabic and English websites\nLocal SEO for Dubai, Abu Dhabi and Sharjah\nUAE payment gateway integration\nProven UAE case studies including Moduluxe Group",
+        "quick_features": "Multilingual websites\nLocal SEO for Dubai, Abu Dhabi and Sharjah\nUAE payment gateway integration\nProven UAE case studies including Moduluxe Group",
         "pricing_preview": ""
       },
       {
@@ -103,7 +88,7 @@
         "packages": [],
         "component": "igentx_pricing",
         "badge_text": "",
-        "description": "Tell us your UAE project goals: bilingual needs, integrations, and launch timeline. We provide a tailored proposal.",
+        "description": "Tell us your UAE project goals: multilingual needs, integrations, and launch timeline. We provide a tailored proposal.",
         "value_props": [],
         "toggle_option1": "",
         "toggle_option2": "",
@@ -284,9 +269,9 @@
               "fieldtype": "asset",
               "meta_data": {}
             },
-            "title": "Arabic + English Support",
+            "title": "Multi-Language Support",
             "component": "uae_signal_item",
-            "description": "Native bilingual capability to help you connect with both local and global audiences."
+            "description": "Multilingual capability with Arabic (RTL) and additional languages to help you connect with local and global audiences."
           },
           {
             "_uid": "28f2508a-eaf9-4e67-80cf-f5e68788d805",
@@ -415,8 +400,8 @@
           },
           {
             "_uid": "5575d46a-8b0d-4ad9-86ae-81a1b16d8fad",
-            "answer": "Absolutely. projects come with bilingual (English + Arabic) support. The enterprise project supports multiple languages and advanced RTL styling for Arabic.",
-            "question": "Do you support both Arabic and English websites?",
+            "answer": "Absolutely. Projects come with multilingual support, including Arabic (RTL) and additional languages. Enterprise projects support unlimited languages and advanced RTL styling.",
+            "question": "Do you support multilingual websites?",
             "component": "faq_item"
           },
           {
@@ -469,8 +454,8 @@
           },
           {
             "_uid": "7afd5896-2f33-4e6c-8772-bd14c0dfb60b",
-            "answer": "Yes. We build bilingual English and Arabic sites with proper RTL layout, localised meta tags and hreflang setup so you can rank in both languages across Dubai, Abu Dhabi and the wider UAE.",
-            "question": "Do you support bilingual SEO for Dubai and the UAE?",
+            "answer": "Yes. We build multilingual sites with proper RTL layout for Arabic, localised meta tags and hreflang setup so you can rank across languages in Dubai, Abu Dhabi and the wider UAE.",
+            "question": "Do you support multilingual SEO for Dubai and the UAE?",
             "component": "faq_item"
           },
           {

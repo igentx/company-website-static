@@ -386,3 +386,35 @@ If you have existing SEO implementations:
 6. **Update content gradually**
 
 This SEO block system provides a scalable, maintainable approach to SEO management in your Next.js Storyblok application while maintaining flexibility for future enhancements.
+
+## Discovery files (GEO / crawlers)
+
+Static and route-based files help search engines, RSS readers, and LLM crawlers find canonical URLs. Set **`NEXT_PUBLIC_SITE_URL`** in production so canonical links, the sitemap, `robots.txt`, and RSS item URLs use your live domain (see `.env.example`).
+
+**Primary domain:** `https://www.igentx.com`. The apex `igentx.com` redirects to `www` with 308 (configured in Vercel Domains and `next.config.ts`). `getSiteBaseUrl()` in `lib/site-url.ts` always normalizes to `www`. Never set `NEXT_PUBLIC_SITE_URL` to the apex in production.
+
+| Asset | Location | URL (production) |
+|-------|----------|------------------|
+| Sitemap | `app/sitemap.ts` (Next.js metadata route) | `{NEXT_PUBLIC_SITE_URL}/sitemap.xml` |
+| Robots | `app/robots.txt/route.ts` | `{NEXT_PUBLIC_SITE_URL}/robots.txt` |
+| LLM summary | `public/llms.txt` | `{NEXT_PUBLIC_SITE_URL}/llms.txt` |
+| LLM full guide | `public/llms-full.txt` | `{NEXT_PUBLIC_SITE_URL}/llms-full.txt` |
+| Blog RSS | `app/feed.xml/route.ts` + `lib/rss.ts` | `{NEXT_PUBLIC_SITE_URL}/feed.xml` |
+
+`robots.txt` allows indexing, disallows `/api/`, `/_next/`, and `/admin/`, and references the sitemap, `llms.txt`, and `feed.xml`. `llms.txt` links to `llms-full.txt` and the feed; `llms-full.txt` lists services, products, case studies, and all blog articles with absolute URLs.
+
+Page-level SEO still flows through Storyblok SEO blocks and `lib/seo-utils.ts` as described above; discovery files complement that metadata for site-wide crawl and AI discovery.
+
+## Static site defaults
+
+The static IGENTX site uses code-level defaults in addition to per-page SEO blocks in `content/en/**/*.json`:
+
+| Setting | Location | Behaviour |
+|---------|----------|-----------|
+| Default OG image | `DEFAULT_OG_IMAGE` in `lib/seo-utils.ts` (`/assets/og/default-og.webp`) | Used when a page SEO block has no `og_image.filename` |
+| Title format | `generateMetadataFromSEO()` | Full branded titles via `title: { absolute: ... }`; no root title template suffix |
+| Robots merge | `mergeSEOData()` in `lib/seo-utils.ts` | Page values override global; `false` is respected for `robots_noarchive` and `robots_nosnippet` |
+| hreflang | `lib/static-page.ts` + `content/manifest.json` | Only languages listed in the manifest (currently `en` + `x-default`) |
+| Fallback copy | `lib/seo-keywords.ts` | Used when content load fails; keep in sync with page SEO blocks |
+
+Canonical URLs and schema logo references should always use `https://www.igentx.com` and `/assets/logos/igentx-logo-01.svg`.

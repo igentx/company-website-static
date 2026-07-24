@@ -55,6 +55,7 @@ import CaseStudyCard from '@/components/blocks/CaseStudyCard'
 import CaseStudyGrid from '@/components/blocks/CaseStudyGrid'
 import CaseStudyHero from '@/components/blocks/CaseStudyHero'
 import CaseStudyDetail from '@/components/blocks/CaseStudyDetail'
+import CaseStudyRelated from '@/components/blocks/CaseStudyRelated'
 import BlogHeading from '@/components/blocks/blog/BlogHeading'
 import BlogBody from '@/components/blocks/blog/BlogBody'
 import BlogImage from '@/components/blocks/blog/BlogImage'
@@ -99,6 +100,7 @@ export const blockRegistry: Record<string, BlockComponent> = {
   case_study_grid: CaseStudyGrid,
   case_study_hero: CaseStudyHero,
   case_study_detail: CaseStudyDetail,
+  case_study_related: CaseStudyRelated,
   blog_heading: BlogHeading,
   blog_body: BlogBody,
   blog_image: BlogImage,

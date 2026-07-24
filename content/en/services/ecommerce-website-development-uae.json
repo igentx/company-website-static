@@ -21,7 +21,7 @@
         },
         "og_title": "Ecommerce Website Development in UAE | IGENTX",
         "publisher": "IGENTX",
-        "description": "Ecommerce development for UAE retailers: local payment gateways, Arabic and English storefronts, Shopify, WooCommerce, or custom Next.js.",
+        "description": "Ecommerce development for UAE retailers: local payment gateways, multilingual storefronts, Shopify, WooCommerce, or custom Next.js.",
         "article_tags": "ecommerce website UAE, Shopify development Dubai, WooCommerce UAE, payment gateway integration, online store UAE",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/services/ecommerce-website-development-uae",
@@ -34,22 +34,22 @@
         },
         "twitter_title": "Ecommerce Development UAE | IGENTX",
         "article_author": "IGENTX",
-        "og_description": "Build high-performing ecommerce stores in the UAE with IGENTX. Shopify, WooCommerce, local payment gateways and bilingual checkout experiences.",
+        "og_description": "Build high-performing ecommerce stores in the UAE with IGENTX. Shopify, WooCommerce, local payment gateways and multilingual checkout experiences.",
         "article_section": "Ecommerce Development",
         "robots_noarchive": false,
         "robots_nosnippet": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "Ecommerce stores for UAE retailers: Shopify, WooCommerce, local payments and Arabic catalogues with secure checkout.",
+        "twitter_description": "Ecommerce stores for UAE retailers: Shopify, WooCommerce, local payments and multilingual catalogues with secure checkout.",
         "structured_data_type": "Service",
         "article_published_time": "2025-10-27 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Ecommerce Website Development in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"description\": \"Ecommerce development for UAE retailers including local payment gateways, bilingual storefronts and platform or headless builds.\"\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Ecommerce Website Development in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"description\": \"Ecommerce development for UAE retailers including local payment gateways, multilingual storefronts and platform or headless builds.\"\n}"
       },
       {
         "_uid": "cdeb8dd5-68f0-40f1-9486-7cedacae01be",
         "component": "service_hero",
         "badge_text": "IGENTX Service · UAE",
         "title": "Online stores built for UAE shoppers",
-        "summary": "Ecommerce for UAE retailers: Tabby, Telr, Stripe, bilingual Arabic and English checkout, COD-friendly flows and headless architecture built to sell.",
+        "summary": "Ecommerce for UAE retailers: Tabby, Telr, Stripe, multilingual checkout with Arabic (RTL) support, COD-friendly flows and headless architecture built to sell.",
         "category": "Ecommerce Development in UAE",
         "cta_text": "Book a Free Consultation",
         "cta_link": {
@@ -70,7 +70,7 @@
           "fieldtype": "asset",
           "is_external_url": false
         },
-        "quick_features": "UAE payment gateway integration\nBilingual Arabic and English catalogues\nShopify, WooCommerce and headless builds\nSEO, analytics and conversion optimisation",
+        "quick_features": "UAE payment gateway integration\nMultilingual catalogues\nShopify, WooCommerce and headless builds\nSEO, analytics and conversion optimisation",
         "pricing_preview": ""
       },
       {
@@ -137,9 +137,9 @@
           {
             "_uid": "ecom-uae-m3",
             "component": "trust_band_metric",
-            "value": "EN + AR",
-            "label": "Bilingual Stores",
-            "description": "Arabic catalogues and checkout",
+            "value": "Multi-lang",
+            "label": "Multilingual Stores",
+            "description": "Multilingual catalogues and checkout",
             "icon_key": "global"
           },
           {
@@ -174,12 +174,12 @@
           {
             "_uid": "ecom-uae-f2",
             "component": "differentiator_feature",
-            "title": "Bilingual Storefronts",
-            "highlight": "Arabic and English",
+            "title": "Multilingual Storefronts",
+            "highlight": "Multilingual",
             "description": "Localised product catalogues, RTL layouts and currency display for UAE and GCC shoppers.",
             "icon": {
               "filename": "/assets/icons/flexible.svg",
-              "alt": "Bilingual ecommerce",
+              "alt": "Multilingual ecommerce",
               "fieldtype": "asset"
             }
           },
@@ -275,8 +275,8 @@
           {
             "_uid": "ecom-uae-faq-q3",
             "component": "faq_item",
-            "question": "Do you build bilingual Arabic and English stores?",
-            "answer": "Yes. We build bilingual storefronts with localised product content, RTL layouts and SEO-friendly URL structures for UAE and GCC audiences.",
+            "question": "Do you build multilingual stores?",
+            "answer": "Yes. We build multilingual storefronts with localised product content, RTL layouts for Arabic and SEO-friendly URL structures for UAE and GCC audiences.",
             "category": "General"
           },
           {

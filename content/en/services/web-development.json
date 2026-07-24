@@ -48,16 +48,15 @@
         "twitter_title": "Custom Web Development | IGENTX",
         "article_author": "IGENTX Team",
         "og_description": "High-performance websites built for speed, SEO, and scale, delivered globally from IGENTX.",
-        "articel_section": "Web Development",
         "article_section": "Web Development",
-        "rebots_nosnippet": true,
+        "robots_nosnippet": false,
         "robots_noarchive": false,
         "twitter_card_type": "summary_large_image",
         "twitter_description": "AI-accelerated web development for speed, SEO, and scale, serving businesses worldwide.",
         "structured_data_type": "Service",
         "article_modified_time": "",
         "article_published_time": "2025-10-26 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Custom Web Development\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"AI-accelerated web development with Next.js, headless CMS, SEO, and multilingual support.\"\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Custom Web Development\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Place\",\n    \"name\": \"Worldwide\"\n  },\n  \"description\": \"AI-accelerated web development with Next.js, headless CMS, SEO, and multilingual support.\"\n}"
       },
       {
         "_uid": "e367b00e-a5ed-43f8-a33b-38733b090fd2",

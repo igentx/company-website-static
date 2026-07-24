@@ -27,7 +27,7 @@
         "og_title": "Branding & Graphic Design Services in UAE | IGENTX",
         "component": "seo",
         "publisher": "IGENTX",
-        "description": "Branding and graphic design for UAE businesses: logo, identity systems, bilingual brand assets, and marketing creative.",
+        "description": "Branding and graphic design for UAE businesses: logo, identity systems, multilingual brand assets, and marketing creative.",
         "article_tags": "branding UAE, logo design Dubai, visual identity UAE, brand strategy, creative design UAE, corporate branding, igentx branding",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/services/graphic-design-uae",
@@ -56,12 +56,12 @@
         "structured_data_type": "Service",
         "article_modified_time": "",
         "article_published_time": "",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Branding & Graphic Design in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://igentx.com\",\n    \"logo\": \"https://igentx.com/assets/images/logo.png\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"hasOfferCatalog\": {\n    \"@type\": \"OfferCatalog\",\n    \"name\": \"branding projects\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Startup Brand\",\n          \"description\": \"Logo, stationery, and basic brand setup for small businesses.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Business Identity\",\n          \"description\": \"Full identity design with brand guidelines and marketing materials.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Corporate Identity Suite\",\n          \"description\": \"Comprehensive brand system for enterprises including print and digital assets.\"\n        }\n      }\n    ]\n  }\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Branding & Graphic Design in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"hasOfferCatalog\": {\n    \"@type\": \"OfferCatalog\",\n    \"name\": \"branding projects\",\n    \"itemListElement\": [\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Startup Brand\",\n          \"description\": \"Logo, stationery, and basic brand setup for small businesses.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Business Identity\",\n          \"description\": \"Full identity design with brand guidelines and marketing materials.\"\n        }\n      },\n      {\n        \"@type\": \"Offer\",\n        \"itemOffered\": {\n          \"@type\": \"Service\",\n          \"name\": \"Corporate Identity Suite\",\n          \"description\": \"Comprehensive brand system for enterprises including print and digital assets.\"\n        }\n      }\n    ]\n  }\n}"
       },
       {
         "_uid": "f95b49ac-8f44-42db-8654-1b4676e9883c",
         "title": "Build a Brand That Connects & Inspires",
-        "summary": "Strategic branding for UAE businesses: bilingual Arabic/English assets, guidelines, and creative that builds trust locally.",
+        "summary": "Strategic branding for UAE businesses: multilingual brand assets, guidelines, and creative that builds trust locally.",
         "category": "Branding & Graphic Design in UAE",
         "cta_link": {
           "id": "",
@@ -93,7 +93,7 @@
           "meta_data": {},
           "is_external_url": false
         },
-        "quick_features": "Logo, stationery and business card design\nBilingual Arabic and English brand assets\nBrand guidelines and visual identity systems\nMarketing and social media creative for UAE markets",
+        "quick_features": "Logo, stationery and business card design\nMultilingual brand assets\nBrand guidelines and visual identity systems\nMarketing and social media creative for UAE markets",
         "pricing_preview": ""
       },
       {
@@ -161,8 +161,8 @@
             "_uid": "brand-uae-m3",
             "component": "trust_band_metric",
             "value": "EN + AR",
-            "label": "Bilingual Assets",
-            "description": "Arabic and English brand systems",
+            "label": "Multilingual Assets",
+            "description": "Multilingual brand systems including Arabic (RTL)",
             "icon_key": "global"
           },
           {
@@ -197,12 +197,12 @@
           {
             "_uid": "brand-uae-f2",
             "component": "differentiator_feature",
-            "title": "Bilingual Brand Assets",
-            "highlight": "Arabic and English",
-            "description": "Identity systems designed for bilingual markets with culturally appropriate typography and layout.",
+            "title": "Multilingual Brand Assets",
+            "highlight": "Multilingual",
+            "description": "Identity systems designed for multilingual markets with culturally appropriate typography and layout.",
             "icon": {
               "filename": "/assets/icons/accessible.svg",
-              "alt": "Bilingual branding",
+              "alt": "Multilingual branding",
               "fieldtype": "asset"
             }
           },
@@ -260,7 +260,7 @@
         "_uid": "brand-uae-cta-001",
         "component": "igentx_cta_band",
         "title": "Ready to build a UAE brand that connects?",
-        "description": "Book a free consultation to discuss your positioning, bilingual deliverables and timeline. We scope projects from logo-only to full identity systems.",
+        "description": "Book a free consultation to discuss your positioning, multilingual deliverables and timeline. We scope projects from logo-only to full identity systems.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "contact",
@@ -327,8 +327,8 @@
           },
           {
             "_uid": "b05937f3-1204-43ae-9b30-1d0cccea8913",
-            "answer": "Absolutely! We design multilingual brand identities suitable for both English and Arabic markets, ensuring cultural alignment and legibility.",
-            "question": "Can you create bilingual branding for English and Arabic?",
+            "answer": "Absolutely! We design multilingual brand identities for global and UAE markets, including Arabic (RTL), ensuring cultural alignment and legibility.",
+            "question": "Can you create multilingual branding?",
             "component": "faq_item"
           },
           {
