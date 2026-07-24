@@ -1,86 +1,69 @@
-# IGENTX AI Customer Support Agent
+# IGENTX AI Customer Service Agent
 
 ## Product Overview
-IGENTX AI Agent is an intelligent AI-powered customer support solution designed to provide 24/7 automated assistance on websites. Powered by advanced LLM technology and trained on your content, it delivers instant, accurate, and contextual responses to customer inquiries.
+
+The IGENTX AI Customer Service Agent is an intelligent AI-powered customer support solution designed to provide 24/7 automated assistance on websites. Powered by advanced LLM technology and trained on your content using retrieval-augmented generation (RAG), it delivers instant, accurate and contextual responses to customer inquiries.
+
+**Product page:** https://www.igentx.com/products/ai-customer-service-agent
 
 ## Tagline
-**Intelligent AI Customer Support For Your Website**
 
-Add powerful AI-driven chat support to your website in minutes. Powered by advanced LLM, trained on your content, available 24/7.
+**Transform Your Website into a 24/7 Sales and Support Assistant**
+
+Add powerful AI-driven chat support to your website in minutes. Powered by advanced AI, trained on your content, available 24/7.
 
 ---
 
 ## Key Performance Metrics
 
-### Setup Time
-**< 5min** — Quick and easy setup with a single line of code
-
-### Availability
-**24/7** — Always available to assist your customers
-
-### Uptime
-**99.9%** — Enterprise-grade reliability
-
-### File Size
-**< 7KB** — Lightweight script that doesn't slow down your website
+| Metric | Value | Description |
+|--------|-------|-------------|
+| Setup Time | Under 30 min | Deploy on your website quickly |
+| Availability | 24/7 | Always-on customer support |
+| Integration | 1-Line | One script, any website |
+| Training | RAG | Answers grounded in your data |
+| Languages | Multilingual | Replies in your customers' preferred languages |
 
 ---
 
 ## Powerful Features
 
-Everything you need for intelligent customer support.
+### Always Available
+Your customers get immediate answers day or night without waiting for human agents.
 
-### AI-Powered Responses
-Powered by advanced AI models for natural, intelligent conversations with your customers. Delivers contextual answers based on your website content, documents, and knowledge base.
+### Answers From Your Content (RAG)
+Upload website pages, PDFs, FAQs, brochures and documents. The agent responds using your verified information.
 
-### RAG Technology
-Train on your documents, PDFs, and website content for accurate, contextual answers. The AI agent learns from your specific business information to provide relevant responses.
+### Multilingual Support
+Communicate naturally in the languages your customers prefer, including Arabic and English for UAE audiences.
 
-### Lightning Fast
-Optimized performance with < 7KB minified loader and instant responses. Ensures seamless user experience without impacting your website's performance.
-
-### Secure & Private
-- SSL verification and JWT authentication
-- Role-based origin validation
-- Data encryption in transit and at rest
-- GDPR and privacy compliant
-
-### Mobile Responsive
-Perfect experience on all devices - desktop, tablet, and mobile. Adapts seamlessly to different screen sizes and orientations.
-
-### Chat History
-Persistent conversations across page navigations with localStorage. Users can continue conversations even after refreshing or navigating between pages.
-
-### Customizable
-- Brand colors and contact options
-- Custom positioning (bottom-right, bottom-left, top-right, top-left)
-- Personalized messaging to match your brand voice
-- Configurable welcome messages and call-to-actions
+### Works on Any Website
+WordPress, Shopify, Wix, Webflow, Next.js, React and custom HTML. One script, no coding required.
 
 ### Conversational Lead Capture
-During natural chat, the agent may politely ask for contact details (name, email, or phone) when engagement and intent are high. Visitors can share or keep browsing; there is no forced sign-up form upfront.
+After a few messages, when intent is clear, the agent politely asks for contact details in natural conversation. Visitors can share or keep browsing. Every inquiry is saved to your dashboard with a chat summary so your team can follow up with context.
 
-When contact details are shared:
-- The conversation and contact info are saved to the backend
-- Enquiries appear on the admin dashboard with chat summary, intent signals, and preferred contact method
-- Your team reviews enquiries and follows up manually on qualified opportunities
+**Important:** Pipeline or CRM conversion is **not** automatic. Contact details are recorded for review; your team decides which enquiries to pursue.
 
-Pipeline or CRM conversion is **not** automatic. Contact details are recorded for review; your team decides which enquiries to pursue.
+For DaycareMate deployments, chat inquiries appear at **Leads → Chat inquiries**. Staff convert qualified enquiries to pipeline leads manually.
 
-For DaycareMate deployments, chat inquiries appear at **Leads → Chat inquiries**. Staff convert qualified enquiries to pipeline leads with one click.
+### Built-in Contact Options
+Customers can switch from AI chat to WhatsApp, phone, email or social links for quick conversions.
 
-### Analytics Ready
-Track conversations, user engagement, and support metrics. Gain insights into:
-- Most asked questions
-- User satisfaction
-- Response effectiveness
-- Peak usage times
+### Secure Widget
+Secure authentication with JWT and domain protection helps protect your business and customer conversations.
 
-### Multi-Language
-Supports conversations in multiple languages with automatic detection. Seamlessly handles:
-- English
-- Arabic
-- And other major languages
+### Custom Branding
+Customise the assistant name, appearance, welcome message and behaviour to match your brand.
+
+---
+
+## How It Works
+
+1. **Train Your AI** (Minutes) — Upload your website content, documents, FAQs and business information.
+2. **Deploy in Minutes** (Under 30 min) — Add one line of code to your website. Works on any platform.
+3. **AI Starts Working** (Instant) — The assistant answers visitor questions using your verified content.
+4. **Capture and Grow** (Ongoing) — The agent may ask for contact details naturally when intent is high. Shared details and full conversations are saved to your admin dashboard. Your team reviews enquiries and follows up on qualified opportunities.
 
 ---
 
@@ -88,98 +71,49 @@ Supports conversations in multiple languages with automatic detection. Seamlessl
 
 Add to your website with a single line of code.
 
-### Copy & Paste Integration
-
 ```html
 <!-- Add before closing </body> tag -->
-<script 
-  src="https://ai.igentx.com/igentx-ai-agent-77150a5a7853.min.js" 
-  integrity="sha384-..." 
-  crossorigin="anonymous" 
-  data-site-key="your-site-key" 
+<script
+  src="https://ai.igentx.com/igentx-ai-agent-77150a5a7853.min.js"
+  integrity="sha384-..."
+  crossorigin="anonymous"
+  data-site-key="your-site-key"
   async>
 </script>
 ```
 
 ### Configuration Options
 
-#### data-site-key (Required)
-Your unique site identifier. Example: `data-site-key="demo"`
+**data-site-key (Required):** Your unique site identifier.
 
-#### data-position (Optional)
-Widget position on screen:
-- `bottom-right` (default)
-- `bottom-left`
-- `top-right`
-- `top-left`
+**data-position (Optional):** Widget position: `bottom-right` (default), `bottom-left`, `top-right`, `top-left`.
 
 ### JavaScript API
 
-Control the widget programmatically:
-
 ```javascript
-// Open the chat widget
 AIChat.widget.open();
-
-// Close the chat widget
 AIChat.widget.close();
-
-// Check if widget is open
-const isOpen = AIChat.widget.isOpen();
-
-// Toggle open/close
+AIChat.widget.isOpen();
 AIChat.widget.toggle();
 ```
 
 ---
 
-## Use Cases
+## Industries Served
 
-### E-commerce Support
-- Product inquiries and recommendations
-- Order status and tracking
-- Return and refund policies
-- Size guides and specifications
+Retail and ecommerce, healthcare, education, real estate, professional services, hospitality, finance, and any business that needs faster responses, more leads and better customer support.
 
-### Service Businesses
-- Service descriptions and policies
-- Booking and appointment scheduling
-- FAQ and general inquiries
-- Operating hours and locations
-
-### B2B Companies
-- Product demonstrations
-- Technical specifications
-- Quote requests
-- Partnership inquiries
-
-### Educational Institutions
-- Course information
-- Admission requirements
-- Campus facilities
-- Student support services
+Serving businesses worldwide, with the UAE as our primary market.
 
 ---
 
-## Technical Specifications
+## Enterprise Technology
 
-### Performance
-- **Load Time**: < 100ms initial load
-- **Response Time**: < 2s average response
-- **Bundle Size**: < 7KB gzipped
-- **Browser Support**: All modern browsers (Chrome, Firefox, Safari, Edge)
+**AI Powered:** OpenAI, Claude, Gemini, RAG
 
-### Security
-- **Authentication**: JWT-based secure authentication
-- **Encryption**: TLS 1.3 for data in transit
-- **Validation**: Origin and role-based access control
-- **Compliance**: GDPR, CCPA compliant
+**Cloud Native:** AWS, Cloudflare
 
-### Infrastructure
-- **Hosting**: Vercel Edge Network
-- **CDN**: Global content delivery
-- **Uptime**: 99.9% SLA
-- **Scaling**: Auto-scaling based on demand
+**Security benefits:** JWT security, domain protection, private conversations, mobile ready, global delivery
 
 ---
 
@@ -187,49 +121,55 @@ AIChat.widget.toggle();
 
 Contact sales at https://www.igentx.com/contact for deployment options and a tailored proposal.
 
-1. **Consultation**: Discuss your website, content, and support goals
-2. **Configure**: Set up brand colors, messaging, and knowledge base
-3. **Integrate**: Add the script to your website
-4. **Train**: Upload documents and content for the AI to learn from
-5. **Launch**: Go live and start supporting customers 24/7
+1. **Consultation:** Discuss your website, content and support goals
+2. **Configure:** Set up brand colors, messaging and knowledge base
+3. **Integrate:** Add the script to your website
+4. **Train:** Upload documents and content for the AI to learn from
+5. **Launch:** Go live and start supporting customers 24/7
 
 ---
 
 ## Support & Resources
 
-- **Sales**: https://www.igentx.com/contact
-- **Support Email**: hello@igentx.com
+- **Sales:** https://www.igentx.com/contact
+- **Support Email:** hello@igentx.com
 
 ---
 
 ## Frequently Asked Questions
 
-### How much does the AI Agent cost?
-Contact sales for a tailored proposal based on your traffic, languages, and integration needs. We do not publish a public rate card.
+**Q: What is an AI Customer Service Agent?**
+A: An automated chat assistant that answers customer questions instantly using artificial intelligence. It handles enquiries, provides support and guides users 24/7 using your business content.
 
-### How long does it take to set up?
-Setup takes less than 5 minutes. Simply add the script tag to your website and configure your site key.
+**Q: How does your AI Customer Service Agent work?**
+A: Trained on your website content, documents and FAQs using RAG. Answers visitor questions instantly, qualifies leads and supports multilingual conversations. Integration takes one line of code. You control the knowledge base, review conversations and update content as your business evolves.
 
-### What kind of content can the AI learn from?
-The AI can be trained on PDFs, text documents, website pages, FAQs, product catalogs, and any other text-based content.
+**Q: Can the AI answer questions using our website content?**
+A: Yes. The agent indexes your pages, PDFs, service lists and uploaded documents. When a visitor asks a question, it retrieves relevant content and generates a grounded response.
 
-### Does it work on mobile devices?
-Yes, the widget is fully responsive and works perfectly on all devices including smartphones and tablets.
+**Q: Is the AI agent multilingual?**
+A: Yes. Supports multilingual conversations including Arabic and English, valuable for global businesses and UAE teams serving diverse audiences.
 
-### Can I customize the appearance?
-Yes, you can customize colors, positioning, welcome messages, and branding to match your website.
+**Q: Can I integrate the AI into any website?**
+A: Yes. WordPress, Shopify, Wix, Webflow, custom HTML, Laravel, React or Next.js with one line of script. No coding knowledge required.
 
-### Is my data secure?
-Absolutely. We use enterprise-grade security including SSL encryption, JWT authentication, and comply with GDPR and CCPA regulations.
+**Q: How long does setup take?**
+A: Setup takes only a few minutes. Most businesses are live in under 30 minutes.
 
-### What languages are supported?
-The AI supports multiple languages including English, Arabic, and can be configured for additional languages based on your needs.
+**Q: Does the AI handle lead capture?**
+A: Yes. During natural conversation, the agent may politely ask for contact details when engagement and intent are high. Contact details and chat summaries are saved to your admin dashboard for manual follow-up.
 
-### Can I see analytics?
-Yes — analytics dashboards can be included depending on your deployment. Contact sales to discuss options.
+**Q: Do chat enquiries automatically become CRM leads?**
+A: No. Contact details shared in chat are saved and listed on your dashboard. Your team decides which enquiries to pursue.
 
-### How accurate are the AI responses?
-The AI is trained on your specific content and uses advanced RAG technology to provide highly accurate, contextual responses based on your knowledge base.
+**Q: Is the AI safe and secure?**
+A: Yes. JWT authentication and domain protection. Conversations handled with privacy in mind.
+
+**Q: What makes this different from normal chatbots?**
+A: Uses advanced understanding, your real business data and natural language processing instead of rigid rule-based flows.
+
+**Q: How much does the AI Agent cost?**
+A: Contact sales for a tailored proposal. We do not publish a public rate card.
 
 ---
 

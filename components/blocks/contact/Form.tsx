@@ -65,7 +65,7 @@ const createValidationSchema = (fields: FormField[]) => {
 
 const renderField = (field: FormField, register: any, errors: any) => {
   const baseClasses =
-    'w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500'
+    'w-full px-3 py-2 border border-gray-300 rounded-md bg-white text-gray-900 placeholder:text-gray-500 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 [color-scheme:light]'
   const errorClasses = errors[field.id]
     ? 'border-red-500 focus:ring-red-500 focus:border-red-500'
     : ''

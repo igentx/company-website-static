@@ -32,7 +32,7 @@ export default function FormField({ blok, register, errors }: FormFieldProps) {
     const hasError = !!errors[fieldId]
     const errorId = hasError ? `${fieldId}-error` : undefined
 
-    const baseClasses = 'w-full px-4 py-2.5 border border-gray-200 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-purple-500/30 focus:border-purple-400'
+    const baseClasses = 'w-full px-4 py-2.5 border border-gray-200 rounded-xl bg-white text-gray-900 placeholder:text-gray-500 shadow-sm focus:outline-none focus:ring-2 focus:ring-purple-500/30 focus:border-purple-400 [color-scheme:light]'
     const errorClasses = hasError ? 'border-red-500 focus:ring-red-500 focus:border-red-500' : ''
     const fieldClasses = `${baseClasses} ${errorClasses}`
 
