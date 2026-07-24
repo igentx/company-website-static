@@ -357,6 +357,20 @@
                           "content": [
                             {
                               "type": "text",
+                              "text": "Cloudflare Turnstile: processes security signals when you submit our contact form to help prevent spam and abuse."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
                               "text": "Google: provides Google Analytics when you consent to analytics cookies."
                             }
                           ]

@@ -30,3 +30,12 @@ export const isClarityEnabled = () => !!process.env.NEXT_PUBLIC_CLARITY_ID
 
 export const isDevelopment = process.env.NODE_ENV === 'development'
 export const isProduction = process.env.NODE_ENV === 'production'
+
+/** Cloudflare Turnstile site key for the public contact form. */
+export const getTurnstileSiteKey = () =>
+  process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY?.trim() || undefined
+
+export const isTurnstileEnabled = () => Boolean(getTurnstileSiteKey())
+
+export const isTurnstileVerificationRequired = () =>
+  Boolean(process.env.TURNSTILE_SECRET_KEY?.trim())

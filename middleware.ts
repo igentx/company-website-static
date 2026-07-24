@@ -16,13 +16,13 @@ export function middleware(request: NextRequest) {
   const csp = [
     "default-src 'self'",
     // cdn.igentx.cloud and ai.igentx.com are for loading the AI agent script
-    `script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://www.clarity.ms https://scripts.clarity.ms https://cdn.igentx.cloud https://ai.igentx.com ${isProduction ? 'https://vercel.live' : ''}`.trim(),
+    `script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://www.clarity.ms https://scripts.clarity.ms https://cdn.igentx.cloud https://ai.igentx.com https://challenges.cloudflare.com ${isProduction ? 'https://vercel.live' : ''}`.trim(),
     "style-src 'self' 'unsafe-inline'",
     "img-src 'self' data: blob: https:",
     // ai.igentx.com is for API calls from the AI agent
     "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://www.clarity.ms https://*.clarity.ms https://ai.igentx.com https://api.igentx.com https://cdn.igentx.cloud",
     // ai.igentx.com renders the AI chat widget in an iframe; vercel.live is for Vercel preview toolbar
-    `frame-src 'self' https://ai.igentx.com ${isProduction ? 'https://vercel.live' : ''}`.trim(),
+    `frame-src 'self' https://ai.igentx.com https://challenges.cloudflare.com ${isProduction ? 'https://vercel.live' : ''}`.trim(),
     "frame-ancestors 'self'",
   ].join('; ')
 

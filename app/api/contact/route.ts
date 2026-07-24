@@ -1,7 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import Mailjet from 'node-mailjet'
 import { FormField, FormFieldBlok } from '@/lib/types'
-import { isEmailEnabled } from '@/lib/env'
+import { isEmailEnabled, isTurnstileVerificationRequired } from '@/lib/env'
+import { verifyTurnstileToken } from '@/lib/turnstile'
 
 // Initialize Mailjet only if API keys are provided
 const mailjet =
@@ -11,6 +12,7 @@ const mailjet =
 
 interface FormSubmissionData {
   formData: Record<string, any>
+  turnstileToken?: string
   formConfig: {
     title: string
     email_subject: string
@@ -144,7 +146,7 @@ export async function POST(request: NextRequest) {
     }
 
     const body: FormSubmissionData = await request.json()
-    const { formData, formConfig } = body
+    const { formData, formConfig, turnstileToken } = body
 
     // Validate required fields
     if (!formData || !formConfig) {
@@ -153,6 +155,20 @@ export async function POST(request: NextRequest) {
 
     if (!formConfig.recipient_email) {
       return NextResponse.json({ message: 'Recipient email not configured' }, { status: 400 })
+    }
+
+    if (isTurnstileVerificationRequired()) {
+      const token = turnstileToken?.trim()
+      if (!token) {
+        return NextResponse.json({ message: 'Captcha verification required' }, { status: 400 })
+      }
+
+      const remoteIp = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim()
+      const verification = await verifyTurnstileToken(token, remoteIp)
+
+      if (!verification.success) {
+        return NextResponse.json({ message: 'Captcha verification failed' }, { status: 403 })
+      }
     }
 
     // Set default sender information

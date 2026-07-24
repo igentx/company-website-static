@@ -6,6 +6,11 @@ import { zodResolver } from '@hookform/resolvers/zod'
 import { z } from 'zod'
 import { FormBlok, FormFieldBlok } from '@/lib/types'
 import FormField from './FormField'
+import TurnstileField, {
+    getTurnstileToken,
+    resetTurnstileWidget,
+} from './TurnstileField'
+import { isTurnstileEnabled } from '@/lib/env'
 
 interface GenericFormProps {
     blok: FormBlok
@@ -100,9 +105,21 @@ export default function GenericForm({ blok, variant = 'default' }: GenericFormPr
         resolver: zodResolver(validationSchema),
     })
 
-    const onSubmit = async (data: any) => {
+    const onSubmit = async (data: any, event?: React.BaseSyntheticEvent) => {
         setIsSubmitting(true)
         setSubmitStatus(null)
+
+        const formEl = event?.target as HTMLFormElement | undefined
+        const turnstileToken = isTurnstileEnabled() && formEl
+            ? getTurnstileToken(formEl)
+            : undefined
+
+        if (isTurnstileEnabled() && !turnstileToken) {
+            setSubmitStatus('error')
+            setSubmitMessage('Please complete the captcha verification.')
+            setIsSubmitting(false)
+            return
+        }
 
         try {
             const response = await fetch('/api/contact', {
@@ -112,6 +129,7 @@ export default function GenericForm({ blok, variant = 'default' }: GenericFormPr
                 },
                 body: JSON.stringify({
                     formData: data,
+                    turnstileToken,
                     formConfig: {
                         title: blok.title,
                         email_subject: blok.email_subject,
@@ -128,10 +146,14 @@ export default function GenericForm({ blok, variant = 'default' }: GenericFormPr
                 setSubmitStatus('success')
                 setSubmitMessage(blok.success_message)
                 reset()
+                resetTurnstileWidget()
             } else {
                 const errorData = await response.json()
                 setSubmitStatus('error')
                 setSubmitMessage(errorData.message || blok.error_message)
+                if (response.status === 403) {
+                    resetTurnstileWidget()
+                }
             }
         } catch (err) {
             console.error('Form submission error:', err)
@@ -165,7 +187,7 @@ export default function GenericForm({ blok, variant = 'default' }: GenericFormPr
                 </div>
             )}
 
-            <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">
+            <form id="igentx-contact-form" onSubmit={handleSubmit(onSubmit)} className="space-y-6">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {formFields.map((field) => (
                         <FormField
@@ -176,6 +198,8 @@ export default function GenericForm({ blok, variant = 'default' }: GenericFormPr
                         />
                     ))}
                 </div>
+
+                <TurnstileField />
 
                 <div>
                     <button
