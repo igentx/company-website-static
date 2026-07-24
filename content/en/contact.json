@@ -159,7 +159,7 @@
             "sender_email": "contact_form@igentx.cloud",
             "email_subject": "Contact Form Submission from: Igentx.com",
             "error_message": "Something went wrong. Please try again.",
-            "recipient_email": "contact_form@igentx.cloud",
+            "recipient_email": "hello@igentx.com",
             "success_message": "Thank you! We will get back to you within 24 hours.",
             "submit_button_text": "Send Message",
             "email_body_description": "You got a contact from www.igentx.com"
