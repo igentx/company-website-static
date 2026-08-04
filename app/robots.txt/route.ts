@@ -9,7 +9,6 @@ export function GET() {
 User-agent: *
 Allow: /
 Disallow: /api/
-Disallow: /_next/
 Disallow: /admin/
 
 # LLM / AI discovery: ${baseUrl}/llms.txt
