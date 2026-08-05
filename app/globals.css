@@ -559,6 +559,33 @@ html[dir="ltr"] .dropdown-right {
   }
 }
 
+/* Hero entrance animations — only when user allows motion (SEO-safe default: fully visible) */
+@media (prefers-reduced-motion: no-preference) {
+  .motion-safe\:animate-slide-in-left {
+    animation: slide-in-left 0.6s ease-out both;
+  }
+
+  .motion-safe\:animate-slide-in-right {
+    animation: slide-in-right 0.6s ease-out both;
+  }
+
+  .motion-safe\:animate-fade-in-scale {
+    animation: fade-in-scale 0.5s ease-out both;
+  }
+
+  .motion-safe\:animate-reveal-up {
+    animation: reveal-up 0.5s ease-out both;
+  }
+
+  .motion-safe\:animate-fade-in {
+    animation: fade-in 0.4s ease-out both;
+  }
+
+  .motion-safe\:animate-fade-in-up {
+    animation: fade-in-up 0.8s ease-out both;
+  }
+}
+
 /* Reduced motion support */
 @media (prefers-reduced-motion: reduce) {
 

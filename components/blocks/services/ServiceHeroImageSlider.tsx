@@ -73,9 +73,7 @@ export default function ServiceHeroImageSlider({
           return (
             <div
               key={`${image.filename}-${index}`}
-              className={`absolute inset-0 transition-opacity duration-700 ease-in-out ${
-                isActive ? 'opacity-100 z-10' : 'opacity-0 z-0'
-              }`}
+              className={isActive ? 'absolute inset-0' : 'hidden'}
               aria-hidden={!isActive}
             >
               <Image

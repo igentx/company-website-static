@@ -34,7 +34,6 @@ function CheckIcon({ className }: { className?: string }) {
 }
 
 export default function WhyChooseIGENTX({ blok }: WhyChooseIGENTXProps) {
-  const [isVisible, setIsVisible] = useState(false)
   const [scrollProgress, setScrollProgress] = useState(0)
   const sectionRef = useRef<HTMLElement>(null)
 
@@ -43,8 +42,6 @@ export default function WhyChooseIGENTX({ blok }: WhyChooseIGENTXProps) {
   const badgeLabel = blok.badge_text || 'Why Choose IGENTX'
 
   useEffect(() => {
-    setIsVisible(true)
-
     const handleScroll = () => {
       if (sectionRef.current) {
         const rect = sectionRef.current.getBoundingClientRect()
@@ -72,9 +69,7 @@ export default function WhyChooseIGENTX({ blok }: WhyChooseIGENTXProps) {
 
       <div className="max-w-7xl mx-auto relative z-10">
         {/* Header */}
-        <div
-          className={`text-center mb-14 md:mb-16 transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}
-        >
+        <div className="text-center mb-14 md:mb-16 opacity-100 translate-y-0 motion-safe:animate-fade-in-up">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-white/20 text-xs font-medium tracking-[0.2em] uppercase text-gray-300 mb-8">
             <span className="text-[#8fa3c8]">✦</span>
             <span>{badgeLabel}</span>
