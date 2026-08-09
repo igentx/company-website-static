@@ -197,7 +197,7 @@ export const defaultAboutContent = {
       title: 'About IGENTX',
       content: `Welcome to IGENTX - where AI meets modern web development! We're revolutionizing how businesses in the UAE build their digital presence.
 
-Our AI-driven approach combines the power of Next.js, React, and cutting-edge CMS platforms with intelligent automation, delivering websites up to 60% faster than traditional development—without compromising quality.
+Our AI-driven approach combines the power of Next.js, React, and cutting-edge CMS platforms with intelligent automation, delivering websites up to 60% faster than traditional development, without compromising quality.
 
 We specialize in multilingual websites, SEO optimization, and high-performance solutions tailored specifically for the UAE market. Every project includes Storyblok CMS from day one, giving you complete control over your content.
 
@@ -264,7 +264,7 @@ export const igentxDefaultPageContent = {
         {
           title: 'AI-Powered Development for Faster Delivery',
           description:
-            'Our intelligent development workflow accelerates project timelines by up to 60%—without compromising quality.',
+            'Our intelligent development workflow accelerates project timelines by up to 60%, without compromising quality.',
           highlight: '60% Faster',
         },
         {
@@ -276,7 +276,7 @@ export const igentxDefaultPageContent = {
         {
           title: 'SEO-First Websites that Rank Higher',
           description:
-            'Every project is built with performance, structure, and multilingual SEO best practices—helping you reach top positions on Google.',
+            'Every project is built with performance, structure, and multilingual SEO best practices, helping you reach top positions on Google.',
           highlight: 'Top 3 Rankings',
         },
         {
@@ -294,7 +294,7 @@ export const igentxDefaultPageContent = {
         {
           title: 'WhatsApp + AI Chatbots that Convert',
           description:
-            'Engage visitors instantly with automated WhatsApp and AI chatbot integration—delivering 24/7 customer support.',
+            'Engage visitors instantly with automated WhatsApp and AI chatbot integration, delivering 24/7 customer support.',
           highlight: '24/7 Support',
         },
       ],
@@ -319,7 +319,7 @@ export const igentxDefaultPageContent = {
       show_speed_comparison: true,
       speed_comparison_title: 'Speed is Everything in the UAE Market',
       speed_comparison_description:
-        'Our AI-driven workflow consistently outperforms traditional web development—delivering faster, more reliable websites built for growth.',
+        'Our AI-driven workflow consistently outperforms traditional web development, delivering faster, more reliable websites built for growth.',
       // Defaults for the comparison cards
       traditional_approach_title: 'Traditional Approach',
       traditional_approach_points: [

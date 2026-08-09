@@ -29,7 +29,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/services': {
     title: 'Web Development & Digital Services | IGENTX',
     description:
-      'Custom web development, ecommerce, branding, and technical SEO — delivered with AI-accelerated workflows and measurable performance.',
+      'Custom web development, ecommerce, branding, and technical SEO | delivered with AI-accelerated workflows and measurable performance.',
     keywords: 'web development services, ecommerce development, branding agency, technical SEO',
   },
   '/services/web-development': {
@@ -71,13 +71,13 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/services/graphic-design-uae': {
     title: 'Graphic Design Company Dubai | IGENTX',
     description:
-      'Branding and graphic design for UAE businesses — logos, visual identity, and marketing assets.',
+      'Branding and graphic design for UAE businesses | logos, visual identity, and marketing assets.',
     keywords: 'graphic design Dubai, branding agency UAE, logo design Dubai',
   },
   '/services/seo-service-uae': {
     title: 'SEO Services Dubai & UAE | IGENTX',
     description:
-      'Technical and local SEO for UAE businesses — Arabic SEO, schema, and performance optimization.',
+      'Technical and local SEO for UAE businesses | Arabic SEO, schema, and performance optimization.',
     keywords: 'SEO services Dubai, Arabic SEO UAE, local SEO Dubai',
   },
   '/services/ai-solutions': {
@@ -101,12 +101,12 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/products/ai-customer-service-agent': {
     title: 'AI Customer Service Agent for Websites | IGENTX',
     description:
-      '24/7 AI chat widget trained on your content. RAG-powered, multilingual, lightweight embed — under 7KB loader.',
+      '24/7 AI chat widget trained on your content. RAG-powered, multilingual, lightweight embed | under 7KB loader.',
     keywords:
       'AI customer service agent, RAG website chatbot, multilingual AI support widget, AI chat widget',
   },
   '/products/daycaremate': {
-    title: 'DaycareMate — Childcare Management Software | IGENTX',
+    title: 'DaycareMate | Childcare Management Software | IGENTX',
     description:
       'Childcare management platform by IGENTX: admissions, attendance, parent communication, and tax-aware billing. Single-tenant deployment per centre.',
     keywords:
@@ -145,7 +145,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
     keywords: 'childcare centre digital transformation UAE, BloomWave, DaycareMate case study',
   },
   '/blog': {
-    title: 'Blog | IGENTX — Web Development & AI Insights',
+    title: 'Blog | IGENTX | Web Development & AI Insights',
     description: 'Articles on web development, AI, SEO, and digital growth from the IGENTX team.',
     keywords: 'web development blog, AI web development, SEO UAE blog',
   },
@@ -159,7 +159,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/blog/ai-translation-daycaremate-multilingual-uae': {
     title: 'How We Built AI Translation for DaycareMate | IGENTX',
     description:
-      'Builder story: on-demand AI translation for multilingual UAE nurseries — 14 languages, included for normal daycare use, server-side Gemini processing.',
+      'Builder story: on-demand AI translation for multilingual UAE nurseries | 14 languages, included for normal daycare use, server-side Gemini processing.',
     keywords:
       'AI childcare software IGENTX, DaycareMate translation, multilingual nursery communication UAE, childcare app translate messages',
   },

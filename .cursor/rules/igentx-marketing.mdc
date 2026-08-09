@@ -10,7 +10,7 @@ alwaysApply: true
 
 ## Copy rules
 
-1. **No em dashes (`—`)** in public copy under `content/en/`. Use commas, colons, or periods.
+1. **No em dashes (`—`)** in public copy under `content/en/`, `lib/igentx-default-content.ts`, and `lib/seo-keywords.ts`. Use commas, colons, or periods. Title separators: `|` or `:`.
 2. **Outcome-first** messaging: leads, conversions, efficiency, measurable growth.
 3. **Conservative trust metrics** (100% custom-built, 10+ years combined team experience, etc.). Do not inflate project volume without evidence.
 4. **Trust band:** light contrast section (badge, partner icons, metrics with descriptions, value props); no client logo marquee.

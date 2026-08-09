@@ -38,7 +38,7 @@
         "_uid": "dm-hero-1",
         "component": "service_hero",
         "title": "AI-powered childcare management for modern centres",
-        "subtitle": "One platform from first enquiry to billing — with built-in AI translation so multilingual families stay connected. Admissions, attendance, daily care, family communication, and tax-aware billing.",
+        "subtitle": "One platform from first enquiry to billing, with built-in AI translation so multilingual families stay connected. Admissions, attendance, daily care, family communication, and tax-aware billing.",
         "badge_text": "IGENTX Product",
         "cta_text": "Explore AI translation",
         "cta_link": {
@@ -216,7 +216,7 @@
             "component": "differentiator_feature",
             "title": "AI Translation",
             "highlight": "Included",
-            "description": "On-demand Translate on messages, broadcasts, and activity updates in 14 curated languages. Parents and staff save a preferred language on their profile. Unlimited for normal daycare use. Need another language? Contact IGENTX — we can add it to the curated list for your parent community.",
+            "description": "On-demand Translate on messages, broadcasts, and activity updates in 14 curated languages. Parents and staff save a preferred language on their profile. Unlimited for normal daycare use. Need another language? Contact IGENTX, we can add it to the curated list for your parent community.",
             "icon": {
               "filename": "/assets/icons/chat.svg",
               "alt": "AI translation",
@@ -325,7 +325,7 @@
           },
           {
             "_uid": "dm-iap3",
-            "text": "AI translation included — multilingual families read updates in-app",
+            "text": "AI translation included | multilingual families read updates in-app",
             "enabled": true,
             "component": "speed_comparison_point"
           },

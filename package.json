@@ -21,6 +21,7 @@
     "generate:pages": "node scripts/generate-static-pages.mjs",
     "prepare": "husky",
     "check": "npm run type-check && npm run lint",
+    "copy:check": "node scripts/check-no-em-dashes.mjs",
     "precommit": "lint-staged"
   },
   "dependencies": {
