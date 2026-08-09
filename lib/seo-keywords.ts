@@ -156,6 +156,13 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
     keywords:
       'childcare management software, nursery management system, preschool ERP, DaycareMate, early childhood centre software',
   },
+  '/blog/ai-translation-daycaremate-multilingual-uae': {
+    title: 'How We Built AI Translation for DaycareMate | IGENTX',
+    description:
+      'Builder story: on-demand AI translation for multilingual UAE nurseries — 14 languages, included for normal daycare use, server-side Gemini processing.',
+    keywords:
+      'AI childcare software IGENTX, DaycareMate translation, multilingual nursery communication UAE, childcare app translate messages',
+  },
   '/blog/local-seo-dubai-uae-guide': {
     title: 'Local SEO Dubai & UAE Guide 2026 | IGENTX',
     description:
@@ -289,6 +296,8 @@ export function getSeoFallbackForSlug(storySlug: string): SeoFallback {
     'blog-landing-page': '/blog',
     'blog/daycaremate-childcare-management-software-guide':
       '/blog/daycaremate-childcare-management-software-guide',
+    'blog/ai-translation-daycaremate-multilingual-uae':
+      '/blog/ai-translation-daycaremate-multilingual-uae',
     'blog/local-seo-dubai-uae-guide': '/blog/local-seo-dubai-uae-guide',
     'blog/technical-seo-checklist-uae': '/blog/technical-seo-checklist-uae',
     'blog/ecommerce-website-development-dubai-uae': '/blog/ecommerce-website-development-dubai-uae',

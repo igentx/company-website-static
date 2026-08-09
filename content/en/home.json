@@ -100,7 +100,7 @@
           {
             "_uid": "slide-03-daycaremate",
             "title": "Complete Childcare Management Platform",
-            "summary": "Simplify admissions, attendance, parent communication, billing and daily operations with DaycareMate, our all-in-one management platform for nurseries, preschools, childcare centres and early learning providers.",
+            "summary": "Simplify admissions, attendance, parent communication, billing and daily operations with DaycareMate — AI-powered childcare management with built-in translation for multilingual families.",
             "category": "IGENTX Product",
             "cta_link": {
               "id": "",
@@ -119,7 +119,7 @@
               "fieldtype": "asset",
               "is_external_url": false
             },
-            "quick_features": "Admissions & enrolment\nParent communication\nAttendance & daily reports\nBilling & invoicing",
+            "quick_features": "AI translation for parent communication\nMore languages available on request\nAdmissions & enrolment\nAttendance & daily reports\nBilling & invoicing",
             "pricing_preview": "",
             "duration": ""
           },

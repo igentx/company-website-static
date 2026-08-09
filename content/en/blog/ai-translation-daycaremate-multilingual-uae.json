@@ -1,0 +1,196 @@
+{
+  "slug": "blog/ai-translation-daycaremate-multilingual-uae",
+  "name": "ai-translation-daycaremate-multilingual-uae",
+  "published_at": "2026-08-09T12:00:00.000Z",
+  "content": {
+    "_uid": "dm-blog-translation-uid",
+    "body": [
+      {
+        "_uid": "dm-tr-seo",
+        "component": "seo",
+        "title": "How We Built AI Translation for DaycareMate | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "article",
+        "keywords": "AI childcare software IGENTX, DaycareMate translation, multilingual nursery communication UAE, childcare app translate messages",
+        "og_image": {
+          "filename": "/assets/images/daycaremate-hero.webp",
+          "alt": "DaycareMate AI translation for multilingual parent communication",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "How We Built AI Translation for DaycareMate",
+        "publisher": "IGENTX",
+        "description": "Why IGENTX built on-demand AI translation into DaycareMate for UAE nurseries — 14 curated languages, included for normal daycare use, server-side Gemini processing, and privacy by design.",
+        "article_tags": "DaycareMate, AI translation, multilingual nurseries, childcare software UAE, IGENTX",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/daycaremate-hero.webp",
+          "alt": "DaycareMate AI translation for multilingual parent communication",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "How We Built AI Translation for DaycareMate",
+        "article_author": "IGENTX Digital Team",
+        "og_description": "Builder story: on-demand translation on messages, broadcasts, and activity updates — included in DaycareMate for multilingual families in the UAE and beyond.",
+        "article_section": "Products",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "IGENTX built AI translation into DaycareMate so multilingual families read nursery updates in their language — 14 curated languages, included, server-side processing.",
+        "structured_data_type": "BlogPosting",
+        "article_modified_time": "2026-08-09 00:00",
+        "article_published_time": "2026-08-09 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"BlogPosting\",\n      \"headline\": \"How We Built AI Translation for DaycareMate\",\n      \"description\": \"Why IGENTX built on-demand AI translation into DaycareMate for UAE nurseries — 14 curated languages, included for normal daycare use, server-side Gemini processing.\",\n      \"url\": \"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\",\n      \"datePublished\": \"2026-08-09T00:00:00+00:00\",\n      \"dateModified\": \"2026-08-09T00:00:00+00:00\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"IGENTX Digital Team\"\n      },\n      \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"logo\": {\n          \"@type\": \"ImageObject\",\n          \"url\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n        }\n      },\n      \"image\": \"https://www.igentx.com/assets/images/daycaremate-hero.webp\",\n      \"articleSection\": \"Products\",\n      \"keywords\": \"DaycareMate translation, AI childcare software, multilingual nurseries UAE\",\n      \"inLanguage\": \"en\",\n      \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\"\n      }\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 1,\n          \"name\": \"Home\",\n          \"item\": \"https://www.igentx.com/\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 2,\n          \"name\": \"Blog\",\n          \"item\": \"https://www.igentx.com/blog\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 3,\n          \"name\": \"How We Built AI Translation for DaycareMate\",\n          \"item\": \"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\"\n        }\n      ]\n    }\n  ]\n}"
+      },
+      {
+        "_uid": "dm-tr-hero",
+        "component": "blog_hero",
+        "title": "How We Built AI Translation for DaycareMate",
+        "excerpt": "UAE nurseries serve families who speak Arabic, Hindi, Urdu, Malayalam, Tamil, Tagalog, and dozens of other home languages. Here is why IGENTX built on-demand translation into DaycareMate — and how we kept it accurate, private, and included.",
+        "category": "Products",
+        "author_name": "IGENTX Digital Team",
+        "publish_date": "2026-08-09",
+        "reading_time": "6 min read",
+        "back_link": {
+          "url": "/blog",
+          "linktype": "url",
+          "cached_url": "/blog"
+        },
+        "featured_image": {
+          "filename": "/assets/images/daycaremate-hero.webp",
+          "alt": "DaycareMate AI translation for multilingual parent communication",
+          "fieldtype": "asset",
+          "is_external_url": false
+        }
+      },
+      {
+        "_uid": "dm-tr-detail",
+        "component": "blog_detail",
+        "category": "Products",
+        "author_name": "IGENTX Digital Team",
+        "author_role": "Digital Strategy & Engineering",
+        "author_bio": "The IGENTX Digital Team builds DaycareMate and other vertical products for businesses in the UAE and worldwide. This article explains our approach to AI translation for early childhood education centres.",
+        "publish_date": "2026-08-09",
+        "reading_time": "6 min read",
+        "show_toc": true,
+        "key_takeaways": [
+          "We chose on-demand Translate — not auto-translate on every message — so staff and parents control when conversion helps.",
+          "14 curated languages match the communities UAE nurseries actually serve, instead of vague “150+ languages” marketing.",
+          "Translation is included for normal daycare use; processing runs server-side with no API keys in the browser."
+        ],
+        "tags": "DaycareMate, AI translation, multilingual nurseries, childcare software, IGENTX",
+        "related_posts": [
+          {
+            "_uid": "rel-dm-guide",
+            "component": "blog_card",
+            "title": "DaycareMate: Childcare Centre Management Software Guide",
+            "excerpt": "Full platform overview for centre operators.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "8 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/daycaremate-childcare-management-software-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-hero.webp",
+              "alt": "DaycareMate childcare management guide",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "rel-childcare-buyer",
+            "component": "blog_card",
+            "title": "How to Choose Childcare Software in the UAE",
+            "excerpt": "Vendor evaluation for UAE centres.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "8 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/childcare-management-software-uae-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/daycaremate-dashboard.webp",
+              "alt": "How to Choose Childcare Software in the UAE",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ],
+        "cta_section_title": "See AI translation on daycaremate.com",
+        "cta_section_text": "Explore the product page for language list, FAQs, and demo booking. For implementation support, talk to IGENTX.",
+        "cta_button_text": "Visit daycaremate.com/ai-translation",
+        "cta_button_link": {
+          "url": "https://daycaremate.com/ai-translation",
+          "linktype": "url"
+        },
+        "content_blocks": [
+          {
+            "_uid": "dm-tr-h-problem",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "The problem we kept hearing"
+          },
+          {
+            "_uid": "dm-tr-b-problem",
+            "component": "blog_body",
+            "content": "<p>When we rolled out <a href=\"/products/daycaremate\">DaycareMate</a> with centres like <a href=\"/case-studies/bloomwave-learning-daycare\">BloomWave Learning and Daycare</a>, parent communication worked — but multilingual families still asked teachers to repeat updates at pickup. Staff copied messages into browser translators. That broke audit trails and wasted minutes teachers do not have between transitions.</p><p>We did not want to bolt on a generic chatbot. We wanted translation inside the surfaces families already use: <strong>messages</strong>, <strong>broadcasts</strong>, and the <strong>activity feed</strong>.</p>"
+          },
+          {
+            "_uid": "dm-tr-h-ondemand",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "On-demand, not auto-translate everything"
+          },
+          {
+            "_uid": "dm-tr-b-ondemand",
+            "component": "blog_body",
+            "content": "<p>Auto-translating every message without a human tap can misread tone and create compliance headaches. We chose <strong>on-demand Translate</strong>: the reader taps when conversion helps, and the original text stays intact for disputes and inspections.</p><p>Parents and staff save a <strong>preferred translation language</strong> on their profile. After the first translate, repeat reads are one tap. Cached translations avoid repeat API cost for the same content.</p>"
+          },
+          {
+            "_uid": "dm-tr-h-languages",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Why 14 curated languages"
+          },
+          {
+            "_uid": "dm-tr-b-languages",
+            "component": "blog_body",
+            "content": "<p>Marketing pages that claim “150+ languages” rarely match the communities a UAE nursery actually serves. We curated <strong>14 languages</strong> aligned to our launch market and partner centres:</p><ul><li>Arabic, Hindi, Urdu, Malayalam, Tamil, Bengali, Filipino, Nepali, Sinhala, Persian, Russian, French, Chinese, and Amharic</li></ul><p>The list evolves with the communities centres serve. If your families need a language not listed yet, <a href=\"/contact\">contact IGENTX</a> and we can add it to your deployment's curated list — we prefer honest coverage over a number that sounds impressive in a sales deck.</p>"
+          },
+          {
+            "_uid": "dm-tr-h-privacy",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Privacy and server-side processing"
+          },
+          {
+            "_uid": "dm-tr-b-privacy",
+            "component": "blog_body",
+            "content": "<p>When someone taps Translate, message text is processed <strong>server-side</strong> through our AI translation service (Google Gemini). API keys never ship to the browser. Each centre still runs on a <strong>dedicated DaycareMate deployment</strong> with private data isolation — translation sits on top of that model, not instead of it.</p><p>We also separated this from our <strong>optional AI enquiry assistant</strong>: translation is included for subscribers; website chat for lead capture remains an add-on with human-in-the-loop conversion.</p>"
+          },
+          {
+            "_uid": "dm-tr-h-included",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "Included for normal daycare use"
+          },
+          {
+            "_uid": "dm-tr-b-included",
+            "component": "blog_body",
+            "content": "<p>Translation is <strong>included at no extra cost</strong> for typical centre volume. We raised monthly allowances so operators do not think about per-message fees during normal nursery communication. That matches how we want centres to behave: translate freely when it helps a family understand a nap update or a fee reminder.</p><p>Full product details, FAQs, and language list live on <a href=\"https://daycaremate.com/ai-translation\" rel=\"noopener noreferrer\">daycaremate.com/ai-translation</a>. For rollout with your classrooms and parent demographics, <a href=\"/contact\">talk to IGENTX</a>.</p>"
+          }
+        ]
+      }
+    ],
+    "component": "page"
+  }
+}

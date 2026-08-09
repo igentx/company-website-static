@@ -12,7 +12,7 @@ DaycareMate is IGENTX's complete childcare management platform for nurseries, pr
 
 ## Tagline
 
-**Complete childcare management software for modern centres**
+**Complete AI-powered childcare management software for modern centres**
 
 ---
 
@@ -20,10 +20,12 @@ DaycareMate is IGENTX's complete childcare management platform for nurseries, pr
 
 | Aspect | Framing |
 |--------|---------|
-| Product scope | Global ECE platform |
+| Product scope | Global AI-powered ECE platform |
 | Primary market | UAE (first market, not geographic limit) |
 | Language | ECE-inclusive: centre, classroom, family (not daycare-only) |
 | Deployment | Single-tenant per centre with dedicated infrastructure |
+| AI translation | Included — unlimited for normal daycare use |
+| AI enquiry assistant | Optional add-on for subscribing centres |
 
 ---
 
@@ -56,6 +58,18 @@ Teachers log meals, naps, learning, mood and milestones in seconds. Photo attach
 ### Messaging
 1:1 conversations between parents, teachers and admins, plus broadcasts for closures and reminders. Realtime inbox updates and email notifications when configured.
 
+### AI Translation (Included)
+Built-in AI translation for multilingual families. **Included at no extra cost** — unlimited for normal daycare use.
+
+- **On-demand Translate** on messages, broadcasts, and activity feed updates
+- **14 curated languages:** Arabic, Hindi, Urdu, Malayalam, Tamil, Bengali, Filipino, Nepali, Sinhala, Persian, Russian, French, Chinese, and Amharic
+- **More languages on request:** contact IGENTX if your parent community needs a language not yet on the curated list — we can add it to your deployment
+- **Preferred translation language** saved on parent and staff profiles for one-tap translate
+- **Server-side processing** — API keys stay on the server, not in the browser
+- **Product page:** https://daycaremate.com/ai-translation
+
+**Do not claim:** 150+ languages, auto-translate on every message, or per-message fees for normal centre usage.
+
 ### Billing
 Invoice-first. Reusable fee plans, billing runs, parent payment proof workflow, credit notes and account statements with tax frozen at issue time.
 
@@ -74,6 +88,8 @@ Approved line: "Your centre's branding on your dedicated deployment." Do not cla
 
 ### Optional AI Enquiry Assistant
 Deployable for subscribing centres. Captures conversations for admin review. **Manual lead conversion only:** nothing is auto-logged without staff action. Chat inquiries appear at **Leads → Chat inquiries**.
+
+**Distinct from AI Translation:** Translation is included for parent communication inside DaycareMate. The enquiry assistant is an optional website chat add-on for lead capture.
 
 ---
 
@@ -151,6 +167,15 @@ A: The software runs under your centre's brand. Your centre name, logo and favic
 
 **Q: What roles and permissions are supported?**
 A: 8-role role-based access control with granular permissions across Admin, Teacher and Family portals.
+
+**Q: Is AI translation included in DaycareMate?**
+A: Yes. AI translation is included for normal daycare use. Parents and staff tap Translate on messages, broadcasts, and activity updates. See https://daycaremate.com/ai-translation
+
+**Q: How many languages does DaycareMate translation support?**
+A: 14 curated languages: Arabic, Hindi, Urdu, Malayalam, Tamil, Bengali, Filipino, Nepali, Sinhala, Persian, Russian, French, Chinese, and Amharic. Users save a preferred language on their profile. The list evolves with customer demand — contact IGENTX if your families need a language not listed yet.
+
+**Q: Can you add a language for our centre?**
+A: Yes. Contact IGENTX at https://www.igentx.com/contact and we can add languages to your deployment's curated list based on your parent community.
 
 **Q: Does the AI enquiry assistant auto-create leads?**
 A: No. The optional AI enquiry assistant captures conversations for admin review. Your team manually converts qualified enquiries to the leads pipeline.

@@ -8,15 +8,15 @@
       {
         "_uid": "dm-seo-1",
         "component": "seo",
-        "title": "DaycareMate: Childcare Management Software | IGENTX",
-        "description": "Complete childcare management by IGENTX: admissions, attendance, activity feed, messaging, and tax-aware billing. Dedicated Admin, Teacher, and Family portals. Serving centres worldwide, with the UAE as our primary market.",
-        "keywords": "childcare management software, nursery management system, preschool ERP, early childhood centre software",
+        "title": "DaycareMate: AI-Powered Childcare Management Software | IGENTX",
+        "description": "AI-powered childcare management by IGENTX: admissions, attendance, messaging with built-in translation for multilingual families, and tax-aware billing. Dedicated Admin, Teacher, and Family portals.",
+        "keywords": "AI childcare management software, childcare management software, nursery management system, multilingual parent communication, preschool ERP, DaycareMate translation",
         "canonical_url": "https://www.igentx.com/products/daycaremate",
         "robots_index": true,
         "robots_follow": true,
         "og_type": "website",
-        "og_title": "DaycareMate: Childcare Management Software | IGENTX",
-        "og_description": "One platform from first enquiry to billing. Admissions, attendance, daily care, family communication, and invoice-first billing for early childhood education centres worldwide.",
+        "og_title": "DaycareMate: AI-Powered Childcare Management Software | IGENTX",
+        "og_description": "AI-powered platform from first enquiry to billing. Built-in translation for multilingual families, plus admissions, attendance, daily care, and invoice-first billing.",
         "og_image": {
           "filename": "/assets/images/daycaremate-dashboard.webp",
           "alt": "DaycareMate childcare management dashboard",
@@ -25,7 +25,7 @@
         },
         "twitter_card_type": "summary_large_image",
         "twitter_title": "DaycareMate | IGENTX",
-        "twitter_description": "Childcare management software built by IGENTX: admissions, attendance, messaging, billing, and dedicated portals for admins, teachers, and families.",
+        "twitter_description": "AI-powered childcare management by IGENTX: admissions, attendance, messaging with built-in translation, billing, and dedicated portals for admins, teachers, and families.",
         "twitter_image": {
           "filename": "/assets/images/daycaremate-dashboard.webp",
           "alt": "DaycareMate childcare management dashboard",
@@ -37,12 +37,12 @@
       {
         "_uid": "dm-hero-1",
         "component": "service_hero",
-        "title": "Complete childcare management software for modern centres",
-        "subtitle": "One platform from first enquiry to billing: admissions, attendance, daily care, family communication, and tax-aware billing.",
+        "title": "AI-powered childcare management for modern centres",
+        "subtitle": "One platform from first enquiry to billing — with built-in AI translation so multilingual families stay connected. Admissions, attendance, daily care, family communication, and tax-aware billing.",
         "badge_text": "IGENTX Product",
-        "cta_text": "Visit daycaremate.com",
+        "cta_text": "Explore AI translation",
         "cta_link": {
-          "url": "https://daycaremate.com",
+          "url": "https://daycaremate.com/ai-translation",
           "linktype": "url"
         },
         "secondary_cta_text": "Talk to IGENTX",
@@ -63,7 +63,7 @@
           "is_external_url": false
         },
         "featured_image_opacity": 70,
-        "quick_features": "Admissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing and parent statements\nAdmin, Teacher, and Family portals\nWhite-label branding per centre",
+        "quick_features": "AI translation included (14 languages)\nAdmissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing and parent statements\nAdmin, Teacher, and Family portals\nWhite-label branding per centre",
         "pricing_preview": ""
       },
       {
@@ -212,6 +212,18 @@
             }
           },
           {
+            "_uid": "dm-f-ai-translation",
+            "component": "differentiator_feature",
+            "title": "AI Translation",
+            "highlight": "Included",
+            "description": "On-demand Translate on messages, broadcasts, and activity updates in 14 curated languages. Parents and staff save a preferred language on their profile. Unlimited for normal daycare use. Need another language? Contact IGENTX — we can add it to the curated list for your parent community.",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "AI translation",
+              "fieldtype": "asset"
+            }
+          },
+          {
             "_uid": "dm-f-billing",
             "component": "differentiator_feature",
             "title": "Billing",
@@ -313,7 +325,7 @@
           },
           {
             "_uid": "dm-iap3",
-            "text": "Activity feed and messaging keep families informed in-app",
+            "text": "AI translation included — multilingual families read updates in-app",
             "enabled": true,
             "component": "speed_comparison_point"
           },
@@ -598,6 +610,27 @@
             "question": "What roles and permissions are supported?",
             "answer": "DaycareMate includes 8-role role-based access control with granular permissions across Admin, Teacher, and Family portals. Staff, classroom, and billing access can be scoped to each centre's needs.",
             "category": "Platform"
+          },
+          {
+            "_uid": "dm-faq-q9a",
+            "component": "faq_item",
+            "question": "Is AI translation included in DaycareMate?",
+            "answer": "Yes. AI translation is included for normal daycare use. Parents and staff can tap Translate on messages, broadcasts, and activity updates in 14 curated languages. Preferred language is saved on user profiles for one-tap translate.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "dm-faq-q9b",
+            "component": "faq_item",
+            "question": "How many languages does DaycareMate translation support?",
+            "answer": "14 curated languages: Arabic, Hindi, Urdu, Malayalam, Tamil, Bengali, Filipino, Nepali, Sinhala, Persian, Russian, French, Chinese, and Amharic. The list evolves with the communities centres serve. If your families need a language not listed yet, contact us and we can add it to your deployment's curated list. Learn more at daycaremate.com/ai-translation.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "dm-faq-q9c",
+            "component": "faq_item",
+            "question": "Can you add a language for our centre?",
+            "answer": "Yes. The curated language list evolves with the communities centres serve. If your families need a language not listed yet, contact IGENTX at igentx.com/contact and we can add it to your deployment's curated list.",
+            "category": "AI Solutions"
           },
           {
             "_uid": "dm-faq-q9",
