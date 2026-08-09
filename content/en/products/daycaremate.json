@@ -63,7 +63,7 @@
           "is_external_url": false
         },
         "featured_image_opacity": 70,
-        "quick_features": "AI translation included (14 languages)\nAdmissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing and parent statements\nAdmin, Teacher, and Family portals\nWhite-label branding per centre",
+        "quick_features": "AI translation included (100+ languages)\nAdmissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing and parent statements\nAdmin, Teacher, and Family portals\nWhite-label branding per centre",
         "pricing_preview": ""
       },
       {
@@ -216,7 +216,7 @@
             "component": "differentiator_feature",
             "title": "AI Translation",
             "highlight": "Included",
-            "description": "On-demand Translate on messages, broadcasts, and activity updates in 14 curated languages. Parents and staff save a preferred language on their profile. Unlimited for normal daycare use. Need another language? Contact IGENTX, we can add it to the curated list for your parent community.",
+            "description": "On-demand Translate on messages, broadcasts, and activity updates in 100+ languages. Twenty popular choices listed first for UAE and international nurseries; search finds the rest. Parents and staff save a preferred language on their profile. Unlimited for normal daycare use.",
             "icon": {
               "filename": "/assets/icons/chat.svg",
               "alt": "AI translation",
@@ -615,21 +615,14 @@
             "_uid": "dm-faq-q9a",
             "component": "faq_item",
             "question": "Is AI translation included in DaycareMate?",
-            "answer": "Yes. AI translation is included for normal daycare use. Parents and staff can tap Translate on messages, broadcasts, and activity updates in 14 curated languages. Preferred language is saved on user profiles for one-tap translate.",
+            "answer": "Yes. AI translation is included for normal daycare use. Parents and staff can tap Translate on messages, broadcasts, and activity updates in 100+ languages. Preferred language is saved on user profiles for one-tap translate.",
             "category": "AI Solutions"
           },
           {
             "_uid": "dm-faq-q9b",
             "component": "faq_item",
             "question": "How many languages does DaycareMate translation support?",
-            "answer": "14 curated languages: Arabic, Hindi, Urdu, Malayalam, Tamil, Bengali, Filipino, Nepali, Sinhala, Persian, Russian, French, Chinese, and Amharic. The list evolves with the communities centres serve. If your families need a language not listed yet, contact us and we can add it to your deployment's curated list. Learn more at daycaremate.com/ai-translation.",
-            "category": "AI Solutions"
-          },
-          {
-            "_uid": "dm-faq-q9c",
-            "component": "faq_item",
-            "question": "Can you add a language for our centre?",
-            "answer": "Yes. The curated language list evolves with the communities centres serve. If your families need a language not listed yet, contact IGENTX at igentx.com/contact and we can add it to your deployment's curated list.",
+            "answer": "DaycareMate supports the full ISO 639-1 language list (100+ languages). Twenty popular languages for UAE and international nurseries are listed first; search finds the rest. Learn more at daycaremate.com/ai-translation.",
             "category": "AI Solutions"
           },
           {

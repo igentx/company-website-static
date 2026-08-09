@@ -159,7 +159,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/blog/ai-translation-daycaremate-multilingual-uae': {
     title: 'How We Built AI Translation for DaycareMate | IGENTX',
     description:
-      'Builder story: on-demand AI translation for multilingual UAE nurseries | 14 languages, included for normal daycare use, server-side Gemini processing.',
+      'Builder story: on-demand AI translation for multilingual UAE nurseries | 100+ languages, included for normal daycare use, server-side Gemini processing.',
     keywords:
       'AI childcare software IGENTX, DaycareMate translation, multilingual nursery communication UAE, childcare app translate messages',
   },

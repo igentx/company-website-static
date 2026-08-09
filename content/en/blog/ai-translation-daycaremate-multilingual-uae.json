@@ -20,7 +20,7 @@
         },
         "og_title": "How We Built AI Translation for DaycareMate",
         "publisher": "IGENTX",
-        "description": "Why IGENTX built on-demand AI translation into DaycareMate for UAE nurseries | 14 curated languages, included for normal daycare use, server-side Gemini processing, and privacy by design.",
+        "description": "Why IGENTX built on-demand AI translation into DaycareMate for UAE nurseries | 100+ languages, included for normal daycare use, server-side Gemini processing, and privacy by design.",
         "article_tags": "DaycareMate, AI translation, multilingual nurseries, childcare software UAE, IGENTX",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae",
@@ -38,11 +38,11 @@
         "robots_noarchive": false,
         "robots_nosnippet": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "IGENTX built AI translation into DaycareMate so multilingual families read nursery updates in their language, 14 curated languages, included, server-side processing.",
+        "twitter_description": "IGENTX built AI translation into DaycareMate so multilingual families read nursery updates in their language — 100+ languages, included, server-side processing.",
         "structured_data_type": "BlogPosting",
         "article_modified_time": "2026-08-09 00:00",
         "article_published_time": "2026-08-09 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"BlogPosting\",\n      \"headline\": \"How We Built AI Translation for DaycareMate\",\n      \"description\": \"Why IGENTX built on-demand AI translation into DaycareMate for UAE nurseries | 14 curated languages, included for normal daycare use, server-side Gemini processing.\",\n      \"url\": \"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\",\n      \"datePublished\": \"2026-08-09T00:00:00+00:00\",\n      \"dateModified\": \"2026-08-09T00:00:00+00:00\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"IGENTX Digital Team\"\n      },\n      \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"logo\": {\n          \"@type\": \"ImageObject\",\n          \"url\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n        }\n      },\n      \"image\": \"https://www.igentx.com/assets/images/daycaremate-hero.webp\",\n      \"articleSection\": \"Products\",\n      \"keywords\": \"DaycareMate translation, AI childcare software, multilingual nurseries UAE\",\n      \"inLanguage\": \"en\",\n      \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\"\n      }\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 1,\n          \"name\": \"Home\",\n          \"item\": \"https://www.igentx.com/\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 2,\n          \"name\": \"Blog\",\n          \"item\": \"https://www.igentx.com/blog\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 3,\n          \"name\": \"How We Built AI Translation for DaycareMate\",\n          \"item\": \"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\"\n        }\n      ]\n    }\n  ]\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"BlogPosting\",\n      \"headline\": \"How We Built AI Translation for DaycareMate\",\n      \"description\": \"Why IGENTX built on-demand AI translation into DaycareMate for UAE nurseries | 100+ languages, included for normal daycare use, server-side Gemini processing.\",\n      \"url\": \"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\",\n      \"datePublished\": \"2026-08-09T00:00:00+00:00\",\n      \"dateModified\": \"2026-08-09T00:00:00+00:00\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"IGENTX Digital Team\"\n      },\n      \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"logo\": {\n          \"@type\": \"ImageObject\",\n          \"url\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n        }\n      },\n      \"image\": \"https://www.igentx.com/assets/images/daycaremate-hero.webp\",\n      \"articleSection\": \"Products\",\n      \"keywords\": \"DaycareMate translation, AI childcare software, multilingual nurseries UAE\",\n      \"inLanguage\": \"en\",\n      \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\"\n      }\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 1,\n          \"name\": \"Home\",\n          \"item\": \"https://www.igentx.com/\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 2,\n          \"name\": \"Blog\",\n          \"item\": \"https://www.igentx.com/blog\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 3,\n          \"name\": \"How We Built AI Translation for DaycareMate\",\n          \"item\": \"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\"\n        }\n      ]\n    }\n  ]\n}"
       },
       {
         "_uid": "dm-tr-hero",
@@ -77,7 +77,7 @@
         "show_toc": true,
         "key_takeaways": [
           "We chose on-demand Translate | not auto-translate on every message, so staff and parents control when conversion helps.",
-          "14 curated languages match the communities UAE nurseries actually serve, instead of vague “150+ languages” marketing.",
+          "100+ languages from the full ISO list, with 20 popular choices listed first for UAE and international nurseries.",
           "Translation is included for normal daycare use; processing runs server-side with no API keys in the browser."
         ],
         "tags": "DaycareMate, AI translation, multilingual nurseries, childcare software, IGENTX",
@@ -159,12 +159,12 @@
             "_uid": "dm-tr-h-languages",
             "component": "blog_heading",
             "level": "h2",
-            "text": "Why 14 curated languages"
+            "text": "Why 100+ languages with a popular tier"
           },
           {
             "_uid": "dm-tr-b-languages",
             "component": "blog_body",
-            "content": "<p>Marketing pages that claim “150+ languages” rarely match the communities a UAE nursery actually serves. We curated <strong>14 languages</strong> aligned to our launch market and partner centres:</p><ul><li>Arabic, Hindi, Urdu, Malayalam, Tamil, Bengali, Filipino, Nepali, Sinhala, Persian, Russian, French, Chinese, and Amharic</li></ul><p>The list evolves with the communities centres serve. If your families need a language not listed yet, <a href=\"/contact\">contact IGENTX</a> and we can add it to your deployment's curated list | we prefer honest coverage over a number that sounds impressive in a sales deck.</p>"
+            "content": "<p>We ship the <strong>full ISO 639-1 language list</strong> (100+ languages) instead of a tiny hand-picked set or vague “150+ languages” marketing. In the app, <strong>20 popular languages</strong> for UAE and international nurseries appear first — Arabic, Hindi, Urdu, Malayalam, Tamil, German, Spanish, and more — and a searchable picker finds the rest.</p><p>Parents and staff save a preferred language on their profile. After the first translate, repeat reads are one tap.</p>"
           },
           {
             "_uid": "dm-tr-h-privacy",
