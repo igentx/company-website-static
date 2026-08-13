@@ -41,7 +41,7 @@
       {
         "_uid": "privacy-legal-page",
         "title": "Privacy Policy",
-        "last_updated": "2026-07-23",
+        "last_updated": "2026-08-13",
         "component": "legal_page",
         "content_blocks": [
           {
@@ -307,6 +307,51 @@
                       "text": "You can control cookies through your browser settings. Declining analytics cookies will prevent Google Analytics from loading, but some essential or performance-related technologies may still operate."
                     }
                   ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Because we use Cloudflare Turnstile in invisible mode on our contact form, we reference "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cloudflare's Turnstile Privacy Addendum",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.cloudflare.com/en-gb/turnstile-privacy-policy/",
+                            "target": "_blank",
+                            "linktype": "url"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", which explains the limited technical signals Cloudflare processes for bot detection. Cloudflare's main "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Privacy Policy",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.cloudflare.com/en-gb/privacypolicy/",
+                            "target": "_blank",
+                            "linktype": "url"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " also applies."
+                    }
+                  ]
                 }
               ]
             }
@@ -357,7 +402,25 @@
                           "content": [
                             {
                               "type": "text",
-                              "text": "Cloudflare Turnstile: processes security signals when you submit our contact form to help prevent spam and abuse."
+                              "text": "Cloudflare Turnstile in invisible mode: silent bot protection on the contact form (no visible challenge UI). See "
+                            },
+                            {
+                              "type": "text",
+                              "text": "Cloudflare's Turnstile Privacy Addendum",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "https://www.cloudflare.com/en-gb/turnstile-privacy-policy/",
+                                    "target": "_blank",
+                                    "linktype": "url"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "."
                             }
                           ]
                         }

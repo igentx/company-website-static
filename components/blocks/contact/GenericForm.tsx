@@ -116,7 +116,7 @@ export default function GenericForm({ blok, variant = 'default' }: GenericFormPr
 
         if (isTurnstileEnabled() && !turnstileToken) {
             setSubmitStatus('error')
-            setSubmitMessage('Please complete the captcha verification.')
+            setSubmitMessage('Security verification is still running. Please wait a moment and try again.')
             setIsSubmitting(false)
             return
         }
@@ -151,14 +151,13 @@ export default function GenericForm({ blok, variant = 'default' }: GenericFormPr
                 const errorData = await response.json()
                 setSubmitStatus('error')
                 setSubmitMessage(errorData.message || blok.error_message)
-                if (response.status === 403) {
-                    resetTurnstileWidget()
-                }
+                resetTurnstileWidget()
             }
         } catch (err) {
             console.error('Form submission error:', err)
             setSubmitStatus('error')
             setSubmitMessage(blok.error_message)
+            resetTurnstileWidget()
         } finally {
             setIsSubmitting(false)
         }
