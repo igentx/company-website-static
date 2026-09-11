@@ -108,29 +108,29 @@ productsLanding.name = 'Products'
 const prodSeo = productsLanding.content.body.find((b) => b.component === 'seo')
 if (prodSeo) {
   Object.assign(prodSeo, {
-    title: 'IGENTX Products | AI Agent & DaycareMate',
-    description: 'Software products built by IGENTX: AI Customer Service Agent and DaycareMate childcare platform.',
+    title: 'IGENTX Products | AI Agent & Clayox',
+    description: 'Software products built by IGENTX: AI Customer Service Agent and Clayox childcare platform.',
     canonical_url: 'https://www.igentx.com/products',
   })
 }
 writeJson(path.join(EN, 'products-landing-page.json'), productsLanding)
 console.log('✓ products-landing-page')
 
-// DaycareMate product page content
+// Clayox product page content
 const aiProduct = readJson(path.join(EN, 'products/ai-customer-service-agent.json'))
-const daycaremate = structuredClone(aiProduct)
-daycaremate.slug = 'products/daycaremate'
-daycaremate.name = 'DaycareMate'
-daycaremate.content.body = [
+const clayox = structuredClone(aiProduct)
+clayox.slug = 'products/clayox'
+clayox.name = 'Clayox'
+clayox.content.body = [
   {
     _uid: 'dm-seo-1',
     component: 'seo',
-    title: 'DaycareMate — Childcare Management Software | IGENTX',
+    title: 'Clayox — Childcare Management Software | IGENTX',
     description:
       'Childcare management platform by IGENTX: admissions, attendance, parent communication, and tax-aware billing. Single-tenant deployment per centre.',
     keywords:
       'childcare management software, nursery management system, preschool ERP, early childhood centre software',
-    canonical_url: 'https://www.igentx.com/products/daycaremate',
+    canonical_url: 'https://www.igentx.com/products/clayox',
     robots_index: true,
     robots_follow: true,
     og_type: 'website',
@@ -140,12 +140,12 @@ daycaremate.content.body = [
   {
     _uid: 'dm-hero-1',
     component: 'service_hero',
-    title: 'DaycareMate — childcare management software built by IGENTX',
+    title: 'Clayox — childcare management software built by IGENTX',
     subtitle:
       'One platform for admissions, attendance, daily care, parent communication, and billing — with dedicated portals for admins, teachers, and families.',
     badge_text: 'IGENTX Product',
-    cta_text: 'Visit daycaremate.com',
-    cta_link: { url: 'https://daycaremate.com', linktype: 'url' },
+    cta_text: 'Visit clayox.com',
+    cta_link: { url: 'https://www.clayox.com', linktype: 'url' },
     secondary_cta_text: 'Talk to IGENTX',
     secondary_cta_link: { url: '/contact', linktype: 'url' },
   },
@@ -164,7 +164,7 @@ daycaremate.content.body = [
               type: 'paragraph',
               content: [
                 {
-                  text: 'DaycareMate serves preschools, nurseries, daycares, childcare centres, early learning centres, Montessori schools, kindergartens, and playschools worldwide. Each centre gets a dedicated deployment — your database, your private storage, your CDN.',
+                  text: 'Clayox serves preschools, nurseries, daycares, childcare centres, early learning centres, Montessori schools, kindergartens, and playschools worldwide. Each centre gets a dedicated deployment — your database, your private storage, your CDN.',
                   type: 'text',
                 },
               ],
@@ -221,7 +221,7 @@ daycaremate.content.body = [
               type: 'paragraph',
               content: [
                 {
-                  text: 'See how BloomWave uses DaycareMate alongside their website and AI enquiry assistant: ',
+                  text: 'See how BloomWave uses Clayox alongside their website and AI enquiry assistant: ',
                   type: 'text',
                 },
                 {
@@ -244,9 +244,9 @@ daycaremate.content.body = [
       {
         _uid: 'dm-faq-q1',
         component: 'faq_item',
-        question: 'Is DaycareMate only for UAE centres?',
+        question: 'Is Clayox only for UAE centres?',
         answer:
-          'No. DaycareMate is built for early childhood education providers worldwide. Currency, timezone, and tax/VAT are configurable per deployment.',
+          'No. Clayox is built for early childhood education providers worldwide. Currency, timezone, and tax/VAT are configurable per deployment.',
       },
       {
         _uid: 'dm-faq-q2',
@@ -258,8 +258,8 @@ daycaremate.content.body = [
     ],
   },
 ]
-writeJson(path.join(EN, 'products/daycaremate.json'), daycaremate)
-console.log('✓ products/daycaremate')
+writeJson(path.join(EN, 'products/clayox.json'), clayox)
+console.log('✓ products/clayox')
 
 // Bloomwave case study — based on moduluxe structure
 const moduluxe = readJson(
@@ -270,8 +270,8 @@ bloomwave.slug = 'case-studies/bloomwave-learning-daycare'
 bloomwave.name = 'BloomWave Learning & Daycare'
 
 const bwDescription =
-  'How BloomWave Learning & Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform.'
-const bwSeoTitle = 'BloomWave Case Study | Website, AI Agent & DaycareMate'
+  'How BloomWave Learning & Daycare launched bloomwave.ae with an AI enquiry assistant and Clayox centre operations platform.'
+const bwSeoTitle = 'BloomWave Case Study | Website, AI Agent & Clayox'
 
 const bwSeo = bloomwave.content.body.find((b) => b.component === 'seo')
 if (bwSeo) {
@@ -285,7 +285,7 @@ if (bwSeo) {
     twitter_title: bwSeoTitle,
     twitter_description: bwDescription,
     keywords:
-      'childcare case study, Storyblok, AI customer service agent, DaycareMate, bloomwave.ae, early learning centre UAE',
+      'childcare case study, Storyblok, AI customer service agent, Clayox, bloomwave.ae, early learning centre UAE',
     structured_data_type: 'Article',
   })
 }
@@ -309,7 +309,7 @@ if (bwDetail) {
   bwDetail.challenge =
     'BloomWave needed a trustworthy marketing site, after-hours parent enquiry capture, and a single system for admissions and daily operations — without juggling spreadsheets and separate apps.'
   bwDetail.solution =
-    'IGENTX delivered bloomwave.ae, deployed the IGENTX AI Customer Service Agent on the website, and implemented DaycareMate as the centre operations platform.'
+    'IGENTX delivered bloomwave.ae, deployed the IGENTX AI Customer Service Agent on the website, and implemented Clayox as the centre operations platform.'
   bwDetail.client_name = 'BloomWave Learning & Daycare'
   bwDetail.client_logo = {
     filename: '/assets/logos/bloomwave.png',
@@ -342,7 +342,7 @@ if (bwDetail) {
         content: [
           {
             type: 'text',
-            text: 'IGENTX delivered bloomwave.ae on Next.js with Storyblok CMS for easy content updates, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries, and implemented whitelabeled DaycareMate as the centre operations platform for admissions and daily care.',
+            text: 'IGENTX delivered bloomwave.ae on Next.js with Storyblok CMS for easy content updates, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries, and implemented whitelabeled Clayox as the centre operations platform for admissions and daily care.',
           },
         ],
       },
@@ -351,7 +351,7 @@ if (bwDetail) {
   bwDetail.results = [
     { _uid: 'bw-r1', metric: 'Website', value: 'bloomwave.ae', component: 'result_item' },
     { _uid: 'bw-r2', metric: 'AI Agent', value: '24/7 enquiries', component: 'result_item' },
-    { _uid: 'bw-r3', metric: 'Platform', value: 'DaycareMate', component: 'result_item' },
+    { _uid: 'bw-r3', metric: 'Platform', value: 'Clayox', component: 'result_item' },
   ]
   bwDetail.results_metrics = [
     {
@@ -371,13 +371,13 @@ if (bwDetail) {
     {
       _uid: 'bw-m3',
       label: 'Platform',
-      value: 'DaycareMate',
+      value: 'Clayox',
       component: 'metric_item',
       description:
         'Whitelabeled centre operations platform for admissions, attendance, and family communication.',
     },
   ]
-  bwDetail.technologies = ['Next.js', 'Storyblok', 'IGENTX AI Agent', 'DaycareMate', 'Tailwind CSS']
+  bwDetail.technologies = ['Next.js', 'Storyblok', 'IGENTX AI Agent', 'Clayox', 'Tailwind CSS']
   bwDetail.testimonial_text = ''
   bwDetail.testimonial_author = ''
   bwDetail.testimonial_role = ''
@@ -450,7 +450,7 @@ if (portfolio) {
       },
       is_external_url: false,
     },
-    title: 'BloomWave — Website, AI Agent & DaycareMate',
+    title: 'BloomWave — Website, AI Agent & Clayox',
     results: [
       {
         _uid: 'e4a1b2c3-d5e6-4f78-9a0b-1c2d3e4f5a6b',
@@ -466,7 +466,7 @@ if (portfolio) {
       },
       {
         _uid: 'a6c3d4e5-f7a8-4b90-1c2d-3e4f5a6b7c8d',
-        value: 'DaycareMate',
+        value: 'Clayox',
         metric: 'Platform',
         component: 'result_metric',
       },
@@ -481,8 +481,8 @@ if (portfolio) {
     live_url: 'https://bloomwave.ae',
     component: 'case_study_item',
     description:
-      'How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.',
-    technologies: 'Next.js\nStoryblok\nIGENTX AI Agent\nDaycareMate',
+      'How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform.',
+    technologies: 'Next.js\nStoryblok\nIGENTX AI Agent\nClayox',
     case_study_url: '/case-studies/bloomwave-learning-daycare',
   }
   if (!portfolio.case_studies) portfolio.case_studies = []
@@ -517,11 +517,11 @@ if (nav) {
         },
       },
       {
-        _uid: 'nav-daycaremate',
-        label: 'DaycareMate',
+        _uid: 'nav-clayox',
+        label: 'Clayox',
         component: 'navigation_items',
         children: [],
-        link: { url: '/products/daycaremate', linktype: 'url', cached_url: 'products/daycaremate' },
+        link: { url: '/products/clayox', linktype: 'url', cached_url: 'products/clayox' },
       },
     ]
   }
@@ -561,7 +561,7 @@ const newRoutes = [
   { slug: 'services/branding-graphic-design', path: '/services/branding-graphic-design', priority: 0.85, changeFrequency: 'monthly' },
   { slug: 'services/seo', path: '/services/seo', priority: 0.85, changeFrequency: 'monthly' },
   { slug: 'products-landing-page', path: '/products', priority: 0.9, changeFrequency: 'monthly' },
-  { slug: 'products/daycaremate', path: '/products/daycaremate', priority: 0.9, changeFrequency: 'monthly' },
+  { slug: 'products/clayox', path: '/products/clayox', priority: 0.9, changeFrequency: 'monthly' },
   {
     slug: 'case-studies/bloomwave-learning-daycare',
     path: '/case-studies/bloomwave-learning-daycare',

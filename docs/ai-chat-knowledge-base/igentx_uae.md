@@ -23,10 +23,10 @@ IGENXT is your AI-first digital partner in Dubai and the UAE. We help UAE busine
 - Custom software development for UAE workflows
 - AI solutions and enquiry automation
 
-### DaycareMate for UAE Centres
+### Clayox for UAE Centres
 Childcare management software for nurseries, preschools and early learning centres in Dubai and Abu Dhabi. Admissions, attendance, family messaging, activity feed and invoice-first billing.
 
-- Product: https://www.igentx.com/products/daycaremate
+- Product: https://www.igentx.com/products/clayox
 - Case study: BloomWave Learning & Daycare, Abu Dhabi
 
 ### AI Customer Service Agent
@@ -47,7 +47,7 @@ Childcare management software for nurseries, preschools and early learning centr
 | AI Solutions | https://www.igentx.com/services/ai-solutions |
 | Custom Software Development | https://www.igentx.com/services/custom-software-development |
 | AI Customer Service Agent | https://www.igentx.com/products/ai-customer-service-agent |
-| DaycareMate | https://www.igentx.com/products/daycaremate |
+| Clayox | https://www.igentx.com/products/clayox |
 
 ---
 
@@ -59,7 +59,7 @@ Bilingual Next.js website with 300% organic traffic growth in 3 months. Modular 
 - https://www.igentx.com/case-studies/web-development-uae-startup-moduluxe-group
 
 ### BloomWave Learning & Daycare (Abu Dhabi)
-Integrated bloomwave.ae website, AI enquiry assistant and DaycareMate centre operations in a 2-week rollout.
+Integrated bloomwave.ae website, AI enquiry assistant and Clayox centre operations in a 2-week rollout.
 
 - https://www.igentx.com/case-studies/bloomwave-learning-daycare
 
@@ -96,16 +96,16 @@ A: Yes. We work with startups and growing businesses across Dubai mainland and f
 **Q: Do you provide local SEO for Dubai and the UAE?**
 A: Yes. Google Business Profile, local citations, Arabic and English landing pages, and location-specific schema markup.
 
-**Q: What is DaycareMate and who is it for in the UAE?**
-A: IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers in the UAE and worldwide. BloomWave Learning and Daycare in Abu Dhabi uses DaycareMate alongside their IGENTX-built website and AI enquiry assistant.
+**Q: What is Clayox and who is it for in the UAE?**
+A: IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers in the UAE and worldwide. BloomWave Learning and Daycare in Abu Dhabi uses Clayox alongside their IGENTX-built website and AI enquiry assistant.
 
-**Q: How does DaycareMate handle parent communication?**
+**Q: How does Clayox handle parent communication?**
 A: Family portal with per-child activity feed, 1:1 messaging with teachers and admins, and broadcasts for closures and reminders. Teachers log meals, naps, learning and milestones. Photo attachments reach families through private storage.
 
-**Q: Can we combine a website, AI enquiries and DaycareMate?**
-A: Yes. IGENTX delivered this for BloomWave in Abu Dhabi: bloomwave.ae, 24/7 AI enquiry assistant, and DaycareMate for admissions and daily operations. One team can scope and roll out the full stack.
+**Q: Can we combine a website, AI enquiries and Clayox?**
+A: Yes. IGENTX delivered this for BloomWave in Abu Dhabi: bloomwave.ae, 24/7 AI enquiry assistant, and Clayox for admissions and daily operations. One team can scope and roll out the full stack.
 
-**Q: Does DaycareMate support billing and regional settings for UAE centres?**
+**Q: Does Clayox support billing and regional settings for UAE centres?**
 A: Yes. Configurable currency, timezone and tax/VAT settings per deployment. Tax rates frozen on each invoice at issue time.
 
 **Q: Do you work with centres and businesses outside Dubai?**

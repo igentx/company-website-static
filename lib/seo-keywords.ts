@@ -23,7 +23,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/contact': {
     title: 'Contact IGENTX | Web Development & AI Products',
     description:
-      'Get in touch with IGENTX for web development, ecommerce, branding, SEO, AI customer agents, and DaycareMate.',
+      'Get in touch with IGENTX for web development, ecommerce, branding, SEO, AI customer agents, and Clayox.',
     keywords: 'contact igentx, web development quote, AI agent demo',
   },
   '/services': {
@@ -93,9 +93,9 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
     keywords: 'custom software development, bespoke web applications, internal tools, API integrations, product platforms',
   },
   '/products': {
-    title: 'IGENTX Products | AI Agent & DaycareMate',
+    title: 'IGENTX Products | AI Agent & Clayox',
     description:
-      'Software products built by IGENTX: AI Customer Service Agent for websites and DaycareMate childcare management platform.',
+      'Software products built by IGENTX: AI Customer Service Agent for websites and Clayox childcare management platform.',
     keywords: 'igentx products, AI customer service agent, childcare management software',
   },
   '/products/ai-customer-service-agent': {
@@ -105,8 +105,8 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
     keywords:
       'AI customer service agent, RAG website chatbot, multilingual AI support widget, AI chat widget',
   },
-  '/products/daycaremate': {
-    title: 'DaycareMate | Childcare Management Software | IGENTX',
+  '/products/clayox': {
+    title: 'Clayox | Childcare Management Software | IGENTX',
     description:
       'Childcare management platform by IGENTX: admissions, attendance, parent communication, and tax-aware billing. Single-tenant deployment per centre.',
     keywords:
@@ -115,9 +115,9 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/uae': {
     title: 'Digital Agency Dubai & Childcare Management Software UAE | IGENTX',
     description:
-      'DaycareMate by IGENTX: childcare management software for nurseries and preschools in Dubai and Abu Dhabi. Plus bilingual websites, ecommerce, branding, local SEO and AI enquiry tools for UAE businesses.',
+      'Clayox by IGENTX: childcare management software for nurseries and preschools in Dubai and Abu Dhabi. Plus bilingual websites, ecommerce, branding, local SEO and AI enquiry tools for UAE businesses.',
     keywords:
-      'digital agency Dubai, web development UAE, childcare management software UAE, nursery management software UAE, preschool management system Dubai, childcare centre software Abu Dhabi, early childhood education software UAE, DaycareMate UAE, AI agency Dubai, SEO services Dubai',
+      'digital agency Dubai, web development UAE, childcare management software UAE, nursery management software UAE, preschool management system Dubai, childcare centre software Abu Dhabi, early childhood education software UAE, Clayox UAE, AI agency Dubai, SEO services Dubai',
   },
   '/case-studies': {
     title: 'Case Studies | Web, AI & Product Success Stories | IGENTX',
@@ -141,27 +141,34 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/case-studies/bloomwave-learning-daycare': {
     title: 'BloomWave: Integrated Web, AI Enquiries & Centre Operations | IGENTX Case Study',
     description:
-      'How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform in one integrated rollout.',
-    keywords: 'childcare centre digital transformation UAE, BloomWave, DaycareMate case study',
+      'How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform in one integrated rollout.',
+    keywords: 'childcare centre digital transformation UAE, BloomWave, Clayox case study',
   },
   '/blog': {
     title: 'Blog | IGENTX | Web Development & AI Insights',
     description: 'Articles on web development, AI, SEO, and digital growth from the IGENTX team.',
     keywords: 'web development blog, AI web development, SEO UAE blog',
   },
-  '/blog/daycaremate-childcare-management-software-guide': {
-    title: 'DaycareMate: Childcare Centre Management Software Guide | IGENTX',
+  '/blog/clayox-childcare-management-software-guide': {
+    title: 'Clayox: Childcare Centre Management Software Guide | IGENTX',
     description:
-      'A practical guide to childcare centre management software: admissions, attendance, family communication and billing with DaycareMate by IGENTX.',
+      'A practical guide to childcare centre management software: admissions, attendance, family communication and billing with Clayox by IGENTX.',
     keywords:
-      'childcare management software, nursery management system, preschool ERP, DaycareMate, early childhood centre software',
+      'childcare management software, nursery management system, preschool ERP, Clayox, early childhood centre software',
   },
-  '/blog/ai-translation-daycaremate-multilingual-uae': {
-    title: 'How We Built AI Translation for DaycareMate | IGENTX',
+  '/blog/ai-translation-clayox-multilingual-uae': {
+    title: 'How We Built AI Translation for Clayox | IGENTX',
     description:
       'Builder story: on-demand AI translation for multilingual UAE nurseries | 100+ languages, included for normal daycare use, server-side Gemini processing.',
     keywords:
-      'AI childcare software IGENTX, DaycareMate translation, multilingual nursery communication UAE, childcare app translate messages',
+      'AI childcare software IGENTX, Clayox translation, multilingual nursery communication UAE, childcare app translate messages',
+  },
+  '/blog/ai-write-clayox-staff-drafts': {
+    title: 'How We Built Write with AI for Clayox Staff Drafts | IGENTX',
+    description:
+      'Builder story: Clayox Write with AI drafts staff activity updates, progress summaries, and messages. Human review before anything reaches families.',
+    keywords:
+      'Write with AI Clayox, AI childcare staff drafts, AI parent updates from photos, childcare activity AI drafts, IGENTX',
   },
   '/blog/local-seo-dubai-uae-guide': {
     title: 'Local SEO Dubai & UAE Guide 2026 | IGENTX',
@@ -217,11 +224,11 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
       'How Moduluxe Group achieved 300% organic traffic growth with a bilingual Next.js website and SEO strategy in the UAE.',
     keywords: 'Moduluxe Group case study, SEO growth UAE, bilingual website Dubai',
   },
-  '/blog/bloomwave-daycaremate-digital-transformation': {
-    title: 'BloomWave Digital Transformation | Website, AI & DaycareMate | IGENTX',
+  '/blog/bloomwave-clayox-digital-transformation': {
+    title: 'BloomWave Digital Transformation | Website, AI & Clayox | IGENTX',
     description:
-      'How BloomWave Learning and Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform.',
-    keywords: 'BloomWave case study, DaycareMate UAE, childcare centre digital transformation',
+      'How BloomWave Learning and Daycare launched bloomwave.ae with an AI enquiry assistant and Clayox centre operations platform.',
+    keywords: 'BloomWave case study, Clayox UAE, childcare centre digital transformation',
   },
   '/blog/web-development-uae': {
     title: 'Web Development in the UAE: A Practical Guide | IGENTX',
@@ -288,16 +295,17 @@ export function getSeoFallbackForSlug(storySlug: string): SeoFallback {
     'services/custom-software-development': '/services/custom-software-development',
     'products-landing-page': '/products',
     'products/ai-customer-service-agent': '/products/ai-customer-service-agent',
-    'products/daycaremate': '/products/daycaremate',
+    'products/clayox': '/products/clayox',
     'case-studies-landing-page': '/case-studies',
     'case-studies/web-development-uae-startup-moduluxe-group': '/case-studies/moduluxe-group',
     'case-studies/web-development-startup-dr-door': '/case-studies/dr-door',
     'case-studies/bloomwave-learning-daycare': '/case-studies/bloomwave-learning-daycare',
     'blog-landing-page': '/blog',
-    'blog/daycaremate-childcare-management-software-guide':
-      '/blog/daycaremate-childcare-management-software-guide',
-    'blog/ai-translation-daycaremate-multilingual-uae':
-      '/blog/ai-translation-daycaremate-multilingual-uae',
+    'blog/clayox-childcare-management-software-guide':
+      '/blog/clayox-childcare-management-software-guide',
+    'blog/ai-translation-clayox-multilingual-uae':
+      '/blog/ai-translation-clayox-multilingual-uae',
+    'blog/ai-write-clayox-staff-drafts': '/blog/ai-write-clayox-staff-drafts',
     'blog/local-seo-dubai-uae-guide': '/blog/local-seo-dubai-uae-guide',
     'blog/technical-seo-checklist-uae': '/blog/technical-seo-checklist-uae',
     'blog/ecommerce-website-development-dubai-uae': '/blog/ecommerce-website-development-dubai-uae',
@@ -307,8 +315,8 @@ export function getSeoFallbackForSlug(storySlug: string): SeoFallback {
     'blog/childcare-management-software-uae-guide': '/blog/childcare-management-software-uae-guide',
     'blog/opening-nursery-dubai-digital-tools': '/blog/opening-nursery-dubai-digital-tools',
     'blog/moduluxe-group-seo-case-study': '/blog/moduluxe-group-seo-case-study',
-    'blog/bloomwave-daycaremate-digital-transformation':
-      '/blog/bloomwave-daycaremate-digital-transformation',
+    'blog/bloomwave-clayox-digital-transformation':
+      '/blog/bloomwave-clayox-digital-transformation',
     'blog/web-development-uae': '/blog/web-development-uae',
     'blog/ai-in-web-development-uae': '/blog/ai-in-web-development-uae',
     'blog/ai-customer-service-agent-uae': '/blog/ai-customer-service-agent-uae',

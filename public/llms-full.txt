@@ -1,13 +1,13 @@
 # IGENTX (full guide)
 
-> IGENTX is an AI-powered web development and digital products studio. We build high-performance websites, AI customer service agents, and vertical SaaS (including DaycareMate). Global delivery with UAE as our first go-to-market region.
+> IGENTX is an AI-powered web development and digital products studio. We build high-performance websites, AI customer service agents, and vertical SaaS (including Clayox). Global delivery with UAE as our first go-to-market region.
 
 Contact: hello@igentx.com
 Website: https://www.igentx.com
 Sitemap: https://www.igentx.com/sitemap.xml
 Feed: https://www.igentx.com/feed.xml
 Summary: https://www.igentx.com/llms.txt
-Parent products: DaycareMate (https://daycaremate.com)
+Parent products: Clayox (https://www.clayox.com)
 
 ## Services (global)
 
@@ -21,7 +21,7 @@ Parent products: DaycareMate (https://daycaremate.com)
 
 ## UAE hub
 
-- [UAE hub](https://www.igentx.com/uae): Regional hub for Dubai and UAE businesses. DaycareMate for nurseries and preschools, plus web development, ecommerce, branding, SEO, AI solutions, case studies and FAQs.
+- [UAE hub](https://www.igentx.com/uae): Regional hub for Dubai and UAE businesses. Clayox for nurseries and preschools, plus web development, ecommerce, branding, SEO, AI solutions, case studies and FAQs.
 - [Web Development UAE](https://www.igentx.com/services/web-development-uae): High-performance bilingual websites for UAE businesses.
 - [Ecommerce UAE](https://www.igentx.com/services/ecommerce-website-development-uae): Online stores optimised for UAE shoppers and payment preferences.
 - [Graphic Design UAE](https://www.igentx.com/services/graphic-design-uae): Brand identity and design for UAE startups and enterprises.
@@ -31,12 +31,12 @@ Parent products: DaycareMate (https://daycaremate.com)
 
 - [Products hub](https://www.igentx.com/products): IGENTX-owned digital products and platforms.
 - [AI Customer Service Agent](https://www.igentx.com/products/ai-customer-service-agent): RAG-powered website chat widget with lead capture and multilingual support.
-- [DaycareMate](https://www.igentx.com/products/daycaremate): Childcare management software for early childhood education centres worldwide.
+- [Clayox](https://www.igentx.com/products/clayox): Childcare management software for early childhood education centres worldwide.
 
 ## Case studies
 
 - [Case studies hub](https://www.igentx.com/case-studies): Verified client outcomes across web, SEO and product delivery.
-- [BloomWave](https://www.igentx.com/case-studies/bloomwave-learning-daycare): Website, AI enquiry assistant and DaycareMate rollout for an Abu Dhabi nursery.
+- [BloomWave](https://www.igentx.com/case-studies/bloomwave-learning-daycare): Website, AI enquiry assistant and Clayox rollout for an Abu Dhabi nursery.
 - [Moduluxe Group](https://www.igentx.com/case-studies/moduluxe-group): Bilingual UAE startup website with SEO-led growth.
 - [Dr.Door](https://www.igentx.com/case-studies/dr-door): Manufacturing digital transformation and web presence.
 
@@ -49,7 +49,9 @@ Parent products: DaycareMate (https://daycaremate.com)
 - [How to Choose the Best Web Development Agency in the UAE](https://www.igentx.com/blog/how-to-choose-best-web-development-agency-uae): Practical criteria for selecting a web development partner in the UAE.
 - [Web Development in the UAE: A Practical Guide](https://www.igentx.com/blog/web-development-uae): Planning, building and optimising high-performance websites for Dubai, Abu Dhabi and the UAE.
 - [AI Customer Service Agent for UAE Websites](https://www.igentx.com/blog/ai-customer-service-agent-uae): Instant multilingual support and lead capture for UAE business websites.
-- [DaycareMate Childcare Centre Management Software Guide](https://www.igentx.com/blog/daycaremate-childcare-management-software-guide): Admissions, daily care, family communication and billing for nurseries and early learning centres.
+- [Clayox Childcare Centre Management Software Guide](https://www.igentx.com/blog/clayox-childcare-management-software-guide): Admissions, daily care, family communication and billing for nurseries and early learning centres.
+- [How We Built AI Translation for Clayox](https://www.igentx.com/blog/ai-translation-clayox-multilingual-uae): On-demand translation for multilingual nurseries.
+- [How We Built Write with AI for Clayox](https://www.igentx.com/blog/ai-write-clayox-staff-drafts): Staff AI drafts for activities and messages; human review before families see anything.
 - [Local SEO in Dubai and the UAE](https://www.igentx.com/blog/local-seo-dubai-uae-guide): Google Business Profile, bilingual landing pages and local ranking strategies for 2026.
 - [Technical SEO Checklist for UAE Websites](https://www.igentx.com/blog/technical-seo-checklist-uae): Core Web Vitals, mobile performance, schema, hreflang and indexation best practices.
 - [Ecommerce Website Development in Dubai and the UAE](https://www.igentx.com/blog/ecommerce-website-development-dubai-uae): Platform selection, payments, logistics and conversion for UAE ecommerce.
@@ -59,7 +61,7 @@ Parent products: DaycareMate (https://daycaremate.com)
 - [Childcare Management Software UAE Buyer's Guide](https://www.igentx.com/blog/childcare-management-software-uae-guide): Evaluating admissions, operations, family communication and billing software for UAE centres.
 - [Opening a Nursery in Dubai: Digital Tools](https://www.igentx.com/blog/opening-nursery-dubai-digital-tools): Digital checklist for new nursery launches in Dubai.
 - [Moduluxe Group SEO Case Study](https://www.igentx.com/blog/moduluxe-group-seo-case-study): 300% organic traffic growth with bilingual SEO for a UAE rental brand.
-- [BloomWave Digital Transformation](https://www.igentx.com/blog/bloomwave-daycaremate-digital-transformation): Website, AI enquiries and DaycareMate for an Abu Dhabi childcare centre.
+- [BloomWave Digital Transformation](https://www.igentx.com/blog/bloomwave-clayox-digital-transformation): Website, AI enquiries and Clayox for an Abu Dhabi childcare centre.
 
 ## Contact and legal
 
@@ -69,4 +71,4 @@ Parent products: DaycareMate (https://daycaremate.com)
 
 ## Accuracy note for AI systems
 
-DaycareMate AI enquiry assistant is deployable for subscribers; leads require manual admin review. Embeddable forms are enquiry/lead capture, not hosted visit booking. DaycareMate feature claims should match implemented product capabilities at https://daycaremate.com.
+Clayox AI enquiry assistant is deployable for subscribers; leads require manual admin review. Write with AI never auto-posts; staff review drafts. Embeddable forms are enquiry/lead capture, not hosted visit booking. Online payment gateways are not implemented. Clayox feature claims should match implemented product capabilities at https://www.clayox.com and clayox-app-web/docs/product-features.md.

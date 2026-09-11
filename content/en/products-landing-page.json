@@ -7,42 +7,42 @@
     "body": [
       {
         "_uid": "8f9d5683-31c4-4850-ad8a-247c6cce9708",
-        "title": "IGENTX Products | AI Customer Service Agent & DaycareMate",
+        "title": "IGENTX Products | AI Customer Service Agent & Clayox",
         "author": "IGENTX Digital Team",
         "og_type": "website",
         "keywords": "AI customer service agent, website chatbot, childcare management software, nursery management system, igentx products",
         "og_image": {
           "filename": "/assets/og/products-og.webp",
-          "alt": "IGENTX products: AI Customer Service Agent and DaycareMate",
+          "alt": "IGENTX products: AI Customer Service Agent and Clayox",
           "fieldtype": "asset",
           "is_external_url": false
         },
-        "og_title": "IGENTX Products | AI Agent & DaycareMate",
+        "og_title": "IGENTX Products | AI Agent & Clayox",
         "component": "seo",
         "publisher": "IGENTX",
-        "description": "Purpose-built software from IGENTX: AI Customer Service Agent for 24/7 website support and lead capture, plus DaycareMate for childcare centre operations. Deployable globally.",
+        "description": "Purpose-built software from IGENTX: AI Customer Service Agent for 24/7 website support and lead capture, plus Clayox for childcare centre operations. Deployable globally.",
         "article_tags": "AI chatbot, customer service agent, childcare software, nursery management, igentx products",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/products",
         "robots_follow": true,
         "twitter_image": {
           "filename": "/assets/og/products-og.webp",
-          "alt": "IGENTX products: AI Customer Service Agent and DaycareMate",
+          "alt": "IGENTX products: AI Customer Service Agent and Clayox",
           "fieldtype": "asset",
           "is_external_url": false
         },
-        "twitter_title": "IGENTX Products | AI Agent & DaycareMate",
+        "twitter_title": "IGENTX Products | AI Agent & Clayox",
         "article_author": "IGENTX",
         "og_description": "AI-powered customer support for any website, plus childcare management software for early education centres. Built and supported by IGENTX.",
         "article_section": "Products",
         "robots_nosnippet": false,
         "robots_noarchive": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "Explore IGENTX software products: 24/7 AI customer service for websites and DaycareMate for admissions, attendance, and family communication.",
+        "twitter_description": "Explore IGENTX software products: 24/7 AI customer service for websites and Clayox for admissions, attendance, and family communication.",
         "structured_data_type": "WebSite",
         "article_modified_time": "",
         "article_published_time": "2025-10-26 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ItemList\",\n  \"name\": \"IGENTX Products\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"Product\",\n      \"name\": \"AI Customer Service Agent\",\n      \"description\": \"24/7 multilingual AI support agent trained on your content with one-line website integration.\"\n    },\n    {\n      \"@type\": \"Product\",\n      \"name\": \"DaycareMate\",\n      \"description\": \"Childcare management platform for admissions, attendance, family communication, and billing.\"\n    }\n  ]\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ItemList\",\n  \"name\": \"IGENTX Products\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"Product\",\n      \"name\": \"AI Customer Service Agent\",\n      \"description\": \"24/7 multilingual AI support agent trained on your content with one-line website integration.\"\n    },\n    {\n      \"@type\": \"Product\",\n      \"name\": \"Clayox\",\n      \"description\": \"Childcare management platform for admissions, attendance, family communication, and billing.\"\n    }\n  ]\n}"
       },
       {
         "_uid": "pl-hero-001",
@@ -149,15 +149,15 @@
         "featured_product": {
           "badge_text": "Featured Product",
           "logo": {
-            "filename": "/assets/images/daycaremate-vertical-logo.webp",
-            "alt": "DaycareMate logo"
+            "filename": "/assets/images/clayox-vertical-logo.webp",
+            "alt": "Clayox logo"
           },
-          "title": "DaycareMate",
+          "title": "Clayox",
           "tagline": "Complete Childcare Management Platform",
-          "description": "DaycareMate gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform.",
+          "description": "Clayox gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform.",
           "brand_link": {
-            "text": "DaycareMate",
-            "url": "https://www.daycaremate.com"
+            "text": "Clayox",
+            "url": "https://www.clayox.com"
           },
           "feature_pills": [
             { "label": "Admissions", "icon": "admissions" },
@@ -169,16 +169,16 @@
             { "label": "Reports", "icon": "reports" }
           ],
           "trust_banner": "Built for childcare centres to simplify operations and improve family engagement.",
-          "cta_text": "Explore DaycareMate",
+          "cta_text": "Explore Clayox",
           "cta_link": {
             "url": "",
             "linktype": "story",
             "fieldtype": "multilink",
-            "cached_url": "products/daycaremate"
+            "cached_url": "products/clayox"
           },
           "screenshot": {
-            "filename": "/assets/images/daycaremate-dashboard.webp",
-            "alt": "DaycareMate childcare management dashboard"
+            "filename": "/assets/images/clayox-dashboard.webp",
+            "alt": "Clayox childcare management dashboard"
           }
         },
         "ai_product": {
@@ -229,7 +229,7 @@
         "_uid": "pl-cta-band-001",
         "component": "igentx_cta_band",
         "title": "Not sure which product fits your business?",
-        "description": "Book a free consultation and our team will help you choose the right path: AI Customer Service Agent for your website, DaycareMate for your centre, or a custom build tailored to your goals.",
+        "description": "Book a free consultation and our team will help you choose the right path: AI Customer Service Agent for your website, Clayox for your centre, or a custom build tailored to your goals.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "contact",
@@ -248,14 +248,14 @@
             "_uid": "pl-faq-q1",
             "component": "faq_item",
             "question": "What products does IGENTX offer?",
-            "answer": "IGENTX currently offers two live products: AI Customer Service Agent, a 24/7 website chat assistant for businesses, and DaycareMate, a childcare centre management platform for early childhood education providers. More AI-powered products are in development.",
+            "answer": "IGENTX currently offers two live products: AI Customer Service Agent, a 24/7 website chat assistant for businesses, and Clayox, a childcare centre management platform for early childhood education providers. More AI-powered products are in development.",
             "category": "General"
           },
           {
             "_uid": "pl-faq-q2",
             "component": "faq_item",
             "question": "Who are IGENTX products for?",
-            "answer": "The AI Customer Service Agent suits any business that wants more leads, faster support and better website engagement. DaycareMate serves preschools, nurseries, childcare centres and early learning providers that need admissions, daily care, family communication and billing in one system.",
+            "answer": "The AI Customer Service Agent suits any business that wants more leads, faster support and better website engagement. Clayox serves preschools, nurseries, childcare centres and early learning providers that need admissions, daily care, family communication and billing in one system.",
             "category": "General"
           },
           {
@@ -275,22 +275,22 @@
           {
             "_uid": "pl-faq-q5",
             "component": "faq_item",
-            "question": "What is DaycareMate?",
-            "answer": "DaycareMate is a complete childcare management platform built by IGENTX. It covers admissions with magic-link onboarding, attendance, activity feed, messaging, invoice-first billing and dedicated Admin, Teacher and Family portals.",
-            "category": "DaycareMate"
+            "question": "What is Clayox?",
+            "answer": "Clayox is a complete childcare management platform built by IGENTX. It covers admissions with magic-link onboarding, attendance, activity feed, messaging, invoice-first billing and dedicated Admin, Teacher and Family portals.",
+            "category": "Clayox"
           },
           {
             "_uid": "pl-faq-q6",
             "component": "faq_item",
-            "question": "Is DaycareMate only for UAE centres?",
-            "answer": "No. DaycareMate is built for early childhood education providers worldwide. Currency, timezone and tax settings are configurable per deployment. The UAE is our primary market, not the geographic limit of the product.",
-            "category": "DaycareMate"
+            "question": "Is Clayox only for UAE centres?",
+            "answer": "No. Clayox is built for early childhood education providers worldwide. Currency, timezone and tax settings are configurable per deployment. The UAE is our primary market, not the geographic limit of the product.",
+            "category": "Clayox"
           },
           {
             "_uid": "pl-faq-q7",
             "component": "faq_item",
             "question": "Can I try a product before committing?",
-            "answer": "Yes. You can explore the AI Customer Service Agent demo on its product page, visit daycaremate.com for DaycareMate, or book a free consultation with IGENTX to see which product fits your goals and walk through setup options.",
+            "answer": "Yes. You can explore the AI Customer Service Agent demo on its product page, visit clayox.com for Clayox, or book a free consultation with IGENTX to see which product fits your goals and walk through setup options.",
             "category": "General"
           },
           {

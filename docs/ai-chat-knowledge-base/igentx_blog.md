@@ -44,15 +44,33 @@ A summary of published articles and key takeaways.
   - Cloud hosting & CI/CD
   - Security-first and analytics-driven
 
-### DaycareMate: A Practical Guide to Childcare Centre Management Software
+### Clayox: A Practical Guide to Childcare Centre Management Software
 - **Published:** Jul 23, 2026
-- **URL:** /blog/daycaremate-childcare-management-software-guide
-- **Summary:** Pillar guide on what childcare centre management software should cover: admissions, attendance, activity feed, family messaging, invoice-first billing and role-based portals. DaycareMate is IGENTX's ECE platform with dedicated per-centre deployments. Optional AI enquiry assistant requires manual lead conversion. BloomWave case study referenced.
+- **URL:** /blog/clayox-childcare-management-software-guide
+- **Summary:** Pillar guide on what childcare centre management software should cover: admissions, attendance, activity feed, family messaging, invoice-first billing, student ID cards, fee estimator, Write with AI, and role-based portals. Clayox is IGENTX's ECE platform with dedicated per-centre deployments. Optional AI enquiry assistant requires manual lead conversion. BloomWave case study referenced.
 - **Key Takeaways:**
   - Connect enquiries, admissions, daily ops, communication and billing in one workflow
   - Admin, Teacher and Family portals with 8-role RBAC
   - Embeddable enquiry forms for lead capture (not visit booking)
   - Global platform; UAE is primary market
+
+### How We Built Write with AI for Clayox
+- **Published:** Sep 11, 2026
+- **URL:** /blog/ai-write-clayox-staff-drafts
+- **Summary:** Builder story for Clayox Write with AI: staff drafts for activities (note and/or photos), progress summaries, messages, and broadcasts. Human review before anything reaches families. Never auto-posts. Parents use Translate, not Write with AI.
+- **Key Takeaways:**
+  - Drafts only; staff always review before post or send
+  - Not an assessment framework or auto-generated journal
+  - Complements AI translation and the optional enquiry assistant
+
+### How We Built AI Translation for Clayox
+- **Published:** Aug 9, 2026
+- **URL:** /blog/ai-translation-clayox-multilingual-uae
+- **Summary:** Builder story for on-demand AI translation in Clayox for multilingual nurseries. 100+ languages, included for normal daycare use, server-side processing.
+- **Key Takeaways:**
+  - On-demand Translate, not auto-translate everything
+  - Full ISO language list with popular tier for UAE centres
+  - Distinct from Write with AI and the optional enquiry assistant
 
 ### Local SEO in Dubai and the UAE: A Practical Guide for 2026
 - **Published:** Jul 23, 2026
@@ -111,7 +129,7 @@ A summary of published articles and key takeaways.
 ### How to Choose Childcare Management Software in the UAE
 - **Published:** Jul 23, 2026
 - **URL:** /blog/childcare-management-software-uae-guide
-- **Summary:** Buyer guide for nursery and preschool software in the UAE. Evaluation criteria, pitfalls and DaycareMate as an option.
+- **Summary:** Buyer guide for nursery and preschool software in the UAE. Evaluation criteria, pitfalls and Clayox as an option.
 - **Key Takeaways:**
   - Evaluate full workflow from enquiry to billing
   - Family and teacher portals matter as much as admin
@@ -135,14 +153,14 @@ A summary of published articles and key takeaways.
   - Performance-first builds support rankings
   - Measurable traffic and conversion growth
 
-### BloomWave: Digital Transformation with Website, AI and DaycareMate
+### BloomWave: Digital Transformation with Website, AI and Clayox
 - **Published:** Jul 23, 2026
-- **URL:** /blog/bloomwave-daycaremate-digital-transformation
-- **Summary:** BloomWave Abu Dhabi launched bloomwave.ae, AI enquiry assistant and DaycareMate in one IGENTX rollout. Verified testimonial from Ajas Muhammed.
+- **URL:** /blog/bloomwave-clayox-digital-transformation
+- **Summary:** BloomWave Abu Dhabi launched bloomwave.ae, AI enquiry assistant and Clayox in one IGENTX rollout. Verified testimonial from Ajas Muhammed.
 - **Key Takeaways:**
   - One team can deliver website, AI and centre software
   - After-hours enquiry capture supports admissions
-  - DaycareMate handles daily centre operations
+  - Clayox handles daily centre operations
 
 ---
 

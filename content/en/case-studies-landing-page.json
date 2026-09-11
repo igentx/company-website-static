@@ -21,7 +21,7 @@
         "og_title": "Case Studies | Real Results from IGENTX Clients",
         "publisher": "IGENTX",
         "description": "Explore verified IGENTX case studies: traffic growth, AI enquiry assistants, childcare platform launches and high-performance websites for businesses worldwide, with the UAE as our primary market.",
-        "article_tags": "case studies, web development, AI solutions, DaycareMate, portfolio, igentx",
+        "article_tags": "case studies, web development, AI solutions, Clayox, portfolio, igentx",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/case-studies",
         "robots_follow": true,
@@ -42,7 +42,7 @@
         "structured_data_type": "WebSite",
         "article_modified_time": "",
         "article_published_time": "2025-11-06 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ItemList\",\n  \"name\": \"IGENTX Case Studies\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 1,\n      \"name\": \"BloomWave: Website, AI Agent & DaycareMate\",\n      \"url\": \"https://www.igentx.com/case-studies/bloomwave-learning-daycare\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 2,\n      \"name\": \"Moduluxe Group: 300% Organic Traffic Growth\",\n      \"url\": \"https://www.igentx.com/case-studies/moduluxe-group\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 3,\n      \"name\": \"DrDoor: Digital Transformation\",\n      \"url\": \"https://www.igentx.com/case-studies/dr-door\"\n    }\n  ]\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ItemList\",\n  \"name\": \"IGENTX Case Studies\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 1,\n      \"name\": \"BloomWave: Website, AI Agent & Clayox\",\n      \"url\": \"https://www.igentx.com/case-studies/bloomwave-learning-daycare\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 2,\n      \"name\": \"Moduluxe Group: 300% Organic Traffic Growth\",\n      \"url\": \"https://www.igentx.com/case-studies/moduluxe-group\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 3,\n      \"name\": \"DrDoor: Digital Transformation\",\n      \"url\": \"https://www.igentx.com/case-studies/dr-door\"\n    }\n  ]\n}"
       },
       {
         "_uid": "cs-hero-001",
@@ -195,7 +195,7 @@
               "fieldtype": "asset",
               "is_external_url": false
             },
-            "title": "BloomWave: Website, AI Agent & DaycareMate",
+            "title": "BloomWave: Website, AI Agent & Clayox",
             "results": [
               {
                 "_uid": "bw1",
@@ -217,7 +217,7 @@
               },
               {
                 "_uid": "bw4",
-                "value": "DaycareMate",
+                "value": "Clayox",
                 "metric": "Operations Platform",
                 "component": "result_metric"
               }
@@ -225,8 +225,8 @@
             "category": "Full Solution",
             "live_url": "https://bloomwave.ae",
             "component": "case_study_item",
-            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.",
-            "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nDaycareMate",
+            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform.",
+            "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nClayox",
             "case_study_url": "/case-studies/bloomwave-learning-daycare",
             "industry": "Childcare & Education",
             "country": "UAE",
@@ -342,7 +342,7 @@
             "country": "UAE",
             "verified": true,
             "rating": "5",
-            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
             "avatar": {
               "filename": "",
               "alt": ""
@@ -405,7 +405,7 @@
             "_uid": "cs-faq-q2",
             "component": "faq_item",
             "question": "What types of projects do you showcase?",
-            "answer": "Our published case studies cover web development, SEO-driven growth, AI enquiry assistants and vertical product rollouts such as DaycareMate. We focus on outcomes that matter to businesses: leads, conversions, operational efficiency and launch speed.",
+            "answer": "Our published case studies cover web development, SEO-driven growth, AI enquiry assistants and vertical product rollouts such as Clayox. We focus on outcomes that matter to businesses: leads, conversions, operational efficiency and launch speed.",
             "category": "General"
           },
           {
@@ -426,7 +426,7 @@
             "_uid": "cs-faq-q5",
             "component": "faq_item",
             "question": "Can IGENTX deliver a website and AI agent together?",
-            "answer": "Yes. The BloomWave case study is an example of a combined rollout: marketing website, 24/7 AI enquiry assistant and DaycareMate centre operations platform delivered by one team. We regularly combine web development with AI solutions when it supports lead capture and operational efficiency.",
+            "answer": "Yes. The BloomWave case study is an example of a combined rollout: marketing website, 24/7 AI enquiry assistant and Clayox centre operations platform delivered by one team. We regularly combine web development with AI solutions when it supports lead capture and operational efficiency.",
             "category": "AI Solutions"
           },
           {

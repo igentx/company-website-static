@@ -124,18 +124,25 @@
       "lastModified": "2025-11-30T18:43:49.269Z"
     },
     {
-      "slug": "blog/daycaremate-childcare-management-software-guide",
-      "path": "/blog/daycaremate-childcare-management-software-guide",
+      "slug": "blog/clayox-childcare-management-software-guide",
+      "path": "/blog/clayox-childcare-management-software-guide",
       "priority": 0.7,
       "changeFrequency": "weekly",
       "lastModified": "2026-07-23T12:00:00.000Z"
     },
     {
-      "slug": "blog/ai-translation-daycaremate-multilingual-uae",
-      "path": "/blog/ai-translation-daycaremate-multilingual-uae",
+      "slug": "blog/ai-translation-clayox-multilingual-uae",
+      "path": "/blog/ai-translation-clayox-multilingual-uae",
       "priority": 0.7,
       "changeFrequency": "weekly",
       "lastModified": "2026-08-09T12:00:00.000Z"
+    },
+    {
+      "slug": "blog/ai-write-clayox-staff-drafts",
+      "path": "/blog/ai-write-clayox-staff-drafts",
+      "priority": 0.7,
+      "changeFrequency": "weekly",
+      "lastModified": "2026-09-11T12:00:00.000Z"
     },
     {
       "slug": "blog/local-seo-dubai-uae-guide",
@@ -201,8 +208,8 @@
       "lastModified": "2026-07-23T12:00:00.000Z"
     },
     {
-      "slug": "blog/bloomwave-daycaremate-digital-transformation",
-      "path": "/blog/bloomwave-daycaremate-digital-transformation",
+      "slug": "blog/bloomwave-clayox-digital-transformation",
+      "path": "/blog/bloomwave-clayox-digital-transformation",
       "priority": 0.7,
       "changeFrequency": "weekly",
       "lastModified": "2026-07-23T12:00:00.000Z"
@@ -264,8 +271,8 @@
       "lastModified": "2026-07-22T10:27:04.783Z"
     },
     {
-      "slug": "products/daycaremate",
-      "path": "/products/daycaremate",
+      "slug": "products/clayox",
+      "path": "/products/clayox",
       "priority": 0.9,
       "changeFrequency": "monthly",
       "lastModified": "2026-07-22T10:27:04.783Z"

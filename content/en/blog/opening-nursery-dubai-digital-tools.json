@@ -60,7 +60,7 @@
           "cached_url": "/blog"
         },
         "featured_image": {
-          "filename": "/assets/images/daycaremate-dashboard.webp",
+          "filename": "/assets/images/clayox-dashboard.webp",
           "alt": "Digital tools for opening a nursery in Dubai",
           "fieldtype": "asset",
           "is_external_url": false
@@ -98,7 +98,7 @@
               "cached_url": "blog/childcare-management-software-uae-guide"
             },
             "featured_image": {
-              "filename": "/assets/images/daycaremate-hero.webp",
+              "filename": "/assets/images/clayox-hero.webp",
               "alt": "How to Choose Childcare Management Software in the UAE",
               "fieldtype": "asset",
               "is_external_url": false
@@ -107,7 +107,7 @@
           {
             "_uid": "opening-nursery-dubai-digital-tools-rel-1",
             "component": "blog_card",
-            "title": "DaycareMate: Childcare Centre Management Software Guide",
+            "title": "Clayox: Childcare Centre Management Software Guide",
             "excerpt": "Feature overview for admissions, attendance and billing.",
             "category": "Products",
             "author_name": "IGENTX Digital Team",
@@ -116,11 +116,11 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/daycaremate-childcare-management-software-guide"
+              "cached_url": "blog/clayox-childcare-management-software-guide"
             },
             "featured_image": {
-              "filename": "/assets/images/daycaremate-hero.webp",
-              "alt": "DaycareMate: Childcare Centre Management Software Guide",
+              "filename": "/assets/images/clayox-hero.webp",
+              "alt": "Clayox: Childcare Centre Management Software Guide",
               "fieldtype": "asset",
               "is_external_url": false
             }
@@ -128,7 +128,7 @@
           {
             "_uid": "opening-nursery-dubai-digital-tools-rel-2",
             "component": "blog_card",
-            "title": "BloomWave: Digital Transformation with DaycareMate",
+            "title": "BloomWave: Digital Transformation with Clayox",
             "excerpt": "Real-world UAE centre launch with website and operations platform.",
             "category": "Products",
             "author_name": "IGENTX Digital Team",
@@ -137,23 +137,23 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/bloomwave-daycaremate-digital-transformation"
+              "cached_url": "blog/bloomwave-clayox-digital-transformation"
             },
             "featured_image": {
               "filename": "/assets/images/bloomwave-homepage.jpg",
-              "alt": "BloomWave: Digital Transformation with DaycareMate",
+              "alt": "BloomWave: Digital Transformation with Clayox",
               "fieldtype": "asset",
               "is_external_url": false
             }
           }
         ],
         "cta_section_title": "Opening a nursery in Dubai or the UAE?",
-        "cta_section_text": "IGENXT helps early learning centres launch websites, enquiry workflows and DaycareMate operations software in coordinated rollouts.",
-        "cta_button_text": "Explore DaycareMate",
+        "cta_section_text": "IGENXT helps early learning centres launch websites, enquiry workflows and Clayox operations software in coordinated rollouts.",
+        "cta_button_text": "Explore Clayox",
         "cta_button_link": {
-          "url": "/products/daycaremate",
+          "url": "/products/clayox",
           "linktype": "url",
-          "cached_url": "products/daycaremate"
+          "cached_url": "products/clayox"
         },
         "content_blocks": [
           {
@@ -182,7 +182,7 @@
             "_uid": "opening-nursery-dubai-digital-tools-img-1",
             "component": "blog_image",
             "image": {
-              "filename": "/assets/images/daycaremate-hero.webp",
+              "filename": "/assets/images/clayox-hero.webp",
               "alt": "Professional web presence for UAE early learning centres"
             },
             "caption": "A trustworthy website is often the first impression for Dubai nursery parents.",
@@ -209,7 +209,7 @@
           {
             "_uid": "opening-nursery-dubai-digital-tools-b-3",
             "component": "blog_body",
-            "content": "<p>Before enrolment scales, implement childcare management software for attendance, classroom activity, parent messaging and billing. Starting with spreadsheets makes migration painful once you have dozens of families onboard.</p><p><a href=\"/products/daycaremate\">DaycareMate</a> provides Admin, Teacher and Family portals with admissions workflows, invoice-first billing and role-based access. Read our <a href=\"/blog/childcare-management-software-uae-guide\">UAE buyer's guide</a> to compare requirements before you choose a vendor.</p>"
+            "content": "<p>Before enrolment scales, implement childcare management software for attendance, classroom activity, parent messaging and billing. Starting with spreadsheets makes migration painful once you have dozens of families onboard.</p><p><a href=\"/products/clayox\">Clayox</a> provides Admin, Teacher and Family portals with admissions workflows, invoice-first billing and role-based access. Read our <a href=\"/blog/childcare-management-software-uae-guide\">UAE buyer's guide</a> to compare requirements before you choose a vendor.</p>"
           },
           {
             "_uid": "opening-nursery-dubai-digital-tools-h-4",
@@ -248,7 +248,7 @@
           {
             "_uid": "opening-nursery-dubai-digital-tools-faq-2",
             "component": "faq_item",
-            "question": "Can parents book tours through DaycareMate forms?",
+            "question": "Can parents book tours through Clayox forms?",
             "answer": "Embeddable forms capture enquiries and admission interest on your website. They are not a hosted visit-booking page. Your team follows up to schedule tours manually.",
             "category": "General"
           },
@@ -256,7 +256,7 @@
             "_uid": "opening-nursery-dubai-digital-tools-faq-3",
             "component": "faq_item",
             "question": "Does IGENTX help with nursery websites and software together?",
-            "answer": "Yes. We deliver websites, optional AI enquiry assistants and DaycareMate centre operations in coordinated projects, as we did for BloomWave in Abu Dhabi.",
+            "answer": "Yes. We deliver websites, optional AI enquiry assistants and Clayox centre operations in coordinated projects, as we did for BloomWave in Abu Dhabi.",
             "category": "General"
           }
         ]

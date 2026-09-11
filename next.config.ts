@@ -27,6 +27,27 @@ const nextConfig: NextConfig = {
         destination: '/case-studies/dr-door',
         permanent: true,
       },
+      // DaycareMate → Clayox rebrand (product + blogs)
+      {
+        source: '/products/daycaremate',
+        destination: '/products/clayox',
+        permanent: true,
+      },
+      {
+        source: '/blog/daycaremate-childcare-management-software-guide',
+        destination: '/blog/clayox-childcare-management-software-guide',
+        permanent: true,
+      },
+      {
+        source: '/blog/ai-translation-daycaremate-multilingual-uae',
+        destination: '/blog/ai-translation-clayox-multilingual-uae',
+        permanent: true,
+      },
+      {
+        source: '/blog/bloomwave-daycaremate-digital-transformation',
+        destination: '/blog/bloomwave-clayox-digital-transformation',
+        permanent: true,
+      },
     ]
   },
 
@@ -41,7 +62,7 @@ const nextConfig: NextConfig = {
       { source: '/services/:slug+', destination: '/en/services/:slug+' },
       { source: '/products', destination: '/en/products' },
       { source: '/products/ai-customer-service-agent', destination: '/en/products/ai-customer-service-agent' },
-      { source: '/products/daycaremate', destination: '/en/products/daycaremate' },
+      { source: '/products/clayox', destination: '/en/products/clayox' },
       { source: '/case-studies', destination: '/en/case-studies' },
       { source: '/case-studies/moduluxe-group', destination: '/en/case-studies/web-development-uae-startup-moduluxe-group' },
       { source: '/case-studies/dr-door', destination: '/en/case-studies/web-development-startup-dr-door' },

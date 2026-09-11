@@ -8,7 +8,7 @@ IGENXT is an AI-first technology company. We design, build and scale high-perfor
 
 **Tagline:** Build. Launch. Automate. Scale.
 
-**UAE regional hub:** https://www.igentx.com/uae — DaycareMate childcare management software for UAE centres, plus digital agency services (web, ecommerce, branding, SEO, AI) for Dubai and Abu Dhabi businesses.
+**UAE regional hub:** https://www.igentx.com/uae — Clayox childcare management software for UAE centres, plus digital agency services (web, ecommerce, branding, SEO, AI) for Dubai and Abu Dhabi businesses.
 
 ## Value Proposition
 
@@ -42,12 +42,12 @@ Outcome-focused services for businesses that want to build, launch, automate and
 
 ## Products
 
-### DaycareMate (Featured Product)
+### Clayox (Featured Product)
 
 Complete childcare management platform for nurseries, preschools, childcare centres and early learning providers. Admissions, attendance, activity feed, messaging, invoice-first billing, and dedicated Admin, Teacher and Family portals.
 
-- Product page: https://www.igentx.com/products/daycaremate
-- Marketing site: https://daycaremate.com
+- Product page: https://www.igentx.com/products/clayox
+- Marketing site: https://www.clayox.com
 
 ### AI Customer Service Agent
 
@@ -83,7 +83,7 @@ Published case studies demonstrate measurable outcomes (examples, not guaranteed
 
 - **Moduluxe Group** (Abu Dhabi): 300% organic traffic growth in 3 months, 95+ Lighthouse score, bilingual EN/AR website
 - **DrDoor** (India): 200% organic growth, 96 Lighthouse score, 0.6s load time
-- **BloomWave Learning & Daycare** (Abu Dhabi): Integrated bloomwave.ae website, AI enquiry assistant and DaycareMate centre operations in a 2-week rollout
+- **BloomWave Learning & Daycare** (Abu Dhabi): Integrated bloomwave.ae website, AI enquiry assistant and Clayox centre operations in a 2-week rollout
 
 ## Contact
 

@@ -1,6 +1,6 @@
 {
-  "slug": "products/daycaremate",
-  "name": "DaycareMate",
+  "slug": "products/clayox",
+  "name": "Clayox",
   "published_at": "2025-11-26T09:53:40.633Z",
   "content": {
     "_uid": "5a8529bd-34d0-45ad-ac1f-b2f4534379b8",
@@ -8,27 +8,27 @@
       {
         "_uid": "dm-seo-1",
         "component": "seo",
-        "title": "DaycareMate: AI-Powered Childcare Management Software | IGENTX",
+        "title": "Clayox: AI-Powered Childcare Management Software | IGENTX",
         "description": "AI-powered childcare management by IGENTX: admissions, attendance, messaging with built-in translation for multilingual families, and tax-aware billing. Dedicated Admin, Teacher, and Family portals.",
-        "keywords": "AI childcare management software, childcare management software, nursery management system, multilingual parent communication, preschool ERP, DaycareMate translation",
-        "canonical_url": "https://www.igentx.com/products/daycaremate",
+        "keywords": "AI childcare management software, childcare management software, nursery management system, multilingual parent communication, preschool ERP, Clayox translation",
+        "canonical_url": "https://www.igentx.com/products/clayox",
         "robots_index": true,
         "robots_follow": true,
         "og_type": "website",
-        "og_title": "DaycareMate: AI-Powered Childcare Management Software | IGENTX",
+        "og_title": "Clayox: AI-Powered Childcare Management Software | IGENTX",
         "og_description": "AI-powered platform from first enquiry to billing. Built-in translation for multilingual families, plus admissions, attendance, daily care, and invoice-first billing.",
         "og_image": {
-          "filename": "/assets/images/daycaremate-dashboard.webp",
-          "alt": "DaycareMate childcare management dashboard",
+          "filename": "/assets/images/clayox-dashboard.webp",
+          "alt": "Clayox childcare management dashboard",
           "fieldtype": "asset",
           "is_external_url": false
         },
         "twitter_card_type": "summary_large_image",
-        "twitter_title": "DaycareMate | IGENTX",
+        "twitter_title": "Clayox | IGENTX",
         "twitter_description": "AI-powered childcare management by IGENTX: admissions, attendance, messaging with built-in translation, billing, and dedicated portals for admins, teachers, and families.",
         "twitter_image": {
-          "filename": "/assets/images/daycaremate-dashboard.webp",
-          "alt": "DaycareMate childcare management dashboard",
+          "filename": "/assets/images/clayox-dashboard.webp",
+          "alt": "Clayox childcare management dashboard",
           "fieldtype": "asset",
           "is_external_url": false
         },
@@ -42,7 +42,7 @@
         "badge_text": "IGENTX Product",
         "cta_text": "Explore AI translation",
         "cta_link": {
-          "url": "https://daycaremate.com/ai-translation",
+          "url": "https://www.clayox.com/ai-translation",
           "linktype": "url"
         },
         "secondary_cta_text": "Talk to IGENTX",
@@ -57,13 +57,13 @@
         },
         "back_link_label": "Back to Products",
         "featured_image": {
-          "alt": "DaycareMate childcare management dashboard",
-          "filename": "/assets/images/daycaremate-dashboard.webp",
+          "alt": "Clayox childcare management dashboard",
+          "filename": "/assets/images/clayox-dashboard.webp",
           "fieldtype": "asset",
           "is_external_url": false
         },
         "featured_image_opacity": 70,
-        "quick_features": "AI translation included (100+ languages)\nAdmissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing and parent statements\nAdmin, Teacher, and Family portals\nWhite-label branding per centre",
+        "quick_features": "AI translation and Write with AI for staff drafts\nAdmissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing, fee estimates, and parent statements\nStudent ID cards and full lifecycle tools\nAdmin, Teacher, and Family portals",
         "pricing_preview": ""
       },
       {
@@ -156,7 +156,7 @@
             "component": "differentiator_feature",
             "title": "Admissions",
             "highlight": "Magic-link onboarding",
-            "description": "Replace paper forms with configurable admission templates, parent magic-link onboarding, and one-click approval into student records and first invoices.",
+            "description": "Configurable admission form builder with per-program templates and conditional fields, parent magic-link onboarding, staff fill-on-behalf, enrollment fee summary emails, and one-click approval into student records and first invoices.",
             "icon": {
               "filename": "/assets/icons/all-in-one-place.svg",
               "alt": "Admissions",
@@ -192,7 +192,7 @@
             "component": "differentiator_feature",
             "title": "Activity Feed",
             "highlight": "Family trust",
-            "description": "Teachers log meals, naps, learning, mood, and milestones in seconds. Photo attachments reach families through private storage, scoped to authorised parents only.",
+            "description": "Teachers log meals, naps, learning, mood, and milestones in seconds. Optional Write with AI drafts from a short note and/or photos; staff review before posting. Photo attachments reach families through private storage, scoped to authorised parents only.",
             "icon": {
               "filename": "/assets/icons/chat.svg",
               "alt": "Activity feed",
@@ -204,7 +204,7 @@
             "component": "differentiator_feature",
             "title": "Messaging",
             "highlight": "One channel",
-            "description": "1:1 conversations between parents, teachers, and admins, plus broadcasts for closures and reminders. Realtime inbox updates and email notifications when configured.",
+            "description": "1:1 conversations between parents, teachers, and admins, plus broadcasts for closures and reminders. Staff can draft DMs and broadcasts with Write with AI, then review and send. Realtime inbox updates and email notifications when configured.",
             "icon": {
               "filename": "/assets/icons/ai-chat.svg",
               "alt": "Messaging",
@@ -228,7 +228,7 @@
             "component": "differentiator_feature",
             "title": "Billing",
             "highlight": "Invoice-first",
-            "description": "Reusable fee plans, billing runs, parent payment proof workflow, credit notes, and account statements with tax frozen at issue time.",
+            "description": "Reusable fee plans, billing runs, parent payment proof workflow, credit notes, and account statements with tax frozen at issue time. Admins can also run a fee estimator and download a branded PDF estimate with the centre logo.",
             "icon": {
               "filename": "/assets/icons/seo-first.svg",
               "alt": "Billing",
@@ -240,10 +240,58 @@
             "component": "differentiator_feature",
             "title": "Student Lifecycle",
             "highlight": "Full journey",
-            "description": "Manage withdrawal with retention policies, archives, re-enrollment for returning families, and program promotion to the next classroom.",
+            "description": "Manage withdrawal with retention policies, archives, re-enrollment for returning families, and program promotion to the next classroom. Printable student ID cards with custom templates, PDF preview, and single or bulk generation.",
             "icon": {
               "filename": "/assets/icons/flexible.svg",
               "alt": "Student lifecycle",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-write-ai",
+            "component": "differentiator_feature",
+            "title": "Write with AI",
+            "highlight": "Staff drafts only",
+            "description": "Optional drafts for activities (from a note and/or up to 4 photos), progress summaries, staff notes, DMs, and broadcasts. Staff always review before posting or sending. Parents never see Write with AI; they use Translate when they need another language.",
+            "icon": {
+              "filename": "/assets/icons/ai-chat.svg",
+              "alt": "Write with AI",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-id-cards",
+            "component": "differentiator_feature",
+            "title": "Student ID Cards",
+            "highlight": "Print-ready PDFs",
+            "description": "Design custom ID card templates for your centre, preview with sample or selected students, and generate single-card or bulk PDFs for printing.",
+            "icon": {
+              "filename": "/assets/icons/accessible.svg",
+              "alt": "Student ID cards",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-admin-tools",
+            "component": "differentiator_feature",
+            "title": "Admin Tools",
+            "highlight": "Fee estimates and ops helpers",
+            "description": "Fee estimator with branded PDF download for program and add-on combinations. Quick helpers also cover age and program eligibility checks, classroom occupancy snapshots, and compliance CSV exports for licensing packs.",
+            "icon": {
+              "filename": "/assets/icons/seo-first.svg",
+              "alt": "Admin tools",
+              "fieldtype": "asset"
+            }
+          },
+          {
+            "_uid": "dm-f-help-center",
+            "component": "differentiator_feature",
+            "title": "Help Center",
+            "highlight": "In-app guidance",
+            "description": "Role-specific guides for admins, teachers, and parents so teams can learn workflows inside Clayox without leaving the portal.",
+            "icon": {
+              "filename": "/assets/icons/chat.svg",
+              "alt": "Help Center",
               "fieldtype": "asset"
             }
           },
@@ -274,8 +322,8 @@
         ],
         "show_speed_comparison": true,
         "speed_comparison_title": "The Difference an Integrated Platform Makes",
-        "speed_comparison_description": "See how DaycareMate replaces fragmented tools with one system built for early childhood education operations.",
-        "traditional_approach_title": "Without DaycareMate",
+        "speed_comparison_description": "See how Clayox replaces fragmented tools with one system built for early childhood education operations.",
+        "traditional_approach_title": "Without Clayox",
         "traditional_approach_points": [
           {
             "_uid": "dm-tap1",
@@ -309,7 +357,7 @@
           }
         ],
         "igentx_advantage_label": "IGENTX Advantage",
-        "igentx_approach_title": "With DaycareMate",
+        "igentx_approach_title": "With Clayox",
         "igentx_approach_points": [
           {
             "_uid": "dm-iap1",
@@ -349,7 +397,7 @@
             "_uid": "dm-portal-admin",
             "component": "uae_signal_item",
             "title": "Admin Portal",
-            "description": "Admissions, billing runs, staff management, leads pipeline, and centre-wide reporting.",
+            "description": "Admissions, billing runs, staff management, leads pipeline, admin tools, Help Center, and centre-wide reporting.",
             "icon": {
               "filename": "/assets/icons/all-in-one-place.svg",
               "alt": "Admin portal",
@@ -395,7 +443,7 @@
         "_uid": "dm-process-001",
         "component": "igentx_services",
         "title": "How It Works",
-        "description": "From the first family enquiry to daily operations and billing, DaycareMate keeps every step in one system.",
+        "description": "From the first family enquiry to daily operations and billing, Clayox keeps every step in one system.",
         "services": [],
         "show_tech_stack": false,
         "process_title": "How It Works",
@@ -420,7 +468,7 @@
             "component": "process_step",
             "title": "Run Daily Operations",
             "duration": "Every day",
-            "description": "Track attendance, log activities, and keep families updated through the activity feed and messaging."
+            "description": "Track attendance, log activities with optional Write with AI drafts, and keep families updated through the activity feed and messaging."
           },
           {
             "_uid": "dm-ps4",
@@ -521,10 +569,10 @@
         "_uid": "dm-cta-band-001",
         "component": "igentx_cta_band",
         "title": "Ready to simplify centre operations and family engagement?",
-        "description": "Explore DaycareMate for your centre, or talk to IGENTX about implementation and support. See how BloomWave Learning and Daycare launched with DaycareMate in our case study.",
-        "primary_cta_text": "Visit daycaremate.com",
+        "description": "Explore Clayox for your centre, or talk to IGENTX about implementation and support. See how BloomWave Learning and Daycare launched with Clayox in our case study.",
+        "primary_cta_text": "Visit clayox.com",
         "primary_cta_link": {
-          "url": "https://daycaremate.com",
+          "url": "https://www.clayox.com",
           "linktype": "url"
         },
         "secondary_cta_text": "Book a Free Consultation",
@@ -538,35 +586,35 @@
         "_uid": "dm-faq-1",
         "component": "faq",
         "faq_title": "Frequently Asked Questions",
-        "faq_description": "Common questions about DaycareMate, admissions, operations, billing, and platform setup.",
+        "faq_description": "Common questions about Clayox, admissions, operations, billing, and platform setup.",
         "initial_visible_count": 8,
         "faqs": [
           {
             "_uid": "dm-faq-q1",
             "component": "faq_item",
-            "question": "Is DaycareMate only for UAE centres?",
-            "answer": "No. DaycareMate is built for early childhood education providers worldwide. Currency, timezone, and tax/VAT are configurable per deployment. The UAE is our primary market, not the geographic limit of the product.",
+            "question": "Is Clayox only for UAE centres?",
+            "answer": "No. Clayox is built for early childhood education providers worldwide. Currency, timezone, and tax/VAT are configurable per deployment. The UAE is our primary market, not the geographic limit of the product.",
             "category": "General"
           },
           {
             "_uid": "dm-faq-q2",
             "component": "faq_item",
-            "question": "Who is DaycareMate for?",
-            "answer": "DaycareMate serves preschools, nurseries, childcare centres, early learning centres, Montessori schools, kindergartens, and playschools. It is designed for centres that need admissions, daily care, family communication, and billing in one platform.",
+            "question": "Who is Clayox for?",
+            "answer": "Clayox serves preschools, nurseries, childcare centres, early learning centres, Montessori schools, kindergartens, and playschools. It is designed for centres that need admissions, daily care, family communication, and billing in one platform.",
             "category": "General"
           },
           {
             "_uid": "dm-faq-q3",
             "component": "faq_item",
             "question": "How does magic-link admission onboarding work?",
-            "answer": "Admins send a one-shot magic-link invite to a parent's email. Parents complete configurable admission forms at their own pace, including child, guardian, sibling, and document upload steps. Staff review and approve in one click, which creates student records and first invoices.",
+            "answer": "Admins send a one-shot magic-link invite to a parent's email. Parents complete configurable admission forms at their own pace, including child, guardian, sibling, and document upload steps. Staff can fill forms on behalf of families when needed, email an enrollment fee summary, then approve in one click to create student records and first invoices.",
             "category": "Admissions"
           },
           {
             "_uid": "dm-faq-q4",
             "component": "faq_item",
             "question": "Can we embed enquiry forms on our existing website?",
-            "answer": "Yes. DaycareMate provides embeddable enquiry forms for lead capture on your centre website, plus a hosted register page alternative. Leads land in your admin lead board with consent proof. This is enquiry and lead capture, not a hosted visit booking page.",
+            "answer": "Yes. Clayox provides embeddable enquiry forms for lead capture on your centre website, plus a hosted register page alternative. Leads land in your admin lead board with consent proof. This is enquiry and lead capture, not a hosted visit booking page.",
             "category": "Admissions"
           },
           {
@@ -593,14 +641,14 @@
           {
             "_uid": "dm-faq-q7b",
             "component": "faq_item",
-            "question": "What does white-label mean for DaycareMate?",
-            "answer": "White-label means the software runs under your centre's brand, not the vendor's. Your centre name, logo, and favicon appear on your dedicated deployment, and invoice PDFs carry your branding. Parents and staff experience your centre's identity; DaycareMate powers the platform behind the scenes.",
+            "question": "What does white-label mean for Clayox?",
+            "answer": "White-label means the software runs under your centre's brand, not the vendor's. Your centre name, logo, and favicon appear on your dedicated deployment, and invoice PDFs carry your branding. Parents and staff experience your centre's identity; Clayox powers the platform behind the scenes.",
             "category": "Platform"
           },
           {
             "_uid": "dm-faq-q7c",
             "component": "faq_item",
-            "question": "Is DaycareMate white-labelled for each centre?",
+            "question": "Is Clayox white-labelled for each centre?",
             "answer": "Yes. Each centre gets a dedicated deployment with your branding: centre name, logo, favicon, and branded invoice and receipt PDFs. Your families experience your centre's identity on a platform built for early childhood operations.",
             "category": "Platform"
           },
@@ -608,21 +656,42 @@
             "_uid": "dm-faq-q8",
             "component": "faq_item",
             "question": "What roles and permissions are supported?",
-            "answer": "DaycareMate includes 8-role role-based access control with granular permissions across Admin, Teacher, and Family portals. Staff, classroom, and billing access can be scoped to each centre's needs.",
+            "answer": "Clayox includes 8-role role-based access control with granular permissions across Admin, Teacher, and Family portals. Staff, classroom, and billing access can be scoped to each centre's needs.",
             "category": "Platform"
+          },
+          {
+            "_uid": "dm-faq-write-ai",
+            "component": "faq_item",
+            "question": "What is Write with AI, and does it auto-post?",
+            "answer": "Write with AI drafts staff content for activities, progress summaries, staff notes, DMs, and broadcasts. It never auto-posts or auto-sends. Staff review and edit before anything reaches families. Parents do not see Write with AI; they use on-demand Translate when they need another language. Learn more at clayox.com/ai-write-childcare-updates.",
+            "category": "AI Solutions"
+          },
+          {
+            "_uid": "dm-faq-payments",
+            "component": "faq_item",
+            "question": "Do you support online card payment gateways?",
+            "answer": "Not yet. Clayox supports invoice-first billing with parent payment proof submissions and manual payment recording by admins. Automated card and online payment gateways are on the roadmap, not available today.",
+            "category": "Billing"
+          },
+          {
+            "_uid": "dm-faq-id-cards",
+            "component": "faq_item",
+            "question": "Can we print student ID cards?",
+            "answer": "Yes. Admins can design custom ID card templates, preview PDFs with sample or selected students, and generate single-card or bulk print-ready PDFs.",
+            "category": "Operations"
           },
           {
             "_uid": "dm-faq-q9a",
             "component": "faq_item",
-            "question": "Is AI translation included in DaycareMate?",
+            "question": "Is AI translation included in Clayox?",
             "answer": "Yes. AI translation is included for normal daycare use. Parents and staff can tap Translate on messages, broadcasts, and activity updates in 100+ languages. Preferred language is saved on user profiles for one-tap translate.",
             "category": "AI Solutions"
           },
           {
             "_uid": "dm-faq-q9b",
             "component": "faq_item",
-            "question": "How many languages does DaycareMate translation support?",
-            "answer": "DaycareMate supports the full ISO 639-1 language list (100+ languages). Twenty popular languages for UAE and international nurseries are listed first; search finds the rest. Learn more at daycaremate.com/ai-translation.",
+            "question": "How many languages does Clayox translation support?",
+            "answer": "Clayox supports the full ISO 639-1 language list (100+ languages). Twenty popular languages for UAE and international nurseries are listed first; search finds the rest. Learn more at clayox.com/ai-translation.",
             "category": "AI Solutions"
           },
           {
@@ -649,8 +718,8 @@
           {
             "_uid": "dm-faq-q12",
             "component": "faq_item",
-            "question": "How do I get started with DaycareMate?",
-            "answer": "Visit daycaremate.com to explore the product and request a demo. For implementation support, custom rollout, or combining DaycareMate with website and AI enquiry solutions, talk to the IGENTX team.",
+            "question": "How do I get started with Clayox?",
+            "answer": "Visit clayox.com to explore the product and request a demo. For implementation support, custom rollout, or combining Clayox with website and AI enquiry solutions, talk to the IGENTX team.",
             "category": "General"
           }
         ]

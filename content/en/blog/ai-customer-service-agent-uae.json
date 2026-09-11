@@ -98,7 +98,7 @@
             "_uid": "rel-bloomwave",
             "component": "blog_card",
             "title": "BloomWave Digital Transformation",
-            "excerpt": "Website, AI agent and DaycareMate rollout.",
+            "excerpt": "Website, AI agent and Clayox rollout.",
             "category": "Products",
             "author_name": "IGENTX Digital Team",
             "publish_date": "2026-07-23",
@@ -106,7 +106,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/bloomwave-daycaremate-digital-transformation"
+              "cached_url": "blog/bloomwave-clayox-digital-transformation"
             },
             "featured_image": {
               "filename": "/assets/images/bloomwave-homepage.jpg",
@@ -130,7 +130,7 @@
               "cached_url": "blog/childcare-management-software-uae-guide"
             },
             "featured_image": {
-              "filename": "/assets/images/daycaremate-hero.webp",
+              "filename": "/assets/images/clayox-hero.webp",
               "alt": "Childcare Management Software UAE Guide",
               "fieldtype": "asset",
               "is_external_url": false

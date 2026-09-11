@@ -25,7 +25,7 @@ const PAGES = [
   { file: 'app/[lang]/services/seo-service-uae/page.tsx', slug: 'services/seo-service-uae', path: '/services/seo-service-uae', name: 'SeoServiceUaePage' },
   { file: 'app/[lang]/uae/page.tsx', slug: 'uae', path: '/uae', name: 'UaeHubPage' },
   { file: 'app/[lang]/products/page.tsx', slug: 'products-landing-page', path: '/products', name: 'ProductsLandingPage' },
-  { file: 'app/[lang]/products/daycaremate/page.tsx', slug: 'products/daycaremate', path: '/products/daycaremate', name: 'DaycareMateProductPage' },
+  { file: 'app/[lang]/products/clayox/page.tsx', slug: 'products/clayox', path: '/products/clayox', name: 'ClayoxProductPage' },
   { file: 'app/[lang]/case-studies/page.tsx', slug: 'case-studies-landing-page', path: '/case-studies', name: 'CaseStudiesPage' },
   { file: 'app/[lang]/case-studies/web-development-uae-startup-moduluxe-group/page.tsx', slug: 'case-studies/web-development-uae-startup-moduluxe-group', path: '/case-studies/moduluxe-group', name: 'ModuluxeCaseStudyPage' },
   { file: 'app/[lang]/products/ai-customer-service-agent/page.tsx', slug: 'products/ai-customer-service-agent', path: '/products/ai-customer-service-agent', name: 'AiCustomerServiceAgentPage', extraImports: "import AutoClickChatFab from '@/components/ui/AutoClickChatFab'", extraBody: '<AutoClickChatFab />', wrapperClass: 'min-h-screen bg-white' },
@@ -37,7 +37,10 @@ const PAGES = [
   { file: 'app/[lang]/blog/how-to-choose-best-web-development-agency-uae/page.tsx', slug: 'blog/how-to-choose-best-web-development-agency-uae', path: '/blog/how-to-choose-best-web-development-agency-uae', name: 'BlogChooseAgencyPage' },
   { file: 'app/[lang]/blog/web-development-uae/page.tsx', slug: 'blog/web-development-uae', path: '/blog/web-development-uae', name: 'BlogWebDevUaePage' },
   { file: 'app/[lang]/blog/ai-customer-service-agent-uae/page.tsx', slug: 'blog/ai-customer-service-agent-uae', path: '/blog/ai-customer-service-agent-uae', name: 'BlogAiAgentUaePage' },
-  { file: 'app/[lang]/blog/daycaremate-childcare-management-software-guide/page.tsx', slug: 'blog/daycaremate-childcare-management-software-guide', path: '/blog/daycaremate-childcare-management-software-guide', name: 'BlogDaycareMateGuidePage' },
+  { file: 'app/[lang]/blog/clayox-childcare-management-software-guide/page.tsx', slug: 'blog/clayox-childcare-management-software-guide', path: '/blog/clayox-childcare-management-software-guide', name: 'BlogClayoxGuidePage' },
+  { file: 'app/[lang]/blog/ai-translation-clayox-multilingual-uae/page.tsx', slug: 'blog/ai-translation-clayox-multilingual-uae', path: '/blog/ai-translation-clayox-multilingual-uae', name: 'BlogClayoxTranslationPage' },
+  { file: 'app/[lang]/blog/ai-write-clayox-staff-drafts/page.tsx', slug: 'blog/ai-write-clayox-staff-drafts', path: '/blog/ai-write-clayox-staff-drafts', name: 'BlogClayoxWriteAiPage' },
+  { file: 'app/[lang]/blog/bloomwave-clayox-digital-transformation/page.tsx', slug: 'blog/bloomwave-clayox-digital-transformation', path: '/blog/bloomwave-clayox-digital-transformation', name: 'BlogBloomwaveClayoxDigitalTransformationPage' },
 ]
 
 function generatePage({ slug, path: canonicalPath, name, extraImports = '', extraBody = '', wrapperClass = 'min-h-screen' }) {

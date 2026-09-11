@@ -57,15 +57,15 @@
             "title": "Products",
             "links": [
               {
-                "_uid": "fl-DaycareMate",
+                "_uid": "fl-Clayox",
                 "component": "footer_links",
-                "label": "DaycareMate",
+                "label": "Clayox",
                 "link": {
                   "id": "",
-                  "url": "products/daycaremate",
+                  "url": "products/clayox",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "products/daycaremate"
+                  "cached_url": "products/clayox"
                 }
               },
               {
@@ -196,10 +196,10 @@
                 "label": "Education & Childcare",
                 "link": {
                   "id": "",
-                  "url": "products/daycaremate",
+                  "url": "products/clayox",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "products/daycaremate"
+                  "cached_url": "products/clayox"
                 }
               },
               {

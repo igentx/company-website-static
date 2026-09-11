@@ -10,7 +10,7 @@
         "title": "BloomWave: Integrated Web, AI Enquiries & Centre Operations | IGENTX Case Study",
         "author": "IGENTX",
         "og_type": "article",
-        "keywords": "childcare case study, Storyblok, AI customer service agent, DaycareMate, bloomwave.ae, early learning centre UAE",
+        "keywords": "childcare case study, Storyblok, AI customer service agent, Clayox, bloomwave.ae, early learning centre UAE",
         "og_image": {
           "filename": "/assets/images/bloomwave-homepage.jpg",
           "alt": "BloomWave Learning & Daycare website homepage",
@@ -19,7 +19,7 @@
         "og_title": "BloomWave: Integrated Web, AI Enquiries & Centre Operations | IGENTX Case Study",
         "component": "seo",
         "publisher": "IGENTX",
-        "description": "How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform in one integrated rollout.",
+        "description": "How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform in one integrated rollout.",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/case-studies/bloomwave-learning-daycare",
         "robots_follow": true,
@@ -30,14 +30,14 @@
         },
         "twitter_title": "BloomWave: Integrated Web, AI Enquiries & Centre Operations | IGENTX Case Study",
         "article_author": "IGENTX",
-        "og_description": "How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform in one integrated rollout.",
+        "og_description": "How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform in one integrated rollout.",
         "robots_nosnippet": false,
         "robots_noarchive": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform in one integrated rollout.",
+        "twitter_description": "How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform in one integrated rollout.",
         "structured_data_type": "CaseStudy",
         "article_published_time": "2025-07-01 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"CaseStudy\",\n      \"headline\": \"BloomWave: Integrated Web, AI Enquiries and Centre Operations\",\n      \"description\": \"How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.\",\n      \"image\": \"https://www.igentx.com/assets/images/bloomwave-homepage.jpg\",\n      \"datePublished\": \"2025-07-01\",\n      \"author\": { \"@type\": \"Organization\", \"name\": \"IGENTX\", \"url\": \"https://www.igentx.com\" },\n      \"publisher\": { \"@type\": \"Organization\", \"name\": \"IGENTX\", \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\" } },\n      \"mainEntityOfPage\": { \"@type\": \"WebPage\", \"@id\": \"https://www.igentx.com/case-studies/bloomwave-learning-daycare\" },\n      \"review\": {\n        \"@type\": \"Review\",\n        \"author\": { \"@type\": \"Person\", \"name\": \"Ajas Muhammed\" },\n        \"reviewBody\": \"IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.\"\n      }\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [\n        { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Home\", \"item\": \"https://www.igentx.com\" },\n        { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Case Studies\", \"item\": \"https://www.igentx.com/case-studies\" },\n        { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"BloomWave Learning & Daycare\", \"item\": \"https://www.igentx.com/case-studies/bloomwave-learning-daycare\" }\n      ]\n    }\n  ]\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"CaseStudy\",\n      \"headline\": \"BloomWave: Integrated Web, AI Enquiries and Centre Operations\",\n      \"description\": \"How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform.\",\n      \"image\": \"https://www.igentx.com/assets/images/bloomwave-homepage.jpg\",\n      \"datePublished\": \"2025-07-01\",\n      \"author\": { \"@type\": \"Organization\", \"name\": \"IGENTX\", \"url\": \"https://www.igentx.com\" },\n      \"publisher\": { \"@type\": \"Organization\", \"name\": \"IGENTX\", \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\" } },\n      \"mainEntityOfPage\": { \"@type\": \"WebPage\", \"@id\": \"https://www.igentx.com/case-studies/bloomwave-learning-daycare\" },\n      \"review\": {\n        \"@type\": \"Review\",\n        \"author\": { \"@type\": \"Person\", \"name\": \"Ajas Muhammed\" },\n        \"reviewBody\": \"IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.\"\n      }\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [\n        { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Home\", \"item\": \"https://www.igentx.com\" },\n        { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Case Studies\", \"item\": \"https://www.igentx.com/case-studies\" },\n        { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"BloomWave Learning & Daycare\", \"item\": \"https://www.igentx.com/case-studies/bloomwave-learning-daycare\" }\n      ]\n    }\n  ]\n}"
       },
       {
         "_uid": "55de508b-9ac1-46e0-8cb8-4d4606044fdb",
@@ -90,7 +90,7 @@
               "type": "paragraph",
               "content": [
                 {
-                  "text": "IGENTX delivered bloomwave.ae on Next.js with Storyblok CMS for easy content updates, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries, and implemented whitelabel DaycareMate as the centre operations platform for admissions and daily care.",
+                  "text": "IGENTX delivered bloomwave.ae on Next.js with Storyblok CMS for easy content updates, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries, and implemented whitelabel Clayox as the centre operations platform for admissions and daily care.",
                   "type": "text"
                 }
               ]
@@ -99,7 +99,7 @@
         },
         "category": "Full Solution",
         "challenge": "BloomWave needed a trustworthy marketing site, after-hours parent enquiry capture, and a single system for admissions and daily operations, without juggling spreadsheets and separate apps.",
-        "solution": "IGENTX delivered bloomwave.ae on Next.js and Storyblok, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries with manual lead conversion to the admin dashboard, and implemented DaycareMate as the whitelabel centre operations platform.",
+        "solution": "IGENTX delivered bloomwave.ae on Next.js and Storyblok, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries with manual lead conversion to the admin dashboard, and implemented Clayox as the whitelabel centre operations platform.",
         "outcome": "BloomWave now has a professional parent-facing presence on bloomwave.ae, captures enquiries outside office hours through the AI assistant, and manages admissions and daily operations in one platform. One team delivered the full stack in a two-week rollout.",
         "component": "case_study_detail",
         "client_logo": {
@@ -119,11 +119,11 @@
           "Next.js",
           "Storyblok",
           "IGENTX AI Agent",
-          "DaycareMate",
+          "Clayox",
           "Tailwind CSS"
         ],
         "service_links": [
-          { "label": "DaycareMate", "url": "/products/daycaremate" },
+          { "label": "Clayox", "url": "/products/clayox" },
           { "label": "AI Customer Service Agent", "url": "/products/ai-customer-service-agent" },
           { "label": "Web Development UAE", "url": "/services/web-development-uae" }
         ],
@@ -154,11 +154,11 @@
             "label": "Operations unified",
             "value": "1 platform",
             "component": "metric_item",
-            "description": "Admissions, attendance and family communication managed through whitelabel DaycareMate instead of separate tools."
+            "description": "Admissions, attendance and family communication managed through whitelabel Clayox instead of separate tools."
           }
         ],
         "testimonial_role": "Managing Director, BloomWave Learning & Daycare",
-        "testimonial_text": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+        "testimonial_text": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
         "testimonial_author": "Ajas Muhammed"
       },
       {

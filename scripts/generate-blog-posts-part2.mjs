@@ -494,7 +494,7 @@ const POSTS = [
     sections: [
       {
         heading: 'When custom software beats off-the-shelf',
-        body: '<p>Many UAE businesses start with spreadsheets and generic SaaS. That works until workflows become unique, integrations multiply or compliance requirements do not fit standard products.</p><p>Custom software makes sense when you need:</p><ul><li><strong>Proprietary workflows</strong> that differentiate your service or operations.</li><li><strong>Deep integrations</strong> with ERP, payment, CRM or industry systems.</li><li><strong>Data ownership</strong> and deployment control for regulated or multi-country operations.</li><li><strong>Vertical platforms</strong> you may productise later, similar to how IGENTX built <a href="/products/daycaremate">DaycareMate</a> for early childhood education centres.</li></ul>',
+        body: '<p>Many UAE businesses start with spreadsheets and generic SaaS. That works until workflows become unique, integrations multiply or compliance requirements do not fit standard products.</p><p>Custom software makes sense when you need:</p><ul><li><strong>Proprietary workflows</strong> that differentiate your service or operations.</li><li><strong>Deep integrations</strong> with ERP, payment, CRM or industry systems.</li><li><strong>Data ownership</strong> and deployment control for regulated or multi-country operations.</li><li><strong>Vertical platforms</strong> you may productise later, similar to how IGENTX built <a href="/products/clayox">Clayox</a> for early childhood education centres.</li></ul>',
       },
       {
         heading: 'Scoping for outcomes, not feature lists',
@@ -645,7 +645,7 @@ const POSTS = [
       'childcare management software UAE, nursery software Dubai, preschool management system UAE, early learning centre software, nursery ERP UAE',
     category: 'Products',
     readingTime: '8 min read',
-    image: '/assets/images/daycaremate-hero.webp',
+    image: '/assets/images/clayox-hero.webp',
     imageAlt: 'Guide to choosing childcare management software for UAE centres',
     excerpt:
       'UAE nurseries and early learning centres need software that handles admissions, daily operations, family communication and billing in one workflow. This buyer\'s guide helps you evaluate vendors, avoid common pitfalls and choose a platform that fits your centre.',
@@ -656,9 +656,9 @@ const POSTS = [
     ],
     ctaTitle: 'Shortlisting centre management software?',
     ctaText:
-      'Compare your requirements with DaycareMate, IGENTX\'s platform for nurseries, preschools and early learning providers worldwide, with the UAE as our primary market.',
-    ctaButton: 'Explore DaycareMate',
-    ctaLink: '/products/daycaremate',
+      'Compare your requirements with Clayox, IGENTX\'s platform for nurseries, preschools and early learning providers worldwide, with the UAE as our primary market.',
+    ctaButton: 'Explore Clayox',
+    ctaLink: '/products/clayox',
     finalCtaTitle: 'Need help choosing centre software in the UAE?',
     finalCtaDescription:
       'Book a free consultation to walk through your admissions, operations and billing requirements with the IGENTX team.',
@@ -671,19 +671,19 @@ const POSTS = [
         title: 'Opening a Nursery in Dubai: Essential Digital Tools',
         excerpt: 'Website, enquiry capture and centre software for new nursery owners.',
         category: 'Products',
-        image: '/assets/images/daycaremate-dashboard.webp',
+        image: '/assets/images/clayox-dashboard.webp',
       },
       {
-        slug: 'daycaremate-childcare-management-software-guide',
-        title: 'DaycareMate: Childcare Centre Management Software Guide',
-        excerpt: 'Deep dive into DaycareMate features for admissions, attendance and billing.',
+        slug: 'clayox-childcare-management-software-guide',
+        title: 'Clayox: Childcare Centre Management Software Guide',
+        excerpt: 'Deep dive into Clayox features for admissions, attendance and billing.',
         category: 'Products',
         date: '2026-07-23',
-        image: '/assets/images/daycaremate-hero.webp',
+        image: '/assets/images/clayox-hero.webp',
       },
       {
-        slug: 'bloomwave-daycaremate-digital-transformation',
-        title: 'BloomWave: Digital Transformation with DaycareMate',
+        slug: 'bloomwave-clayox-digital-transformation',
+        title: 'BloomWave: Digital Transformation with Clayox',
         excerpt: 'How one UAE centre launched website, AI enquiries and operations software.',
         category: 'Products',
         image: '/assets/images/bloomwave-homepage.jpg',
@@ -692,7 +692,7 @@ const POSTS = [
     sections: [
       {
         heading: 'Why UAE centres need purpose-built software',
-        body: '<p>Nurseries, preschools and early learning centres in the UAE juggle admissions enquiries, classroom operations, parent communication and billing under tight timelines. Spreadsheets and messaging apps break down as enrolment grows.</p><p>Purpose-built childcare management software connects these workflows so staff spend less time on admin and families get clearer, more professional communication. The right platform supports your team from first enquiry through daily care and invoicing.</p><p>This guide helps buyers evaluate options. For a detailed look at IGENTX\'s platform, see the <a href="/blog/daycaremate-childcare-management-software-guide">DaycareMate product guide</a>, which covers feature depth rather than vendor selection criteria.</p>',
+        body: '<p>Nurseries, preschools and early learning centres in the UAE juggle admissions enquiries, classroom operations, parent communication and billing under tight timelines. Spreadsheets and messaging apps break down as enrolment grows.</p><p>Purpose-built childcare management software connects these workflows so staff spend less time on admin and families get clearer, more professional communication. The right platform supports your team from first enquiry through daily care and invoicing.</p><p>This guide helps buyers evaluate options. For a detailed look at IGENTX\'s platform, see the <a href="/blog/clayox-childcare-management-software-guide">Clayox product guide</a>, which covers feature depth rather than vendor selection criteria.</p>',
       },
       {
         heading: 'Define your requirements before demos',
@@ -701,7 +701,7 @@ const POSTS = [
       {
         heading: 'Admissions and lead capture in the UAE context',
         body: '<p>Enquiries arrive from your website, walk-ins, referrals and campaigns. Software should centralise leads on an admin board with clear status tracking and one-click conversion to admissions.</p><p>Look for <strong>embeddable enquiry and admission forms</strong> you can place on your existing website. These forms capture interest and consent: they are not a hosted visit-booking page. Some centres also deploy an optional <strong>AI website enquiry assistant</strong> that answers common questions 24/7.</p><p>Important: AI conversations should be reviewed by your team, and qualified enquiries converted to pipeline leads <strong>manually</strong>. Do not assume automatic CRM creation without staff oversight.</p>',
-        image: '/assets/images/daycaremate-dashboard.webp',
+        image: '/assets/images/clayox-dashboard.webp',
         imageAlt: 'Childcare centre admin dashboard for admissions and operations',
         caption: 'Centralised admissions and operations reduce manual follow-up for UAE centre teams.',
       },
@@ -711,13 +711,13 @@ const POSTS = [
       },
       {
         heading: 'Evaluate vendors and plan rollout',
-        body: '<p>Request references from similar centre sizes in your region. Pilot with one classroom or programme before full rollout. Train front desk and teachers separately: they use different parts of the system daily.</p><p><a href="/products/daycaremate">DaycareMate</a> is built by IGENTX for early childhood education centres worldwide, with dedicated deployments and Admin, Teacher and Family portals. Read how <a href="/case-studies/bloomwave-learning-daycare">BloomWave Learning and Daycare</a> combined website, enquiry capture and DaycareMate in one rollout.</p><p><a href="/contact">Book a free consultation</a> to compare your shortlist or plan a DaycareMate demo for your UAE centre.</p>',
+        body: '<p>Request references from similar centre sizes in your region. Pilot with one classroom or programme before full rollout. Train front desk and teachers separately: they use different parts of the system daily.</p><p><a href="/products/clayox">Clayox</a> is built by IGENTX for early childhood education centres worldwide, with dedicated deployments and Admin, Teacher and Family portals. Read how <a href="/case-studies/bloomwave-learning-daycare">BloomWave Learning and Daycare</a> combined website, enquiry capture and Clayox in one rollout.</p><p><a href="/contact">Book a free consultation</a> to compare your shortlist or plan a Clayox demo for your UAE centre.</p>',
       },
     ],
     faqs: [
       {
-        q: 'What is the difference between this guide and the DaycareMate product guide?',
-        a: 'This article helps UAE buyers evaluate any childcare management software against their workflow. The DaycareMate guide explains IGENTX platform features in detail for centres considering our product specifically.',
+        q: 'What is the difference between this guide and the Clayox product guide?',
+        a: 'This article helps UAE buyers evaluate any childcare management software against their workflow. The Clayox guide explains IGENTX platform features in detail for centres considering our product specifically.',
       },
       {
         q: 'Do UAE nurseries need Arabic support in centre software?',
@@ -729,7 +729,7 @@ const POSTS = [
       },
       {
         q: 'Does AI automatically enrol families from website chat?',
-        a: 'Responsible implementations review AI conversations and convert qualified enquiries manually. DaycareMate and IGENTX AI assistants follow this pattern rather than auto-creating enrolments without staff approval.',
+        a: 'Responsible implementations review AI conversations and convert qualified enquiries manually. Clayox and IGENTX AI assistants follow this pattern rather than auto-creating enrolments without staff approval.',
       },
     ],
   },
@@ -743,7 +743,7 @@ const POSTS = [
       'opening a nursery Dubai, nursery setup UAE, childcare centre digital tools, nursery website Dubai, early learning centre launch UAE',
     category: 'Products',
     readingTime: '7 min read',
-    image: '/assets/images/daycaremate-dashboard.webp',
+    image: '/assets/images/clayox-dashboard.webp',
     imageAlt: 'Digital tools for opening a nursery in Dubai',
     excerpt:
       'Opening a nursery in Dubai means more than licensing and fit-out. This checklist covers the digital tools you need from day one: a trustworthy website, enquiry capture, centre operations software and parent communication that scales.',
@@ -754,9 +754,9 @@ const POSTS = [
     ],
     ctaTitle: 'Opening a nursery in Dubai or the UAE?',
     ctaText:
-      'IGENXT helps early learning centres launch websites, enquiry workflows and DaycareMate operations software in coordinated rollouts.',
-    ctaButton: 'Explore DaycareMate',
-    ctaLink: '/products/daycaremate',
+      'IGENXT helps early learning centres launch websites, enquiry workflows and Clayox operations software in coordinated rollouts.',
+    ctaButton: 'Explore Clayox',
+    ctaLink: '/products/clayox',
     finalCtaTitle: 'Planning your nursery launch?',
     finalCtaDescription:
       'Book a free consultation to map your digital stack from website through centre operations.',
@@ -769,19 +769,19 @@ const POSTS = [
         title: 'How to Choose Childcare Management Software in the UAE',
         excerpt: 'Buyer guide for evaluating nursery and preschool software vendors.',
         category: 'Products',
-        image: '/assets/images/daycaremate-hero.webp',
+        image: '/assets/images/clayox-hero.webp',
       },
       {
-        slug: 'daycaremate-childcare-management-software-guide',
-        title: 'DaycareMate: Childcare Centre Management Software Guide',
+        slug: 'clayox-childcare-management-software-guide',
+        title: 'Clayox: Childcare Centre Management Software Guide',
         excerpt: 'Feature overview for admissions, attendance and billing.',
         category: 'Products',
         date: '2026-07-23',
-        image: '/assets/images/daycaremate-hero.webp',
+        image: '/assets/images/clayox-hero.webp',
       },
       {
-        slug: 'bloomwave-daycaremate-digital-transformation',
-        title: 'BloomWave: Digital Transformation with DaycareMate',
+        slug: 'bloomwave-clayox-digital-transformation',
+        title: 'BloomWave: Digital Transformation with Clayox',
         excerpt: 'Real-world UAE centre launch with website and operations platform.',
         category: 'Products',
         image: '/assets/images/bloomwave-homepage.jpg',
@@ -795,7 +795,7 @@ const POSTS = [
       {
         heading: 'Website and local visibility',
         body: '<p>Your website should explain programmes, age groups, location and how families enquire. Mobile performance matters: parents browse on phones during commutes. Clear calls to action, trust signals and professional photography build credibility.</p><p>Pair the site with basic local SEO: Google Business Profile, consistent contact details and location content. See our <a href="/blog/local-seo-dubai-uae-guide">local SEO guide for Dubai and the UAE</a> for foundational steps.</p>',
-        image: '/assets/images/daycaremate-hero.webp',
+        image: '/assets/images/clayox-hero.webp',
         imageAlt: 'Professional web presence for UAE early learning centres',
         caption: 'A trustworthy website is often the first impression for Dubai nursery parents.',
       },
@@ -805,7 +805,7 @@ const POSTS = [
       },
       {
         heading: 'Centre operations from day one',
-        body: '<p>Before enrolment scales, implement childcare management software for attendance, classroom activity, parent messaging and billing. Starting with spreadsheets makes migration painful once you have dozens of families onboard.</p><p><a href="/products/daycaremate">DaycareMate</a> provides Admin, Teacher and Family portals with admissions workflows, invoice-first billing and role-based access. Read our <a href="/blog/childcare-management-software-uae-guide">UAE buyer\'s guide</a> to compare requirements before you choose a vendor.</p>',
+        body: '<p>Before enrolment scales, implement childcare management software for attendance, classroom activity, parent messaging and billing. Starting with spreadsheets makes migration painful once you have dozens of families onboard.</p><p><a href="/products/clayox">Clayox</a> provides Admin, Teacher and Family portals with admissions workflows, invoice-first billing and role-based access. Read our <a href="/blog/childcare-management-software-uae-guide">UAE buyer\'s guide</a> to compare requirements before you choose a vendor.</p>',
       },
       {
         heading: 'Launch playbook and support',
@@ -822,12 +822,12 @@ const POSTS = [
         a: 'Configure core admissions and billing workflows before your first enrolled families. Daily attendance and parent messaging become critical within weeks of opening.',
       },
       {
-        q: 'Can parents book tours through DaycareMate forms?',
+        q: 'Can parents book tours through Clayox forms?',
         a: 'Embeddable forms capture enquiries and admission interest on your website. They are not a hosted visit-booking page. Your team follows up to schedule tours manually.',
       },
       {
         q: 'Does IGENTX help with nursery websites and software together?',
-        a: 'Yes. We deliver websites, optional AI enquiry assistants and DaycareMate centre operations in coordinated projects, as we did for BloomWave in Abu Dhabi.',
+        a: 'Yes. We deliver websites, optional AI enquiry assistants and Clayox centre operations in coordinated projects, as we did for BloomWave in Abu Dhabi.',
       },
     ],
   },
@@ -934,34 +934,34 @@ const POSTS = [
     ],
   },
   {
-    slug: 'bloomwave-daycaremate-digital-transformation',
-    title: 'BloomWave: Digital Transformation with Website, AI Enquiries and DaycareMate',
-    seoTitle: 'BloomWave DaycareMate Case Study | IGENTX',
+    slug: 'bloomwave-clayox-digital-transformation',
+    title: 'BloomWave: Digital Transformation with Website, AI Enquiries and Clayox',
+    seoTitle: 'BloomWave Clayox Case Study | IGENTX',
     description:
-      'How BloomWave Learning and Daycare launched bloomwave.ae with an AI enquiry assistant and DaycareMate centre operations platform in one integrated UAE rollout.',
+      'How BloomWave Learning and Daycare launched bloomwave.ae with an AI enquiry assistant and Clayox centre operations platform in one integrated UAE rollout.',
     keywords:
-      'BloomWave case study, DaycareMate case study, nursery digital transformation UAE, childcare website UAE, AI enquiry assistant nursery',
+      'BloomWave case study, Clayox case study, nursery digital transformation UAE, childcare website UAE, AI enquiry assistant nursery',
     category: 'Products',
     readingTime: '6 min read',
     image: '/assets/images/bloomwave-homepage.jpg',
     imageAlt: 'BloomWave Learning and Daycare website and digital transformation',
     excerpt:
-      'BloomWave Learning and Daycare needed a professional web presence, 24/7 parent enquiries and centre operations software. IGENTX delivered bloomwave.ae, an AI enquiry assistant and DaycareMate in one coordinated rollout for the Abu Dhabi centre.',
+      'BloomWave Learning and Daycare needed a professional web presence, 24/7 parent enquiries and centre operations software. IGENTX delivered bloomwave.ae, an AI enquiry assistant and Clayox in one coordinated rollout for the Abu Dhabi centre.',
     takeaways: [
       'Integrated rollout beats stitching together unrelated vendors for website, enquiries and centre software.',
       'An AI enquiry assistant captures parent interest outside office hours, with manual lead conversion by centre staff.',
-      'DaycareMate centralises admissions and daily operations so teams stop juggling disconnected tools.',
+      'Clayox centralises admissions and daily operations so teams stop juggling disconnected tools.',
     ],
     ctaTitle: 'Want an integrated centre digital stack?',
     ctaText:
-      'Read the full BloomWave case study for project scope, results and how IGENTX coordinates website, AI and DaycareMate delivery.',
+      'Read the full BloomWave case study for project scope, results and how IGENTX coordinates website, AI and Clayox delivery.',
     ctaButton: 'View Full Case Study',
     ctaLink: '/case-studies/bloomwave-learning-daycare',
     finalCtaTitle: 'Planning digital tools for your centre?',
     finalCtaDescription:
-      'Book a free consultation to discuss website, enquiry capture and DaycareMate for your nursery or preschool.',
-    secondaryCtaText: 'Explore DaycareMate',
-    secondaryCtaLink: '/products/daycaremate',
+      'Book a free consultation to discuss website, enquiry capture and Clayox for your nursery or preschool.',
+    secondaryCtaText: 'Explore Clayox',
+    secondaryCtaLink: '/products/clayox',
     faqDescription: 'Questions about the BloomWave digital transformation case study.',
     related: [
       {
@@ -969,28 +969,28 @@ const POSTS = [
         title: 'How to Choose Childcare Management Software in the UAE',
         excerpt: 'Buyer guide for nursery and preschool software evaluation.',
         category: 'Products',
-        image: '/assets/images/daycaremate-hero.webp',
+        image: '/assets/images/clayox-hero.webp',
       },
       {
         slug: 'opening-nursery-dubai-digital-tools',
         title: 'Opening a Nursery in Dubai: Essential Digital Tools',
         excerpt: 'Digital checklist for new nursery launches in the UAE.',
         category: 'Products',
-        image: '/assets/images/daycaremate-dashboard.webp',
+        image: '/assets/images/clayox-dashboard.webp',
       },
       {
-        slug: 'daycaremate-childcare-management-software-guide',
-        title: 'DaycareMate: Childcare Centre Management Software Guide',
+        slug: 'clayox-childcare-management-software-guide',
+        title: 'Clayox: Childcare Centre Management Software Guide',
         excerpt: 'Platform features for admissions, attendance and billing.',
         category: 'Products',
         date: '2026-07-23',
-        image: '/assets/images/daycaremate-hero.webp',
+        image: '/assets/images/clayox-hero.webp',
       },
     ],
     sections: [
       {
         heading: 'Centre background and goals',
-        body: '<p><strong>BloomWave Learning and Daycare</strong> is an early learning centre in Abu Dhabi. Leadership wanted parents to see a professional, trustworthy brand online, capture enquiries outside office hours and run admissions and daily care from one operations platform.</p><p>Fragmented tools would slow staff and confuse families. BloomWave chose IGENTX for an integrated delivery: marketing website, optional AI enquiry assistant and <a href="/products/daycaremate">DaycareMate</a> centre management software.</p>',
+        body: '<p><strong>BloomWave Learning and Daycare</strong> is an early learning centre in Abu Dhabi. Leadership wanted parents to see a professional, trustworthy brand online, capture enquiries outside office hours and run admissions and daily care from one operations platform.</p><p>Fragmented tools would slow staff and confuse families. BloomWave chose IGENTX for an integrated delivery: marketing website, optional AI enquiry assistant and <a href="/products/clayox">Clayox</a> centre management software.</p>',
       },
       {
         heading: 'Website: bloomwave.ae',
@@ -1004,30 +1004,30 @@ const POSTS = [
         body: '<p>BloomWave deployed an <strong>IGENTX AI enquiry assistant</strong> on the website to answer common parent questions 24/7. The assistant helps capture enquiry intent through conversation when staff are unavailable.</p><p>Qualified conversations are <strong>reviewed by centre admins</strong> and converted to pipeline leads manually. The assistant does not auto-create enrolments or CRM records without staff oversight. Embeddable enquiry forms on the site complement chat for structured lead capture.</p>',
       },
       {
-        heading: 'DaycareMate for admissions and operations',
-        body: '<p>DaycareMate handles admissions workflows, attendance, family messaging and billing in dedicated Admin, Teacher and Family portals. BloomWave uses the platform to keep daily operations aligned with the brand experience promised on the website.</p><p>For feature depth, read the <a href="/blog/daycaremate-childcare-management-software-guide">DaycareMate product guide</a> or the <a href="/blog/childcare-management-software-uae-guide">UAE buyer\'s guide</a> for evaluation criteria.</p>',
+        heading: 'Clayox for admissions and operations',
+        body: '<p>Clayox handles admissions workflows, attendance, family messaging and billing in dedicated Admin, Teacher and Family portals. BloomWave uses the platform to keep daily operations aligned with the brand experience promised on the website.</p><p>For feature depth, read the <a href="/blog/clayox-childcare-management-software-guide">Clayox product guide</a> or the <a href="/blog/childcare-management-software-uae-guide">UAE buyer\'s guide</a> for evaluation criteria.</p>',
         quote: {
-          text: 'IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.',
+          text: 'IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.',
           author: 'Ajas Muhammed',
           role: 'Managing Director, BloomWave Learning and Daycare',
         },
       },
       {
         heading: 'Lessons for other UAE centres',
-        body: '<p>BloomWave shows that early learning centres benefit when website, enquiry capture and operations software share one delivery partner and timeline. Parents experience consistent communication; staff avoid duplicate data entry across disconnected systems.</p><p><a href="/case-studies/bloomwave-learning-daycare">Read the full BloomWave case study</a>, explore <a href="/products/daycaremate">DaycareMate</a>, or <a href="/contact">book a free consultation</a> with IGENTX to plan your centre\'s digital foundation.</p>',
+        body: '<p>BloomWave shows that early learning centres benefit when website, enquiry capture and operations software share one delivery partner and timeline. Parents experience consistent communication; staff avoid duplicate data entry across disconnected systems.</p><p><a href="/case-studies/bloomwave-learning-daycare">Read the full BloomWave case study</a>, explore <a href="/products/clayox">Clayox</a>, or <a href="/contact">book a free consultation</a> with IGENTX to plan your centre\'s digital foundation.</p>',
       },
     ],
     faqs: [
       {
         q: 'How long did the BloomWave rollout take?',
-        a: 'The published case study notes a two-week project duration for the integrated website, AI assistant and DaycareMate configuration scope agreed with the centre.',
+        a: 'The published case study notes a two-week project duration for the integrated website, AI assistant and Clayox configuration scope agreed with the centre.',
       },
       {
-        q: 'Is the AI assistant included with every DaycareMate subscription?',
+        q: 'Is the AI assistant included with every Clayox subscription?',
         a: 'The AI enquiry assistant is optional and environment-gated for subscribers who want website chat. It complements embeddable enquiry forms; leads are converted manually by staff.',
       },
       {
-        q: 'Can IGENTX deliver only the website without DaycareMate?',
+        q: 'Can IGENTX deliver only the website without Clayox?',
         a: 'Yes. We also deliver standalone websites and AI agents for centres using other operations tools. Integrated rollout is recommended when you want one team and timeline.',
       },
       {

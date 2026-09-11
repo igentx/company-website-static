@@ -42,7 +42,7 @@
         "structured_data_type": "Custom",
         "article_modified_time": "2025-11-30 00:00",
         "article_published_time": "2025-10-27 00:00",
-        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"IGENTX Blog Articles\",\"description\":\"Articles on web development, AI, SEO and digital growth from IGENTX.\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Local SEO in Dubai and the UAE\",\"url\":\"https://www.igentx.com/blog/local-seo-dubai-uae-guide\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Technical SEO Checklist for UAE Websites\",\"url\":\"https://www.igentx.com/blog/technical-seo-checklist-uae\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Ecommerce Website Development in Dubai and the UAE\",\"url\":\"https://www.igentx.com/blog/ecommerce-website-development-dubai-uae\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Bilingual Website Development in the UAE\",\"url\":\"https://www.igentx.com/blog/bilingual-website-development-uae\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"Custom Software Development UAE Guide\",\"url\":\"https://www.igentx.com/blog/custom-software-development-uae-guide\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"Branding for UAE Startups\",\"url\":\"https://www.igentx.com/blog/branding-uae-startups-guide\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"Childcare Management Software UAE Buyer Guide\",\"url\":\"https://www.igentx.com/blog/childcare-management-software-uae-guide\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"Opening a Nursery in Dubai Digital Tools\",\"url\":\"https://www.igentx.com/blog/opening-nursery-dubai-digital-tools\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"Moduluxe Group SEO Case Study\",\"url\":\"https://www.igentx.com/blog/moduluxe-group-seo-case-study\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"BloomWave DaycareMate Digital Transformation\",\"url\":\"https://www.igentx.com/blog/bloomwave-daycaremate-digital-transformation\"},{\"@type\":\"ListItem\",\"position\":11,\"name\":\"AI Customer Service Agent with Smart Lead Generation\",\"url\":\"https://www.igentx.com/blog/ai-customer-service-agent-uae\"},{\"@type\":\"ListItem\",\"position\":12,\"name\":\"Why Every UAE Business Needs a Strong Website in 2025\",\"url\":\"https://www.igentx.com/blog/importance-of-website-uae\"},{\"@type\":\"ListItem\",\"position\":13,\"name\":\"How AI Is Revolutionizing Web Development in the UAE\",\"url\":\"https://www.igentx.com/blog/ai-in-web-development-uae\"},{\"@type\":\"ListItem\",\"position\":14,\"name\":\"How to Choose the Best Web Development Agency in the UAE\",\"url\":\"https://www.igentx.com/blog/how-to-choose-best-web-development-agency-uae\"},{\"@type\":\"ListItem\",\"position\":15,\"name\":\"Web Development in the UAE: A Practical Guide\",\"url\":\"https://www.igentx.com/blog/web-development-uae\"},{\"@type\":\"ListItem\",\"position\":16,\"name\":\"DaycareMate Childcare Centre Management Software Guide\",\"url\":\"https://www.igentx.com/blog/daycaremate-childcare-management-software-guide\"},{\"@type\":\"ListItem\",\"position\":17,\"name\":\"How We Built AI Translation for DaycareMate\",\"url\":\"https://www.igentx.com/blog/ai-translation-daycaremate-multilingual-uae\"}]}"
+        "structured_data_custom": "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"IGENTX Blog Articles\",\"description\":\"Articles on web development, AI, SEO and digital growth from IGENTX.\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Local SEO in Dubai and the UAE\",\"url\":\"https://www.igentx.com/blog/local-seo-dubai-uae-guide\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Technical SEO Checklist for UAE Websites\",\"url\":\"https://www.igentx.com/blog/technical-seo-checklist-uae\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Ecommerce Website Development in Dubai and the UAE\",\"url\":\"https://www.igentx.com/blog/ecommerce-website-development-dubai-uae\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Bilingual Website Development in the UAE\",\"url\":\"https://www.igentx.com/blog/bilingual-website-development-uae\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"Custom Software Development UAE Guide\",\"url\":\"https://www.igentx.com/blog/custom-software-development-uae-guide\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"Branding for UAE Startups\",\"url\":\"https://www.igentx.com/blog/branding-uae-startups-guide\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"Childcare Management Software UAE Buyer Guide\",\"url\":\"https://www.igentx.com/blog/childcare-management-software-uae-guide\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"Opening a Nursery in Dubai Digital Tools\",\"url\":\"https://www.igentx.com/blog/opening-nursery-dubai-digital-tools\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"Moduluxe Group SEO Case Study\",\"url\":\"https://www.igentx.com/blog/moduluxe-group-seo-case-study\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"BloomWave Clayox Digital Transformation\",\"url\":\"https://www.igentx.com/blog/bloomwave-clayox-digital-transformation\"},{\"@type\":\"ListItem\",\"position\":11,\"name\":\"AI Customer Service Agent with Smart Lead Generation\",\"url\":\"https://www.igentx.com/blog/ai-customer-service-agent-uae\"},{\"@type\":\"ListItem\",\"position\":12,\"name\":\"Why Every UAE Business Needs a Strong Website in 2025\",\"url\":\"https://www.igentx.com/blog/importance-of-website-uae\"},{\"@type\":\"ListItem\",\"position\":13,\"name\":\"How AI Is Revolutionizing Web Development in the UAE\",\"url\":\"https://www.igentx.com/blog/ai-in-web-development-uae\"},{\"@type\":\"ListItem\",\"position\":14,\"name\":\"How to Choose the Best Web Development Agency in the UAE\",\"url\":\"https://www.igentx.com/blog/how-to-choose-best-web-development-agency-uae\"},{\"@type\":\"ListItem\",\"position\":15,\"name\":\"Web Development in the UAE: A Practical Guide\",\"url\":\"https://www.igentx.com/blog/web-development-uae\"},{\"@type\":\"ListItem\",\"position\":16,\"name\":\"Clayox Childcare Centre Management Software Guide\",\"url\":\"https://www.igentx.com/blog/clayox-childcare-management-software-guide\"},{\"@type\":\"ListItem\",\"position\":17,\"name\":\"How We Built AI Translation for Clayox\",\"url\":\"https://www.igentx.com/blog/ai-translation-clayox-multilingual-uae\"}]}"
       },
       {
         "_uid": "blog-grid-001",
@@ -61,10 +61,10 @@
           "cached_url": "/contact"
         },
         "featured_blog": {
-          "_uid": "card-daycaremate-guide",
+          "_uid": "card-clayox-guide",
           "component": "blog_card",
-          "title": "DaycareMate: A Practical Guide to Childcare Centre Management Software",
-          "excerpt": "What childcare centre management software should deliver, from admissions and attendance to family communication and billing, with DaycareMate by IGENTX.",
+          "title": "Clayox: A Practical Guide to Childcare Centre Management Software",
+          "excerpt": "What childcare centre management software should deliver, from admissions and attendance to family communication and billing, with Clayox by IGENTX.",
           "category": "Products",
           "author_name": "IGENTX Digital Team",
           "publish_date": "2026-07-23",
@@ -72,11 +72,11 @@
           "link": {
             "url": "",
             "linktype": "story",
-            "cached_url": "blog/daycaremate-childcare-management-software-guide"
+            "cached_url": "blog/clayox-childcare-management-software-guide"
           },
           "featured_image": {
-            "filename": "/assets/images/daycaremate-dashboard.webp",
-            "alt": "DaycareMate dashboard showing attendance, admissions and billing for childcare centres",
+            "filename": "/assets/images/clayox-dashboard.webp",
+            "alt": "Clayox dashboard showing attendance, admissions and billing for childcare centres",
             "fieldtype": "asset",
             "is_external_url": false
           }
@@ -116,14 +116,14 @@
             }
           },
           {
-            "_uid": "topic-daycaremate",
+            "_uid": "topic-clayox",
             "component": "blog_topic_link",
-            "title": "DaycareMate",
+            "title": "Clayox",
             "description": "Childcare centre management: admissions, attendance, messaging and billing.",
             "link": {
-              "url": "/products/daycaremate",
+              "url": "/products/clayox",
               "linktype": "url",
-              "cached_url": "products/daycaremate"
+              "cached_url": "products/clayox"
             }
           },
           {
@@ -151,9 +151,30 @@
         ],
         "blogs": [
           {
+            "_uid": "card-ai-write-blog",
+            "component": "blog_card",
+            "title": "How We Built Write with AI for Clayox",
+            "excerpt": "Builder story: staff AI drafts for activities and messages. Human review before families see anything. Never auto-posts.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-09-11",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/ai-write-clayox-staff-drafts"
+            },
+            "featured_image": {
+              "filename": "/assets/images/clayox-hero.webp",
+              "alt": "Clayox Write with AI for staff activity drafts",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
             "_uid": "card-ai-translation-blog",
             "component": "blog_card",
-            "title": "How We Built AI Translation for DaycareMate",
+            "title": "How We Built AI Translation for Clayox",
             "excerpt": "Builder story: on-demand translation for multilingual UAE nurseries | 100+ languages, included, server-side processing.",
             "category": "Products",
             "author_name": "IGENTX Digital Team",
@@ -162,11 +183,11 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/ai-translation-daycaremate-multilingual-uae"
+              "cached_url": "blog/ai-translation-clayox-multilingual-uae"
             },
             "featured_image": {
-              "filename": "/assets/images/daycaremate-hero.webp",
-              "alt": "DaycareMate AI translation for multilingual parent communication",
+              "filename": "/assets/images/clayox-hero.webp",
+              "alt": "Clayox AI translation for multilingual parent communication",
               "fieldtype": "asset",
               "is_external_url": false
             }
@@ -174,7 +195,7 @@
           {
             "_uid": "card-bloomwave-blog",
             "component": "blog_card",
-            "title": "BloomWave: Digital Transformation with Website, AI and DaycareMate",
+            "title": "BloomWave: Digital Transformation with Website, AI and Clayox",
             "excerpt": "How one UAE centre launched website, AI enquiries and operations software.",
             "category": "Products",
             "author_name": "IGENTX Digital Team",
@@ -183,7 +204,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/bloomwave-daycaremate-digital-transformation"
+              "cached_url": "blog/bloomwave-clayox-digital-transformation"
             },
             "featured_image": {
               "filename": "/assets/images/bloomwave-homepage.jpg",
@@ -228,7 +249,7 @@
               "cached_url": "blog/opening-nursery-dubai-digital-tools"
             },
             "featured_image": {
-              "filename": "/assets/images/daycaremate-dashboard.webp",
+              "filename": "/assets/images/clayox-dashboard.webp",
               "alt": "Digital tools for opening a nursery in Dubai",
               "fieldtype": "asset",
               "is_external_url": false
@@ -249,7 +270,7 @@
               "cached_url": "blog/childcare-management-software-uae-guide"
             },
             "featured_image": {
-              "filename": "/assets/images/daycaremate-hero.webp",
+              "filename": "/assets/images/clayox-hero.webp",
               "alt": "Childcare management software buyer guide for UAE centres",
               "fieldtype": "asset",
               "is_external_url": false

@@ -8,8 +8,8 @@ import {
 } from '@/lib/static-page'
 import type { Metadata } from 'next'
 
-const STORY_SLUG = 'products/daycaremate'
-const CANONICAL_PATH = '/products/daycaremate'
+const STORY_SLUG = 'blog/ai-write-clayox-staff-drafts'
+const CANONICAL_PATH = '/blog/ai-write-clayox-staff-drafts'
 
 export const dynamic = 'force-static'
 
@@ -17,14 +17,13 @@ interface Props {
   params: Promise<{ lang: string }>
 }
 
-export default async function DaycareMateProductPage({ params }: Props) {
+export default async function BlogClayoxWriteAiPage({ params }: Props) {
   const { lang } = await params
   const content = getPageContent(STORY_SLUG, lang)
   const structuredData = buildPageStructuredData(STORY_SLUG, lang, CANONICAL_PATH)
 
   return (
     <div className="min-h-screen">
-      
       <BlockRenderer blok={content} />
       {structuredData && (
         <script

@@ -12,7 +12,7 @@
         "title": "Digital Agency Dubai & Childcare Management Software UAE | IGENTX",
         "author": "IGENTX Digital Team",
         "og_type": "website",
-        "keywords": "digital agency Dubai, web development UAE, childcare management software UAE, nursery management software UAE, preschool management system Dubai, childcare centre software Abu Dhabi, early childhood education software UAE, DaycareMate UAE, AI agency Dubai, SEO services Dubai",
+        "keywords": "digital agency Dubai, web development UAE, childcare management software UAE, nursery management software UAE, preschool management system Dubai, childcare centre software Abu Dhabi, early childhood education software UAE, Clayox UAE, AI agency Dubai, SEO services Dubai",
         "og_image": {
           "filename": "/assets/og/uae-og.webp",
           "alt": "Digital agency and childcare software for UAE businesses | IGENTX",
@@ -21,8 +21,8 @@
         },
         "og_title": "Digital Agency Dubai & Childcare Management Software UAE | IGENTX",
         "publisher": "IGENTX",
-        "description": "DaycareMate by IGENTX: childcare management software for nurseries and preschools in Dubai and Abu Dhabi. Plus bilingual websites, ecommerce, branding, local SEO and AI enquiry tools for UAE businesses.",
-        "article_tags": "childcare management software UAE, nursery management software Dubai, DaycareMate UAE, digital agency Dubai, web development UAE",
+        "description": "Clayox by IGENTX: childcare management software for nurseries and preschools in Dubai and Abu Dhabi. Plus bilingual websites, ecommerce, branding, local SEO and AI enquiry tools for UAE businesses.",
+        "article_tags": "childcare management software UAE, nursery management software Dubai, Clayox UAE, digital agency Dubai, web development UAE",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/uae",
         "robots_follow": true,
@@ -34,15 +34,15 @@
         },
         "twitter_title": "Digital Agency Dubai & Childcare Management Software UAE | IGENTX",
         "article_author": "IGENTX",
-        "og_description": "Childcare centre software and digital agency services for the UAE. DaycareMate for centre operations; IGENTX for websites, SEO and AI-powered growth.",
+        "og_description": "Childcare centre software and digital agency services for the UAE. Clayox for centre operations; IGENTX for websites, SEO and AI-powered growth.",
         "article_section": "UAE",
         "robots_nosnippet": false,
         "robots_noarchive": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "DaycareMate for UAE childcare centres. Web development, ecommerce, branding and SEO for growing businesses across the Emirates.",
+        "twitter_description": "Clayox for UAE childcare centres. Web development, ecommerce, branding and SEO for growing businesses across the Emirates.",
         "structured_data_type": "Custom",
         "article_published_time": "2025-10-26 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"Service\",\n      \"serviceType\": \"Digital Agency Services\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\",\n        \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      },\n      \"hasOfferCatalog\": {\n        \"@type\": \"OfferCatalog\",\n        \"name\": \"IGENTX UAE Services and Products\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Web Development UAE\",\n              \"url\": \"https://www.igentx.com/services/web-development-uae\",\n              \"description\": \"Bilingual, high-performance websites for Dubai, Abu Dhabi and the Emirates.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Ecommerce Development UAE\",\n              \"url\": \"https://www.igentx.com/services/ecommerce-website-development-uae\",\n              \"description\": \"UAE ecommerce with local payment gateways and Arabic catalogues.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Branding and Graphic Design UAE\",\n              \"url\": \"https://www.igentx.com/services/graphic-design-uae\",\n              \"description\": \"Brand identity and marketing creative for UAE businesses.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"SEO Services UAE\",\n              \"url\": \"https://www.igentx.com/services/seo-service-uae\",\n              \"description\": \"Technical and local SEO for Dubai and UAE search visibility.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"AI Solutions\",\n              \"url\": \"https://www.igentx.com/services/ai-solutions\",\n              \"description\": \"AI integrations, automation and intelligent workflows for business growth.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Software Development\",\n              \"url\": \"https://www.igentx.com/services/custom-software-development\",\n              \"description\": \"Bespoke web applications and internal tools tailored to your workflows.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"AI Customer Service Agent\",\n              \"url\": \"https://www.igentx.com/products/ai-customer-service-agent\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"description\": \"24/7 multilingual AI enquiry assistant with RAG and one-line website integration.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"DaycareMate\",\n              \"url\": \"https://www.igentx.com/products/daycaremate\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"areaServed\": {\n                \"@type\": \"Country\",\n                \"name\": \"United Arab Emirates\"\n              },\n              \"description\": \"Childcare centre management software for nurseries and preschools: admissions, attendance, family messaging, activity feed and invoice-first billing.\"\n            }\n          }\n        ]\n      }\n    },\n    {\n      \"@type\": \"SoftwareApplication\",\n      \"name\": \"DaycareMate\",\n      \"url\": \"https://www.igentx.com/products/daycaremate\",\n      \"applicationCategory\": \"BusinessApplication\",\n      \"operatingSystem\": \"Web\",\n      \"description\": \"Childcare management platform by IGENTX for nurseries, preschools and early learning centres in the UAE and worldwide. Admissions, attendance, messaging and billing in one system.\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      }\n    }\n  ]\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"Service\",\n      \"serviceType\": \"Digital Agency Services\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\",\n        \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      },\n      \"hasOfferCatalog\": {\n        \"@type\": \"OfferCatalog\",\n        \"name\": \"IGENTX UAE Services and Products\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Web Development UAE\",\n              \"url\": \"https://www.igentx.com/services/web-development-uae\",\n              \"description\": \"Bilingual, high-performance websites for Dubai, Abu Dhabi and the Emirates.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Ecommerce Development UAE\",\n              \"url\": \"https://www.igentx.com/services/ecommerce-website-development-uae\",\n              \"description\": \"UAE ecommerce with local payment gateways and Arabic catalogues.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Branding and Graphic Design UAE\",\n              \"url\": \"https://www.igentx.com/services/graphic-design-uae\",\n              \"description\": \"Brand identity and marketing creative for UAE businesses.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"SEO Services UAE\",\n              \"url\": \"https://www.igentx.com/services/seo-service-uae\",\n              \"description\": \"Technical and local SEO for Dubai and UAE search visibility.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"AI Solutions\",\n              \"url\": \"https://www.igentx.com/services/ai-solutions\",\n              \"description\": \"AI integrations, automation and intelligent workflows for business growth.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Software Development\",\n              \"url\": \"https://www.igentx.com/services/custom-software-development\",\n              \"description\": \"Bespoke web applications and internal tools tailored to your workflows.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"AI Customer Service Agent\",\n              \"url\": \"https://www.igentx.com/products/ai-customer-service-agent\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"description\": \"24/7 multilingual AI enquiry assistant with RAG and one-line website integration.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"Clayox\",\n              \"url\": \"https://www.igentx.com/products/clayox\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"areaServed\": {\n                \"@type\": \"Country\",\n                \"name\": \"United Arab Emirates\"\n              },\n              \"description\": \"Childcare centre management software for nurseries and preschools: admissions, attendance, family messaging, activity feed and invoice-first billing.\"\n            }\n          }\n        ]\n      }\n    },\n    {\n      \"@type\": \"SoftwareApplication\",\n      \"name\": \"Clayox\",\n      \"url\": \"https://www.igentx.com/products/clayox\",\n      \"applicationCategory\": \"BusinessApplication\",\n      \"operatingSystem\": \"Web\",\n      \"description\": \"Childcare management platform by IGENTX for nurseries, preschools and early learning centres in the UAE and worldwide. Admissions, attendance, messaging and billing in one system.\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      }\n    }\n  ]\n}"
       },
       {
         "_uid": "uae-hero-001",
@@ -101,16 +101,16 @@
             "duration": ""
           },
           {
-            "_uid": "uae-slide-03-daycaremate",
+            "_uid": "uae-slide-03-clayox",
             "title": "Childcare Management Software Built for UAE Centres",
             "summary": "One platform for admissions, attendance, family communication and billing. Built by IGENTX and deployed at BloomWave Learning and Daycare in Abu Dhabi.",
             "category": "IGENTX Product",
             "cta_link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "products/daycaremate"
+              "cached_url": "products/clayox"
             },
-            "cta_text": "Explore DaycareMate",
+            "cta_text": "Explore Clayox",
             "secondary_cta_link": {
               "url": "case-studies/bloomwave-learning-daycare",
               "linktype": "url",
@@ -119,8 +119,8 @@
             "secondary_cta_text": "Read BloomWave Case Study",
             "component": "hero_slide",
             "featured_image": {
-              "alt": "DaycareMate childcare management software for UAE centres",
-              "filename": "/assets/images/daycaremate-hero.webp",
+              "alt": "Clayox childcare management software for UAE centres",
+              "filename": "/assets/images/clayox-hero.webp",
               "fieldtype": "asset",
               "is_external_url": false
             },
@@ -301,19 +301,19 @@
         "cta_text": "View all IGENTX products",
         "component": "igentx_products",
         "badge_text": "Built by IGENTX · UAE Primary Market",
-        "description": "DaycareMate helps nurseries, preschools and childcare centres run admissions, attendance, family communication and billing in one platform. Pair it with our AI Customer Service Agent to capture website enquiries and streamline centre operations.",
+        "description": "Clayox helps nurseries, preschools and childcare centres run admissions, attendance, family communication and billing in one platform. Pair it with our AI Customer Service Agent to capture website enquiries and streamline centre operations.",
         "featured_product": {
           "badge_text": "Featured Product",
           "logo": {
-            "filename": "/assets/images/daycaremate-vertical-logo.webp",
-            "alt": "DaycareMate logo"
+            "filename": "/assets/images/clayox-vertical-logo.webp",
+            "alt": "Clayox logo"
           },
-          "title": "DaycareMate",
+          "title": "Clayox",
           "tagline": "Complete Childcare Management Platform",
-          "description": "DaycareMate gives nurseries, preschools and early learning centres in the UAE and worldwide everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform. Each centre runs on a dedicated deployment.",
+          "description": "Clayox gives nurseries, preschools and early learning centres in the UAE and worldwide everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform. Each centre runs on a dedicated deployment.",
           "brand_link": {
-            "text": "DaycareMate",
-            "url": "https://www.daycaremate.com"
+            "text": "Clayox",
+            "url": "https://www.clayox.com"
           },
           "feature_pills": [
             {
@@ -346,15 +346,15 @@
             }
           ],
           "trust_banner": "Deployed at BloomWave Learning and Daycare in Abu Dhabi. Built for real centre operations, not generic school admin software.",
-          "cta_text": "Book a DaycareMate Demo",
+          "cta_text": "Book a Clayox Demo",
           "cta_link": {
             "url": "",
             "linktype": "story",
             "cached_url": "contact"
           },
           "screenshot": {
-            "filename": "/assets/images/daycaremate-dashboard.webp",
-            "alt": "DaycareMate childcare management dashboard"
+            "filename": "/assets/images/clayox-dashboard.webp",
+            "alt": "Clayox childcare management dashboard"
           }
         },
         "ai_product": {
@@ -411,7 +411,7 @@
       {
         "_uid": "uae-dm-features-001",
         "component": "why_choose_igentx",
-        "badge_text": "DaycareMate Platform",
+        "badge_text": "Clayox Platform",
         "title": "Everything Your UAE Centre Runs On",
         "description": "One integrated platform from the first family enquiry to daily care, communication and billing. Global deployments with configurable currency, timezone and tax settings for each centre.",
         "features": [
@@ -514,8 +514,8 @@
         ],
         "show_speed_comparison": true,
         "speed_comparison_title": "The Difference an Integrated Platform Makes",
-        "speed_comparison_description": "See how DaycareMate replaces fragmented tools with one system built for early childhood education operations.",
-        "traditional_approach_title": "Without DaycareMate",
+        "speed_comparison_description": "See how Clayox replaces fragmented tools with one system built for early childhood education operations.",
+        "traditional_approach_title": "Without Clayox",
         "traditional_approach_points": [
           {
             "_uid": "dm-tap1",
@@ -549,7 +549,7 @@
           }
         ],
         "igentx_advantage_label": "IGENTX Advantage",
-        "igentx_approach_title": "With DaycareMate",
+        "igentx_approach_title": "With Clayox",
         "igentx_approach_points": [
           {
             "_uid": "dm-iap1",
@@ -1071,7 +1071,7 @@
         "title": "How UAE Centres and Businesses Grow with IGENTX",
         "component": "igentx_portfolio",
         "badge_text": "Success Stories",
-        "description": "From BloomWave's DaycareMate rollout in Abu Dhabi to Moduluxe Group's bilingual SEO growth, see measurable outcomes for UAE childcare centres and businesses across Dubai, Sharjah and the Emirates.",
+        "description": "From BloomWave's Clayox rollout in Abu Dhabi to Moduluxe Group's bilingual SEO growth, see measurable outcomes for UAE childcare centres and businesses across Dubai, Sharjah and the Emirates.",
         "case_studies": [
           {
             "_uid": "a8f2c91e-4b3d-4e17-9c6a-1d7e5f0b2a84",
@@ -1093,7 +1093,7 @@
               },
               "is_external_url": false
             },
-            "title": "BloomWave: Website, AI Agent & DaycareMate",
+            "title": "BloomWave: Website, AI Agent & Clayox",
             "results": [
               {
                 "_uid": "bw1",
@@ -1115,7 +1115,7 @@
               },
               {
                 "_uid": "bw4",
-                "value": "DaycareMate",
+                "value": "Clayox",
                 "metric": "Operations Platform",
                 "component": "result_metric"
               }
@@ -1123,8 +1123,8 @@
             "category": "Full Solution",
             "live_url": "https://bloomwave.ae",
             "component": "case_study_item",
-            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.",
-            "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nDaycareMate",
+            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform.",
+            "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nClayox",
             "case_study_url": "/case-studies/bloomwave-learning-daycare",
             "industry": "Childcare & Education",
             "country": "UAE",
@@ -1213,7 +1213,7 @@
             "country": "UAE",
             "verified": true,
             "rating": "5",
-            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
             "avatar": {
               "filename": "",
               "alt": ""
@@ -1422,10 +1422,10 @@
             }
           },
           {
-            "_uid": "card-daycaremate-guide",
+            "_uid": "card-clayox-guide",
             "component": "blog_card",
-            "title": "DaycareMate: A Practical Guide to Childcare Centre Management Software",
-            "excerpt": "What childcare centre management software should deliver, from admissions and attendance to family communication and billing, with DaycareMate by IGENTX.",
+            "title": "Clayox: A Practical Guide to Childcare Centre Management Software",
+            "excerpt": "What childcare centre management software should deliver, from admissions and attendance to family communication and billing, with Clayox by IGENTX.",
             "category": "Products",
             "author_name": "IGENTX Digital Team",
             "publish_date": "2026-07-23",
@@ -1433,11 +1433,11 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/daycaremate-childcare-management-software-guide"
+              "cached_url": "blog/clayox-childcare-management-software-guide"
             },
             "featured_image": {
-              "filename": "/assets/images/daycaremate-dashboard.webp",
-              "alt": "DaycareMate dashboard showing attendance, admissions and billing for childcare centres",
+              "filename": "/assets/images/clayox-dashboard.webp",
+              "alt": "Clayox dashboard showing attendance, admissions and billing for childcare centres",
               "fieldtype": "asset",
               "is_external_url": false
             }
@@ -1583,7 +1583,7 @@
               "cached_url": "blog/childcare-management-software-uae-guide"
             },
             "featured_image": {
-              "filename": "/assets/images/daycaremate-hero.webp",
+              "filename": "/assets/images/clayox-hero.webp",
               "alt": "Childcare management software buyer guide for UAE centres",
               "fieldtype": "asset",
               "is_external_url": false
@@ -1604,7 +1604,7 @@
               "cached_url": "blog/opening-nursery-dubai-digital-tools"
             },
             "featured_image": {
-              "filename": "/assets/images/daycaremate-dashboard.webp",
+              "filename": "/assets/images/clayox-dashboard.webp",
               "alt": "Digital tools for opening a nursery in Dubai",
               "fieldtype": "asset",
               "is_external_url": false
@@ -1634,8 +1634,8 @@
           {
             "_uid": "card-bloomwave-blog",
             "component": "blog_card",
-            "title": "BloomWave: Digital Transformation with Website, AI and DaycareMate",
-            "excerpt": "How one UAE centre launched bloomwave.ae, an AI enquiry assistant and DaycareMate operations platform.",
+            "title": "BloomWave: Digital Transformation with Website, AI and Clayox",
+            "excerpt": "How one UAE centre launched bloomwave.ae, an AI enquiry assistant and Clayox operations platform.",
             "category": "Products",
             "author_name": "IGENTX Digital Team",
             "publish_date": "2026-07-23",
@@ -1643,7 +1643,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/bloomwave-daycaremate-digital-transformation"
+              "cached_url": "blog/bloomwave-clayox-digital-transformation"
             },
             "featured_image": {
               "filename": "/assets/images/bloomwave-homepage.jpg",
@@ -1655,14 +1655,14 @@
         ],
         "topic_links": [
           {
-            "_uid": "uae-topic-daycaremate",
+            "_uid": "uae-topic-clayox",
             "component": "blog_topic_link",
-            "title": "DaycareMate",
+            "title": "Clayox",
             "description": "Childcare centre management: admissions, attendance, messaging and billing.",
             "link": {
-              "url": "/products/daycaremate",
+              "url": "/products/clayox",
               "linktype": "url",
-              "cached_url": "products/daycaremate"
+              "cached_url": "products/clayox"
             }
           },
           {
@@ -1715,28 +1715,28 @@
         "_uid": "uae-faq-001",
         "component": "faq",
         "faq_title": "Frequently Asked Questions",
-        "faq_description": "Expert answers about DaycareMate, web development, AI, SEO and our process for childcare centres and businesses in Dubai, Abu Dhabi and across the UAE.",
+        "faq_description": "Expert answers about Clayox, web development, AI, SEO and our process for childcare centres and businesses in Dubai, Abu Dhabi and across the UAE.",
         "initial_visible_count": 10,
         "faqs": [
           {
             "_uid": "uae-faq-dm-parents",
             "component": "faq_item",
-            "question": "How does DaycareMate handle parent communication?",
-            "answer": "DaycareMate includes a Family portal with a per-child activity feed, 1:1 messaging with teachers and admins, and broadcasts for closures and reminders. Teachers log meals, naps, learning and milestones in seconds. Photo attachments reach families through private storage, scoped to authorised parents only.",
+            "question": "How does Clayox handle parent communication?",
+            "answer": "Clayox includes a Family portal with a per-child activity feed, 1:1 messaging with teachers and admins, and broadcasts for closures and reminders. Teachers log meals, naps, learning and milestones in seconds. Photo attachments reach families through private storage, scoped to authorised parents only.",
             "category": "Daycare Software"
           },
           {
             "_uid": "uae-faq-dm-bundle",
             "component": "faq_item",
-            "question": "Can we combine a website, AI enquiries and DaycareMate?",
-            "answer": "Yes. IGENTX delivered this for BloomWave Learning and Daycare in Abu Dhabi: bloomwave.ae for parent trust, a 24/7 AI enquiry assistant for after-hours lead capture, and DaycareMate for admissions and daily centre operations. One team can scope and roll out the full stack for your centre.",
+            "question": "Can we combine a website, AI enquiries and Clayox?",
+            "answer": "Yes. IGENTX delivered this for BloomWave Learning and Daycare in Abu Dhabi: bloomwave.ae for parent trust, a 24/7 AI enquiry assistant for after-hours lead capture, and Clayox for admissions and daily centre operations. One team can scope and roll out the full stack for your centre.",
             "category": "Daycare Software"
           },
           {
             "_uid": "uae-faq-dm-billing",
             "component": "faq_item",
-            "question": "Does DaycareMate support billing and regional settings for UAE centres?",
-            "answer": "Yes. Each DaycareMate deployment supports configurable currency, timezone and tax/VAT settings. Tax rates are frozen on each invoice at issue time, with per-line taxable flags and audit-logged billing runs. This helps UAE centres bill accurately while keeping parent statements clear.",
+            "question": "Does Clayox support billing and regional settings for UAE centres?",
+            "answer": "Yes. Each Clayox deployment supports configurable currency, timezone and tax/VAT settings. Tax rates are frozen on each invoice at issue time, with per-line taxable flags and audit-logged billing runs. This helps UAE centres bill accurately while keeping parent statements clear.",
             "category": "Daycare Software"
           },
           {
@@ -1812,8 +1812,8 @@
           {
             "_uid": "uae-faq-dm-uae-who",
             "component": "faq_item",
-            "question": "What is DaycareMate and who is it for in the UAE?",
-            "answer": "DaycareMate is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers in the UAE and worldwide. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets a dedicated deployment. BloomWave Learning and Daycare in Abu Dhabi uses DaycareMate alongside their IGENTX-built website and AI enquiry assistant.",
+            "question": "What is Clayox and who is it for in the UAE?",
+            "answer": "Clayox is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers in the UAE and worldwide. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets a dedicated deployment. BloomWave Learning and Daycare in Abu Dhabi uses Clayox alongside their IGENTX-built website and AI enquiry assistant.",
             "category": "Daycare Software"
           },
           {
@@ -1850,18 +1850,18 @@
         "_uid": "uae-cta-001",
         "component": "igentx_cta_band",
         "title": "Running a Centre or Business in the UAE?",
-        "description": "Book a consultation for DaycareMate and centre operations, or talk to us about bilingual websites, ecommerce, AI enquiry assistants and full digital rollout for your business.",
+        "description": "Book a consultation for Clayox and centre operations, or talk to us about bilingual websites, ecommerce, AI enquiry assistants and full digital rollout for your business.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "contact",
           "linktype": "url",
           "cached_url": "contact"
         },
-        "secondary_cta_text": "Explore DaycareMate",
+        "secondary_cta_text": "Explore Clayox",
         "secondary_cta_link": {
-          "url": "products/daycaremate",
+          "url": "products/clayox",
           "linktype": "url",
-          "cached_url": "products/daycaremate"
+          "cached_url": "products/clayox"
         }
       }
     ]

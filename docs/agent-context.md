@@ -18,7 +18,7 @@ Use this doc as the first stop when changing copy, content, or homepage blocks i
 | AI customer agent | 24/7 enquiry assistant with RAG, multilingual (EN/AR) |
 | Ecommerce | Shopify, BigCommerce, headless commerce |
 | SEO & growth | Technical SEO, performance, ongoing optimisation |
-| Vertical products | DaycareMate (childcare centre management platform) |
+| Vertical products | Clayox (childcare centre management platform) |
 
 ---
 
@@ -102,11 +102,11 @@ igentx_hero
 
 ---
 
-## 5. DaycareMate / product truth (cross-repo)
+## 5. Clayox / product truth (cross-repo)
 
-All **DaycareMate** feature claims on this site must match:
+All **Clayox** feature claims on this site must match:
 
-`daycare-management-system/docs/product-features.md`
+`clayox-app-web/docs/product-features.md`
 
 Do not invent features. Key marketing constraints:
 
@@ -115,7 +115,7 @@ Do not invent features. Key marketing constraints:
 | Language | ECE-inclusive: centre, classroom, family (not daycare-only) |
 | Geography | Global product; UAE is first market |
 | AI enquiry assistant | Deployable for subscribers; **manual** lead conversion (not auto-logged) |
-| Conversational lead capture | Agent may politely ask for contact details in chat after engagement/intent; visitor can skip. Contact details and chat summaries saved to admin dashboard. Pipeline conversion is manual, not auto-CRM. DaycareMate: **Leads → Chat inquiries** tab |
+| Conversational lead capture | Agent may politely ask for contact details in chat after engagement/intent; visitor can skip. Contact details and chat summaries saved to admin dashboard. Pipeline conversion is manual, not auto-CRM. Clayox: **Leads → Chat inquiries** tab |
 | Embeddable forms | Enquiry/lead capture only; **not** "visit booking" (no hosted `/visit` page) |
 | Partial features | Use careful language from `product-features.md` notes |
 | White-label branding | Per-deployment: centre name, logo, favicon, branded PDFs. Approved line: "Your centre's branding on your dedicated deployment." Do not claim complete vendor-brand removal. |
@@ -167,7 +167,7 @@ Maintain the existing dark futuristic visual identity (Tailwind, gradient backgr
 
 | Repo | Purpose |
 |------|---------|
-| `daycare-management-system` | DaycareMate ERP; `docs/product-features.md` is product truth |
-| `daycaremate` | DaycareMate marketing site (separate Astro site) |
+| `clayox-app-web` | Clayox ERP; `docs/product-features.md` is product truth |
+| `clayox.com` | Clayox marketing site (separate Astro site) |
 
-When writing about DaycareMate capabilities on igentx.com, cross-check `product-features.md` before publishing.
+When writing about Clayox capabilities on igentx.com, cross-check `clayox-app-web/docs/product-features.md` before publishing.

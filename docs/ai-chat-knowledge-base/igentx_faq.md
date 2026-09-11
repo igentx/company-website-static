@@ -12,7 +12,7 @@ Full FAQ library for IGENTX, compiled from the website homepage, contact page, p
 A: IGENXT combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with multilingual delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.
 
 **Q: What industries do you specialize in?**
-A: We serve retail, ecommerce, healthcare, education, childcare, real estate, professional services and technology companies. Our UAE experience spans bilingual websites, local SEO, payment integrations and compliance-aware delivery. We also build vertical SaaS products like DaycareMate for early childhood education.
+A: We serve retail, ecommerce, healthcare, education, childcare, real estate, professional services and technology companies. Our UAE experience spans bilingual websites, local SEO, payment integrations and compliance-aware delivery. We also build vertical SaaS products like Clayox for early childhood education.
 
 **Q: Do you work with startups and enterprises?**
 A: Yes. For startups, we focus on fast MVP delivery, clear scope and foundations that scale. For enterprises, we emphasise architecture, security, integrations and phased rollouts. Our process adapts to your team size, budget and timeline.
@@ -178,15 +178,15 @@ A: Contact sales for a tailored proposal. No published rate card.
 
 ---
 
-## DaycareMate
+## Clayox
 
-**Q: What is DaycareMate and who is it for?**
-A: DaycareMate is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets a dedicated deployment with white-label branding. Built by the same team behind BloomWave's digital transformation.
+**Q: What is Clayox and who is it for?**
+A: Clayox is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets a dedicated deployment with white-label branding. Built by the same team behind BloomWave's digital transformation.
 
-**Q: What is DaycareMate and who is it for in the UAE?**
-A: IGENTX's childcare management platform for UAE nurseries, preschools and early learning providers, and worldwide. BloomWave Learning and Daycare in Abu Dhabi uses DaycareMate alongside their IGENTX-built website and AI enquiry assistant.
+**Q: What is Clayox and who is it for in the UAE?**
+A: IGENTX's childcare management platform for UAE nurseries, preschools and early learning providers, and worldwide. BloomWave Learning and Daycare in Abu Dhabi uses Clayox alongside their IGENTX-built website and AI enquiry assistant.
 
-**Q: Is DaycareMate only for UAE centres?**
+**Q: Is Clayox only for UAE centres?**
 A: No. Built for early childhood education providers worldwide. Currency, timezone and tax/VAT configurable per deployment. UAE is our primary market, not the geographic limit.
 
 **Q: How does magic-link admission onboarding work?**
@@ -198,17 +198,23 @@ A: Yes. Embeddable enquiry forms for lead capture. This is enquiry and lead capt
 **Q: Does the AI enquiry assistant auto-create leads?**
 A: No. Captures conversations for admin review. Staff manually convert qualified enquiries to the leads pipeline.
 
-**Q: How does DaycareMate handle parent communication?**
-A: Family portal with per-child activity feed, 1:1 messaging with teachers and admins, and broadcasts. Teachers log meals, naps, learning and milestones.
+**Q: What is Write with AI, and does it auto-post?**
+A: Staff drafts for activities, progress summaries, messages, and broadcasts. Never auto-posts. Parents use Translate, not Write with AI. See https://www.igentx.com/blog/ai-write-clayox-staff-drafts
 
-**Q: Can we combine a website, AI enquiries and DaycareMate?**
+**Q: Do you support online card payment gateways in Clayox?**
+A: Not yet. Invoice-first billing with parent payment proofs and manual recording. Card gateways are on the roadmap.
+
+**Q: How does Clayox handle parent communication?**
+A: Family portal with per-child activity feed, 1:1 messaging with teachers and admins, and broadcasts. Teachers log meals, naps, learning and milestones. Optional Write with AI helps staff draft updates before posting.
+
+**Q: Can we combine a website, AI enquiries and Clayox?**
 A: Yes. IGENTX delivered this for BloomWave in Abu Dhabi in one integrated rollout.
 
-**Q: Does DaycareMate support billing and regional settings for UAE centres?**
+**Q: Does Clayox support billing and regional settings for UAE centres?**
 A: Yes. Configurable currency, timezone and tax/VAT. Tax rates frozen on each invoice at issue time.
 
-**Q: How do I get started with DaycareMate?**
-A: Visit https://daycaremate.com or contact IGENTX at https://www.igentx.com/contact for implementation support.
+**Q: How do I get started with Clayox?**
+A: Visit https://www.clayox.com or contact IGENTX at https://www.igentx.com/contact for implementation support.
 
 ---
 

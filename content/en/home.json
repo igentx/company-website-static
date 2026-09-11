@@ -98,24 +98,24 @@
             "duration": ""
           },
           {
-            "_uid": "slide-03-daycaremate",
+            "_uid": "slide-03-clayox",
             "title": "Complete Childcare Management Platform",
-            "summary": "Simplify admissions, attendance, parent communication, billing and daily operations with DaycareMate | AI-powered childcare management with built-in translation for multilingual families.",
+            "summary": "Simplify admissions, attendance, parent communication, billing and daily operations with Clayox | AI-powered childcare management with built-in translation for multilingual families.",
             "category": "IGENTX Product",
             "cta_link": {
               "id": "",
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "products/daycaremate"
+              "cached_url": "products/clayox"
             },
-            "cta_text": "Explore DaycareMate",
+            "cta_text": "Explore Clayox",
             "component": "hero_slide",
             "badge_text": "Built by IGENTX",
             "featured_image": {
               "id": null,
-              "alt": "DaycareMate childcare management platform",
-              "filename": "/assets/images/daycaremate-hero.webp",
+              "alt": "Clayox childcare management platform",
+              "filename": "/assets/images/clayox-hero.webp",
               "fieldtype": "asset",
               "is_external_url": false
             },
@@ -593,15 +593,15 @@
         "featured_product": {
           "badge_text": "Featured Product",
           "logo": {
-            "filename": "/assets/images/daycaremate-vertical-logo.webp",
-            "alt": "DaycareMate logo"
+            "filename": "/assets/images/clayox-vertical-logo.webp",
+            "alt": "Clayox logo"
           },
-          "title": "DaycareMate",
+          "title": "Clayox",
           "tagline": "Complete Childcare Management Platform",
-          "description": "DaycareMate gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform, with white-label branding on each dedicated deployment.",
+          "description": "Clayox gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform, with white-label branding on each dedicated deployment.",
           "brand_link": {
-            "text": "DaycareMate",
-            "url": "https://www.daycaremate.com"
+            "text": "Clayox",
+            "url": "https://www.clayox.com"
           },
           "feature_pills": [
             { "label": "Admissions", "icon": "admissions" },
@@ -614,17 +614,17 @@
             { "label": "White-label", "icon": "parent_app" }
           ],
           "trust_banner": "Built for childcare centres to simplify operations and improve family engagement.",
-          "cta_text": "Explore DaycareMate",
+          "cta_text": "Explore Clayox",
           "cta_link": {
             "id": "",
             "url": "",
             "linktype": "story",
             "fieldtype": "multilink",
-            "cached_url": "products/daycaremate"
+            "cached_url": "products/clayox"
           },
           "screenshot": {
-            "filename": "/assets/images/daycaremate-dashboard.webp",
-            "alt": "DaycareMate childcare management dashboard"
+            "filename": "/assets/images/clayox-dashboard.webp",
+            "alt": "Clayox childcare management dashboard"
           }
         },
         "ai_product": {
@@ -1268,7 +1268,7 @@
               },
               "is_external_url": false
             },
-            "title": "BloomWave: Website, AI Agent & DaycareMate",
+            "title": "BloomWave: Website, AI Agent & Clayox",
             "results": [
               {
                 "_uid": "bw1",
@@ -1290,7 +1290,7 @@
               },
               {
                 "_uid": "bw4",
-                "value": "DaycareMate",
+                "value": "Clayox",
                 "metric": "Operations Platform",
                 "component": "result_metric"
               }
@@ -1298,8 +1298,8 @@
             "category": "Full Solution",
             "live_url": "https://bloomwave.ae",
             "component": "case_study_item",
-            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and DaycareMate centre operations platform.",
-            "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nDaycareMate",
+            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform.",
+            "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nClayox",
             "case_study_url": "/case-studies/bloomwave-learning-daycare",
             "industry": "Childcare & Education",
             "country": "UAE",
@@ -1434,7 +1434,7 @@
             "country": "UAE",
             "verified": true,
             "rating": "5",
-            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
             "avatar": {
               "filename": "",
               "alt": ""
@@ -1547,7 +1547,7 @@
             "_uid": "faq-What industries do y",
             "component": "faq_item",
             "question": "What industries do you specialize in?",
-            "answer": "We serve retail, ecommerce, healthcare, education, childcare, real estate, professional services and technology companies. Our UAE experience spans bilingual websites, local SEO, payment integrations and compliance-aware delivery. We also build vertical SaaS products like DaycareMate for early childhood education. Whether you need a marketing website, custom application or AI integration, we tailor the approach to your industry's specific workflows, regulations and customer expectations.",
+            "answer": "We serve retail, ecommerce, healthcare, education, childcare, real estate, professional services and technology companies. Our UAE experience spans bilingual websites, local SEO, payment integrations and compliance-aware delivery. We also build vertical SaaS products like Clayox for early childhood education. Whether you need a marketing website, custom application or AI integration, we tailor the approach to your industry's specific workflows, regulations and customer expectations.",
             "category": "General"
           },
           {
@@ -1635,10 +1635,10 @@
             "category": "Ecommerce"
           },
           {
-            "_uid": "faq-What is DaycareMate ",
+            "_uid": "faq-What is Clayox ",
             "component": "faq_item",
-            "question": "What is DaycareMate and who is it for?",
-            "answer": "DaycareMate is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets a dedicated deployment with white-label branding: your centre name, logo, favicon, and branded invoice PDFs. It is built by the same team behind BloomWave's digital transformation, designed for real centre operations, not generic school admin software.",
+            "question": "What is Clayox and who is it for?",
+            "answer": "Clayox is IGENTX's childcare management platform for nurseries, preschools, childcare centres and early learning providers. It covers admissions, attendance, daily care logs, parent communication and billing in one system. Each centre gets a dedicated deployment with white-label branding: your centre name, logo, favicon, and branded invoice PDFs. It is built by the same team behind BloomWave's digital transformation, designed for real centre operations, not generic school admin software.",
             "category": "Daycare Software"
           },
           {

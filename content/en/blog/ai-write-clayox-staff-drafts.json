@@ -1,0 +1,185 @@
+{
+  "slug": "blog/ai-write-clayox-staff-drafts",
+  "name": "ai-write-clayox-staff-drafts",
+  "published_at": "2026-09-11T12:00:00.000Z",
+  "content": {
+    "_uid": "dm-blog-write-ai-uid",
+    "body": [
+      {
+        "_uid": "dm-wa-seo",
+        "component": "seo",
+        "title": "How We Built Write with AI for Clayox Staff Drafts | IGENTX",
+        "author": "IGENTX Digital Team",
+        "og_type": "article",
+        "keywords": "Write with AI Clayox, AI childcare staff drafts, AI parent updates from photos, childcare activity AI drafts, IGENTX Clayox",
+        "og_image": {
+          "filename": "/assets/images/clayox-hero.webp",
+          "alt": "Clayox Write with AI for staff activity drafts",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "og_title": "How We Built Write with AI for Clayox",
+        "publisher": "IGENTX",
+        "description": "Why IGENTX built Write with AI into Clayox: staff drafts for activities, progress summaries, messages, and broadcasts. Human review before anything reaches families. Never auto-posts.",
+        "article_tags": "Clayox, Write with AI, childcare software, staff drafts, IGENTX",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/blog/ai-write-clayox-staff-drafts",
+        "robots_follow": true,
+        "twitter_image": {
+          "filename": "/assets/images/clayox-hero.webp",
+          "alt": "Clayox Write with AI for staff activity drafts",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "How We Built Write with AI for Clayox",
+        "article_author": "IGENTX Digital Team",
+        "og_description": "Builder story: staff AI drafts for childcare updates from a note or photos. Review before post. Parents never see Write with AI.",
+        "article_section": "Products",
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "IGENTX built Write with AI into Clayox so teachers get a first draft from a note or photos, then review before families see anything.",
+        "structured_data_type": "BlogPosting",
+        "article_modified_time": "2026-09-11 00:00",
+        "article_published_time": "2026-09-11 00:00",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"BlogPosting\",\n      \"headline\": \"How We Built Write with AI for Clayox\",\n      \"description\": \"Why IGENTX built Write with AI into Clayox: staff drafts for activities, progress summaries, messages, and broadcasts. Never auto-posts.\",\n      \"url\": \"https://www.igentx.com/blog/ai-write-clayox-staff-drafts\",\n      \"datePublished\": \"2026-09-11T00:00:00+00:00\",\n      \"dateModified\": \"2026-09-11T00:00:00+00:00\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"IGENTX Digital Team\"\n      },\n      \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"logo\": {\n          \"@type\": \"ImageObject\",\n          \"url\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n        }\n      },\n      \"image\": \"https://www.igentx.com/assets/images/clayox-hero.webp\",\n      \"articleSection\": \"Products\",\n      \"keywords\": \"Write with AI Clayox, AI childcare staff drafts, IGENTX\",\n      \"inLanguage\": \"en\",\n      \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://www.igentx.com/blog/ai-write-clayox-staff-drafts\"\n      }\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 1,\n          \"name\": \"Home\",\n          \"item\": \"https://www.igentx.com/\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 2,\n          \"name\": \"Blog\",\n          \"item\": \"https://www.igentx.com/blog\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 3,\n          \"name\": \"How We Built Write with AI for Clayox\",\n          \"item\": \"https://www.igentx.com/blog/ai-write-clayox-staff-drafts\"\n        }\n      ]\n    }\n  ]\n}"
+      },
+      {
+        "_uid": "dm-wa-hero",
+        "component": "blog_hero",
+        "title": "How We Built Write with AI for Clayox",
+        "excerpt": "Teachers already capture the moment. The slow part is writing a parent-facing update. Here is why IGENTX built Write with AI into Clayox: a first draft from a note or photos, with human review before anything reaches families.",
+        "category": "Products",
+        "author_name": "IGENTX Digital Team",
+        "publish_date": "2026-09-11",
+        "reading_time": "6 min read",
+        "back_link": {
+          "url": "/blog",
+          "linktype": "url",
+          "cached_url": "/blog"
+        },
+        "featured_image": {
+          "filename": "/assets/images/clayox-hero.webp",
+          "alt": "Clayox Write with AI for staff activity drafts",
+          "fieldtype": "asset",
+          "is_external_url": false
+        }
+      },
+      {
+        "_uid": "dm-wa-detail",
+        "component": "blog_detail",
+        "category": "Products",
+        "author_name": "IGENTX Digital Team",
+        "author_role": "Digital Strategy & Engineering",
+        "author_bio": "The IGENTX Digital Team builds Clayox and other vertical products for businesses in the UAE and worldwide. This article explains our approach to staff AI drafts for early childhood education centres.",
+        "publish_date": "2026-09-11",
+        "reading_time": "6 min read",
+        "show_toc": true,
+        "key_takeaways": [
+          "Write with AI drafts activities, progress summaries, staff notes, DMs, and broadcasts. Staff always review before post or send.",
+          "It never auto-posts, never invents details, and is not an assessment or learning-journal product.",
+          "Parents never see Write with AI. They use on-demand Translate when they need another language."
+        ],
+        "tags": "Clayox, Write with AI, childcare software, staff drafts, IGENTX",
+        "related_posts": [
+          {
+            "_uid": "rel-ai-translation",
+            "component": "blog_card",
+            "title": "How We Built AI Translation for Clayox",
+            "excerpt": "On-demand translation for multilingual families.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-08-09",
+            "reading_time": "6 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/ai-translation-clayox-multilingual-uae"
+            },
+            "featured_image": {
+              "filename": "/assets/images/clayox-hero.webp",
+              "alt": "Clayox AI translation",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          },
+          {
+            "_uid": "rel-dm-guide",
+            "component": "blog_card",
+            "title": "Clayox: Childcare Centre Management Software Guide",
+            "excerpt": "Full platform overview for centre operators.",
+            "category": "Products",
+            "author_name": "IGENTX Digital Team",
+            "publish_date": "2026-07-23",
+            "reading_time": "8 min read",
+            "link": {
+              "url": "",
+              "linktype": "story",
+              "cached_url": "blog/clayox-childcare-management-software-guide"
+            },
+            "featured_image": {
+              "filename": "/assets/images/clayox-hero.webp",
+              "alt": "Clayox childcare management guide",
+              "fieldtype": "asset",
+              "is_external_url": false
+            }
+          }
+        ],
+        "cta_section_title": "See Write with AI on clayox.com",
+        "cta_section_text": "Explore staff drafting workflows, FAQs, and demos. For implementation with your classrooms, talk to IGENTX.",
+        "cta_button_text": "Visit clayox.com/ai-write-childcare-updates",
+        "cta_button_link": {
+          "url": "https://www.clayox.com/ai-write-childcare-updates",
+          "linktype": "url"
+        },
+        "content_blocks": [
+          {
+            "_uid": "dm-wa-h-problem",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "The photo is done. The sentence is not."
+          },
+          {
+            "_uid": "dm-wa-b-problem",
+            "component": "blog_body",
+            "content": "<p>When we build products for early childhood centres, classroom time is the scarce resource. Teachers already capture meals, naps, and learning moments in <a href=\"/products/clayox\">Clayox</a>. The slow part is writing a parent-facing update that matches the photo, sounds like the centre, and does not invent details.</p><p>That is the job Write with AI is built for: a <strong>first draft</strong> from a short note, up to four photos, or both. The draft prefills the activity form. Staff still review and post. Nothing reaches the parent feed until a person taps Post.</p>"
+          },
+          {
+            "_uid": "dm-wa-h-drafts",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "What Write with AI actually drafts"
+          },
+          {
+            "_uid": "dm-wa-b-drafts",
+            "component": "blog_body",
+            "content": "<p>For <strong>activities</strong>, Write with AI can suggest type, title, and notes from the teacher's description and from what is clearly visible in attached photos. Mood and meal amount fill only when the note or photo clearly supports them.</p><p>Staff can also draft a <strong>progress summary</strong> from their own observations: title, summary, strengths, and next focus. Parents see that summary only after Publish. Write with AI also drafts <strong>internal staff notes</strong>, <strong>direct messages</strong>, and <strong>broadcasts</strong>. Parents never see the Write with AI button.</p>"
+          },
+          {
+            "_uid": "dm-wa-h-not",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "What it does not do"
+          },
+          {
+            "_uid": "dm-wa-b-not",
+            "component": "blog_body",
+            "content": "<p>We designed hard boundaries so centres can trust the product:</p><ul><li>It does not auto-post, auto-publish, or auto-send.</li><li>It does not scan the week's activity feed, attendance, or photo history to invent a progress report.</li><li>It does not invent scenes, skills, diagnoses, or names that were not in the note or photos.</li><li>It is not an assessment framework, structured learning journal, or photo-tagging product.</li></ul><p>If a vendor claims AI analyses every day's activities into a termly report, ask what data is actually used to write that draft. In Clayox, progress drafts start from what the teacher types.</p>"
+          },
+          {
+            "_uid": "dm-wa-h-next",
+            "component": "blog_heading",
+            "level": "h2",
+            "text": "How this sits next to translation and enquiries"
+          },
+          {
+            "_uid": "dm-wa-b-next",
+            "component": "blog_body",
+            "content": "<p><a href=\"/blog/ai-translation-clayox-multilingual-uae\">AI translation</a> is for enrolled families and staff who want to read an existing update in another language. Write with AI is for staff who need a first English draft. Both use the same server-side AI stack on each centre's dedicated deployment. The optional <strong>AI enquiry assistant</strong> is separate: it captures conversations from prospective families, and your team still decides what becomes a lead.</p><p>Product details live on <a href=\"https://www.clayox.com/ai-write-childcare-updates\" rel=\"noopener noreferrer\">clayox.com/ai-write-childcare-updates</a>. For rollout with your classrooms, <a href=\"/contact\">book a free consultation</a> with IGENTX, or start from the <a href=\"/products/clayox\">Clayox product page</a>.</p>"
+          }
+        ]
+      }
+    ],
+    "component": "page"
+  }
+}

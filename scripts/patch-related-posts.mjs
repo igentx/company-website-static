@@ -47,14 +47,14 @@ const patches = {
     card('rel-custom-sw', 'custom-software-development-uae-guide', 'Custom Software Development UAE Guide', 'Portals, integrations and bespoke builds.', 'Web Development', '/assets/images/custom-software-development.webp'),
   ],
   'ai-customer-service-agent-uae': [
-    card('rel-bloomwave', 'bloomwave-daycaremate-digital-transformation', 'BloomWave Digital Transformation', 'Website, AI agent and DaycareMate rollout.', 'Products', '/assets/images/bloomwave-homepage.jpg'),
-    card('rel-childcare', 'childcare-management-software-uae-guide', 'Childcare Management Software UAE Guide', 'Buyer guide for centre software.', 'Products', '/assets/images/daycaremate-hero.webp', '2026-07-23', '8 min read'),
+    card('rel-bloomwave', 'bloomwave-clayox-digital-transformation', 'BloomWave Digital Transformation', 'Website, AI agent and Clayox rollout.', 'Products', '/assets/images/bloomwave-homepage.jpg'),
+    card('rel-childcare', 'childcare-management-software-uae-guide', 'Childcare Management Software UAE Guide', 'Buyer guide for centre software.', 'Products', '/assets/images/clayox-hero.webp', '2026-07-23', '8 min read'),
     card('rel-local-seo', 'local-seo-dubai-uae-guide', 'Local SEO in Dubai and the UAE', 'Capture more website enquiries with local SEO.', 'SEO', '/assets/blog/seo-og.webp', '2026-07-23', '7 min read'),
   ],
-  'daycaremate-childcare-management-software-guide': [
-    card('rel-childcare-buyer', 'childcare-management-software-uae-guide', 'How to Choose Childcare Software in the UAE', 'Vendor evaluation for UAE centres.', 'Products', '/assets/images/daycaremate-hero.webp', '2026-07-23', '8 min read'),
-    card('rel-nursery', 'opening-nursery-dubai-digital-tools', 'Opening a Nursery in Dubai: Digital Tools', 'Launch checklist for new centres.', 'Products', '/assets/images/daycaremate-dashboard.webp', '2026-07-23', '7 min read'),
-    card('rel-bloomwave', 'bloomwave-daycaremate-digital-transformation', 'BloomWave Digital Transformation', 'Real UAE centre rollout story.', 'Products', '/assets/images/bloomwave-homepage.jpg'),
+  'clayox-childcare-management-software-guide': [
+    card('rel-childcare-buyer', 'childcare-management-software-uae-guide', 'How to Choose Childcare Software in the UAE', 'Vendor evaluation for UAE centres.', 'Products', '/assets/images/clayox-hero.webp', '2026-07-23', '8 min read'),
+    card('rel-nursery', 'opening-nursery-dubai-digital-tools', 'Opening a Nursery in Dubai: Digital Tools', 'Launch checklist for new centres.', 'Products', '/assets/images/clayox-dashboard.webp', '2026-07-23', '7 min read'),
+    card('rel-bloomwave', 'bloomwave-clayox-digital-transformation', 'BloomWave Digital Transformation', 'Real UAE centre rollout story.', 'Products', '/assets/images/bloomwave-homepage.jpg'),
   ],
 }
 

@@ -45,7 +45,7 @@ After a few messages, when intent is clear, the agent politely asks for contact 
 
 **Important:** Pipeline or CRM conversion is **not** automatic. Contact details are recorded for review; your team decides which enquiries to pursue.
 
-For DaycareMate deployments, chat inquiries appear at **Leads → Chat inquiries**. Staff convert qualified enquiries to pipeline leads manually.
+For Clayox deployments, chat inquiries appear at **Leads → Chat inquiries**. Staff convert qualified enquiries to pipeline leads manually.
 
 ### Built-in Contact Options
 Customers can switch from AI chat to WhatsApp, phone, email or social links for quick conversions.

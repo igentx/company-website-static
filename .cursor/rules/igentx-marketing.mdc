@@ -17,9 +17,9 @@ alwaysApply: true
 5. **Verified testimonials** (`verified: true`) only when backed by a case study. Sync homepage quotes with `content/en/case-studies/*.json` `testimonial_*` fields.
 6. Primary CTA: **"Book a Free Consultation"** → contact.
 
-## DaycareMate product truth
+## Clayox product truth
 
-All DaycareMate feature claims must match `daycare-management-system/docs/product-features.md`. Do not invent features.
+All Clayox feature claims must match `clayox-app-web/docs/product-features.md`. Do not invent features.
 
 - ECE-inclusive language (centre, classroom, family), not daycare-only.
 - Global positioning; UAE is primary market, not product limit.

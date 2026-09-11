@@ -81,7 +81,7 @@ const newCards = [
     excerpt: 'Buyer guide for evaluating nursery and preschool software in the UAE.',
     category: 'Products',
     reading_time: '8 min read',
-    image: '/assets/images/daycaremate-hero.webp',
+    image: '/assets/images/clayox-hero.webp',
     alt: 'Childcare management software buyer guide for UAE centres',
   },
   {
@@ -91,7 +91,7 @@ const newCards = [
     excerpt: 'Website, enquiry capture, centre software and parent communication checklist.',
     category: 'Products',
     reading_time: '7 min read',
-    image: '/assets/images/daycaremate-dashboard.webp',
+    image: '/assets/images/clayox-dashboard.webp',
     alt: 'Digital tools for opening a nursery in Dubai',
   },
   {
@@ -106,8 +106,8 @@ const newCards = [
   },
   {
     _uid: 'card-bloomwave-blog',
-    slug: 'bloomwave-daycaremate-digital-transformation',
-    title: 'BloomWave: Digital Transformation with Website, AI and DaycareMate',
+    slug: 'bloomwave-clayox-digital-transformation',
+    title: 'BloomWave: Digital Transformation with Website, AI and Clayox',
     excerpt: 'How one UAE centre launched website, AI enquiries and operations software.',
     category: 'Products',
     reading_time: '6 min read',
@@ -179,13 +179,13 @@ const allPosts = [
   { name: 'Childcare Management Software UAE Buyer Guide', slug: 'childcare-management-software-uae-guide' },
   { name: 'Opening a Nursery in Dubai Digital Tools', slug: 'opening-nursery-dubai-digital-tools' },
   { name: 'Moduluxe Group SEO Case Study', slug: 'moduluxe-group-seo-case-study' },
-  { name: 'BloomWave DaycareMate Digital Transformation', slug: 'bloomwave-daycaremate-digital-transformation' },
+  { name: 'BloomWave Clayox Digital Transformation', slug: 'bloomwave-clayox-digital-transformation' },
   { name: 'AI Customer Service Agent with Smart Lead Generation', slug: 'ai-customer-service-agent-uae' },
   { name: 'Why Every UAE Business Needs a Strong Website in 2025', slug: 'importance-of-website-uae' },
   { name: 'How AI Is Revolutionizing Web Development in the UAE', slug: 'ai-in-web-development-uae' },
   { name: 'How to Choose the Best Web Development Agency in the UAE', slug: 'how-to-choose-best-web-development-agency-uae' },
   { name: 'Web Development in the UAE: A Practical Guide', slug: 'web-development-uae' },
-  { name: 'DaycareMate Childcare Centre Management Software Guide', slug: 'daycaremate-childcare-management-software-guide' },
+  { name: 'Clayox Childcare Centre Management Software Guide', slug: 'clayox-childcare-management-software-guide' },
 ]
 
 const seo = data.content.body.find((b) => b.component === 'seo')

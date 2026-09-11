@@ -73,7 +73,7 @@ High-performance Next.js website with Storyblok CMS, multilingual SEO, conversio
 BloomWave needed a trustworthy parent-facing marketing presence, after-hours enquiry capture, and a single system for admissions and daily operations, without juggling spreadsheets and separate apps.
 
 ### Solution
-IGENTX delivered bloomwave.ae on Next.js and Storyblok, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries with manual lead conversion to the admin dashboard, and implemented DaycareMate as the white-label centre operations platform.
+IGENTX delivered bloomwave.ae on Next.js and Storyblok, deployed the IGENTX AI Customer Service Agent for 24/7 parent enquiries with manual lead conversion to the admin dashboard, and implemented Clayox as the white-label centre operations platform.
 
 ### Results
 - **24/7** AI enquiry capture outside office hours
@@ -81,10 +81,10 @@ IGENTX delivered bloomwave.ae on Next.js and Storyblok, deployed the IGENTX AI C
 - **1** integrated platform for web, AI and centre operations
 
 ### Technologies
-Next.js, Storyblok, AI Customer Service Agent, DaycareMate
+Next.js, Storyblok, AI Customer Service Agent, Clayox
 
 ### Verified Testimonial
-> "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and DaycareMate keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed."
+> "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed."
 >
 > **Ajas Muhammed**, Managing Director, BloomWave Learning & Daycare
 

@@ -149,14 +149,14 @@
                 }
               },
               {
-                "_uid": "nav-daycaremate",
-                "label": "DaycareMate",
+                "_uid": "nav-clayox",
+                "label": "Clayox",
                 "component": "navigation_items",
                 "children": [],
                 "link": {
-                  "url": "/products/daycaremate",
+                  "url": "/products/clayox",
                   "linktype": "url",
-                  "cached_url": "products/daycaremate"
+                  "cached_url": "products/clayox"
                 }
               }
             ],

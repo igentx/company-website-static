@@ -8,8 +8,8 @@ import {
 } from '@/lib/static-page'
 import type { Metadata } from 'next'
 
-const STORY_SLUG = 'blog/ai-translation-daycaremate-multilingual-uae'
-const CANONICAL_PATH = '/blog/ai-translation-daycaremate-multilingual-uae'
+const STORY_SLUG = 'blog/bloomwave-clayox-digital-transformation'
+const CANONICAL_PATH = '/blog/bloomwave-clayox-digital-transformation'
 
 export const dynamic = 'force-static'
 
@@ -17,7 +17,7 @@ interface Props {
   params: Promise<{ lang: string }>
 }
 
-export default async function BlogDaycareMateTranslationPage({ params }: Props) {
+export default async function BlogBloomwaveClayoxDigitalTransformationPage({ params }: Props) {
   const { lang } = await params
   const content = getPageContent(STORY_SLUG, lang)
   const structuredData = buildPageStructuredData(STORY_SLUG, lang, CANONICAL_PATH)
