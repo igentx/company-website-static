@@ -168,62 +168,35 @@
         "component": "contact_page",
         "badge_text": "Start Your Conversation",
         "description": "Tell us about your project. We will connect you with the right specialist and follow up within 24 hours with a tailored proposal.",
-        "contact_cards": [
-          {
-            "_uid": "787646ad-1e53-4e08-8977-44bafb7b0993",
-            "icon": {
-              "id": null,
-              "alt": null,
-              "name": "",
-              "focus": null,
-              "title": null,
-              "source": null,
-              "filename": "",
-              "copyright": null,
-              "fieldtype": "asset",
-              "meta_data": {}
-            },
-            "type": "whatsapp",
-            "label": "WhatsApp",
-            "value": "+919995104422",
-            "map_link": "",
-            "subtitle": "Instant replies, available 24/7.",
-            "component": "contact_card",
-            "highlight": true,
-            "show_value": false,
-            "whatsapp_message": "Hello! I would like to inquire about your services."
-          },
-          {
-            "_uid": "c4d37608-8a32-4646-85b1-eea8793fcbb2",
-            "icon": {
-              "id": null,
-              "alt": null,
-              "name": "",
-              "focus": null,
-              "title": null,
-              "source": null,
-              "filename": "",
-              "copyright": null,
-              "fieldtype": "asset",
-              "meta_data": {}
-            },
-            "type": "email",
-            "label": "Email us",
-            "value": "hello@igentx.com",
-            "map_link": "",
-            "subtitle": "For detailed inquiries or proposals.",
-            "component": "contact_card",
-            "highlight": false,
-            "show_value": true,
-            "whatsapp_message": ""
-          }
-        ],
         "map_embed_url": "",
         "additional_info": "",
         "faq_section_title": "Common Questions",
         "map_section_title": "Find Us",
         "form_section_title": "Send Us a Message",
-        "contact_cards_title": "Contact Information",
+        "business_details": {
+          "india": {
+            "title": "India Office",
+            "name": "IGENTX Technologies",
+            "address_lines": [
+              "2nd Floor, 2/1149/I 100",
+              "Hilite Business Park, Tower 2",
+              "National Highway 66 Bypass",
+              "Palazhi, Olavanna",
+              "Kozhikode, Kerala – 673014",
+              "India"
+            ],
+            "phone_label": "Phone",
+            "phone": "+91 99951 04422",
+            "email_label": "Email",
+            "email": "hello@igentx.com"
+          },
+          "international": {
+            "title": "UAE & International Enquiries",
+            "phone_label": "WhatsApp / Phone",
+            "phone": "+971 50 393 6805"
+          }
+        },
+        "contact_cards_title": "Contact IGENTX",
         "faq_section_description": "",
         "form_section_description": "Share your goals and we will help you find the right path forward."
       },
@@ -252,7 +225,7 @@
             "_uid": "contact-faq-003",
             "component": "faq_item",
             "question": "Do you work with UAE and international clients?",
-            "answer": "Yes. The UAE is our primary market, but we deliver projects globally. We support multilingual websites, local SEO for the UAE, and international payment and hosting setups. Distance is not a barrier to a smooth delivery process.",
+            "answer": "Yes. IGENTX Technologies is based in India. The UAE is an important market for us, and we also deliver projects worldwide. We support multilingual websites, local SEO for the UAE, and international payment and hosting setups. Distance is not a barrier to a smooth delivery process.",
             "category": "Contact"
           },
           {
@@ -266,7 +239,14 @@
             "_uid": "contact-faq-005",
             "component": "faq_item",
             "question": "Can I reach you on WhatsApp?",
-            "answer": "Yes. WhatsApp is our fastest channel for quick questions and initial enquiries. Use the WhatsApp card on this page to start a conversation. For detailed proposals or document sharing, email works well too.",
+            "answer": "Yes. WhatsApp is a fast channel for quick questions and initial enquiries. Use the India office phone or the UAE and international enquiries number on this page. For detailed proposals or document sharing, email hello@igentx.com.",
+            "category": "Contact"
+          },
+          {
+            "_uid": "contact-faq-006",
+            "component": "faq_item",
+            "question": "Where is IGENTX based?",
+            "answer": "IGENTX Technologies is an Indian sole proprietorship based in Kozhikode, Kerala. The India office phone is +91 99951 04422 and the email is hello@igentx.com. For UAE and international enquiries, call or message +971 50 393 6805. That number is for enquiries. It is not a UAE registered office.",
             "category": "Contact"
           }
         ]

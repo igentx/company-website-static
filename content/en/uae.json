@@ -722,7 +722,7 @@
             },
             "title": "Regional Expertise",
             "component": "uae_signal_item",
-            "description": "Deep experience in the UAE market: bilingual delivery, local compliance, and regional partnerships."
+            "description": "Deep experience in the UAE market: bilingual delivery, regional market understanding, and localised digital experiences."
           },
           {
             "_uid": "dfa685f4-5b98-4338-8483-ccca4fceb091",
@@ -1213,7 +1213,7 @@
             "country": "UAE",
             "verified": true,
             "rating": "5",
-            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+            "content": "IGENTX delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
             "avatar": {
               "filename": "",
               "alt": ""
@@ -1743,14 +1743,14 @@
             "_uid": "uae-faq-why-uae",
             "component": "faq_item",
             "question": "Why choose IGENTX for UAE projects?",
-            "answer": "IGENXT combines AI-accelerated delivery with deep UAE market experience. We build bilingual Arabic and English websites, integrate local payment gateways such as PayTabs and Telr, optimise for Dubai and Abu Dhabi local SEO, and measure success by leads and conversions. Our regional case studies include Moduluxe Group and BloomWave Learning and Daycare.",
+            "answer": "IGENTX combines AI-accelerated delivery with deep UAE market experience. We build bilingual Arabic and English websites, integrate local payment gateways such as PayTabs and Telr, optimise for Dubai and Abu Dhabi local SEO, and measure success by leads and conversions. Our regional case studies include Moduluxe Group and BloomWave Learning and Daycare.",
             "category": "UAE"
           },
           {
             "_uid": "faq-Why choose IGENTX ov",
             "component": "faq_item",
             "question": "Why choose IGENTX over other web development companies?",
-            "answer": "IGENXT combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with bilingual Arabic and English delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.",
+            "answer": "IGENTX combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with bilingual Arabic and English delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.",
             "category": "General"
           },
           {

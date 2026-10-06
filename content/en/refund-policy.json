@@ -1,0 +1,313 @@
+{
+  "slug": "refund-policy",
+  "name": "Refund and Cancellation Policy",
+  "published_at": "2026-10-06T00:00:00.000Z",
+  "content": {
+    "_uid": "refund-page-uid",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "refund-seo",
+        "title": "Refund & Cancellation Policy | IGENTX Technologies",
+        "author": "IGENTX Technologies",
+        "og_type": "website",
+        "keywords": "refund policy, cancellation policy, IGENTX Technologies, SaaS refunds",
+        "og_title": "Refund & Cancellation Policy | IGENTX Technologies",
+        "component": "seo",
+        "publisher": "IGENTX Technologies",
+        "description": "Refund and cancellation terms for IGENTX Technologies SaaS subscriptions, software products and digital services.",
+        "robots_index": true,
+        "canonical_url": "https://www.igentx.com/refund-policy",
+        "robots_follow": true,
+        "robots_noarchive": false,
+        "robots_nosnippet": false,
+        "og_image": {
+          "filename": "/assets/og/default-og.webp",
+          "alt": "IGENTX Technologies",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_image": {
+          "filename": "/assets/og/default-og.webp",
+          "alt": "IGENTX Technologies",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_title": "Refund & Cancellation Policy | IGENTX Technologies",
+        "og_description": "How cancellations and refunds work for IGENTX Technologies software, SaaS and digital services.",
+        "twitter_card_type": "summary_large_image",
+        "twitter_description": "Refund and cancellation terms for IGENTX Technologies SaaS subscriptions and digital services."
+      },
+      {
+        "_uid": "refund-legal-page",
+        "title": "Refund & Cancellation Policy",
+        "last_updated": "2026-10-06",
+        "component": "legal_page",
+        "content_blocks": [
+          {
+            "_uid": "refund-h1",
+            "text": "Overview",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "refund-b1",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This policy explains how IGENTX Technologies, an Indian sole proprietorship, handles cancellation and refunds for SaaS subscriptions, software products and digital services. A signed proposal, order or subscription agreement controls if it differs from this page."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "refund-h2",
+            "text": "Digital delivery",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "refund-b2",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SaaS access is provided electronically. Software products are delivered online. Digital services are delivered remotely. Customers do not receive physical products unless an order expressly says otherwise."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "refund-h3",
+            "text": "SaaS subscriptions",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "refund-b3",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bullet_list",
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "You may cancel a subscription before the next renewal date. Cancellation stops future renewals. Access continues until the end of the period already paid for."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Fees for a billing period that has already started are not refunded once access has been provided, except where the law requires a refund."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Free plans and free trials have no charge to refund. You can stop using a free plan or trial at any time."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Upgrades and downgrades follow the order or subscription terms. If those terms do not say otherwise, a downgrade applies at the next renewal, and an upgrade is charged as agreed when you place the change. Unused time on a lower plan is not refunded."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Duplicate payments for the same order are refunded."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "refund-h4",
+            "text": "Software and IT services",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "refund-b4",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bullet_list",
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "If you cancel before work starts, unused prepaid amounts are refunded, less any third-party costs already incurred for the project."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "If you cancel after work has started, fees for work already completed and work in progress are payable. Only an unused prepaid amount for work that has not started may be refunded."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Work that has already been completed and delivered is not refunded."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Where a proposal sets different refund terms for that project, the proposal applies."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "refund-h5",
+            "text": "How refunds are processed",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "refund-b5",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Approved refunds are returned to the original payment method. The time it takes to appear depends on the payment provider and your bank. Email hello@igentx.com with your order or subscription details to request a cancellation or refund."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "_uid": "refund-h6",
+            "text": "Contact",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "refund-b6",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "IGENTX Technologies, 2nd Floor, 2/1149/I 100, Hilite Business Park, Tower 2, National Highway 66 Bypass, Palazhi, Olavanna, Kozhikode, Kerala – 673014, India. Email: hello@igentx.com. Phone: +91 99951 04422. UAE and international enquiries: +971 50 393 6805."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

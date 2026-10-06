@@ -57,6 +57,8 @@ const nextConfig: NextConfig = {
       { source: '/contact', destination: '/en/contact' },
       { source: '/privacy', destination: '/en/privacy' },
       { source: '/terms', destination: '/en/terms' },
+      { source: '/about', destination: '/en/about' },
+      { source: '/refund-policy', destination: '/en/refund-policy' },
       { source: '/uae', destination: '/en/uae' },
       { source: '/services', destination: '/en/services' },
       { source: '/services/:slug+', destination: '/en/services/:slug+' },

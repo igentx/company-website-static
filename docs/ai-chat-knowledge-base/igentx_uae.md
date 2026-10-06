@@ -2,7 +2,7 @@
 
 ## Overview
 
-IGENXT is your AI-first digital partner in Dubai and the UAE. We help UAE businesses launch faster with bilingual English and Arabic websites, local SEO, secure payment integrations and AI-powered enquiry capture.
+IGENTX Technologies is an Indian technology company that serves businesses in the UAE. We help UAE businesses launch faster with bilingual English and Arabic websites, local SEO, secure payment integrations and AI-powered enquiry capture. We are not a UAE-registered company and we do not have a UAE office. UAE and international enquiries: +971 50 393 6805.
 
 **Canonical URL:** https://www.igentx.com/uae
 
@@ -79,7 +79,7 @@ Integrated bloomwave.ae website, AI enquiry assistant and Clayox centre operatio
 ## UAE-Specific FAQs
 
 **Q: Why choose IGENTX for UAE projects?**
-A: IGENXT combines AI-accelerated delivery with deep UAE market experience. We build bilingual Arabic and English websites, integrate local payment gateways such as PayTabs and Telr, optimise for Dubai and Abu Dhabi local SEO, and measure success by leads and conversions. Our regional case studies include Moduluxe Group and BloomWave Learning and Daycare.
+A: IGENTX combines AI-accelerated delivery with deep UAE market experience. We build bilingual Arabic and English websites, integrate local payment gateways such as PayTabs and Telr, optimise for Dubai and Abu Dhabi local SEO, and measure success by leads and conversions. Our regional case studies include Moduluxe Group and BloomWave Learning and Daycare.
 
 **Q: Do you build bilingual Arabic and English websites?**
 A: Yes. Bilingual delivery is core to our UAE work. We build RTL-ready Arabic pages alongside English content, with proper hreflang, multilingual SEO and culturally appropriate design.
@@ -123,7 +123,8 @@ A: Yes. We migrate and redesign existing sites to modern architectures while pre
 
 - **Book a Free Consultation:** https://www.igentx.com/contact
 - **Email:** hello@igentx.com
-- **WhatsApp:** +919995104422
+- **India office phone:** +91 99951 04422
+- **UAE and international enquiries (phone / WhatsApp):** +971 50 393 6805. This is not a UAE office.
 
 ---
 

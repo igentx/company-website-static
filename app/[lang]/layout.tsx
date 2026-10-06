@@ -147,6 +147,34 @@ export default async function LanguageLayout({ children, params }: Props) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
         />
         <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Organization',
+              name: 'IGENTX',
+              legalName: 'IGENTX Technologies',
+              url: siteBaseUrl,
+              email: 'hello@igentx.com',
+              telephone: '+91-99951-04422',
+              address: {
+                '@type': 'PostalAddress',
+                streetAddress:
+                  '2nd Floor, 2/1149/I 100, Hilite Business Park, Tower 2, National Highway 66 Bypass, Palazhi, Olavanna',
+                addressLocality: 'Kozhikode',
+                addressRegion: 'Kerala',
+                postalCode: '673014',
+                addressCountry: 'IN',
+              },
+              areaServed: [
+                { '@type': 'Country', name: 'India' },
+                { '@type': 'Country', name: 'United Arab Emirates' },
+                { '@type': 'Place', name: 'Worldwide' },
+              ],
+            }),
+          }}
+        />
+        <script
           dangerouslySetInnerHTML={{
             __html: `
               (function() {

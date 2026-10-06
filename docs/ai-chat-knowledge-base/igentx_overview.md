@@ -2,9 +2,9 @@
 
 ## Company Summary
 
-IGENXT is an AI-first technology company. We design, build and scale high-performance websites, custom software, AI-powered applications and digital products that help businesses generate more leads, automate operations and accelerate growth.
+IGENTX Technologies is an Indian sole proprietorship and an AI-first technology company. We design, build and scale high-performance websites, custom software, AI-powered applications and digital products that help businesses generate more leads, automate operations and accelerate growth.
 
-**Positioning:** Global delivery with the UAE as our primary market. We serve businesses worldwide with deep experience in bilingual delivery, local SEO, payment integrations and compliance-aware projects across the Emirates.
+**Positioning:** The company is based in Kozhikode, Kerala, India. We serve businesses in India, the UAE and worldwide. The UAE is an important target market. IGENTX Technologies is not a UAE-registered company and is not headquartered in Abu Dhabi or Dubai.
 
 **Tagline:** Build. Launch. Automate. Scale.
 
@@ -89,7 +89,8 @@ Published case studies demonstrate measurable outcomes (examples, not guaranteed
 
 - **Primary CTA:** Book a Free Consultation at https://www.igentx.com/contact
 - **Email:** hello@igentx.com
-- **WhatsApp:** +919995104422 (available via website)
+- **India office phone:** +91 99951 04422
+- **UAE and international enquiries (phone / WhatsApp):** +971 50 393 6805. This is not a UAE office.
 - **AI chat:** iGentChat widget on the website for instant enquiries
 
 ## Getting a Quote

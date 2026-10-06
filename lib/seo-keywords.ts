@@ -16,7 +16,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/': {
     title: 'Web Development Company UAE | AI Software & Digital Products | IGENTX',
     description:
-      'IGENXT is an AI-first technology company in the UAE. We build high-performance websites, custom software, AI customer agents, headless commerce, and SEO-driven growth for businesses in Dubai, Abu Dhabi, and worldwide.',
+      'IGENTX Technologies is an Indian technology company. We build high-performance websites, custom software, AI customer agents, headless commerce, and SEO-driven growth for businesses in India, the UAE, and worldwide.',
     keywords:
       'web development company UAE, website development Dubai, software development UAE, AI development company UAE, custom software development UAE, ecommerce development UAE, headless commerce UAE, SEO company UAE, Next.js development, React development',
   },
@@ -260,6 +260,18 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
       'Discover why having a professional, fast, and SEO-optimised website is crucial for UAE businesses in 2026. Learn how IGENTX helps companies grow with AI-driven web development.',
     keywords: 'importance of website UAE, website design Dubai, SEO UAE, digital presence UAE',
   },
+  '/about': {
+    title: 'About IGENTX Technologies | IGENTX',
+    description:
+      'IGENTX Technologies is an Indian technology company providing software, SaaS, AI, web development and digital services to businesses in India, the UAE and international markets.',
+    keywords: 'IGENTX Technologies, about IGENTX, Indian software company',
+  },
+  '/refund-policy': {
+    title: 'Refund & Cancellation Policy | IGENTX Technologies',
+    description:
+      'Refund and cancellation terms for IGENTX Technologies SaaS subscriptions, software products and digital services.',
+    keywords: 'refund policy, cancellation policy, IGENTX Technologies',
+  },
   '/privacy': {
     title: 'Privacy Policy | IGENTX',
     description:
@@ -326,6 +338,8 @@ export function getSeoFallbackForSlug(storySlug: string): SeoFallback {
     uae: '/uae',
     privacy: '/privacy',
     terms: '/terms',
+    about: '/about',
+    'refund-policy': '/refund-policy',
   }
   const path = slugToPath[storySlug] ?? `/${storySlug}`
   return getSeoFallback(path)

@@ -41,7 +41,7 @@
       {
         "_uid": "terms-legal-page",
         "title": "Terms of Service",
-        "last_updated": "2026-07-23",
+        "last_updated": "2026-10-06",
         "component": "legal_page",
         "content_blocks": [
           {
@@ -61,16 +61,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "By accessing or using the IGENTX website at igentx.com (the \"Site\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, please do not use the Site."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "These Terms are a starter draft and should be reviewed by qualified legal counsel before reliance in regulated contexts."
+                      "text": "These Terms of Service (\"Terms\") are between you and IGENTX Technologies, an Indian sole proprietorship (\"IGENTX\", \"we\", \"us\", or \"our\"). By accessing or using the IGENTX website at igentx.com (the \"Site\"), you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Site."
                     }
                   ]
                 }
@@ -196,6 +187,30 @@
             }
           },
           {
+            "_uid": "terms-h-delivery",
+            "text": "Digital Delivery",
+            "level": "h2",
+            "component": "blog_heading"
+          },
+          {
+            "_uid": "terms-b-delivery",
+            "component": "blog_body",
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "IGENTX Technologies sells software, SaaS and digital services. SaaS access is provided electronically. Software products are delivered online. Digital services are delivered remotely. Customers do not receive physical products unless an order expressly says otherwise."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
             "_uid": "terms-h4",
             "text": "Intellectual Property",
             "level": "h2",
@@ -287,7 +302,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "To the fullest extent permitted by applicable law, IGENTX and its directors, employees, and affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of or inability to use the Site."
+                      "text": "To the fullest extent permitted by applicable law, IGENTX Technologies and its personnel shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of or inability to use the Site."
                     }
                   ]
                 },
@@ -296,7 +311,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Our total liability for any claim arising from these Terms or your use of the Site shall not exceed the amount you paid to us, if any, in the twelve months preceding the claim, or AED 100, whichever is greater."
+                      "text": "Our total liability for any claim arising from these Terms or your use of the Site shall not exceed the amount you paid to us, if any, in the twelve months preceding the claim, to the extent permitted by the laws of India."
                     }
                   ]
                 }
@@ -344,7 +359,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Your use of the Site is also governed by our Privacy Policy, which explains how we collect and use personal information. Please review our Privacy Policy at /privacy."
+                      "text": "Your use of the Site is also governed by our Privacy Policy, which explains how we collect and use personal information. Please review our Privacy Policy at /privacy. Purchases of software, SaaS subscriptions and professional services are also covered by our Refund and Cancellation Policy at /refund-policy."
                     }
                   ]
                 }
@@ -368,7 +383,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "These Terms are governed by the laws of the United Arab Emirates. Any disputes arising from these Terms or your use of the Site shall be subject to the exclusive jurisdiction of the courts of Abu Dhabi, UAE, unless otherwise required by mandatory applicable law."
+                      "text": "These Terms are governed by the laws of India. Disputes arising from these Terms or your use of the Site are subject to the jurisdiction of the courts at Kozhikode, Kerala, India, except where mandatory law in your country of residence requires otherwise."
                     }
                   ]
                 }
@@ -445,7 +460,7 @@
                           "content": [
                             {
                               "type": "text",
-                              "text": "Location: Abu Dhabi, United Arab Emirates"
+                              "text": "IGENTX Technologies, 2nd Floor, 2/1149/I 100, Hilite Business Park, Tower 2, National Highway 66 Bypass, Palazhi, Olavanna, Kozhikode, Kerala – 673014, India. Phone: +91 99951 04422. UAE and international enquiries: +971 50 393 6805."
                             }
                           ]
                         }

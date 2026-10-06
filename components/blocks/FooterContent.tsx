@@ -40,14 +40,7 @@ interface FooterContentProps {
     footer_links?: FooterLink[] // legacy
     link_groups?: LinkGroup[]
     social_links?: SocialLink[]
-    contact_info?: {
-      address?: string
-      email?: string
-      phone?: string
-      whatsapp?: string
-      hours?: string
-      map_url?: string
-    }
+    contact_info?: Record<string, unknown> | Record<string, unknown>[]
     newsletter?: {
       enabled?: boolean
       title?: string
@@ -152,9 +145,9 @@ export default function FooterContent({ blok }: FooterContentProps) {
       ? [{ title: 'Navigation', links: blok.footer_links }]
       : []
 
-  // Calculate number of columns: brand + linkGroups + social (max 5)
-  const numLinkGroups = Math.min(linkGroups.length, 3)
-  const totalColumns = 2 + numLinkGroups // brand + social + up to 3 link groups
+  // Brand column includes social icons, so the grid is brand + link groups.
+  const numLinkGroups = Math.min(linkGroups.length, 4)
+  const totalColumns = 1 + numLinkGroups
   const gridCols = Math.min(totalColumns, 5)
 
   // Map gridCols to actual Tailwind classes
@@ -209,38 +202,39 @@ export default function FooterContent({ blok }: FooterContentProps) {
                 {blok.brand_name || 'IGENTX'}
               </h3>
             </div>
-            <p className="text-gray-300 font-secondary mb-6 max-w-md text-lg leading-relaxed">
+            <p className="text-gray-300 font-secondary mb-6 max-w-md text-sm leading-relaxed">
               {blok.description || 'AI-Driven Web & Branding Solutions for Fast-Growing Businesses in the UAE'}
             </p>
             {/* Decorative line */}
             <div className="w-16 h-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full"></div>
 
-            {/* Contact Info */}
-            {(blok.contact_info?.address || blok.contact_info?.email || blok.contact_info?.phone) && (
-              <div className="mt-6 text-gray-300 font-secondary space-y-2">
-                {blok.contact_info?.address && <p>{blok.contact_info.address}</p>}
-                {blok.contact_info?.email && (
-                  <p>
-                    Email: <a className="underline hover:text-white" href={`mailto:${blok.contact_info.email}`}>{blok.contact_info.email}</a>
-                  </p>
-                )}
-                {blok.contact_info?.phone && (
-                  <p>
-                    Phone: <a className="underline hover:text-white" href={`tel:${blok.contact_info.phone}`}>{blok.contact_info.phone}</a>
-                  </p>
-                )}
-                {blok.contact_info?.whatsapp && (
-                  <p>
-                    WhatsApp: <a className="underline hover:text-white" href={`https://wa.me/${blok.contact_info.whatsapp}`}>{blok.contact_info.whatsapp}</a>
-                  </p>
-                )}
-                {blok.contact_info?.hours && <p>Hours: {blok.contact_info.hours}</p>}
+            {blok.social_links && blok.social_links.length > 0 && (
+              <div className="mt-6">
+                <h4 className="text-sm font-semibold mb-3 text-white">Follow Us</h4>
+                <ul className="flex space-x-2" role="list">
+                  {blok.social_links.map((social) => {
+                    const platform = resolvePlatform(social)
+                    return (
+                      <li key={social._uid}>
+                        <a
+                          href={social.url}
+                          className="text-gray-300 hover:text-white focus:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 rounded-full p-2 transition-all duration-300 hover:scale-110 hover:bg-white/10 hover:shadow-lg"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label={`Follow us on ${platform}`}
+                        >
+                          {getSocialIcon(platform)}
+                        </a>
+                      </li>
+                    )
+                  })}
+                </ul>
               </div>
             )}
           </div>
 
           {/* Link Groups */}
-          {linkGroups.slice(0, 3).map((group, idx) => (
+          {linkGroups.slice(0, 4).map((group, idx) => (
             <nav key={idx} aria-labelledby={`footer-group-${idx}`}>
               {group.title && (
                 <h4 id={`footer-group-${idx}`} className="text-xl font-semibold font-primary mb-6 text-white">
@@ -266,28 +260,6 @@ export default function FooterContent({ blok }: FooterContentProps) {
             </nav>
           ))}
 
-          {/* Social Links */}
-          <div>
-            <h4 className="text-xl font-semibold mb-6 text-white">Follow Us</h4>
-            <ul className="flex space-x-4" role="list">
-              {blok.social_links?.map((social) => {
-                const platform = resolvePlatform(social)
-                return (
-                  <li key={social._uid}>
-                    <a
-                      href={social.url}
-                      className="text-gray-300 hover:text-white focus:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 rounded-full p-3 transition-all duration-300 hover:scale-110 hover:bg-white/10 hover:shadow-lg"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      aria-label={`Follow us on ${platform}`}
-                    >
-                      {getSocialIcon(platform)}
-                    </a>
-                  </li>
-                )
-              })}
-            </ul>
-          </div>
         </div>
 
         {/* Bottom Section */}

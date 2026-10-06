@@ -13,8 +13,8 @@ export const defaultInfoBarContent = {
   message: '🚀 Trusted by Fast-Growing UAE Startups',
   email: 'hello@igentx.com',
   email_label: 'Email us',
-  address: 'Dubai, UAE',
-  whatsapp_number: '+971501234567',
+  address: 'Kozhikode, Kerala, India',
+  whatsapp_number: '+919995104422',
   whatsapp_text: 'Hello! I am interested in your web development services',
   whatsapp_label: 'WhatsApp me',
   show_language_switcher: true,
@@ -170,16 +170,20 @@ export const defaultFooterContent = {
     },
   ],
   contact_info: {
-    address: 'Dubai, UAE',
+    business_name: 'IGENTX Technologies',
+    country: 'India',
+    address: 'Kozhikode, Kerala, India',
     email: 'hello@igentx.com',
-    whatsapp: '971501234567',
-    hours: 'Sun–Thu: 9:00–18:00 GST',
+    phone: '+91 99951 04422',
+    international_phone: '+971 50 393 6805',
+    international_phone_label: 'UAE & International Enquiries',
   },
   legal_links: [
     { _uid: 'legal-privacy', component: 'footer_links', label: 'Privacy Policy', link: { url: '/privacy', linktype: 'story' } },
     { _uid: 'legal-terms', component: 'footer_links', label: 'Terms of Service', link: { url: '/terms', linktype: 'story' } },
+    { _uid: 'legal-refund', component: 'footer_links', label: 'Refund & Cancellation Policy', link: { url: '/refund-policy', linktype: 'story' } },
   ],
-  copyright_text: '© 2025 IGENTX. All rights reserved.',
+  copyright_text: '© 2026 IGENTX Technologies. All rights reserved.',
 }
 
 // ============================================================================
@@ -194,31 +198,11 @@ export const defaultAboutContent = {
     {
       _uid: 'default-about-section',
       component: 'about',
-      title: 'About IGENTX',
-      content: `Welcome to IGENTX - where AI meets modern web development! We're revolutionizing how businesses in the UAE build their digital presence.
+      title: 'About IGENTX Technologies',
+      content: `IGENTX Technologies is an Indian technology company providing software products, SaaS solutions, AI-powered solutions, web development and digital technology services to businesses in India, the UAE and international markets.
 
-Our AI-driven approach combines the power of Next.js, React, and cutting-edge CMS platforms with intelligent automation, delivering websites up to 60% faster than traditional development, without compromising quality.
-
-We specialize in multilingual websites, SEO optimization, and high-performance solutions tailored specifically for the UAE market. Every project includes Storyblok CMS from day one, giving you complete control over your content.
-
-Whether you're a startup looking to make your mark or an established business seeking digital transformation, IGENTX provides the technology, expertise, and support you need to succeed in today's competitive online landscape.`,
-      team_members: [
-        {
-          name: 'AI Development Team',
-          position: 'Full-Stack Engineers',
-          bio: 'Leveraging AI and modern web technologies to build lightning-fast, scalable solutions.',
-        },
-        {
-          name: 'UAE Market Experts',
-          position: 'Digital Strategists',
-          bio: 'Deep understanding of local business culture, multilingual requirements, and UAE market dynamics.',
-        },
-        {
-          name: 'Design & UX Team',
-          position: 'Creative Directors',
-          bio: 'Crafting beautiful, accessible, and conversion-focused user experiences for diverse audiences.',
-        },
-      ],
+IGENTX Technologies is an Indian sole proprietorship based in Kozhikode, Kerala. The UAE is an important market we serve. It is not where the company is registered.`,
+      team_members: [],
     },
   ],
 }
@@ -302,8 +286,8 @@ export const igentxDefaultPageContent = {
       uae_signals_description: 'Local expertise. Global standards.',
       uae_signals: [
         {
-          title: 'Dubai-Based Team',
-          description: 'We understand the UAE market, its pace, and business culture.',
+          title: 'UAE Market Experience',
+          description: 'We serve businesses in the UAE from our company in India.',
         },
         {
           title: 'Multi-Language Support',
@@ -682,7 +666,7 @@ export const igentxDefaultPageContent = {
         'Large enterprise or have specific requirements? Let us create a tailored package that fits your business needs and budget.',
       custom_quote_cta: 'Get Custom Quote',
       custom_quote_cta_link: { url: '#contact', linktype: 'url' },
-      whatsapp_number: '971501234567',
+      whatsapp_number: '+919995104422',
     },
   ],
 }
@@ -707,7 +691,7 @@ export const defaultContactContent = {
       component: 'contact_card',
       type: 'whatsapp',
       label: 'WhatsApp',
-      value: '+971 50 123 4567',
+      value: '+91 99951 04422',
       subtitle: '⚡ Instant response - Available 24/7',
       show_value: false, // Hide number for privacy
       highlight: true, // Make this card stand out

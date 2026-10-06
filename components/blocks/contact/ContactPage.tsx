@@ -3,7 +3,7 @@
 import React from 'react'
 import { BlockRenderer } from '@/lib/blocks'
 import { HERO_SECTION_GRADIENT_CLASS } from '@/lib/cta-button-styles'
-import { ContactCardBlok, ContactPageBlok } from '@/lib/types'
+import { BusinessOfficeBlok, ContactCardBlok, ContactPageBlok } from '@/lib/types'
 
 const heroAccentText =
   'bg-gradient-to-br from-[#6b8cce] via-[#a8b8d8] to-[#4a6fa5] bg-clip-text text-transparent'
@@ -83,6 +83,81 @@ const WhatsAppIcon = () => (
     <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" />
   </svg>
 )
+
+function telHref(phone: string) {
+  return `tel:${phone.replace(/[^\d+]/g, '')}`
+}
+
+function whatsAppHref(phone: string) {
+  return `https://wa.me/${phone.replace(/\D/g, '')}`
+}
+
+function mapsSearchHref(name: string | undefined, lines: string[]) {
+  const query = [name, ...lines].filter(Boolean).join(', ')
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`
+}
+
+function OfficeAddress({ office }: { office: BusinessOfficeBlok }) {
+  const lines = (office.address_lines || []).filter((line) => line.trim())
+  if (!office.name && lines.length === 0) return null
+
+  const content = (
+    <>
+      {office.name && <span className="block">{office.name}</span>}
+      {lines.map((line) => (
+        <span key={line} className="block font-normal text-gray-700">
+          {line}
+        </span>
+      ))}
+    </>
+  )
+
+  return (
+    <address className="not-italic text-base font-semibold text-gray-900 leading-relaxed break-words">
+      {lines.length > 0 ? (
+        <a
+          href={mapsSearchHref(office.name, lines)}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-gray-900 underline decoration-gray-300 underline-offset-2"
+        >
+          {content}
+        </a>
+      ) : (
+        content
+      )}
+    </address>
+  )
+}
+
+function OfficeCard({ office, showWhatsApp }: { office: BusinessOfficeBlok; showWhatsApp?: boolean }) {
+  return (
+    <div className="bg-white border border-gray-200 shadow-sm rounded-2xl p-6">
+      <h3 className="text-sm font-semibold uppercase tracking-wider text-gray-500 mb-3">
+        {office.title}
+      </h3>
+      <OfficeAddress office={office} />
+      <div className={`${office.name || office.address_lines?.length ? 'mt-4' : ''} space-y-2 text-sm`}>
+        {office.phone && (
+          <p className="text-gray-700 break-words">
+            <span className="font-semibold text-gray-900">{office.phone_label || 'Phone'}: </span>
+            <a className="underline hover:text-gray-900" href={showWhatsApp ? whatsAppHref(office.phone) : telHref(office.phone)}>
+              {office.phone}
+            </a>
+          </p>
+        )}
+        {office.email && (
+          <p className="text-gray-700 break-words">
+            <span className="font-semibold text-gray-900">{office.email_label || 'Email'}: </span>
+            <a className="underline hover:text-gray-900" href={`mailto:${office.email}`}>
+              {office.email}
+            </a>
+          </p>
+        )}
+      </div>
+    </div>
+  )
+}
 
 function MetricIcon({ iconKey }: { iconKey: 'clock' | 'global' | 'experience' | 'custom' }) {
   const cls = 'w-5 h-5'
@@ -318,15 +393,24 @@ export default function ContactPage({ blok }: ContactPageProps) {
 
           {/* Two-column: contact methods + form */}
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-12 items-start">
-            {/* Left: contact cards */}
-            {blok.contact_cards && blok.contact_cards.length > 0 && (
+            {/* Left: business identity, with contact cards as fallback */}
+            {(blok.business_details?.india || blok.business_details?.international || (blok.contact_cards && blok.contact_cards.length > 0)) && (
               <div>
                 <h2 className="text-2xl font-bold text-gray-900 mb-6">
                   {blok.contact_cards_title || 'Get In Touch'}
                 </h2>
-                <div className="space-y-4">
-                  {blok.contact_cards.map((card) => renderContactCard(card))}
-                </div>
+                {blok.business_details?.india || blok.business_details?.international ? (
+                  <div className="space-y-4">
+                    {blok.business_details.india && <OfficeCard office={blok.business_details.india} />}
+                    {blok.business_details.international && (
+                      <OfficeCard office={blok.business_details.international} showWhatsApp />
+                    )}
+                  </div>
+                ) : (
+                  <div className="space-y-4">
+                    {blok.contact_cards?.map((card) => renderContactCard(card))}
+                  </div>
+                )}
 
                 {blok.additional_info && (
                   <div className="mt-6 p-5 bg-white rounded-2xl border border-gray-200 shadow-sm">

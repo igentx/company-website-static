@@ -108,7 +108,7 @@
             "robots_nosnippet": false,
             "robots_noarchive": false,
             "twitter_card_type": "summary_large_image",
-            "twitter_description": "Build blazing-fast modern web apps with IGENTX, the UAE's Next.js & React experts.",
+            "twitter_description": "Build blazing-fast modern web apps with IGENTX for businesses in the UAE and worldwide.",
             "structured_data_type": "",
             "article_modified_time": "",
             "article_published_time": ""
@@ -150,7 +150,7 @@
               },
               {
                 "_uid": "nav-clayox",
-                "label": "Clayox",
+                "label": "Clayox: AI-Powered Childcare Management System",
                 "component": "navigation_items",
                 "children": [],
                 "link": {
@@ -265,6 +265,19 @@
               "cached_url": "blog"
             },
             "label": "Blog",
+            "children": [],
+            "component": "navigation_items"
+          },
+          {
+            "_uid": "nav-about",
+            "link": {
+              "id": "",
+              "url": "about",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "about"
+            },
+            "label": "About",
             "children": [],
             "component": "navigation_items"
           },
@@ -393,7 +406,7 @@
         "structured_data_type": "Organization",
         "article_modified_time": "2025-11-06 00:00",
         "article_published_time": "2025-10-26 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"IGENTX\",\n  \"url\": \"https://www.igentx.com/\",\n  \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\",\n  \"sameAs\": [\n    \"https://www.linkedin.com/company/igentx\",\n    \"https://www.instagram.com/igentx\"\n  ],\n  \"contactPoint\": {\n    \"@type\": \"ContactPoint\",\n    \"email\": \"hello@igentx.com\",\n    \"contactType\": \"sales\",\n    \"areaServed\": \"AE\",\n    \"availableLanguage\": [\n      \"English\",\n      \"Arabic\"\n    ]\n  }\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"IGENTX\",\n  \"legalName\": \"IGENTX Technologies\",\n  \"url\": \"https://www.igentx.com/\",\n  \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\",\n  \"email\": \"hello@igentx.com\",\n  \"telephone\": \"+91-99951-04422\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"2nd Floor, 2/1149/I 100, Hilite Business Park, Tower 2, National Highway 66 Bypass, Palazhi, Olavanna\",\n    \"addressLocality\": \"Kozhikode\",\n    \"addressRegion\": \"Kerala\",\n    \"postalCode\": \"673014\",\n    \"addressCountry\": \"IN\"\n  },\n  \"areaServed\": [\n    { \"@type\": \"Country\", \"name\": \"India\" },\n    { \"@type\": \"Country\", \"name\": \"United Arab Emirates\" },\n    { \"@type\": \"Place\", \"name\": \"Worldwide\" }\n  ],\n  \"sameAs\": [\n    \"https://www.linkedin.com/company/igentx\",\n    \"https://www.instagram.com/igentx\"\n  ],\n  \"contactPoint\": [\n    {\n      \"@type\": \"ContactPoint\",\n      \"telephone\": \"+91-99951-04422\",\n      \"email\": \"hello@igentx.com\",\n      \"contactType\": \"sales\",\n      \"areaServed\": [\"IN\", \"AE\"],\n      \"availableLanguage\": [\"English\", \"Arabic\"]\n    },\n    {\n      \"@type\": \"ContactPoint\",\n      \"name\": \"UAE & International Enquiries\",\n      \"telephone\": \"+971-50-393-6805\",\n      \"contactType\": \"sales\",\n      \"areaServed\": \"AE\",\n      \"availableLanguage\": [\"English\", \"Arabic\"]\n    }\n  ]\n}"
       }
     ],
     "component": "global"

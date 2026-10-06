@@ -9,7 +9,7 @@
         "_uid": "home-seo-001",
         "component": "seo",
         "title": "Web Development Company UAE | AI Software & Digital Products | IGENTX",
-        "description": "IGENXT is an AI-first technology company in the UAE. We build high-performance websites, custom software, AI customer agents, headless commerce, and SEO-driven growth for businesses in Dubai, Abu Dhabi, and worldwide.",
+        "description": "IGENTX Technologies is an Indian technology company. We build high-performance websites, custom software, AI customer agents, headless commerce, and SEO-driven growth for businesses in India, the UAE, and worldwide.",
         "keywords": "web development company UAE, website development Dubai, software development UAE, AI development company UAE, custom software development UAE, ecommerce development UAE, headless commerce UAE, SEO company UAE, Next.js development, React development",
         "canonical_url": "https://www.igentx.com/",
         "robots_index": true,
@@ -41,8 +41,8 @@
         "slides": [
           {
             "_uid": "slide-01-web-dev",
-            "title": "AI-Powered Websites & Software That Grow Businesses",
-            "summary": "We design, build and scale high-performance websites, AI-powered applications and digital products that help businesses generate more leads, automate operations and accelerate growth. Built with modern technologies and trusted by businesses worldwide, with the UAE as our primary market.",
+            "title": "AI-Powered Software & Websites",
+            "summary": "Custom software and high-performance websites that generate leads, automate operations, and accelerate growth.",
             "category": "Web Development",
             "cta_link": {
               "id": "",
@@ -63,7 +63,7 @@
             "component": "hero_slide",
             "featured_image": {
               "id": null,
-              "alt": "AI-powered web development",
+              "alt": "AI-powered software and websites",
               "filename": "/assets/images/web-development.webp",
               "fieldtype": "asset",
               "is_external_url": false
@@ -387,7 +387,7 @@
       },
       {
         "_uid": "3130e7e5-c752-42b5-bb8e-055132a47a3f",
-        "title": "Why Businesses Choose IGENXT",
+        "title": "Why Businesses Choose IGENTX",
         "features": [
           {
             "_uid": "wc1",
@@ -458,7 +458,7 @@
         ],
         "component": "why_choose_igentx",
         "badge_text": "Why Choose IGENTX",
-        "description": "An AI-first technology partner that delivers measurable business outcomes, from launch to long-term growth.",
+        "description": "An AI-first technology partner that delivers measurable business outcomes, from launch to long-term growth. IGENTX Technologies is an India-based technology company delivering AI-powered software, web development, ecommerce and digital solutions to businesses in India, the UAE and worldwide.",
         "uae_signals": [
           {
             "_uid": "66da9cb9-a8e9-4d79-951c-360d68acdd99",
@@ -476,7 +476,7 @@
             },
             "title": "Regional Expertise",
             "component": "uae_signal_item",
-            "description": "Deep experience in the UAE market: bilingual delivery, local compliance, and regional partnerships."
+            "description": "Deep experience in the UAE market: bilingual delivery, regional market understanding, and localised digital experiences."
           },
           {
             "_uid": "dfa685f4-5b98-4338-8483-ccca4fceb091",
@@ -1434,7 +1434,7 @@
             "country": "UAE",
             "verified": true,
             "rating": "5",
-            "content": "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
+            "content": "IGENTX delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed.",
             "avatar": {
               "filename": "",
               "alt": ""
@@ -1540,14 +1540,14 @@
             "_uid": "faq-Why choose IGENTX ov",
             "component": "faq_item",
             "question": "Why choose IGENTX over other web development companies?",
-            "answer": "IGENXT combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with multilingual delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.",
+            "answer": "IGENTX combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with multilingual delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.",
             "category": "General"
           },
           {
             "_uid": "faq-What industries do y",
             "component": "faq_item",
             "question": "What industries do you specialize in?",
-            "answer": "We serve retail, ecommerce, healthcare, education, childcare, real estate, professional services and technology companies. Our UAE experience spans bilingual websites, local SEO, payment integrations and compliance-aware delivery. We also build vertical SaaS products like Clayox for early childhood education. Whether you need a marketing website, custom application or AI integration, we tailor the approach to your industry's specific workflows, regulations and customer expectations.",
+            "answer": "We serve retail, ecommerce, healthcare, education, childcare, real estate, professional services and technology companies. Our UAE experience spans bilingual websites, local SEO, payment integrations and regional market understanding. We also build vertical SaaS products like Clayox for early childhood education. Whether you need a marketing website, custom application or AI integration, we tailor the approach to your industry's specific workflows, regulations and customer expectations.",
             "category": "General"
           },
           {

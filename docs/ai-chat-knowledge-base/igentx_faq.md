@@ -9,10 +9,10 @@ Full FAQ library for IGENTX, compiled from the website homepage, contact page, p
 ## General
 
 **Q: Why choose IGENTX over other web development companies?**
-A: IGENXT combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with multilingual delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.
+A: IGENTX combines AI-accelerated delivery with enterprise-grade engineering practices. Unlike template agencies, we build custom solutions on modern stacks like Next.js and React, optimised for performance, SEO and scalability from day one. Our team has deep UAE market experience with multilingual delivery, and we measure success by business outcomes: leads, conversions and operational efficiency, not just launch dates. You work with one team from strategy through launch and ongoing growth.
 
 **Q: What industries do you specialize in?**
-A: We serve retail, ecommerce, healthcare, education, childcare, real estate, professional services and technology companies. Our UAE experience spans bilingual websites, local SEO, payment integrations and compliance-aware delivery. We also build vertical SaaS products like Clayox for early childhood education.
+A: We serve retail, ecommerce, healthcare, education, childcare, real estate, professional services and technology companies. Our UAE experience spans bilingual websites, local SEO, payment integrations and regional market understanding. We also build vertical SaaS products like Clayox for early childhood education.
 
 **Q: Do you work with startups and enterprises?**
 A: Yes. For startups, we focus on fast MVP delivery, clear scope and foundations that scale. For enterprises, we emphasise architecture, security, integrations and phased rollouts. Our process adapts to your team size, budget and timeline.
@@ -33,7 +33,7 @@ A: A brief overview of your business, what you want to achieve, your timeline, a
 A: Yes. The UAE is our primary market, but we deliver projects globally. We support multilingual websites, local SEO for the UAE, and international payment and hosting setups.
 
 **Q: Can I reach you on WhatsApp?**
-A: Yes. WhatsApp (+919995104422) is our fastest channel for quick questions and initial enquiries. Use the WhatsApp card on the contact page.
+A: Yes. Use the India office phone (+91 99951 04422) or the UAE and international enquiries number (+971 50 393 6805). The UAE number is for enquiries. It is not a UAE office. For detailed proposals, email hello@igentx.com.
 
 **Q: How much does website development cost?**
 A: Every project is scoped individually based on complexity, integrations, languages and timeline. Contact sales at https://www.igentx.com/contact or hello@igentx.com for a tailored proposal. No published rate card.

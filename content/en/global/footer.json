@@ -23,7 +23,7 @@
         },
         "brand_name": " ",
         "newsletter": [],
-        "description": "AI-first technology company for web development, ecommerce, branding, SEO and software products. Serving businesses worldwide with deep experience in the UAE.",
+        "description": "IGENTX Technologies is an India-based technology company delivering AI-powered software, web development, ecommerce and digital solutions to businesses in India, the UAE and worldwide.",
         "legal_links": [
           {
             "_uid": "da927ac6-ead3-466d-8d59-e1ad85e62857",
@@ -46,7 +46,19 @@
               "fieldtype": "multilink",
               "cached_url": "terms"
             },
-            "label": "Terms of Service",
+            "label": "Terms & Conditions",
+            "component": "footer_links"
+          },
+          {
+            "_uid": "legal-refund",
+            "link": {
+              "id": "",
+              "url": "refund-policy",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "refund-policy"
+            },
+            "label": "Refund & Cancellation Policy",
             "component": "footer_links"
           }
         ],
@@ -59,7 +71,7 @@
               {
                 "_uid": "fl-Clayox",
                 "component": "footer_links",
-                "label": "Clayox",
+                "label": "Clayox: AI-Powered Childcare Management System",
                 "link": {
                   "id": "",
                   "url": "products/clayox",
@@ -229,6 +241,37 @@
             ]
           },
           {
+            "_uid": "fg-company",
+            "component": "footer_link_group",
+            "title": "Company",
+            "links": [
+              {
+                "_uid": "fl-About",
+                "component": "footer_links",
+                "label": "About",
+                "link": {
+                  "id": "",
+                  "url": "about",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "about"
+                }
+              },
+              {
+                "_uid": "fl-Contact-company",
+                "component": "footer_links",
+                "label": "Contact",
+                "link": {
+                  "id": "",
+                  "url": "contact",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "contact"
+                }
+              }
+            ]
+          },
+          {
             "_uid": "fg-resources",
             "component": "footer_link_group",
             "title": "Resources",
@@ -270,38 +313,26 @@
                 }
               }
             ]
-          },
-          {
-            "_uid": "fg-company",
-            "component": "footer_link_group",
-            "title": "Company",
-            "links": [
-              {
-                "_uid": "fl-Contact",
-                "component": "footer_links",
-                "label": "Contact",
-                "link": {
-                  "id": "",
-                  "url": "contact",
-                  "linktype": "url",
-                  "fieldtype": "multilink",
-                  "cached_url": ""
-                }
-              }
-            ]
           }
         ],
-        "contact_info": [
-          {
-            "_uid": "41edf7bd-9b44-45b8-9a31-15643839d423",
-            "email": "hello@igentx.com",
-            "hours": "Sun–Thu: 9:00 AM – 6:00 PM (GST)",
-            "address": "Abu Dhabi, UAE",
-            "map_url": "",
-            "whatsapp": "+919995104422",
-            "component": "footer_contact_info"
-          }
-        ],
+        "contact_info": {
+          "_uid": "41edf7bd-9b44-45b8-9a31-15643839d423",
+          "component": "footer_contact_info",
+          "business_name": "IGENTX Technologies",
+          "country": "India",
+          "address_lines": [
+            "2nd Floor, 2/1149/I 100",
+            "Hilite Business Park, Tower 2",
+            "National Highway 66 Bypass",
+            "Palazhi, Olavanna",
+            "Kozhikode, Kerala – 673014",
+            "India"
+          ],
+          "phone": "+91 99951 04422",
+          "email": "hello@igentx.com",
+          "international_phone": "+971 50 393 6805",
+          "international_phone_label": "UAE & International Enquiries"
+        },
         "footer_links": [],
         "social_links": [
           {
@@ -341,7 +372,7 @@
             "component": "social_links"
           }
         ],
-        "copyright_text": "© 2025 IGENTX. All rights reserved."
+        "copyright_text": "© 2026 IGENTX Technologies. All rights reserved."
       }
     ],
     "component": "global"

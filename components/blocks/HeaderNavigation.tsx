@@ -12,7 +12,7 @@ import { usePathname } from 'next/navigation'
 /** Pages with a light background from the top need solid header styling immediately. */
 function isLightHeaderPage(pathname: string | null): boolean {
   if (!pathname) return false
-  return /\/(privacy|terms|blog)$/.test(pathname)
+  return /\/(privacy|terms|about|refund-policy|blog)$/.test(pathname)
 }
 
 /**
@@ -225,7 +225,7 @@ export default function HeaderNavigation({ blok }: HeaderNavigationProps) {
                   {hasChildren && (
                     <div
                       className={`invisible opacity-0 group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100 absolute ${isRTL ? 'right-0' : 'left-0'
-                        } mt-2 min-w-[200px] rounded-md shadow-lg transition-all duration-300 backdrop-blur-xl ${showSolidHeader
+                        } mt-2 w-max min-w-[200px] rounded-md shadow-lg transition-all duration-300 backdrop-blur-xl ${showSolidHeader
                           ? 'bg-white/95 backdrop-blur border border-white/30'
                           : 'bg-white/95 backdrop-blur'
                         }`}
@@ -236,7 +236,7 @@ export default function HeaderNavigation({ blok }: HeaderNavigationProps) {
                           <li key={child._uid}>
                             <a
                               href={resolveItemUrl(child as NavigationItem)}
-                              className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                              className="block whitespace-nowrap px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                               role="menuitem"
                             >
                               {child.label}

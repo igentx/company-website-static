@@ -735,15 +735,32 @@ export interface FooterBlok extends SbBlokData {
     icon?: { filename: string; alt?: string }
   }[]
 
-  // Contact information
+  // Contact information (object, or a one-item array from older content)
   contact_info?: {
+    business_name?: string
+    country?: string
     address?: string
+    address_lines?: string[]
     email?: string
     phone?: string
+    international_phone?: string
+    international_phone_label?: string
     whatsapp?: string
     hours?: string
     map_url?: string
-  }
+  } | Array<{
+    business_name?: string
+    country?: string
+    address?: string
+    address_lines?: string[]
+    email?: string
+    phone?: string
+    international_phone?: string
+    international_phone_label?: string
+    whatsapp?: string
+    hours?: string
+    map_url?: string
+  }>
 
   // Newsletter subscription block
   newsletter?: {
@@ -1280,6 +1297,16 @@ export interface ContactCardBlok extends SbBlokData {
   whatsapp_message?: string // For WhatsApp type
 }
 
+export interface BusinessOfficeBlok {
+  title: string
+  name?: string
+  address_lines?: string[]
+  phone?: string
+  phone_label?: string
+  email?: string
+  email_label?: string
+}
+
 // Contact Page Block - Main contact page component
 export interface ContactPageBlok extends SbBlokData {
   component: 'contact_page'
@@ -1287,6 +1314,12 @@ export interface ContactPageBlok extends SbBlokData {
   badge_text?: string
   title: string
   description?: string
+
+  // Business identity (India office + international enquiry line)
+  business_details?: {
+    india?: BusinessOfficeBlok
+    international?: BusinessOfficeBlok
+  }
 
   // Contact Cards Section
   contact_cards_title?: string

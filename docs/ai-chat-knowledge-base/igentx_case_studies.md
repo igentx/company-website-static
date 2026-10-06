@@ -84,7 +84,7 @@ IGENTX delivered bloomwave.ae on Next.js and Storyblok, deployed the IGENTX AI C
 Next.js, Storyblok, AI Customer Service Agent, Clayox
 
 ### Verified Testimonial
-> "IGENXT delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed."
+> "IGENTX delivered a complete digital foundation for our centre: bloomwave.ae gives parents a professional presence they can trust, the AI enquiry assistant captures leads outside office hours, and Clayox keeps admissions and daily operations in one place. One team, one rollout, exactly what we needed."
 >
 > **Ajas Muhammed**, Managing Director, BloomWave Learning & Daycare
 

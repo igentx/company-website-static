@@ -6,9 +6,9 @@ Use this doc as the first stop when changing copy, content, or homepage blocks i
 
 ## 1. Product snapshot
 
-**IGENXT** is an AI-first technology company. Marketing copy should be **outcome-first**: leads, conversions, operational efficiency, and measurable growth, not feature lists alone.
+**IGENTX Technologies** is an Indian sole proprietorship and an AI-first technology company. Marketing copy should be **outcome-first**: leads, conversions, operational efficiency, and measurable growth, not feature lists alone. The public brand name is **IGENTX**. Do not spell the brand IGENXT, and do not describe the company as based, registered, or headquartered in Abu Dhabi or the UAE.
 
-**Positioning:** Global early childhood and business technology partner; **UAE is the primary market**, not the geographic limit of the product or services.
+**Positioning:** Indian technology company serving businesses in India, the UAE, and worldwide. The UAE is an important target market, not the place where the company is registered.
 
 **Core offerings**
 

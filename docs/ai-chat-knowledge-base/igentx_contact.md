@@ -10,7 +10,8 @@ Tell us about your project. We will connect you with the right specialist and fo
 
 - **Contact form:** https://www.igentx.com/contact (primary sales channel)
 - **Email:** hello@igentx.com
-- **WhatsApp:** +919995104422 — instant replies, available 24/7
+- **India office phone:** +91 99951 04422
+- **UAE and international enquiries (phone / WhatsApp):** +971 50 393 6805. This number is for enquiries. It is not a UAE office.
 
 ## Contact Form Fields
 
@@ -48,7 +49,7 @@ The initial consultation is **free with no obligation**. We will discuss your go
 
 ## Geographic Coverage
 
-The UAE is our primary market, but we deliver projects globally. We support multilingual websites, local SEO for the UAE, and international payment and hosting setups.
+IGENTX Technologies is an Indian sole proprietorship based in Kozhikode, Kerala. The UAE is an important market, and we also deliver projects worldwide. We support multilingual websites, local SEO for the UAE, and international payment and hosting setups.
 
 ---
 

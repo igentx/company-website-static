@@ -15,7 +15,7 @@
         "og_title": "Privacy Policy | IGENTX",
         "component": "seo",
         "publisher": "IGENTX",
-        "description": "How IGENTX collects, uses, and protects your personal information when you visit our website or contact us.",
+        "description": "How IGENTX Technologies collects, uses, and protects your personal information when you visit our website or contact us.",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/privacy",
         "robots_follow": true,
@@ -41,7 +41,7 @@
       {
         "_uid": "privacy-legal-page",
         "title": "Privacy Policy",
-        "last_updated": "2026-08-13",
+        "last_updated": "2026-10-06",
         "component": "legal_page",
         "content_blocks": [
           {
@@ -61,7 +61,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "IGENXT (\"IGENTX\", \"we\", \"us\", or \"our\") operates the website at igentx.com. This Privacy Policy explains how we collect, use, store, and protect personal information when you visit our website, submit an enquiry, or interact with our services."
+                      "text": "IGENTX Technologies (\"IGENTX\", \"we\", \"us\", or \"our\") is an Indian sole proprietorship that operates the website at igentx.com. This Privacy Policy explains how we collect, use, store, and protect personal information when you visit our website, submit an enquiry, or interact with our services."
                     }
                   ]
                 },
@@ -70,16 +70,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Data controller: IGENXT, Abu Dhabi, United Arab Emirates. Contact: hello@igentx.com."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "This policy is a starter draft and should be reviewed by qualified legal counsel before reliance in regulated contexts."
+                      "text": "Data controller: IGENTX Technologies, an Indian sole proprietorship. Business address: 2nd Floor, 2/1149/I 100, Hilite Business Park, Tower 2, National Highway 66 Bypass, Palazhi, Olavanna, Kozhikode, Kerala – 673014, India. Email: hello@igentx.com."
                     }
                   ]
                 }
@@ -651,7 +642,7 @@
                           "content": [
                             {
                               "type": "text",
-                              "text": "Location: Abu Dhabi, United Arab Emirates"
+                              "text": "IGENTX Technologies, 2nd Floor, 2/1149/I 100, Hilite Business Park, Tower 2, National Highway 66 Bypass, Palazhi, Olavanna, Kozhikode, Kerala – 673014, India"
                             }
                           ]
                         }
