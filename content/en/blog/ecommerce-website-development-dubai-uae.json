@@ -235,7 +235,7 @@
             "_uid": "ecommerce-website-development-dubai-uae-faq-0",
             "component": "faq_item",
             "question": "How much does ecommerce website development cost in Dubai?",
-            "answer": "Costs vary by platform, catalogue size, integrations and design scope. A focused Shopify launch differs from a headless rebuild with custom workflows. IGENTX provides scoped proposals after a discovery call.",
+            "answer": "Costs vary by platform, catalogue size, integrations and design scope. A focused Shopify launch differs from a headless build with custom workflows. IGENTX provides scoped proposals after a discovery call.",
             "category": "General"
           },
           {
@@ -264,7 +264,7 @@
       {
         "_uid": "ecommerce-website-development-dubai-uae-cta",
         "component": "igentx_cta_band",
-        "title": "Ready to launch or rebuild your online store?",
+        "title": "Ready to launch your online store?",
         "description": "Book a free consultation to review your ecommerce goals, platform options and growth roadmap for Dubai and the UAE.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {

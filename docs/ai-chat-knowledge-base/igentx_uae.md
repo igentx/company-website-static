@@ -115,7 +115,7 @@ A: Yes. We serve businesses across all Emirates: Abu Dhabi, Sharjah, Ajman and b
 A: UI/UX design, bilingual SEO setup, analytics integration, responsive design, CMS integration, performance optimisation, hosting setup and launch support. Scoped individually per project.
 
 **Q: Can you migrate from WordPress to Next.js?**
-A: Yes. We migrate and redesign existing sites to modern architectures while preserving SEO equity when planned correctly.
+A: Yes. We build a new Next.js website with SEO setup, including metadata, schema and performance, while preserving search equity when planned correctly.
 
 ---
 

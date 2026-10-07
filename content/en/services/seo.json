@@ -287,7 +287,7 @@
             "_uid": "seo-faq-q6",
             "component": "faq_item",
             "question": "Do you work with existing websites or only new builds?",
-            "answer": "Both. We optimise existing WordPress, Shopify and custom sites, and we build SEO-first architectures on new Next.js projects. For redesigns we plan URL migrations and redirects to preserve search equity where possible.",
+            "answer": "Both. We optimise existing WordPress, Shopify and custom sites, and we build SEO-first architectures on new Next.js projects.",
             "category": "Process"
           },
           {

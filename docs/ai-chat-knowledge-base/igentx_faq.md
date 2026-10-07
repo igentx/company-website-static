@@ -48,9 +48,6 @@ A: Next.js delivers server-side rendering and static generation for faster page 
 **Q: How long does website development take?**
 A: A focused marketing site typically takes 2–4 weeks; larger corporate or ecommerce projects take 4–8 weeks. Factors include page count, integrations, multilingual requirements and content readiness. We provide a realistic timeline after a brief discovery call.
 
-**Q: Can you redesign an existing website?**
-A: Absolutely. We migrate and redesign existing sites, including WordPress, Shopify and custom builds, to modern architectures without losing SEO equity when planned correctly.
-
 **Q: What technologies do you use?**
 A: Next.js, React, TypeScript, Node.js, Vercel, Storyblok, TailwindCSS. PWA-ready and accessible by default.
 
@@ -67,7 +64,7 @@ A: Yes. Full bilingual (RTL for Arabic) support including SEO tags for both lang
 A: Yes. We migrate WordPress, Shopify, Magento and custom sites to a modern stack with zero downtime when planned correctly.
 
 **Q: Can you migrate from WordPress to Next.js?**
-A: Yes. We migrate and redesign existing sites to modern architectures while preserving SEO equity when planned correctly.
+A: Yes. We build a new Next.js website with SEO setup, including metadata, schema and performance, while preserving search equity when planned correctly.
 
 **Q: Do you build bilingual Arabic and English websites?**
 A: Yes. RTL-ready Arabic pages alongside English content, with proper hreflang, multilingual SEO and culturally appropriate design.

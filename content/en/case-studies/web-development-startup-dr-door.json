@@ -98,7 +98,7 @@
             {
               "type": "paragraph",
               "content": [
-                { "text": "We completely redesigned DrDoor's digital ecosystem, focusing on ", "type": "text" },
+                { "text": "We built a new digital platform for DrDoor, focusing on ", "type": "text" },
                 { "text": "speed", "type": "text", "marks": [{ "type": "bold" }] },
                 { "text": ", ", "type": "text" },
                 { "text": "conversion", "type": "text", "marks": [{ "type": "bold" }] },
@@ -277,7 +277,7 @@
         "_uid": "dd-cta-001",
         "component": "igentx_cta_band",
         "title": "Ready to transform your digital presence?",
-        "description": "Whether you need a performance-first rebuild, SEO foundation or a CMS-driven website for global markets, our team helps businesses generate more qualified enquiries.",
+        "description": "Whether you need a performance-first website, SEO foundation or a CMS-driven website for global markets, our team helps businesses generate more qualified enquiries.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "contact",

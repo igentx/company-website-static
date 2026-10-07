@@ -782,13 +782,6 @@
             "category": "Web Development"
           },
           {
-            "_uid": "sl-faq-Can you redesign an ",
-            "component": "faq_item",
-            "question": "Can you redesign an existing website?",
-            "answer": "Absolutely. We migrate and redesign existing sites, including WordPress, Shopify and custom builds, to modern architectures without losing SEO equity when planned correctly. A redesign typically improves page speed, mobile experience, conversion paths and search visibility. We audit your current site, preserve valuable content and URLs, and rebuild with performance and accessibility built in from the start.",
-            "category": "Web Development"
-          },
-          {
             "_uid": "sl-faq-How does your AI Cus",
             "component": "faq_item",
             "question": "How does your AI Customer Service Agent work?",
