@@ -38,7 +38,7 @@
         "robots_noarchive": false,
         "robots_nosnippet": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "IGENTX built AI translation into Clayox so multilingual families read nursery updates in their language — 100+ languages, included, server-side processing.",
+        "twitter_description": "IGENTX built AI translation into Clayox so multilingual families read nursery updates in their language: 100+ languages, included, server-side processing.",
         "structured_data_type": "BlogPosting",
         "article_modified_time": "2026-08-09 00:00",
         "article_published_time": "2026-08-09 00:00",
@@ -163,7 +163,7 @@
           {
             "_uid": "dm-tr-b-problem",
             "component": "blog_body",
-            "content": "<p>When we rolled out <a href=\"/products/clayox\">Clayox</a> with centres like <a href=\"/case-studies/bloomwave-learning-daycare\">BloomWave Learning and Daycare</a>, parent communication worked, but multilingual families still asked teachers to repeat updates at pickup. Staff copied messages into browser translators. That broke audit trails and wasted minutes teachers do not have between transitions.</p><p>We did not want to bolt on a generic chatbot. We wanted translation inside the surfaces families already use: <strong>messages</strong>, <strong>broadcasts</strong>, and the <strong>activity feed</strong>.</p>"
+            "content": "<p>When we rolled out <a href=\"https://www.clayox.com/\">Clayox childcare management software</a> with centres like <a href=\"/case-studies/bloomwave-learning-daycare\">BloomWave Learning and Daycare</a>, parent communication worked, but multilingual families still asked teachers to repeat updates at pickup. Staff copied messages into browser translators. That broke audit trails and wasted minutes teachers do not have between transitions.</p><p>We did not want to bolt on a generic chatbot. We wanted translation inside the surfaces families already use: <strong>messages</strong>, <strong>broadcasts</strong>, and the <strong>activity feed</strong>.</p>"
           },
           {
             "_uid": "dm-tr-h-ondemand",
@@ -185,7 +185,7 @@
           {
             "_uid": "dm-tr-b-languages",
             "component": "blog_body",
-            "content": "<p>We ship the <strong>full ISO 639-1 language list</strong> (100+ languages) instead of a tiny hand-picked set or vague “150+ languages” marketing. In the app, <strong>20 popular languages</strong> for UAE and international nurseries appear first — Arabic, Hindi, Urdu, Malayalam, Tamil, German, Spanish, and more — and a searchable picker finds the rest.</p><p>Parents and staff save a preferred language on their profile. After the first translate, repeat reads are one tap.</p>"
+            "content": "<p>We ship the <strong>full ISO 639-1 language list</strong> (100+ languages) instead of a tiny hand-picked set or vague “150+ languages” marketing. In the app, <strong>20 popular languages</strong> for UAE and international nurseries appear first (Arabic, Hindi, Urdu, Malayalam, Tamil, German, Spanish, and more), and a searchable picker finds the rest.</p><p>Parents and staff save a preferred language on their profile. After the first translate, repeat reads are one tap.</p>"
           },
           {
             "_uid": "dm-tr-h-privacy",

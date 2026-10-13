@@ -157,7 +157,7 @@
           "description": "Clayox gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform.",
           "brand_link": {
             "text": "Clayox",
-            "url": "https://www.clayox.com"
+            "url": "https://www.clayox.com/"
           },
           "feature_pills": [
             { "label": "Admissions", "icon": "admissions" },
@@ -169,12 +169,12 @@
             { "label": "Reports", "icon": "reports" }
           ],
           "trust_banner": "Built for childcare centres to simplify operations and improve family engagement.",
-          "cta_text": "Explore Clayox",
+          "cta_text": "Clayox childcare management software",
           "cta_link": {
-            "url": "",
-            "linktype": "story",
+            "url": "https://www.clayox.com/",
+            "linktype": "url",
             "fieldtype": "multilink",
-            "cached_url": "products/clayox"
+            "cached_url": "https://www.clayox.com/"
           },
           "screenshot": {
             "filename": "/assets/images/clayox-dashboard.webp",
@@ -290,7 +290,7 @@
             "_uid": "pl-faq-q7",
             "component": "faq_item",
             "question": "Can I try a product before committing?",
-            "answer": "Yes. You can explore the AI Customer Service Agent demo on its product page, visit clayox.com for Clayox, or book a free consultation with IGENTX to see which product fits your goals and walk through setup options.",
+            "answer": "Yes. You can explore the AI Customer Service Agent demo on its product page, visit https://www.clayox.com for Clayox, or book a free consultation with IGENTX to see which product fits your goals and walk through setup options.",
             "category": "General"
           },
           {

@@ -123,7 +123,7 @@
           "Tailwind CSS"
         ],
         "service_links": [
-          { "label": "Clayox", "url": "/products/clayox" },
+          { "label": "Clayox childcare management software", "url": "https://www.clayox.com/" },
           { "label": "AI Customer Service Agent", "url": "/products/ai-customer-service-agent" },
           { "label": "Web Development UAE", "url": "/services/web-development-uae" }
         ],
