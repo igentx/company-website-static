@@ -310,7 +310,14 @@ export default function IGENTXPortfolio({ blok }: IGENTXPortfolioProps) {
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 {blok.demo_cta_primary && (
                   <a
-                    href={blok.demo_cta_primary_link?.url || '#'}
+                    href={
+                      !blok.demo_cta_primary_link?.url || blok.demo_cta_primary_link.url === '#'
+                        ? '#'
+                        : blok.demo_cta_primary_link.url.startsWith('http') ||
+                            blok.demo_cta_primary_link.url.startsWith('/')
+                          ? blok.demo_cta_primary_link.url
+                          : `/${blok.demo_cta_primary_link.url}`
+                    }
                     className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold rounded-xl hover:from-blue-600 hover:to-purple-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-300 transform hover:scale-105"
                   >
                     {blok.demo_cta_primary}
@@ -322,7 +329,14 @@ export default function IGENTXPortfolio({ blok }: IGENTXPortfolioProps) {
                 )}
                 {blok.demo_cta_secondary && (
                   <a
-                    href={blok.demo_cta_secondary_link?.url || '#'}
+                    href={
+                      !blok.demo_cta_secondary_link?.url || blok.demo_cta_secondary_link.url === '#'
+                        ? '#'
+                        : blok.demo_cta_secondary_link.url.startsWith('http') ||
+                            blok.demo_cta_secondary_link.url.startsWith('/')
+                          ? blok.demo_cta_secondary_link.url
+                          : `/${blok.demo_cta_secondary_link.url}`
+                    }
                     className="inline-flex items-center px-8 py-4 bg-white text-gray-700 font-semibold rounded-xl border border-gray-300 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 transition-all duration-300"
                   >
                     {blok.demo_cta_secondary}

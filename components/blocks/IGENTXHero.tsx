@@ -27,10 +27,13 @@ interface SlideData {
 
 function resolveSlideUrl(link?: { linktype?: string; url?: string; cached_url?: string }) {
   const linkType = link?.linktype || 'url'
-  if (linkType === 'story') {
-    return link?.cached_url || link?.url || '#'
-  }
-  return link?.url || link?.cached_url || '#'
+  const raw =
+    linkType === 'story'
+      ? link?.cached_url || link?.url || '#'
+      : link?.url || link?.cached_url || '#'
+  if (!raw || raw === '#') return '#'
+  if (raw.startsWith('http') || raw.startsWith('#')) return raw
+  return raw.startsWith('/') ? raw : `/${raw}`
 }
 
 function getSlideData(slide: HeroSlideBlok): SlideData {

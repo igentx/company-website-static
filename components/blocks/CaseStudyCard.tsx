@@ -1,4 +1,5 @@
 import { CaseStudyCardBlok } from '@/lib/types'
+import { normalizeInternalHref } from '@/lib/utils'
 import Image from 'next/image'
 import Link from 'next/link'
 
@@ -11,7 +12,7 @@ interface CaseStudyCardProps {
 }
 
 export default function CaseStudyCard({ blok }: CaseStudyCardProps) {
-    const linkUrl = blok.link?.cached_url || blok.link?.url || '#'
+    const linkUrl = normalizeInternalHref(blok.link?.cached_url || blok.link?.url)
 
     // Normalize tags: Storyblok may provide a comma-separated string or an array
     const tags: string[] = Array.isArray(blok.tags)
@@ -22,7 +23,7 @@ export default function CaseStudyCard({ blok }: CaseStudyCardProps) {
 
     return (
         <Link
-            href={`/${linkUrl}`}
+            href={linkUrl}
             className="block"
 
         >

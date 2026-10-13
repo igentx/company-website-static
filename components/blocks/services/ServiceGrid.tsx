@@ -1,5 +1,6 @@
 import { BlockRenderer } from '@/lib/blocks'
 import { ServiceGridBlok } from '@/lib/types'
+import { normalizeInternalHref } from '@/lib/utils'
 import Link from 'next/link'
 
 interface ServiceGridProps {
@@ -18,7 +19,7 @@ export default function ServiceGrid({ blok }: ServiceGridProps) {
           .filter(Boolean)
       : []
 
-  const ctaHref = blok.cta_link?.cached_url || blok.cta_link?.url
+  const ctaHref = normalizeInternalHref(blok.cta_link?.cached_url || blok.cta_link?.url)
 
   return (
     <section className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gray-50 border-t border-gray-100 overflow-hidden">

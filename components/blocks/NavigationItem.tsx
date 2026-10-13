@@ -1,3 +1,4 @@
+import { normalizeInternalHref } from '@/lib/utils'
 
 /**
  * Navigation Item component - Individual navigation link
@@ -18,7 +19,7 @@ interface NavigationItemProps {
 }
 
 export default function NavigationItem({ blok }: NavigationItemProps) {
-  const url = blok.link?.url || blok.link?.cached_url || '#'
+  const url = normalizeInternalHref(blok.link?.url || blok.link?.cached_url)
   return (
     <a
       href={url}
