@@ -142,7 +142,7 @@
           {
             "_uid": "dm-wa-b-problem",
             "component": "blog_body",
-            "content": "<p>When we build products for early childhood centres, classroom time is the scarce resource. Teachers already capture meals, naps, and learning moments in <a href=\"/products/clayox\">Clayox</a>. The slow part is writing a parent-facing update that matches the photo, sounds like the centre, and does not invent details.</p><p>That is the job Write with AI is built for: a <strong>first draft</strong> from a short note, up to four photos, or both. The draft prefills the activity form. Staff still review and post. Nothing reaches the parent feed until a person taps Post.</p>"
+            "content": "<p>When we build products for early childhood centres, classroom time is the scarce resource. Teachers already capture meals, naps, and learning moments in <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>. The slow part is writing a parent-facing update that matches the photo, sounds like the centre, and does not invent details.</p><p>That is the job Write with AI is built for: a <strong>first draft</strong> from a short note, up to four photos, or both. The draft prefills the activity form. Staff still review and post. Nothing reaches the parent feed until a person taps Post.</p>"
           },
           {
             "_uid": "dm-wa-h-drafts",
@@ -175,7 +175,7 @@
           {
             "_uid": "dm-wa-b-next",
             "component": "blog_body",
-            "content": "<p><a href=\"/blog/ai-translation-clayox-multilingual-uae\">AI translation</a> is for enrolled families and staff who want to read an existing update in another language. Write with AI is for staff who need a first English draft. Both use the same server-side AI stack on each centre's dedicated deployment. The optional <strong>AI enquiry assistant</strong> is separate: it captures conversations from prospective families, and your team still decides what becomes a lead.</p><p>Product details live on <a href=\"https://www.clayox.com/ai-write-childcare-updates\" rel=\"noopener noreferrer\">clayox.com/ai-write-childcare-updates</a>. For rollout with your classrooms, <a href=\"/contact\">book a free consultation</a> with IGENTX, or start from the <a href=\"/products/clayox\">Clayox product page</a>.</p>"
+            "content": "<p><a href=\"/blog/ai-translation-clayox-multilingual-uae\">AI translation</a> is for enrolled families and staff who want to read an existing update in another language. Write with AI is for staff who need a first English draft. Both use the same server-side AI stack on each centre's dedicated deployment. The optional <strong>AI enquiry assistant</strong> is separate: it captures conversations from prospective families, and your team still decides what becomes a lead.</p><p>Product details live on <a href=\"https://www.clayox.com/ai-write-childcare-updates\" rel=\"noopener noreferrer\">clayox.com/ai-write-childcare-updates</a>. For rollout with your classrooms, <a href=\"/contact\">book a free consultation</a> with IGENTX, or visit <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>.</p>"
           }
         ]
       }

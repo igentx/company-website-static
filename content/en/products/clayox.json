@@ -8,15 +8,15 @@
       {
         "_uid": "dm-seo-1",
         "component": "seo",
-        "title": "Clayox: AI-Powered Childcare Management Software | IGENTX",
-        "description": "AI-powered childcare management by IGENTX: admissions, attendance, messaging with built-in translation for multilingual families, and tax-aware billing. Dedicated Admin, Teacher, and Family portals.",
-        "keywords": "AI childcare management software, childcare management software, nursery management system, multilingual parent communication, preschool ERP, Clayox translation",
+        "title": "Clayox by IGENTX | Childcare Management Software",
+        "description": "Clayox is IGENTX's childcare management platform for early childhood centres. Short product overview with pricing, features, and a link to the full Clayox site.",
+        "keywords": "Clayox, childcare management software, IGENTX products, nursery management software, preschool management platform",
         "canonical_url": "https://www.igentx.com/products/clayox",
         "robots_index": true,
         "robots_follow": true,
         "og_type": "website",
-        "og_title": "Clayox: AI-Powered Childcare Management Software | IGENTX",
-        "og_description": "AI-powered platform from first enquiry to billing. Built-in translation for multilingual families, plus admissions, attendance, daily care, and invoice-first billing.",
+        "og_title": "Clayox by IGENTX | Childcare Management Software",
+        "og_description": "Short IGENTX overview of Clayox: childcare management for centres, US$1 per student per month, with a clear link to the full product site at clayox.com.",
         "og_image": {
           "filename": "/assets/images/clayox-dashboard.webp",
           "alt": "Clayox childcare management dashboard",
@@ -24,28 +24,29 @@
           "is_external_url": false
         },
         "twitter_card_type": "summary_large_image",
-        "twitter_title": "Clayox | IGENTX",
-        "twitter_description": "AI-powered childcare management by IGENTX: admissions, attendance, messaging with built-in translation, billing, and dedicated portals for admins, teachers, and families.",
+        "twitter_title": "Clayox by IGENTX",
+        "twitter_description": "IGENTX product overview for Clayox childcare management software. Full details on clayox.com.",
         "twitter_image": {
           "filename": "/assets/images/clayox-dashboard.webp",
           "alt": "Clayox childcare management dashboard",
           "fieldtype": "asset",
           "is_external_url": false
         },
-        "structured_data_type": "SoftwareApplication"
+        "structured_data_type": "Product",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebPage\",\n  \"name\": \"Clayox by IGENTX\",\n  \"description\": \"Short IGENTX overview of Clayox childcare management software for early childhood centres.\",\n  \"url\": \"https://www.igentx.com/products/clayox\",\n  \"isPartOf\": {\n    \"@type\": \"WebSite\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\"\n  },\n  \"about\": {\n    \"@type\": \"SoftwareApplication\",\n    \"name\": \"Clayox\",\n    \"applicationCategory\": \"BusinessApplication\",\n    \"operatingSystem\": \"Web\",\n    \"url\": \"https://www.clayox.com/\"\n  },\n  \"mainEntity\": {\n    \"@type\": \"SoftwareApplication\",\n    \"name\": \"Clayox\",\n    \"url\": \"https://www.clayox.com/\"\n  }\n}"
       },
       {
         "_uid": "dm-hero-1",
         "component": "service_hero",
-        "title": "AI-powered childcare management for modern centres",
-        "subtitle": "One platform from first enquiry to billing, with built-in AI translation so multilingual families stay connected. Admissions, attendance, daily care, family communication, and tax-aware billing.",
+        "title": "Clayox",
+        "subtitle": "IGENTX's childcare management platform for nurseries, preschools, and early learning centres. This page is a short product overview; the full Clayox site lives at clayox.com.",
         "badge_text": "IGENTX Product",
-        "cta_text": "Explore AI translation",
+        "cta_text": "Clayox childcare management software",
         "cta_link": {
-          "url": "https://www.clayox.com/ai-translation",
+          "url": "https://www.clayox.com/",
           "linktype": "url"
         },
-        "secondary_cta_text": "Talk to IGENTX",
+        "secondary_cta_text": "Book a Free Consultation",
         "secondary_cta_link": {
           "url": "/contact",
           "linktype": "url"
@@ -63,516 +64,24 @@
           "is_external_url": false
         },
         "featured_image_opacity": 70,
-        "quick_features": "AI translation and Write with AI for staff drafts\nAdmissions with magic-link onboarding\nAttendance, activity feed, and messaging\nInvoice-first billing, fee estimates, and parent statements\nStudent ID cards and full lifecycle tools\nAdmin, Teacher, and Family portals",
-        "pricing_preview": ""
+        "quick_features": "US$1 per student per month, all features included\nProfessional centre website on a free centre.clayox.com subdomain (custom domain extra)\n24/7 AI enquiry chat assistant, reviewed by admins\nEnglish UI with AI translation into 100+ languages including Arabic\nBilling supports AED and VAT\nRuns as a PWA today (no native app yet)\nNo online payment gateway yet",
+        "pricing_preview": "US$1 / student / month"
       },
       {
-        "_uid": "dm-trust-band-001",
-        "component": "igentx_trust_band",
-        "badge_text": "IGENTX Product",
-        "title": "Built for early childhood education centres",
-        "description": "A global platform for preschools, nurseries, childcare centres, and early learning providers. Each centre runs on a dedicated deployment with private data, configurable regional settings, and your centre's branding.",
-        "partner_logos": [
-          {
-            "_uid": "p-nextjs",
-            "component": "trust_band_partner",
-            "name": "Next.js",
-            "icon": {
-              "filename": "/assets/icons/nextjs-icon.svg",
-              "alt": "Next.js"
-            }
-          },
-          {
-            "_uid": "p-react",
-            "component": "trust_band_partner",
-            "name": "React",
-            "icon": {
-              "filename": "/assets/icons/react-icon.svg",
-              "alt": "React"
-            }
-          },
-          {
-            "_uid": "p-aws",
-            "component": "trust_band_partner",
-            "name": "AWS",
-            "icon": {
-              "filename": "/assets/icons/aws-icon.svg",
-              "alt": "AWS"
-            }
-          }
-        ],
-        "metrics": [
-          {
-            "_uid": "dm-m1",
-            "component": "trust_band_metric",
-            "value": "3",
-            "label": "Dedicated Portals",
-            "description": "Admin, Teacher, and Family",
-            "icon_key": "custom"
-          },
-          {
-            "_uid": "dm-m2",
-            "component": "trust_band_metric",
-            "value": "1",
-            "label": "Platform",
-            "description": "Enquiry to billing in one system",
-            "icon_key": "layers"
-          },
-          {
-            "_uid": "dm-m3",
-            "component": "trust_band_metric",
-            "value": "Global",
-            "label": "Deployments",
-            "description": "Configurable currency, timezone, and tax",
-            "icon_key": "global"
-          },
-          {
-            "_uid": "dm-m4",
-            "component": "trust_band_metric",
-            "value": "Single",
-            "label": "Tenant per Centre",
-            "description": "Private database, storage, and CDN",
-            "icon_key": "shield"
-          },
-          {
-            "_uid": "dm-m5",
-            "component": "trust_band_metric",
-            "value": "8-role",
-            "label": "RBAC",
-            "description": "Granular permissions for every role",
-            "icon_key": "experience"
-          }
-        ]
-      },
-      {
-        "_uid": "dm-features-001",
-        "component": "why_choose_igentx",
-        "badge_text": "Platform Capabilities",
-        "title": "Everything your centre runs on",
-        "description": "One integrated platform from the first family enquiry to daily care, communication, and billing. Every record is created once and used everywhere.",
-        "features": [
-          {
-            "_uid": "dm-f-admissions",
-            "component": "differentiator_feature",
-            "title": "Admissions",
-            "highlight": "Magic-link onboarding",
-            "description": "Configurable admission form builder with per-program templates and conditional fields, parent magic-link onboarding, staff fill-on-behalf, enrollment fee summary emails, and one-click approval into student records and first invoices.",
-            "icon": {
-              "filename": "/assets/icons/all-in-one-place.svg",
-              "alt": "Admissions",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-leads",
-            "component": "differentiator_feature",
-            "title": "Leads Pipeline",
-            "highlight": "Enquiry to enrolment",
-            "description": "Capture website enquiries, review optional AI chat conversations, and convert qualified families into admissions without a separate CRM. Staff manually convert leads to the pipeline.",
-            "icon": {
-              "filename": "/assets/icons/direct-contact.svg",
-              "alt": "Leads pipeline",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-attendance",
-            "component": "differentiator_feature",
-            "title": "Attendance",
-            "highlight": "Tap-and-go roster",
-            "description": "Daily check-in and check-out, QR scan check-in, leave requests with staff approval, and a real-time picture of who is in for admins and families.",
-            "icon": {
-              "filename": "/assets/icons/accessible.svg",
-              "alt": "Attendance",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-activity",
-            "component": "differentiator_feature",
-            "title": "Activity Feed",
-            "highlight": "Family trust",
-            "description": "Teachers log meals, naps, learning, mood, and milestones in seconds. Optional Write with AI drafts from a short note and/or photos; staff review before posting. Photo attachments reach families through private storage, scoped to authorised parents only.",
-            "icon": {
-              "filename": "/assets/icons/chat.svg",
-              "alt": "Activity feed",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-messaging",
-            "component": "differentiator_feature",
-            "title": "Messaging",
-            "highlight": "One channel",
-            "description": "1:1 conversations between parents, teachers, and admins, plus broadcasts for closures and reminders. Staff can draft DMs and broadcasts with Write with AI, then review and send. Realtime inbox updates and email notifications when configured.",
-            "icon": {
-              "filename": "/assets/icons/ai-chat.svg",
-              "alt": "Messaging",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-ai-translation",
-            "component": "differentiator_feature",
-            "title": "AI Translation",
-            "highlight": "Included",
-            "description": "On-demand Translate on messages, broadcasts, and activity updates in 100+ languages. Twenty popular choices listed first for UAE and international nurseries; search finds the rest. Parents and staff save a preferred language on their profile. Unlimited for normal daycare use.",
-            "icon": {
-              "filename": "/assets/icons/chat.svg",
-              "alt": "AI translation",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-billing",
-            "component": "differentiator_feature",
-            "title": "Billing",
-            "highlight": "Invoice-first",
-            "description": "Reusable fee plans, billing runs, parent payment proof workflow, credit notes, and account statements with tax frozen at issue time. Admins can also run a fee estimator and download a branded PDF estimate with the centre logo.",
-            "icon": {
-              "filename": "/assets/icons/seo-first.svg",
-              "alt": "Billing",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-lifecycle",
-            "component": "differentiator_feature",
-            "title": "Student Lifecycle",
-            "highlight": "Full journey",
-            "description": "Manage withdrawal with retention policies, archives, re-enrollment for returning families, and program promotion to the next classroom. Printable student ID cards with custom templates, PDF preview, and single or bulk generation.",
-            "icon": {
-              "filename": "/assets/icons/flexible.svg",
-              "alt": "Student lifecycle",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-write-ai",
-            "component": "differentiator_feature",
-            "title": "Write with AI",
-            "highlight": "Staff drafts only",
-            "description": "Optional drafts for activities (from a note and/or up to 4 photos), progress summaries, staff notes, DMs, and broadcasts. Staff always review before posting or sending. Parents never see Write with AI; they use Translate when they need another language.",
-            "icon": {
-              "filename": "/assets/icons/ai-chat.svg",
-              "alt": "Write with AI",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-id-cards",
-            "component": "differentiator_feature",
-            "title": "Student ID Cards",
-            "highlight": "Print-ready PDFs",
-            "description": "Design custom ID card templates for your centre, preview with sample or selected students, and generate single-card or bulk PDFs for printing.",
-            "icon": {
-              "filename": "/assets/icons/accessible.svg",
-              "alt": "Student ID cards",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-admin-tools",
-            "component": "differentiator_feature",
-            "title": "Admin Tools",
-            "highlight": "Fee estimates and ops helpers",
-            "description": "Fee estimator with branded PDF download for program and add-on combinations. Quick helpers also cover age and program eligibility checks, classroom occupancy snapshots, and compliance CSV exports for licensing packs.",
-            "icon": {
-              "filename": "/assets/icons/seo-first.svg",
-              "alt": "Admin tools",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-help-center",
-            "component": "differentiator_feature",
-            "title": "Help Center",
-            "highlight": "In-app guidance",
-            "description": "Role-specific guides for admins, teachers, and parents so teams can learn workflows inside Clayox without leaving the portal.",
-            "icon": {
-              "filename": "/assets/icons/chat.svg",
-              "alt": "Help Center",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-embed",
-            "component": "differentiator_feature",
-            "title": "Embeddable Enquiry Forms",
-            "highlight": "Lead capture",
-            "description": "Drop enquiry forms into your existing centre website with consent capture. Leads land in your admin board for review and one-click admission conversion.",
-            "icon": {
-              "filename": "/assets/icons/lightning-fast.svg",
-              "alt": "Embeddable forms",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-f-whitelabel",
-            "component": "differentiator_feature",
-            "title": "White-label Branding",
-            "highlight": "Your centre's identity",
-            "description": "Your centre name, logo, and favicon on your dedicated deployment. Parents and staff see your brand in the portals they use daily, and invoice PDFs carry your centre's branding.",
-            "icon": {
-              "filename": "/assets/icons/flexible.svg",
-              "alt": "White-label branding",
-              "fieldtype": "asset"
-            }
-          }
-        ],
-        "show_speed_comparison": true,
-        "speed_comparison_title": "The Difference an Integrated Platform Makes",
-        "speed_comparison_description": "See how Clayox replaces fragmented tools with one system built for early childhood education operations.",
-        "traditional_approach_title": "Without Clayox",
-        "traditional_approach_points": [
-          {
-            "_uid": "dm-tap1",
-            "text": "Spreadsheets, WhatsApp, and paper forms for admissions and billing",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          },
-          {
-            "_uid": "dm-tap2",
-            "text": "Manual follow-up on every family enquiry",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          },
-          {
-            "_uid": "dm-tap3",
-            "text": "Parents call or message for daily updates",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          },
-          {
-            "_uid": "dm-tap4",
-            "text": "Billing errors and painful reconciliation",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          },
-          {
-            "_uid": "dm-tap5",
-            "text": "Data scattered across disconnected tools",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          }
-        ],
-        "igentx_advantage_label": "IGENTX Advantage",
-        "igentx_approach_title": "With Clayox",
-        "igentx_approach_points": [
-          {
-            "_uid": "dm-iap1",
-            "text": "One platform from enquiry to receipt PDF",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          },
-          {
-            "_uid": "dm-iap2",
-            "text": "Magic-link admissions with one-click approval",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          },
-          {
-            "_uid": "dm-iap3",
-            "text": "AI translation included | multilingual families read updates in-app",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          },
-          {
-            "_uid": "dm-iap4",
-            "text": "Audit-logged invoices and parent account statements",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          },
-          {
-            "_uid": "dm-iap5",
-            "text": "Dedicated deployment per centre with role-based access",
-            "enabled": true,
-            "component": "speed_comparison_point"
-          }
-        ],
-        "uae_signals_title": "Three Portals, One Platform",
-        "uae_signals_description": "Tailored experiences for every role, with responsive web portals and PWA install support today.",
-        "uae_signals": [
-          {
-            "_uid": "dm-portal-admin",
-            "component": "uae_signal_item",
-            "title": "Admin Portal",
-            "description": "Admissions, billing runs, staff management, leads pipeline, admin tools, Help Center, and centre-wide reporting.",
-            "icon": {
-              "filename": "/assets/icons/all-in-one-place.svg",
-              "alt": "Admin portal",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-portal-teacher",
-            "component": "uae_signal_item",
-            "title": "Teacher Portal",
-            "description": "Classroom attendance, activity logging, and parent messaging built for fast phone entry.",
-            "icon": {
-              "filename": "/assets/icons/accessible.svg",
-              "alt": "Teacher portal",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-portal-family",
-            "component": "uae_signal_item",
-            "title": "Family Portal",
-            "description": "Daily activity feed, messaging, billing statements, and leave requests for parents and guardians.",
-            "icon": {
-              "filename": "/assets/icons/direct-contact.svg",
-              "alt": "Family portal",
-              "fieldtype": "asset"
-            }
-          },
-          {
-            "_uid": "dm-portal-pwa",
-            "component": "uae_signal_item",
-            "title": "PWA and Mobile-Ready Web",
-            "description": "Responsive portals with add-to-homescreen support. Native mobile apps are on the roadmap.",
-            "icon": {
-              "filename": "/assets/icons/flexible.svg",
-              "alt": "Mobile ready",
-              "fieldtype": "asset"
-            }
-          }
-        ]
-      },
-      {
-        "_uid": "dm-process-001",
-        "component": "igentx_services",
-        "title": "How It Works",
-        "description": "From the first family enquiry to daily operations and billing, Clayox keeps every step in one system.",
-        "services": [],
-        "show_tech_stack": false,
-        "process_title": "How It Works",
-        "process_description": "A clear path from enquiry capture through enrolment, daily care, and billing.",
-        "process_steps": [
-          {
-            "_uid": "dm-ps1",
-            "component": "process_step",
-            "title": "Capture Enquiries",
-            "duration": "Day one",
-            "description": "Embed enquiry forms on your website, use the hosted register page, or deploy the optional AI enquiry assistant for subscribers."
-          },
-          {
-            "_uid": "dm-ps2",
-            "component": "process_step",
-            "title": "Enrol Families",
-            "duration": "Minutes",
-            "description": "Send magic-link admission invites, collect documents from parents, and approve enrolments into student records and first invoices."
-          },
-          {
-            "_uid": "dm-ps3",
-            "component": "process_step",
-            "title": "Run Daily Operations",
-            "duration": "Every day",
-            "description": "Track attendance, log activities with optional Write with AI drafts, and keep families updated through the activity feed and messaging."
-          },
-          {
-            "_uid": "dm-ps4",
-            "component": "process_step",
-            "title": "Bill and Grow",
-            "duration": "Ongoing",
-            "description": "Run billing cycles, record payments, review payment proofs, issue statements, and manage the full student lifecycle."
-          }
-        ]
-      },
-      {
-        "_uid": "dm-tech-001",
-        "component": "igentx_services",
-        "title": "Enterprise Ready",
-        "description": "Dedicated infrastructure and security built for childcare centres that need isolation, compliance, and control.",
-        "services": [],
-        "show_tech_stack": true,
-        "tech_stack_badge": "Platform & Security",
-        "tech_stack_title": "Powered by Secure, Dedicated Infrastructure",
-        "tech_stack_description": "Each centre runs on its own deployment with configurable regional settings, role-based access, and cloud-native hosting.",
-        "tech_categories": [
-          {
-            "_uid": "dm-c-cloud",
-            "component": "tech_category",
-            "title": "Cloud Native",
-            "description": "Scalable hosting and enterprise-grade infrastructure built for reliability.",
-            "icon_key": "cloud",
-            "technologies": [
-              {
-                "_uid": "dm-t-aws",
-                "component": "technology_item",
-                "name": "AWS",
-                "icon": {
-                  "filename": "/assets/icons/aws-icon.svg",
-                  "alt": "AWS",
-                  "fieldtype": "asset"
-                }
-              },
-              {
-                "_uid": "dm-t-cf",
-                "component": "technology_item",
-                "name": "Cloudflare",
-                "icon": {
-                  "filename": "/assets/icons/cloudflare-icon.svg",
-                  "alt": "Cloudflare",
-                  "fieldtype": "asset"
-                }
-              }
-            ]
-          }
-        ],
-        "tech_benefits": [
-          {
-            "_uid": "dm-tb1",
-            "component": "tech_benefit",
-            "title": "Dedicated Deployment",
-            "description": "Private database and storage per centre",
-            "icon_key": "shield"
-          },
-          {
-            "_uid": "dm-tb2",
-            "component": "tech_benefit",
-            "title": "Regional Settings",
-            "description": "Configurable currency, timezone, and VAT",
-            "icon_key": "global"
-          },
-          {
-            "_uid": "dm-tb3",
-            "component": "tech_benefit",
-            "title": "Magic-Link Auth",
-            "description": "Secure access with audit trails",
-            "icon_key": "shield"
-          },
-          {
-            "_uid": "dm-tb4",
-            "component": "tech_benefit",
-            "title": "8-Role RBAC",
-            "description": "Granular permissions for every role",
-            "icon_key": "layers"
-          },
-          {
-            "_uid": "dm-tb5",
-            "component": "tech_benefit",
-            "title": "OpenAPI REST API",
-            "description": "Documented API for integrations",
-            "icon_key": "lightning"
-          },
-          {
-            "_uid": "dm-tb6",
-            "component": "tech_benefit",
-            "title": "White-label Branding",
-            "description": "Your centre name, logo, and favicon",
-            "icon_key": "custom"
-          }
-        ]
+        "_uid": "dm-summary-001",
+        "component": "service_detail",
+        "overview": "<p>Clayox helps early childhood education centres run admissions, attendance, daily care updates, family messaging, and invoice-first billing from one platform. Each centre gets a dedicated deployment so operations stay organised without juggling spreadsheets and disconnected tools.</p><p>For the complete product experience, visit <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>. That is the primary Clayox website. This IGENTX page is only a concise summary for people exploring our products.</p><p>Pricing is US$1 per student per month and includes all features, a professional centre website (design and hosting on a free centre.clayox.com subdomain; custom domains are extra), and a 24/7 AI enquiry chat assistant whose chats admins review. The interface is English, with AI message translation into 100+ languages including Arabic. Billing supports AED and VAT.</p><p>Clayox is a progressive web app today, not a native mobile app, and there is no online payment gateway yet. If you want help planning a rollout alongside a centre website or AI enquiry work, book a free consultation with IGENTX.</p>",
+        "what_you_get_title": "At a glance",
+        "what_you_get": "US$1 per student per month with all features included\nCentre website on free centre.clayox.com subdomain (custom domain extra)\n24/7 AI enquiry chat for admin review\nEnglish UI plus AI translation into 100+ languages including Arabic\nAED and VAT-ready billing\nPWA access on web and mobile (no native app yet)\nInvoice-first billing without an online payment gateway yet"
       },
       {
         "_uid": "dm-cta-band-001",
         "component": "igentx_cta_band",
-        "title": "Ready to simplify centre operations and family engagement?",
-        "description": "Explore Clayox for your centre, or talk to IGENTX about implementation and support. See how BloomWave Learning and Daycare launched with Clayox in our case study.",
-        "primary_cta_text": "Visit clayox.com",
+        "title": "Explore Clayox or talk to IGENTX",
+        "description": "Visit the Clayox product site for full details and demos, or book a free consultation if you want IGENTX to help with implementation, website, or AI enquiry setup.",
+        "primary_cta_text": "Clayox childcare management software",
         "primary_cta_link": {
-          "url": "https://www.clayox.com",
+          "url": "https://www.clayox.com/",
           "linktype": "url"
         },
         "secondary_cta_text": "Book a Free Consultation",
@@ -581,148 +90,6 @@
           "linktype": "url",
           "cached_url": "contact"
         }
-      },
-      {
-        "_uid": "dm-faq-1",
-        "component": "faq",
-        "faq_title": "Frequently Asked Questions",
-        "faq_description": "Common questions about Clayox, admissions, operations, billing, and platform setup.",
-        "initial_visible_count": 8,
-        "faqs": [
-          {
-            "_uid": "dm-faq-q1",
-            "component": "faq_item",
-            "question": "Is Clayox only for UAE centres?",
-            "answer": "No. Clayox is built for early childhood education providers worldwide. Currency, timezone, and tax/VAT are configurable per deployment. The UAE is our primary market, not the geographic limit of the product.",
-            "category": "General"
-          },
-          {
-            "_uid": "dm-faq-q2",
-            "component": "faq_item",
-            "question": "Who is Clayox for?",
-            "answer": "Clayox serves preschools, nurseries, childcare centres, early learning centres, Montessori schools, kindergartens, and playschools. It is designed for centres that need admissions, daily care, family communication, and billing in one platform.",
-            "category": "General"
-          },
-          {
-            "_uid": "dm-faq-q3",
-            "component": "faq_item",
-            "question": "How does magic-link admission onboarding work?",
-            "answer": "Admins send a one-shot magic-link invite to a parent's email. Parents complete configurable admission forms at their own pace, including child, guardian, sibling, and document upload steps. Staff can fill forms on behalf of families when needed, email an enrollment fee summary, then approve in one click to create student records and first invoices.",
-            "category": "Admissions"
-          },
-          {
-            "_uid": "dm-faq-q4",
-            "component": "faq_item",
-            "question": "Can we embed enquiry forms on our existing website?",
-            "answer": "Yes. Clayox provides embeddable enquiry forms for lead capture on your centre website, plus a hosted register page alternative. Leads land in your admin lead board with consent proof. This is enquiry and lead capture, not a hosted visit booking page.",
-            "category": "Admissions"
-          },
-          {
-            "_uid": "dm-faq-q5",
-            "component": "faq_item",
-            "question": "Can teachers log attendance and activities from mobile?",
-            "answer": "Yes. Teacher and family portals are responsive and mobile-ready, with PWA add-to-homescreen support. Teachers can run attendance, log activities, and message families from phones and tablets in the classroom.",
-            "category": "Operations"
-          },
-          {
-            "_uid": "dm-faq-q6",
-            "component": "faq_item",
-            "question": "Does billing support tax and VAT configuration?",
-            "answer": "Yes. Each deployment supports configurable currency, timezone, and tax/VAT settings. Tax rates are frozen on each invoice at issue time, with per-line taxable flags and audit-logged billing runs.",
-            "category": "Billing"
-          },
-          {
-            "_uid": "dm-faq-q7",
-            "component": "faq_item",
-            "question": "Is each centre on its own deployment?",
-            "answer": "Yes. Each centre runs on a dedicated single-tenant deployment with its own database, private storage, and CDN. This keeps centre data isolated and supports configurable regional settings.",
-            "category": "Platform"
-          },
-          {
-            "_uid": "dm-faq-q7b",
-            "component": "faq_item",
-            "question": "What does white-label mean for Clayox?",
-            "answer": "White-label means the software runs under your centre's brand, not the vendor's. Your centre name, logo, and favicon appear on your dedicated deployment, and invoice PDFs carry your branding. Parents and staff experience your centre's identity; Clayox powers the platform behind the scenes.",
-            "category": "Platform"
-          },
-          {
-            "_uid": "dm-faq-q7c",
-            "component": "faq_item",
-            "question": "Is Clayox white-labelled for each centre?",
-            "answer": "Yes. Each centre gets a dedicated deployment with your branding: centre name, logo, favicon, and branded invoice and receipt PDFs. Your families experience your centre's identity on a platform built for early childhood operations.",
-            "category": "Platform"
-          },
-          {
-            "_uid": "dm-faq-q8",
-            "component": "faq_item",
-            "question": "What roles and permissions are supported?",
-            "answer": "Clayox includes 8-role role-based access control with granular permissions across Admin, Teacher, and Family portals. Staff, classroom, and billing access can be scoped to each centre's needs.",
-            "category": "Platform"
-          },
-          {
-            "_uid": "dm-faq-write-ai",
-            "component": "faq_item",
-            "question": "What is Write with AI, and does it auto-post?",
-            "answer": "Write with AI drafts staff content for activities, progress summaries, staff notes, DMs, and broadcasts. It never auto-posts or auto-sends. Staff review and edit before anything reaches families. Parents do not see Write with AI; they use on-demand Translate when they need another language. Learn more at clayox.com/ai-write-childcare-updates.",
-            "category": "AI Solutions"
-          },
-          {
-            "_uid": "dm-faq-payments",
-            "component": "faq_item",
-            "question": "Do you support online card payment gateways?",
-            "answer": "Not yet. Clayox supports invoice-first billing with parent payment proof submissions and manual payment recording by admins. Automated card and online payment gateways are on the roadmap, not available today.",
-            "category": "Billing"
-          },
-          {
-            "_uid": "dm-faq-id-cards",
-            "component": "faq_item",
-            "question": "Can we print student ID cards?",
-            "answer": "Yes. Admins can design custom ID card templates, preview PDFs with sample or selected students, and generate single-card or bulk print-ready PDFs.",
-            "category": "Operations"
-          },
-          {
-            "_uid": "dm-faq-q9a",
-            "component": "faq_item",
-            "question": "Is AI translation included in Clayox?",
-            "answer": "Yes. AI translation is included for normal daycare use. Parents and staff can tap Translate on messages, broadcasts, and activity updates in 100+ languages. Preferred language is saved on user profiles for one-tap translate.",
-            "category": "AI Solutions"
-          },
-          {
-            "_uid": "dm-faq-q9b",
-            "component": "faq_item",
-            "question": "How many languages does Clayox translation support?",
-            "answer": "Clayox supports the full ISO 639-1 language list (100+ languages). Twenty popular languages for UAE and international nurseries are listed first; search finds the rest. Learn more at clayox.com/ai-translation.",
-            "category": "AI Solutions"
-          },
-          {
-            "_uid": "dm-faq-q9",
-            "component": "faq_item",
-            "question": "Does the AI enquiry assistant auto-create leads?",
-            "answer": "No. The optional AI enquiry assistant captures conversations for admin review. Your team manually converts qualified enquiries to the leads pipeline. Nothing is auto-logged without staff action.",
-            "category": "AI Solutions"
-          },
-          {
-            "_uid": "dm-faq-q10",
-            "component": "faq_item",
-            "question": "Is the AI enquiry assistant included for all centres?",
-            "answer": "The AI enquiry assistant is optional and deployable for subscribing centres. It works alongside embeddable enquiry forms and the leads pipeline. IGENTX can also help implement the AI Customer Service Agent on your centre website.",
-            "category": "AI Solutions"
-          },
-          {
-            "_uid": "dm-faq-q11",
-            "component": "faq_item",
-            "question": "Can parents view daily activities and message teachers?",
-            "answer": "Yes. The Family portal provides a per-child activity feed scoped to authorised parents, plus 1:1 messaging with teachers and admins. Broadcasts cover closures, events, and centre-wide reminders.",
-            "category": "Operations"
-          },
-          {
-            "_uid": "dm-faq-q12",
-            "component": "faq_item",
-            "question": "How do I get started with Clayox?",
-            "answer": "Visit clayox.com to explore the product and request a demo. For implementation support, custom rollout, or combining Clayox with website and AI enquiry solutions, talk to the IGENTX team.",
-            "category": "General"
-          }
-        ]
       }
     ],
     "component": "page"

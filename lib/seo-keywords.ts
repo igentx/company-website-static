@@ -106,11 +106,11 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
       'AI customer service agent, RAG website chatbot, multilingual AI support widget, AI chat widget',
   },
   '/products/clayox': {
-    title: 'Clayox | Childcare Management Software | IGENTX',
+    title: 'Clayox by IGENTX | Childcare Management Software',
     description:
-      'Childcare management platform by IGENTX: admissions, attendance, parent communication, and tax-aware billing. Single-tenant deployment per centre.',
+      'Short IGENTX overview of Clayox childcare management software. Pricing from US$1 per student per month. Full product details at clayox.com.',
     keywords:
-      'childcare management software, nursery management system, preschool ERP, early childhood centre software',
+      'Clayox, childcare management software, IGENTX products, nursery management software',
   },
   '/uae': {
     title: 'Digital Agency Dubai & Childcare Management Software UAE | IGENTX',

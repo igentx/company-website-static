@@ -171,9 +171,9 @@
         "cta_section_text": "See how Clayox supports admissions, attendance, family communication and billing. Visit the product page or talk to IGENTX about rollout for your centre.",
         "cta_button_text": "Explore Clayox",
         "cta_button_link": {
-          "url": "/products/clayox",
+          "url": "https://www.clayox.com/",
           "linktype": "url",
-          "cached_url": "/products/clayox"
+          "cached_url": "https://www.clayox.com/"
         },
         "content_blocks": [
           {
@@ -185,7 +185,7 @@
           {
             "_uid": "dm-b-intro",
             "component": "blog_body",
-            "content": "<p>Early childhood education centres face a unique operational challenge. Families expect responsive communication, transparent billing and a smooth admissions experience. Teachers need fast tools for attendance and daily care logging. Administrators juggle leads, enrolments, staff access and finance in systems that rarely talk to each other.</p><p><a href=\"/products/clayox\">Clayox</a> is IGENTX's childcare management platform, built for nurseries, preschools and early learning providers worldwide. The UAE is our primary market, but the product is designed for global deployment: each centre runs on a dedicated instance with private data and configurable regional settings.</p><p>This guide explains what centre management software should cover, how Clayox addresses each area, and what to evaluate before you choose a platform. For product details, visit <a href=\"https://www.clayox.com\" rel=\"noopener noreferrer\">clayox.com</a>.</p>"
+            "content": "<p>Early childhood education centres face a unique operational challenge. Families expect responsive communication, transparent billing and a smooth admissions experience. Teachers need fast tools for attendance and daily care logging. Administrators juggle leads, enrolments, staff access and finance in systems that rarely talk to each other.</p><p><a href=\"https://www.clayox.com/\">Clayox childcare management software</a> is IGENTX's childcare management platform, built for nurseries, preschools and early learning providers worldwide. The UAE is our primary market, but the product is designed for global deployment: each centre runs on a dedicated instance with private data and configurable regional settings.</p><p>This guide explains what centre management software should cover, how Clayox addresses each area, and what to evaluate before you choose a platform.</p>"
           },
           {
             "_uid": "dm-h-checklist",
@@ -302,7 +302,7 @@
           {
             "_uid": "dm-b-evaluate",
             "component": "blog_body",
-            "content": "<p>When comparing childcare management platforms, ask vendors:</p><ol><li>Does the product cover your full workflow from lead to billing, or only part of it?</li><li>Can families and teachers use dedicated portals on mobile, not just admins?</li><li>How are roles and permissions handled for front desk, billing and classroom staff?</li><li>Is billing invoice-first with clear parent statements and regional tax support?</li><li>What does onboarding look like for your centre size and programme structure?</li><li>Can you embed enquiry forms on your existing website without rebuilding everything?</li></ol><p>If you want a platform built for early childhood education centres, start with the <a href=\"/products/clayox\">Clayox product page</a> or visit <a href=\"https://www.clayox.com\" rel=\"noopener noreferrer\">clayox.com</a>. For rollout support, <a href=\"/contact\">book a free consultation</a> with IGENTX.</p>"
+            "content": "<p>When comparing childcare management platforms, ask vendors:</p><ol><li>Does the product cover your full workflow from lead to billing, or only part of it?</li><li>Can families and teachers use dedicated portals on mobile, not just admins?</li><li>How are roles and permissions handled for front desk, billing and classroom staff?</li><li>Is billing invoice-first with clear parent statements and regional tax support?</li><li>What does onboarding look like for your centre size and programme structure?</li><li>Can you embed enquiry forms on your existing website without rebuilding everything?</li></ol><p>If you want a platform built for early childhood education centres, visit <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>. For rollout support, <a href=\"/contact\">book a free consultation</a> with IGENTX.</p>"
           }
         ]
       },
@@ -363,9 +363,9 @@
         },
         "secondary_cta_text": "Explore Clayox",
         "secondary_cta_link": {
-          "url": "/products/clayox",
+          "url": "https://www.clayox.com/",
           "linktype": "url",
-          "cached_url": "products/clayox"
+          "cached_url": "https://www.clayox.com/"
         }
       }
     ],
