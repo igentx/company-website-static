@@ -108,7 +108,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/products/clayox': {
     title: 'Clayox by IGENTX | Childcare Management Software',
     description:
-      'Short IGENTX overview of Clayox childcare management software. Pricing from US$1 per student per month. Full product details at clayox.com.',
+      'Short IGENTX overview of Clayox childcare management software. Pricing from $1 per student per month (USD). Full product details at clayox.com.',
     keywords:
       'Clayox, childcare management software, IGENTX products, nursery management software',
   },

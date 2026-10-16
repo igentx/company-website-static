@@ -16,7 +16,7 @@
         "robots_follow": true,
         "og_type": "website",
         "og_title": "Clayox by IGENTX | Childcare Management Software",
-        "og_description": "Short IGENTX overview of Clayox: childcare management for centres, US$1 per student per month, with a clear link to the full product site at clayox.com.",
+        "og_description": "Short IGENTX overview of Clayox: childcare management for centres, $1 per student per month, with a clear link to the full product site at clayox.com.",
         "og_image": {
           "filename": "/assets/images/clayox-dashboard.webp",
           "alt": "Clayox childcare management dashboard",
@@ -64,15 +64,15 @@
           "is_external_url": false
         },
         "featured_image_opacity": 70,
-        "quick_features": "US$1 per student per month, all features included\nProfessional centre website on a free centre.clayox.com subdomain (custom domain extra)\n24/7 AI enquiry chat assistant, reviewed by admins\nEnglish UI with AI translation into 100+ languages including Arabic\nBilling supports AED and VAT\nRuns as a PWA today (no native app yet)\nNo online payment gateway yet",
-        "pricing_preview": "US$1 / student / month"
+        "quick_features": "$1 per student per month, all features included\nProfessional centre website on a free centre.clayox.com subdomain (custom domain extra)\n24/7 AI enquiry chat assistant, reviewed by admins\nEnglish UI with AI translation into 100+ languages including Arabic\nBilling supports AED and VAT\nRuns as a PWA today (no native app yet)\nNo online payment gateway yet",
+        "pricing_preview": "$1 / student / month"
       },
       {
         "_uid": "dm-summary-001",
         "component": "service_detail",
-        "overview": "<p>Clayox helps early childhood education centres run admissions, attendance, daily care updates, family messaging, and invoice-first billing from one platform. Each centre gets a dedicated deployment so operations stay organised without juggling spreadsheets and disconnected tools.</p><p>For the complete product experience, visit <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>. That is the primary Clayox website. This IGENTX page is only a concise summary for people exploring our products.</p><p>Pricing is US$1 per student per month and includes all features, a professional centre website (design and hosting on a free centre.clayox.com subdomain; custom domains are extra), and a 24/7 AI enquiry chat assistant whose chats admins review. The interface is English, with AI message translation into 100+ languages including Arabic. Billing supports AED and VAT.</p><p>Clayox is a progressive web app today, not a native mobile app, and there is no online payment gateway yet. If you want help planning a rollout alongside a centre website or AI enquiry work, book a free consultation with IGENTX.</p>",
+        "overview": "<p>Clayox helps early childhood education centres run admissions, attendance, daily care updates, family messaging, and invoice-first billing from one platform. Each centre gets a dedicated deployment so operations stay organised without juggling spreadsheets and disconnected tools.</p><p>For the complete product experience, visit <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>. That is the primary Clayox website. This IGENTX page is only a concise summary for people exploring our products.</p><p>Prices in USD. Pricing is $1 per student per month and includes all features, a professional centre website (design and hosting on a free centre.clayox.com subdomain; custom domains are extra), and a 24/7 AI enquiry chat assistant whose chats admins review. The interface is English, with AI message translation into 100+ languages including Arabic. Billing supports AED and VAT.</p><p>Clayox is a progressive web app today, not a native mobile app, and there is no online payment gateway yet. If you want help planning a rollout alongside a centre website or AI enquiry work, book a free consultation with IGENTX.</p>",
         "what_you_get_title": "At a glance",
-        "what_you_get": "US$1 per student per month with all features included\nCentre website on free centre.clayox.com subdomain (custom domain extra)\n24/7 AI enquiry chat for admin review\nEnglish UI plus AI translation into 100+ languages including Arabic\nAED and VAT-ready billing\nPWA access on web and mobile (no native app yet)\nInvoice-first billing without an online payment gateway yet"
+        "what_you_get": "$1 per student per month with all features included\nCentre website on free centre.clayox.com subdomain (custom domain extra)\n24/7 AI enquiry chat for admin review\nEnglish UI plus AI translation into 100+ languages including Arabic\nAED and VAT-ready billing\nPWA access on web and mobile (no native app yet)\nInvoice-first billing without an online payment gateway yet"
       },
       {
         "_uid": "dm-cta-band-001",
