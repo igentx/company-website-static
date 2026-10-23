@@ -3,7 +3,17 @@ import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Page not found | IGENTX',
+  description: 'The page you are looking for does not exist or may have been moved.',
   robots: { index: false, follow: true },
+  // 404 must not inherit homepage canonical or hreflang from parent layouts.
+  alternates: {
+    canonical: null,
+    languages: {
+      en: null,
+      'x-default': null,
+      ar: null,
+    },
+  },
 }
 
 export default function NotFound() {

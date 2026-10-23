@@ -2,9 +2,29 @@ import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
 
 /**
+ * Arabic locale content was removed. Redirect /ar and /ar/* to English in one hop
+ * (before Next.js trailing-slash normalisation can turn /ar/ into /ar → /).
+ */
+function arabicToEnglishRedirect(request: NextRequest): NextResponse | null {
+  const { pathname } = request.nextUrl
+  if (pathname !== '/ar' && pathname !== '/ar/' && !pathname.startsWith('/ar/')) {
+    return null
+  }
+
+  const englishPath =
+    pathname === '/ar' || pathname === '/ar/' ? '/' : pathname.replace(/^\/ar/, '') || '/'
+  const url = request.nextUrl.clone()
+  url.pathname = englishPath
+  return NextResponse.redirect(url, 308)
+}
+
+/**
  * Basic security headers
  */
 export function middleware(request: NextRequest) {
+  const arabicRedirect = arabicToEnglishRedirect(request)
+  if (arabicRedirect) return arabicRedirect
+
   const response = NextResponse.next()
 
   response.headers.set('X-Frame-Options', 'SAMEORIGIN')

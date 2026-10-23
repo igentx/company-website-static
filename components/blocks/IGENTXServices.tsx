@@ -505,7 +505,13 @@ export default function IGENTXServices({ blok }: IGENTXServicesProps) {
                   'Let us help you build a powerful digital presence that drives results in the UAE market.'}
               </p>
               <a
-                href={blok.cta_link?.url || '#'}
+                href={
+                  !blok.cta_link?.url || blok.cta_link.url === '#'
+                    ? '#'
+                    : blok.cta_link.url.startsWith('http') || blok.cta_link.url.startsWith('/')
+                      ? blok.cta_link.url
+                      : `/${blok.cta_link.url}`
+                }
                 className="inline-flex items-center px-8 py-4 bg-white text-blue-600 font-semibold rounded-xl hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-blue-600 transition-all duration-300 transform hover:scale-105"
               >
                 {blok.cta_text}

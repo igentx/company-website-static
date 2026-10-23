@@ -33,12 +33,9 @@ export const metadata: Metadata = {
   creator: 'IGENTX',
   publisher: 'IGENTX',
   metadataBase: new URL(getSiteBaseUrl()),
+  // Do not set site-wide canonical or hreflang here: they leak onto the 404 page.
+  // Per-page canonical/hreflang come from buildPageMetadata() / generateMetadata.
   alternates: {
-    canonical: '/',
-    languages: {
-      en: '/',
-      'x-default': '/',
-    },
     types: {
       'application/rss+xml': '/feed.xml',
     },

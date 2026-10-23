@@ -17,6 +17,20 @@ const nextConfig: NextConfig = {
       },
       { source: '/en', destination: '/', permanent: true },
       { source: '/en/:path*', destination: '/:path*', permanent: true },
+      // Arabic locale was removed (no content/ar). Send historical /ar URLs to English equivalents.
+      { source: '/ar', destination: '/', permanent: true },
+      { source: '/ar/:path*', destination: '/:path*', permanent: true },
+      // Broken relative-link crawl paths → canonical blog posts
+      {
+        source: '/service/blog/:slug',
+        destination: '/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/blog/blog/:slug',
+        destination: '/blog/:slug',
+        permanent: true,
+      },
       {
         source: '/case-studies/web-development-uae-startup-moduluxe-group',
         destination: '/case-studies/moduluxe-group',

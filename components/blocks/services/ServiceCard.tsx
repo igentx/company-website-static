@@ -1,4 +1,5 @@
 import { ServiceCardBlok } from '@/lib/types'
+import { normalizeInternalHref } from '@/lib/utils'
 import Image from 'next/image'
 import Link from 'next/link'
 
@@ -7,7 +8,7 @@ interface ServiceCardProps {
 }
 
 export default function ServiceCard({ blok }: ServiceCardProps) {
-    const linkUrl = blok.link?.cached_url || blok.link?.url || '#'
+    const linkUrl = normalizeInternalHref(blok.link?.cached_url || blok.link?.url)
     const linkType = blok.link?.linktype || 'url'
     const isExternal = linkType === 'url'
 
@@ -33,7 +34,7 @@ export default function ServiceCard({ blok }: ServiceCardProps) {
 
     return (
         <Link
-            href={`/${linkUrl}`}
+            href={linkUrl}
             className="block"
 
         >
