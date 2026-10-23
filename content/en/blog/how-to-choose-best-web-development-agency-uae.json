@@ -120,7 +120,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/importance-of-website-uae"
+              "cached_url": "/blog/importance-of-website-uae"
             },
             "featured_image": {
               "filename": "/assets/images/web-development-uae.webp",
@@ -141,7 +141,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/web-development-uae"
+              "cached_url": "/blog/web-development-uae"
             },
             "featured_image": {
               "filename": "/assets/images/web-development-uae.webp",
@@ -162,7 +162,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/ai-in-web-development-uae"
+              "cached_url": "/blog/ai-in-web-development-uae"
             },
             "featured_image": {
               "filename": "/assets/images/ai-in-web-development.webp",
@@ -1382,13 +1382,13 @@
         "primary_cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View Case Studies",
         "secondary_cta_link": {
           "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         }
       }
     ],

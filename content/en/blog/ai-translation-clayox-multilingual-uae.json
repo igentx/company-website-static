@@ -94,7 +94,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/ai-write-clayox-staff-drafts"
+              "cached_url": "/blog/ai-write-clayox-staff-drafts"
             },
             "featured_image": {
               "filename": "/assets/images/clayox-hero.webp",
@@ -115,7 +115,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/clayox-childcare-management-software-guide"
+              "cached_url": "/blog/clayox-childcare-management-software-guide"
             },
             "featured_image": {
               "filename": "/assets/images/clayox-hero.webp",
@@ -136,7 +136,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/childcare-management-software-uae-guide"
+              "cached_url": "/blog/childcare-management-software-uae-guide"
             },
             "featured_image": {
               "filename": "/assets/images/clayox-dashboard.webp",

@@ -2,6 +2,17 @@ import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
 
 /**
+ * Map historical Arabic + legacy paths straight to the live English URL so
+ * middleware (which can run ahead of trailing-slash normalisation) still
+ * finishes in one hop for the Google 404 URLs we care about.
+ */
+const ARABIC_LEGACY_DESTINATIONS: Record<string, string> = {
+  '/ar/case-studies-landing-page': '/case-studies',
+  '/ar/service': '/services',
+  '/ar/web-development-uae': '/services/web-development-uae',
+}
+
+/**
  * Arabic locale content was removed. Redirect /ar and /ar/* to English in one hop
  * (before Next.js trailing-slash normalisation can turn /ar/ into /ar → /).
  */
@@ -11,8 +22,20 @@ function arabicToEnglishRedirect(request: NextRequest): NextResponse | null {
     return null
   }
 
-  const englishPath =
-    pathname === '/ar' || pathname === '/ar/' ? '/' : pathname.replace(/^\/ar/, '') || '/'
+  const withoutTrailing =
+    pathname.length > 1 && pathname.endsWith('/') ? pathname.slice(0, -1) : pathname
+
+  let englishPath: string | undefined = ARABIC_LEGACY_DESTINATIONS[withoutTrailing]
+
+  if (!englishPath && withoutTrailing.startsWith('/ar/case-studies-landing-page/')) {
+    englishPath = withoutTrailing.replace(/^\/ar\/case-studies-landing-page/, '') || '/'
+  } else if (!englishPath && withoutTrailing.startsWith('/ar/blog/services/')) {
+    englishPath = withoutTrailing.replace(/^\/ar\/blog\/services/, '/services')
+  } else if (!englishPath) {
+    englishPath =
+      pathname === '/ar' || pathname === '/ar/' ? '/' : pathname.replace(/^\/ar/, '') || '/'
+  }
+
   const url = request.nextUrl.clone()
   url.pathname = englishPath
   return NextResponse.redirect(url, 308)

@@ -46,12 +46,12 @@
         "cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "back_link": {
           "url": "/services",
           "linktype": "url",
-          "cached_url": "services"
+          "cached_url": "/services"
         },
         "back_link_label": "Back to Services",
         "featured_image": {
@@ -230,15 +230,15 @@
         "description": "Book a free consultation to discuss your positioning, deliverables and timeline. We will scope a branding project from logo-only to full identity systems.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View Case Studies",
         "secondary_cta_link": {
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         }
       },
       {

@@ -55,13 +55,13 @@
         "cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "duration": "Ongoing Monthly Plans",
         "back_link": {
           "url": "/services",
           "linktype": "url",
-          "cached_url": "services"
+          "cached_url": "/services"
         },
         "back_link_label": "Back to Services",
         "featured_image": {
@@ -240,15 +240,15 @@
         "description": "Book a free consultation for a local SEO overview, multilingual keyword opportunities and a realistic growth plan for your UAE markets.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View Moduluxe Case Study",
         "secondary_cta_link": {
-          "url": "case-studies/moduluxe-group",
+          "url": "/case-studies/moduluxe-group",
           "linktype": "url",
-          "cached_url": "case-studies/moduluxe-group"
+          "cached_url": "/case-studies/moduluxe-group"
         }
       },
       {

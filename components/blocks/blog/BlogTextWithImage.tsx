@@ -1,5 +1,6 @@
 import { RichText } from '@/lib/blocks'
 import { BlogTextWithImageBlok } from '@/lib/types'
+import { normalizeInternalHrefsInHtml } from '@/lib/utils'
 import Image from 'next/image'
 
 interface BlogTextWithImageProps {
@@ -34,7 +35,9 @@ export default function BlogTextWithImage({ blok }: BlogTextWithImageProps) {
                         ) : (
                             <div
                                 className="text-gray-700 leading-relaxed m-0"
-                                dangerouslySetInnerHTML={{ __html: blok.text as string }}
+                                dangerouslySetInnerHTML={{
+                                  __html: normalizeInternalHrefsInHtml(blok.text as string),
+                                }}
                             />
                         )
                     ) : null}

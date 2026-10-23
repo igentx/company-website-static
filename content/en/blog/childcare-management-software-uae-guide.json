@@ -95,7 +95,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/opening-nursery-dubai-digital-tools"
+              "cached_url": "/blog/opening-nursery-dubai-digital-tools"
             },
             "featured_image": {
               "filename": "/assets/images/clayox-dashboard.webp",
@@ -116,7 +116,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/clayox-childcare-management-software-guide"
+              "cached_url": "/blog/clayox-childcare-management-software-guide"
             },
             "featured_image": {
               "filename": "/assets/images/clayox-hero.webp",
@@ -137,7 +137,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/bloomwave-clayox-digital-transformation"
+              "cached_url": "/blog/bloomwave-clayox-digital-transformation"
             },
             "featured_image": {
               "filename": "/assets/images/bloomwave-homepage.jpg",
@@ -270,13 +270,13 @@
         "primary_cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "Opening a Nursery in Dubai",
         "secondary_cta_link": {
           "url": "/blog/opening-nursery-dubai-digital-tools",
           "linktype": "url",
-          "cached_url": "blog/opening-nursery-dubai-digital-tools"
+          "cached_url": "/blog/opening-nursery-dubai-digital-tools"
         }
       }
     ]

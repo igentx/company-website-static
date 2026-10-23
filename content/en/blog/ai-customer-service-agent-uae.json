@@ -106,7 +106,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/bloomwave-clayox-digital-transformation"
+              "cached_url": "/blog/bloomwave-clayox-digital-transformation"
             },
             "featured_image": {
               "filename": "/assets/images/bloomwave-homepage.jpg",
@@ -127,7 +127,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/childcare-management-software-uae-guide"
+              "cached_url": "/blog/childcare-management-software-uae-guide"
             },
             "featured_image": {
               "filename": "/assets/images/clayox-hero.webp",
@@ -148,7 +148,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/local-seo-dubai-uae-guide"
+              "cached_url": "/blog/local-seo-dubai-uae-guide"
             },
             "featured_image": {
               "filename": "/assets/blog/seo-og.webp",
@@ -1535,10 +1535,10 @@
         ],
         "cta_button_link": {
           "id": "",
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "cta_button_text": "Request a Free Demo",
         "cta_section_text": "Click the chat icon at the bottom-right to see the AI Customer Service Agent working live.",
@@ -1591,13 +1591,13 @@
         "primary_cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View Case Studies",
         "secondary_cta_link": {
           "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         }
       }
     ],

@@ -54,7 +54,7 @@
           "url": "/contact",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "cta_text": "Book a Free Consultation",
         "duration": "From 1 week",
@@ -103,7 +103,7 @@
           "url": "/contact",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "value_props_description": "every project includes features that traditional agencies charge extra for.",
         "custom_quote_description": "Every project is scoped to your requirements. Book a Free Consultation for a tailored proposal."

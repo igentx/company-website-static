@@ -1,4 +1,5 @@
 import { IGENTXPricingBlok } from '@/lib/types'
+import { normalizeInternalHref } from '@/lib/utils'
 import Image from 'next/image'
 
 /**
@@ -183,7 +184,7 @@ export default function IGENTXPricing({ blok }: IGENTXPricingProps) {
 
                   {/* CTA Button */}
                   <a
-                    href={pkg.cta_link?.url || '#'}
+                    href={normalizeInternalHref(pkg.cta_link?.url)}
                     className={`block w-full text-center px-6 py-4 rounded-xl font-semibold transition-all duration-300 transform hover:scale-105 ${pkg.is_popular
                       ? 'bg-gradient-to-r from-blue-500 to-purple-600 text-white hover:from-blue-600 hover:to-purple-700 shadow-lg'
                       : 'bg-gray-100 text-gray-800 hover:bg-gray-200'
@@ -270,7 +271,7 @@ export default function IGENTXPricing({ blok }: IGENTXPricingProps) {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
-                  href={blok.custom_quote_cta_link?.url || '#'}
+                  href={normalizeInternalHref(blok.custom_quote_cta_link?.url)}
                   className="inline-flex items-center px-8 py-4 bg-white text-blue-600 font-semibold rounded-xl hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-blue-600 transition-all duration-300 transform hover:scale-105"
                 >
                   <svg

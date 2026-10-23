@@ -52,14 +52,14 @@
         "cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "cta_text": "Book a Free Consultation",
         "duration": "",
         "back_link": {
           "url": "/products",
           "linktype": "url",
-          "cached_url": "products"
+          "cached_url": "/products"
         },
         "back_link_label": "Back to Products",
         "component": "service_hero",
@@ -616,9 +616,9 @@
         "description": "Book a free consultation to see how the AI Customer Service Agent can increase leads, reduce support workload and improve customer satisfaction on your website.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         }
       },
       {

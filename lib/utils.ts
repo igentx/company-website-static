@@ -33,3 +33,14 @@ export function normalizeInternalHref(path?: string | null, fallback = '#'): str
   }
   return path.startsWith('/') ? path : `/${path}`
 }
+
+/**
+ * Rewrite root-relative-missing hrefs inside HTML fragments (blog/service bodies)
+ * so `href="services/..."` cannot resolve as `/blog/services/...` on nested pages.
+ */
+export function normalizeInternalHrefsInHtml(html: string): string {
+  return html.replace(
+    /href=(["'])(?!\/|https?:|mailto:|tel:|#|\/\/)([^"']+)\1/gi,
+    (_match, quote: string, path: string) => `href=${quote}/${path}${quote}`
+  )
+}
