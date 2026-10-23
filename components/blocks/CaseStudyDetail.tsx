@@ -1,5 +1,6 @@
 import { RichText } from '@/lib/blocks'
 import { CaseStudyDetailBlok } from '@/lib/types'
+import { normalizeInternalHref } from '@/lib/utils'
 import Image from 'next/image'
 import Link from 'next/link'
 
@@ -191,7 +192,7 @@ export default function CaseStudyDetail({ blok }: CaseStudyDetailProps) {
                     {blok.service_links.map((link, index) => (
                       <Link
                         key={index}
-                        href={link.url.startsWith('/') ? link.url : `/${link.url}`}
+                        href={normalizeInternalHref(link.url)}
                         className="inline-flex items-center px-4 py-2 border border-blue-200 text-blue-700 rounded-lg font-medium hover:bg-blue-50 transition-colors"
                       >
                         {link.label}

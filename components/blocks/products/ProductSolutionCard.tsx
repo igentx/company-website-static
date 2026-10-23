@@ -16,7 +16,7 @@ export default function ProductSolutionCard({ product }: ProductSolutionCardProp
       {imageSrc && (
         <>
           <ProductCardDecorImage src={imageSrc} alt={imageAlt} glow="blue" variant="banner" />
-          <ProductCardDecorImage src={imageSrc} alt={imageAlt} glow="blue" variant="overlay" />
+          <ProductCardDecorImage src={imageSrc} alt="" glow="blue" variant="overlay" />
         </>
       )}
 

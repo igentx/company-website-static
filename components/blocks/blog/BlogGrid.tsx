@@ -29,7 +29,11 @@ export default function BlogGrid({ blok }: BlogGridProps) {
                 </span>
               )}
               {blok.title && (
-                <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">{blok.title}</h1>
+                blok.heading_level === 'h2' ? (
+                  <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">{blok.title}</h2>
+                ) : (
+                  <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">{blok.title}</h1>
+                )
               )}
               {blok.description && (
                 <p className="text-lg text-gray-600 max-w-3xl mx-auto">{blok.description}</p>

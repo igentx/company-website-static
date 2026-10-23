@@ -76,7 +76,7 @@ export default function IGENTXPortfolio({ blok }: IGENTXPortfolioProps) {
                   <div className="relative overflow-hidden">
                     <Image
                       src={caseStudy.image.filename}
-                      alt={caseStudy.image.alt || ''}
+                      alt={caseStudy.image.alt || caseStudy.title || ''}
                       width={600}
                       height={400}
                       className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
