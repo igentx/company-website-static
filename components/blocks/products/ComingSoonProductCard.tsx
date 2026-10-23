@@ -7,12 +7,13 @@ interface ComingSoonProductCardProps {
 
 export default function ComingSoonProductCard({ product }: ComingSoonProductCardProps) {
   const imageSrc = product.image?.filename
+  const imageAlt = product.image?.alt || product.title || 'Upcoming IGENTX products'
 
   return (
     <article className="relative flex flex-col h-full bg-white rounded-2xl border border-gray-100 shadow-lg shadow-gray-100/80 overflow-hidden">
       {imageSrc && (
         <>
-          <ProductCardDecorImage src={imageSrc} alt="" glow="purple" variant="banner" />
+          <ProductCardDecorImage src={imageSrc} alt={imageAlt} glow="purple" variant="banner" />
           <ProductCardDecorImage src={imageSrc} alt="" glow="purple" variant="overlay" />
         </>
       )}

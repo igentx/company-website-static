@@ -78,7 +78,7 @@ export default function ServiceCard({ blok }: ServiceCardProps) {
                             <div className="flex-shrink-0 w-12 h-12 rounded-xl bg-gradient-to-br from-blue-500 to-purple-600 p-2 group-hover:scale-110 transition-transform duration-300">
                                 <Image
                                     src={blok.icon.filename}
-                                    alt={blok.icon.alt || blok.title}
+                                    alt={blok.icon.alt || ''}
                                     width={32}
                                     height={32}
                                     className="w-full h-full object-contain brightness-0 invert"

@@ -1028,6 +1028,8 @@ export interface BlogTopicLinkBlok extends SbBlokData {
 export interface BlogGridBlok extends SbBlokData {
   component: 'blog_grid'
   title?: string
+  /** Use h2 when this grid is embedded below another page H1 (e.g. /uae). Defaults to h1. */
+  heading_level?: 'h1' | 'h2'
   description?: string
   badge_text?: string
   intro_text?: string

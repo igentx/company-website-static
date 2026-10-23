@@ -8,8 +8,8 @@
       {
         "_uid": "home-seo-001",
         "component": "seo",
-        "title": "Web Development Company UAE | AI Software & Digital Products | IGENTX",
-        "description": "IGENTX Technologies is an Indian technology company. We build high-performance websites, custom software, AI customer agents, headless commerce, and SEO-driven growth for businesses in India, the UAE, and worldwide.",
+        "title": "Web Development Company UAE | AI Software | IGENTX",
+        "description": "IGENTX builds high-performance websites, custom software, AI agents and SEO growth for businesses in India, the UAE and worldwide. Book a Free Consultation",
         "keywords": "web development company UAE, website development Dubai, software development UAE, AI development company UAE, custom software development UAE, ecommerce development UAE, headless commerce UAE, SEO company UAE, Next.js development, React development",
         "canonical_url": "https://www.igentx.com/",
         "robots_index": true,
@@ -17,7 +17,7 @@
         "robots_noarchive": false,
         "robots_nosnippet": false,
         "og_type": "website",
-        "og_title": "Web Development Company UAE | AI Software & Digital Products | IGENTX",
+        "og_title": "Web Development Company UAE | AI Software | IGENTX",
         "og_description": "High-performance websites, custom software, AI customer agents, and SEO-driven growth. Serving businesses in Dubai, Abu Dhabi, and worldwide.",
         "og_image": {
           "filename": "/assets/og/home-og.webp",
@@ -668,7 +668,7 @@
           ],
           "image": {
             "filename": "/assets/images/more-products-on-the-way.webp",
-            "alt": ""
+            "alt": "Illustration for upcoming IGENTX products"
           }
         }
       },
@@ -1366,7 +1366,7 @@
             "_uid": "2823179b-b2fd-46a6-816f-d28a69fae1db",
             "image": {
               "id": 105580143027119,
-              "alt": "",
+              "alt": "DrDoor manufacturing website homepage",
               "name": "",
               "focus": "",
               "title": "",

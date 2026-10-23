@@ -9,7 +9,7 @@
       {
         "_uid": "uae-seo-001",
         "component": "seo",
-        "title": "Digital Agency Dubai & Childcare Management Software UAE | IGENTX",
+        "title": "UAE Digital Agency & Childcare Software | IGENTX",
         "author": "IGENTX Digital Team",
         "og_type": "website",
         "keywords": "digital agency Dubai, web development UAE, childcare management software UAE, nursery management software UAE, preschool management system Dubai, childcare centre software Abu Dhabi, early childhood education software UAE, Clayox UAE, AI agency Dubai, SEO services Dubai",
@@ -19,9 +19,9 @@
           "fieldtype": "asset",
           "is_external_url": false
         },
-        "og_title": "Digital Agency Dubai & Childcare Management Software UAE | IGENTX",
+        "og_title": "UAE Digital Agency & Childcare Software | IGENTX",
         "publisher": "IGENTX",
-        "description": "Clayox by IGENTX: childcare management software for nurseries and preschools in Dubai and Abu Dhabi. Plus bilingual websites, ecommerce, branding, local SEO and AI enquiry tools for UAE businesses.",
+        "description": "Clayox childcare software for UAE nurseries and preschools, plus bilingual websites, ecommerce, branding, local SEO and AI tools. Book a Free Consultation",
         "article_tags": "childcare management software UAE, nursery management software Dubai, Clayox UAE, digital agency Dubai, web development UAE",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/uae",
@@ -32,7 +32,7 @@
           "fieldtype": "asset",
           "is_external_url": false
         },
-        "twitter_title": "Digital Agency Dubai & Childcare Management Software UAE | IGENTX",
+        "twitter_title": "UAE Digital Agency & Childcare Software | IGENTX",
         "article_author": "IGENTX",
         "og_description": "Childcare centre software and digital agency services for the UAE. Clayox for centre operations; IGENTX for websites, SEO and AI-powered growth.",
         "article_section": "UAE",
@@ -404,7 +404,7 @@
           ],
           "image": {
             "filename": "/assets/images/more-products-on-the-way.webp",
-            "alt": ""
+            "alt": "Illustration for upcoming IGENTX products"
           }
         }
       },
@@ -710,7 +710,7 @@
             "_uid": "66da9cb9-a8e9-4d79-951c-360d68acdd99",
             "icon": {
               "id": null,
-              "alt": null,
+              "alt": "",
               "name": "",
               "focus": null,
               "title": null,
@@ -728,7 +728,7 @@
             "_uid": "dfa685f4-5b98-4338-8483-ccca4fceb091",
             "icon": {
               "id": null,
-              "alt": null,
+              "alt": "",
               "name": "",
               "focus": null,
               "title": null,
@@ -746,7 +746,7 @@
             "_uid": "93360649-4326-4665-8f57-8bc2705dc6b2",
             "icon": {
               "id": null,
-              "alt": null,
+              "alt": "",
               "name": "",
               "focus": null,
               "title": null,
@@ -891,7 +891,7 @@
             "_uid": "2595926d-281e-4017-a1b3-fba79dc3b00b",
             "icon": {
               "id": null,
-              "alt": null,
+              "alt": "",
               "name": "",
               "focus": null,
               "title": null,
@@ -917,7 +917,7 @@
             "key_features": "Responsive & Mobile-First Design\nFast, Secure & SEO-Optimized Code\nCMS, Web Portals & Custom Solutions",
             "featured_image": {
               "id": 105577527292831,
-              "alt": "",
+              "alt": "Custom web development services for UAE businesses",
               "name": "",
               "focus": "",
               "title": "",
@@ -934,7 +934,7 @@
             "_uid": "2db52192-5c66-470c-aca2-b8ecad49ea3c",
             "icon": {
               "id": null,
-              "alt": null,
+              "alt": "",
               "name": "",
               "focus": null,
               "title": null,
@@ -960,7 +960,7 @@
             "key_features": "Custom Storefronts with Shopify, Bigcommerce, WooCommerce, or Custom Stack\nPayment Gateway Integration (UAE & Global)\nProduct Management & Analytics Dashboard",
             "featured_image": {
               "id": 105577785783202,
-              "alt": "",
+              "alt": "Ecommerce development solutions for UAE retailers",
               "name": "",
               "focus": "",
               "title": "",
@@ -977,7 +977,7 @@
             "_uid": "faf879a6-2c7c-40bd-870d-8506dec81e9c",
             "icon": {
               "id": null,
-              "alt": null,
+              "alt": "",
               "name": "",
               "focus": null,
               "title": null,
@@ -1003,7 +1003,7 @@
             "key_features": "Logo, Business Card & Stationery Design\nBrand Guidelines & Social Media Creatives\nModern, Minimal & Brand-Driven Aesthetics",
             "featured_image": {
               "id": 105577655096224,
-              "alt": "",
+              "alt": "Branding and graphic design services for UAE businesses",
               "name": "",
               "focus": "",
               "title": "",
@@ -1020,7 +1020,7 @@
             "_uid": "8619b0a1-5927-4bdb-afb5-b9738dee817e",
             "icon": {
               "id": null,
-              "alt": null,
+              "alt": "",
               "name": "",
               "focus": null,
               "title": null,
@@ -1046,7 +1046,7 @@
             "key_features": "On-Page & Technical SEO\nLocal SEO for Google Maps Ranking\nKeyword Strategy & Performance Reports",
             "featured_image": {
               "id": 105593829606376,
-              "alt": "",
+              "alt": "Search engine optimisation services for UAE businesses",
               "name": "",
               "focus": "",
               "title": "",
@@ -1182,7 +1182,7 @@
             "component": "case_study_item",
             "description": "AI-driven multilingual website with advanced SEO optimisation led to remarkable organic growth",
             "technologies": "Next.js\nStoryblok\nTailwind CSS\nTypeScript\nVercel",
-            "case_study_url": "/case-studies/web-development-uae-startup-moduluxe-group",
+            "case_study_url": "/case-studies/moduluxe-group",
             "industry": "Real Estate",
             "country": "UAE",
             "challenge": "Moduluxe needed a multilingual website that ranked in Arabic and English search and converted visitors into qualified leads."
@@ -1281,6 +1281,7 @@
       {
         "_uid": "uae-blog-001",
         "component": "blog_grid",
+        "heading_level": "h2",
         "badge_text": "UAE Insights",
         "title": "Guides for UAE Childcare Centres and Businesses",
         "description": "Practical guides on childcare centre management software, web development, AI and SEO for businesses in Dubai, Abu Dhabi and across the Emirates.",

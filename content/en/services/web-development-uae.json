@@ -7,7 +7,7 @@
     "body": [
       {
         "_uid": "2942068e-3ba7-499a-848d-3150b28cb0f5",
-        "title": "Web Development in UAE | AI-Powered, Fast & Multilingual | IGENTX",
+        "title": "Web Development UAE | AI-Powered & Multilingual | IGENTX",
         "author": "IGENTX Team",
         "og_type": "website",
         "keywords": "web development UAE, AI web development Dubai, multilingual websites UAE, Next.js developers UAE, website design Dubai",
@@ -17,7 +17,7 @@
           "fieldtype": "asset",
           "is_external_url": false
         },
-        "og_title": "Web Development in UAE | Fast, Secure & Multilingual | IGENTX",
+        "og_title": "Web Development UAE | AI-Powered & Multilingual | IGENTX",
         "component": "seo",
         "publisher": "IGENTX",
         "description": "AI-driven web development in the UAE with Next.js. Multilingual, SEO-optimized websites for Dubai, Abu Dhabi, and the Emirates.",
@@ -68,7 +68,7 @@
         "component": "service_hero",
         "featured_image": {
           "id": 106005235896789,
-          "alt": "",
+          "alt": "Web development services banner",
           "name": "",
           "focus": "",
           "title": "",
