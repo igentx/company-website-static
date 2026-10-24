@@ -1,46 +1,72 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { Suspense, useEffect, useRef } from 'react'
 import { GoogleAnalytics } from '@next/third-parties/google'
+import { usePathname, useSearchParams } from 'next/navigation'
+import {
+  GA_MEASUREMENT_ID,
+  isGaConfigured,
+  setConsentDefaults,
+  trackPageView,
+  updateAnalyticsConsent,
+} from '@/lib/analytics'
 import { useConsent } from '@/contexts/ConsentContext'
 
 /**
- * Google Analytics Component
- * 
- * Conditionally renders Google Analytics tracking script
- * Only loads when:
- * 1. NEXT_PUBLIC_GA_ID environment variable is set
- * 2. User has given consent for analytics tracking
- * 
- * Usage:
- * Add NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX to your .env.local file
+ * Google Analytics 4 via @next/third-parties/google.
+ *
+ * - Loads on every route from the language root layout when NEXT_PUBLIC_GA_ID is set.
+ * - Consent Mode v2: default denied (cookieless pings), update to granted on accept.
+ * - Fires page_view on App Router client-side navigations.
+ *
+ * Measurement ID: NEXT_PUBLIC_GA_ID (never hardcode).
  */
-export default function GoogleAnalyticsWrapper() {
-  const gaId = process.env.NEXT_PUBLIC_GA_ID
-  const { hasConsented, consent } = useConsent()
-  const [shouldLoad, setShouldLoad] = useState(false)
+function GaRoutePageViews() {
+  const pathname = usePathname()
+  const searchParams = useSearchParams()
+  const isFirstPath = useRef(true)
 
-  // Only render Google Analytics if GA ID is provided
-  if (!gaId) {
-    return null
-  }
-
-  // Wait for consent decision before loading
   useEffect(() => {
-    // Only load if user has explicitly accepted
-    if (consent === 'accepted') {
-      setShouldLoad(true)
-    } else if (consent === 'declined') {
-      setShouldLoad(false)
+    if (!isGaConfigured()) return
+    // Initial page_view is sent by gtag('config') from @next/third-parties.
+    // Only send again on client-side route changes.
+    if (isFirstPath.current) {
+      isFirstPath.current = false
+      return
     }
-    // If consent is null/pending, don't load (wait for user decision)
-  }, [consent, hasConsented])
+    const query = searchParams?.toString()
+    const pagePath = query ? `${pathname}?${query}` : pathname
+    trackPageView(pagePath)
+  }, [pathname, searchParams])
 
-  // Only load GA if user has consented
-  if (!shouldLoad) {
-    return null
-  }
-
-  return <GoogleAnalytics gaId={gaId} />
+  return null
 }
 
+export default function GoogleAnalyticsWrapper() {
+  const { consent } = useConsent()
+
+  // Consent Mode defaults as early as possible on the client, then sync stored choice.
+  useEffect(() => {
+    if (!isGaConfigured()) return
+    setConsentDefaults()
+    if (consent === 'accepted') {
+      updateAnalyticsConsent(true)
+    } else if (consent === 'declined') {
+      updateAnalyticsConsent(false)
+    }
+  }, [consent])
+
+  if (!isGaConfigured()) {
+    return null
+  }
+
+  return (
+    <>
+      {/* Always load the tag so Consent Mode cookieless pings can fire. */}
+      <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
+      <Suspense fallback={null}>
+        <GaRoutePageViews />
+      </Suspense>
+    </>
+  )
+}

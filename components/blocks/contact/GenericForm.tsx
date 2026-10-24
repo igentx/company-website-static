@@ -11,6 +11,7 @@ import TurnstileField, {
     resetTurnstileWidget,
 } from './TurnstileField'
 import { isTurnstileEnabled } from '@/lib/env'
+import { trackGenerateLead } from '@/lib/analytics'
 
 interface GenericFormProps {
     blok: FormBlok
@@ -145,6 +146,10 @@ export default function GenericForm({ blok, variant = 'default' }: GenericFormPr
             if (response.ok) {
                 setSubmitStatus('success')
                 setSubmitMessage(blok.success_message)
+                trackGenerateLead({
+                    form_id: 'igentx-contact-form',
+                    form_title: blok.title || 'contact',
+                })
                 reset()
                 resetTurnstileWidget()
             } else {

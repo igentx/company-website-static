@@ -19,15 +19,17 @@ const nextConfig: NextConfig = {
       { source: '/en/:path*', destination: '/:path*', permanent: true },
 
       // Legacy English crawl URLs (Google 404s) → live equivalents.
-      // Keep these before /ar/:path* so /ar/<legacy> can also collapse in one hop below.
+      // Use :path+ (one or more) for nested rules so the bare landing path is not
+      // matched with an empty capture and incorrectly sent to "/".
+      // Middleware also applies these (including /ar) before the generic /ar strip.
       {
         source: '/case-studies-landing-page',
         destination: '/case-studies',
         permanent: true,
       },
       {
-        source: '/case-studies-landing-page/:path*',
-        destination: '/:path*',
+        source: '/case-studies-landing-page/:path+',
+        destination: '/:path+',
         permanent: true,
       },
       {
@@ -44,6 +46,10 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
 
+      // Broken "$"-prefixed crawls from bad relative links
+      { source: '/\\$/:path*', destination: '/:path*', permanent: true },
+      { source: '/%24/:path*', destination: '/:path*', permanent: true },
+
       // Arabic locale was removed (no content/ar). Prefer direct legacy→canonical
       // mappings so /ar/<legacy> reaches a 200 in one hop, then fall back to strip /ar.
       {
@@ -52,8 +58,8 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
-        source: '/ar/case-studies-landing-page/:path*',
-        destination: '/:path*',
+        source: '/ar/case-studies-landing-page/:path+',
+        destination: '/:path+',
         permanent: true,
       },
       {

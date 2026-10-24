@@ -57,10 +57,11 @@ MAILJET_FROM_NAME=Your Company Name
 ### Analytics
 
 ```env
-# Google Analytics
+# Google Analytics 4 measurement ID (required for GA on the site)
+# See docs/features/GA4_ANALYTICS.md. Do not commit the real ID; set it in Vercel.
 NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX
 
-# Google Tag Manager
+# Google Tag Manager (optional; this site uses gtag via @next/third-parties, not GTM)
 NEXT_PUBLIC_GTM_ID=GTM-XXXXXXX
 ```
 

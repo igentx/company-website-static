@@ -7,10 +7,11 @@ import Link from 'next/link'
 
 /**
  * Cookie Consent Banner Component
- * 
- * GDPR-compliant consent banner for Google Analytics
- * Shows banner until user accepts or declines
- * Stores consent preference in localStorage
+ *
+ * GDPR-style consent banner for analytics cookies.
+ * Shows until the visitor accepts or declines; preference is stored in localStorage.
+ * GA4 uses Consent Mode v2 (see docs/features/GA4_ANALYTICS.md): the tag can load
+ * with denied defaults; accept updates consent to granted.
  */
 export default function CookieConsentBanner() {
   const { showBanner, setConsent } = useConsent()

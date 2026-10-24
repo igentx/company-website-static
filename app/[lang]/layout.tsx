@@ -10,8 +10,10 @@ import { ConsentProvider } from '@/contexts/ConsentContext'
 import { isRTLLanguage } from '@/lib/languages'
 import { extractSEOFromStoryblok, mergeSEOData, generateStructuredData } from '@/lib/seo-utils'
 import GoogleAnalyticsWrapper from '@/components/ui/GoogleAnalytics'
+import AnalyticsClickTracker from '@/components/ui/AnalyticsClickTracker'
 import CookieConsentBanner from '@/components/ui/CookieConsentBanner'
 import MicrosoftClarity from '@/components/ui/MicrosoftClarity'
+import { GA_MEASUREMENT_ID } from '@/lib/analytics'
 import { SpeedInsights } from '@vercel/speed-insights/next'
 import { Analytics } from '@vercel/analytics/react'
 import { generateStaticLangParams } from '@/lib/static-page'
@@ -115,9 +117,45 @@ export default async function LanguageLayout({ children, params }: Props) {
     (footerContent as { global?: Record<string, unknown>[] })?.global?.[0] ||
     footerContent
 
+  const consentDefaultScript = GA_MEASUREMENT_ID
+    ? `
+(function(){
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  window.gtag = gtag;
+  gtag('consent', 'default', {
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: 'denied',
+    wait_for_update: 500
+  });
+  try {
+    var stored = localStorage.getItem('analytics-consent');
+    if (stored) {
+      var parsed = JSON.parse(stored);
+      if (parsed && parsed.status === 'accepted' && parsed.expiry && Date.now() < parsed.expiry) {
+        gtag('consent', 'update', {
+          ad_storage: 'granted',
+          ad_user_data: 'granted',
+          ad_personalization: 'granted',
+          analytics_storage: 'granted'
+        });
+      }
+    }
+  } catch (e) {}
+})();`
+    : null
+
   return (
     <html lang={lang} dir={isRTL ? 'rtl' : 'ltr'} className={`${poppins.variable} ${cairo.variable}`}>
       <body className="font-secondary">
+        {consentDefaultScript ? (
+          <script
+            id="ga-consent-default"
+            dangerouslySetInnerHTML={{ __html: consentDefaultScript }}
+          />
+        ) : null}
         <ConsentProvider>
           <ThemeProvider>
             <LanguageProvider initialLanguage={lang}>
@@ -136,6 +174,7 @@ export default async function LanguageLayout({ children, params }: Props) {
               </div>
               <CookieConsentBanner />
               <GoogleAnalyticsWrapper />
+              <AnalyticsClickTracker />
               <MicrosoftClarity />
               <SpeedInsights />
               <Analytics />

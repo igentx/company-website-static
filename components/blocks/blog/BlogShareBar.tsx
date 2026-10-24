@@ -1,15 +1,30 @@
 'use client'
 
 import { useState } from 'react'
+import { usePathname } from 'next/navigation'
+import { getSiteBaseUrl } from '@/lib/site-url'
 
 interface BlogShareBarProps {
   title: string
   url?: string
 }
 
+/** Public canonical path: strip internal /en prefix used by App Router rewrites. */
+function toCanonicalPath(pathname: string): string {
+  if (pathname === '/en' || pathname.startsWith('/en/')) {
+    return pathname.slice(3) || '/'
+  }
+  return pathname || '/'
+}
+
 export default function BlogShareBar({ title, url }: BlogShareBarProps) {
+  const pathname = usePathname()
   const [copied, setCopied] = useState(false)
-  const shareUrl = url || (typeof window !== 'undefined' ? window.location.href : '')
+
+  const shareUrl =
+    url ||
+    `${getSiteBaseUrl()}${toCanonicalPath(pathname)}`
+
   const encodedTitle = encodeURIComponent(title)
   const encodedUrl = encodeURIComponent(shareUrl)
 

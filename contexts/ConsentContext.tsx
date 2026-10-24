@@ -1,6 +1,7 @@
 'use client'
 
 import { createContext, useContext, useEffect, useState, ReactNode } from 'react'
+import { isGaConfigured, updateAnalyticsConsent } from '@/lib/analytics'
 
 type ConsentStatus = 'pending' | 'accepted' | 'declined' | null
 
@@ -38,6 +39,10 @@ export function ConsentProvider({ children }: ConsentProviderProps) {
         if (expiry && now < expiry) {
           setConsentState(status)
           setShowBanner(false)
+          // Sync Consent Mode v2 with a previously stored choice
+          if (isGaConfigured()) {
+            updateAnalyticsConsent(status === 'accepted')
+          }
         } else {
           // Consent expired, show banner again
           localStorage.removeItem(CONSENT_STORAGE_KEY)
@@ -61,6 +66,11 @@ export function ConsentProvider({ children }: ConsentProviderProps) {
       localStorage.setItem(CONSENT_STORAGE_KEY, JSON.stringify({ status, expiry }))
       setConsentState(status)
       setShowBanner(false)
+
+      // Google Consent Mode v2: grant or keep denied (cookieless pings still allowed)
+      if (isGaConfigured()) {
+        updateAnalyticsConsent(status === 'accepted')
+      }
 
       // If consent is declined, clear any existing analytics cookies
       if (status === 'declined') {
