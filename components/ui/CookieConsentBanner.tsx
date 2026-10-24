@@ -1,44 +1,61 @@
 'use client'
 
-import { useConsent } from '@/contexts/ConsentContext'
-import { useLanguage } from '@/contexts/LanguageContext'
-import { isRTLLanguage } from '@/lib/languages'
+import { useEffect, useRef } from 'react'
 import Link from 'next/link'
+import { useConsent } from '@/contexts/ConsentContext'
+
+const AUTO_HIDE_MS = 5000
 
 /**
- * Cookie Consent Banner Component
- *
- * GDPR-style consent banner for analytics cookies.
- * Shows until the visitor accepts or declines; preference is stored in localStorage.
- * GA4 uses Consent Mode v2 (see docs/features/GA4_ANALYTICS.md): the tag can load
- * with denied defaults; accept updates consent to granted.
+ * Opt-out analytics cookie pill (aligned with clayox.com).
+ * Bottom-left so it does not overlap chat / WhatsApp (typically bottom-right).
+ * Auto-dismiss is not a consent choice.
  */
 export default function CookieConsentBanner() {
-  const { showBanner, setConsent } = useConsent()
-  const { currentLanguage } = useLanguage()
-  const isRTL = isRTLLanguage(currentLanguage)
+  const {
+    showBanner,
+    bannerEpoch,
+    focusPrimary,
+    setConsent,
+    dismissBanner,
+    clearFocusPrimary,
+  } = useConsent()
+  const acceptRef = useRef<HTMLButtonElement>(null)
 
-  // Translations
-  const translations = {
-    en: {
-      title: 'Cookie Consent',
-      message:
-        'We use cookies to analyze website traffic and optimize your experience. By accepting, you agree to our use of cookies.',
-      accept: 'Accept All',
-      decline: 'Decline',
-      learnMore: 'Learn More',
-    },
-    ar: {
-      title: 'موافقة ملفات تعريف الارتباط',
-      message:
-        'نستخدم ملفات تعريف الارتباط لتحليل حركة المرور على الموقع وتحسين تجربتك. بالموافقة، أنت توافق على استخدامنا لملفات تعريف الارتباط.',
-      accept: 'قبول الكل',
-      decline: 'رفض',
-      learnMore: 'اعرف المزيد',
-    },
-  }
+  // Auto-hide: 5s, first scroll, or internal link click (not a consent choice).
+  useEffect(() => {
+    if (!showBanner) return
 
-  const t = translations[currentLanguage as keyof typeof translations] || translations.en
+    const onAutoHide = () => dismissBanner()
+
+    const onNavClick = (event: MouseEvent) => {
+      const target = event.target
+      if (!(target instanceof Element)) return
+      const anchor = target.closest('a[href]')
+      if (!anchor) return
+      const href = anchor.getAttribute('href')
+      if (!href || href.charAt(0) === '#') return
+      if (anchor.getAttribute('target') === '_blank') return
+      // Ignore clicks inside the banner itself (Learn more).
+      if (anchor.closest('[data-cookie-banner]')) return
+      onAutoHide()
+    }
+
+    const hideTimer = window.setTimeout(onAutoHide, AUTO_HIDE_MS)
+    window.addEventListener('scroll', onAutoHide, { once: true, passive: true, capture: true })
+    document.addEventListener('click', onNavClick, true)
+
+    if (focusPrimary) {
+      acceptRef.current?.focus({ preventScroll: true })
+      clearFocusPrimary()
+    }
+
+    return () => {
+      window.clearTimeout(hideTimer)
+      window.removeEventListener('scroll', onAutoHide, true)
+      document.removeEventListener('click', onNavClick, true)
+    }
+  }, [showBanner, bannerEpoch, focusPrimary, dismissBanner, clearFocusPrimary])
 
   if (!showBanner) {
     return null
@@ -46,63 +63,38 @@ export default function CookieConsentBanner() {
 
   return (
     <div
-      className="fixed bottom-0 left-0 right-0 z-50 bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800 shadow-lg"
-      role="dialog"
-      aria-labelledby="consent-title"
-      aria-describedby="consent-message"
+      data-cookie-banner
+      role="status"
+      aria-live="polite"
+      aria-label="Analytics cookies notice"
+      className="fixed z-[45] left-3 bottom-3 right-auto max-w-[min(calc(100vw-1.5rem),26rem)] flex flex-wrap items-center gap-x-[0.55rem] gap-y-[0.4rem] px-[0.55rem] py-[0.4rem] rounded-full border border-[#e2e8f0] bg-white/[0.96] shadow-[0_4px_16px_rgba(15,23,42,0.08)] backdrop-blur-[8px] pointer-events-auto max-[420px]:left-2 max-[420px]:bottom-2 max-[420px]:max-w-[calc(100vw-1rem)] max-[420px]:rounded-[14px] max-[420px]:px-[0.45rem] max-[420px]:py-[0.35rem]"
     >
-      <div className="max-w-7xl mx-auto px-4 py-4 sm:px-6 lg:px-8">
-        <div
-          className={`flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 ${
-            isRTL ? 'sm:flex-row-reverse' : ''
-          }`}
+      <p className="m-0 inline-flex flex-wrap items-center gap-[0.35rem] font-primary text-xs font-medium leading-tight text-slate-600 whitespace-nowrap max-[420px]:whitespace-normal max-[420px]:text-[0.7rem]">
+        <span>We use analytics cookies.</span>
+        <Link
+          href="/privacy#cookies"
+          className="font-semibold text-blue-800 underline underline-offset-[0.12em] decoration-blue-800/35 hover:text-blue-900"
         >
-          {/* Content */}
-          <div className="flex-1">
-            <h3
-              id="consent-title"
-              className="text-base font-semibold text-gray-900 dark:text-white mb-2"
-            >
-              {t.title}
-            </h3>
-            <p
-              id="consent-message"
-              className="text-sm text-gray-600 dark:text-gray-300 leading-relaxed"
-            >
-              {t.message}{' '}
-              <Link
-                href="/privacy"
-                className="text-blue-600 dark:text-blue-400 hover:underline font-medium"
-              >
-                {t.learnMore}
-              </Link>
-            </p>
-          </div>
-
-          {/* Actions */}
-          <div
-            className={`flex flex-col sm:flex-row gap-3 w-full sm:w-auto ${
-              isRTL ? 'sm:flex-row-reverse' : ''
-            }`}
-          >
-            <button
-              onClick={() => setConsent('declined')}
-              className="px-4 py-2 text-sm font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-lg transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
-              aria-label={t.decline}
-            >
-              {t.decline}
-            </button>
-            <button
-              onClick={() => setConsent('accepted')}
-              className="px-4 py-2 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-600 rounded-lg transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 shadow-sm"
-              aria-label={t.accept}
-            >
-              {t.accept}
-            </button>
-          </div>
-        </div>
+          Learn more
+        </Link>
+      </p>
+      <div className="inline-flex flex-shrink-0 items-center gap-[0.3rem]">
+        <button
+          type="button"
+          onClick={() => setConsent('rejected')}
+          className="inline-flex items-center justify-center rounded-full border border-blue-700 bg-transparent px-[0.65rem] py-[0.28rem] font-primary text-[0.7rem] font-semibold leading-tight text-blue-700 transition-colors hover:bg-blue-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
+        >
+          Reject
+        </button>
+        <button
+          ref={acceptRef}
+          type="button"
+          onClick={() => setConsent('accepted')}
+          className="inline-flex items-center justify-center rounded-full border-0 bg-blue-600 px-[0.65rem] py-[0.28rem] font-primary text-[0.7rem] font-semibold leading-tight text-white transition-colors hover:bg-blue-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
+        >
+          Accept
+        </button>
       </div>
     </div>
   )
 }
-

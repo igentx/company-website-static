@@ -2,6 +2,7 @@
 
 import Image from 'next/image'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { openCookieSettings } from '@/contexts/ConsentContext'
 
 /**
  * Footer Content component - Editable footer content
@@ -269,21 +270,28 @@ export default function FooterContent({ blok }: FooterContentProps) {
             <p className="text-gray-300 text-sm">
               {blok.copyright_text || `© ${currentYear} ${blok.brand_name || 'IGENTX'}. All rights reserved.`}
             </p>
-            {blok.legal_links && blok.legal_links.length > 0 && (
-              <ul className="flex flex-wrap items-center gap-4">
-                {blok.legal_links.map((link) => {
-                  const label = (link as any).label || (link as any).lable
-                  const href = getLanguageAwareUrl(link.link?.url || (link.link as any)?.cached_url || '#')
-                  return (
-                    <li key={link._uid}>
-                      <a href={href} className="text-gray-300 hover:text-white text-sm">
-                        {label}
-                      </a>
-                    </li>
-                  )
-                })}
-              </ul>
-            )}
+            <ul className="flex flex-wrap items-center gap-4">
+              {blok.legal_links?.map((link) => {
+                const label = (link as any).label || (link as any).lable
+                const href = getLanguageAwareUrl(link.link?.url || (link.link as any)?.cached_url || '#')
+                return (
+                  <li key={link._uid}>
+                    <a href={href} className="text-gray-300 hover:text-white text-sm">
+                      {label}
+                    </a>
+                  </li>
+                )
+              })}
+              <li>
+                <button
+                  type="button"
+                  onClick={() => openCookieSettings()}
+                  className="text-gray-300 hover:text-white text-sm bg-transparent border-0 p-0 cursor-pointer font-inherit"
+                >
+                  Cookie settings
+                </button>
+              </li>
+            </ul>
           </div>
         </div>
       </div>

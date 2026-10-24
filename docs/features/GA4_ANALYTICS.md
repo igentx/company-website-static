@@ -16,24 +16,27 @@ If the variable is empty, the GA tag and custom events are no-ops.
 
 | Piece | Role |
 |-------|------|
-| `@next/third-parties/google` `GoogleAnalytics` | Loads `gtag/js` and runs `gtag('config', id)` |
-| `components/ui/GoogleAnalytics.tsx` | Mounted from `app/[lang]/layout.tsx` (every locale route) |
-| Inline consent default script in the language layout | Consent Mode v2 defaults before the tag |
-| `GaRoutePageViews` | Extra `page_view` on App Router client navigations (skips the first paint so `config` is not double-counted) |
+| Inline script in `app/[lang]/layout.tsx` | Consent Mode v2 defaults + apply stored Reject before config |
+| `components/ui/GoogleAnalytics.tsx` | Loads `gtag/js`, runs `gtag('config', id, { anonymize_ip: true })` |
+| `GaRoutePageViews` | Extra `page_view` on App Router client navigations (skips first paint) |
 
-## Consent Mode v2
+Mounted from the language root layout on every locale route.
 
-The cookie banner (`CookieConsentBanner` + `ConsentContext`) is kept.
+## Consent Mode v2 (opt-out)
 
-Previously the tag only mounted after "Accept All", so declined or undecided visits sent nothing.
+Aligned with clayox.com. The cookie banner is a small bottom-left pill, not a blocking gate.
 
-Now:
+1. Default: `analytics_storage: 'granted'`; `ad_storage`, `ad_user_data`, and `ad_personalization: 'denied'`; `wait_for_update: 500`.
+2. If `localStorage['igentx-cookie-consent'] === 'rejected'`, update `analytics_storage` to `denied` **before** `gtag('config')`.
+3. Accept or Reject updates **only** `analytics_storage`. Ads stay denied.
+4. Reject also clears `_ga` / `_gid` / `_gat` cookies.
+5. Auto-dismiss (5s, first scroll, or internal link click) is **not** a consent choice. `igentx-cookie-banner-seen` stores a timestamp with a 30-day TTL.
+6. Footer **Cookie settings** dispatches `igentx:open-cookie-settings` to reopen the banner.
 
-1. Default consent is **denied** (`analytics_storage`, `ad_storage`, `ad_user_data`, `ad_personalization`).
-2. The GA tag **always loads** when `NEXT_PUBLIC_GA_ID` is set, so cookieless pings can still go out.
-3. On accept, consent is **updated to granted**. On decline, it stays denied and `_ga` cookies are cleared.
+Storage keys:
 
-Storage key: `analytics-consent` in `localStorage`.
+- `igentx-cookie-consent`: `accepted` or `rejected`
+- `igentx-cookie-banner-seen`: timestamp string
 
 ## Custom events
 
@@ -53,4 +56,6 @@ Mark **`generate_lead`** as a key event in the GA4 Admin UI (Admin â†’ Events â†
 ## Related
 
 - Cookie banner: `components/ui/CookieConsentBanner.tsx`
+- Consent state: `contexts/ConsentContext.tsx`
+- Privacy cookies section: `/privacy#cookies`
 - Env template: `.env.example`, `docs/ENV_SETUP.md`

@@ -966,6 +966,8 @@ export interface BlogHeadingBlok extends SbBlokData {
   component: 'blog_heading'
   level?: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6'
   text: string
+  /** Optional stable fragment id (e.g. privacy #cookies). Falls back to slugified text. */
+  anchor?: string
   alignment?: 'left' | 'center' | 'right'
 }
 

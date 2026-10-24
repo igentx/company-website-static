@@ -117,6 +117,8 @@ export default async function LanguageLayout({ children, params }: Props) {
     (footerContent as { global?: Record<string, unknown>[] })?.global?.[0] ||
     footerContent
 
+  // Opt-out Consent Mode v2 (aligned with clayox.com): analytics granted by
+  // default; ads denied. Apply a stored Reject before gtag config runs.
   const consentDefaultScript = GA_MEASUREMENT_ID
     ? `
 (function(){
@@ -124,24 +126,15 @@ export default async function LanguageLayout({ children, params }: Props) {
   function gtag(){window.dataLayer.push(arguments);}
   window.gtag = gtag;
   gtag('consent', 'default', {
+    analytics_storage: 'granted',
     ad_storage: 'denied',
     ad_user_data: 'denied',
     ad_personalization: 'denied',
-    analytics_storage: 'denied',
     wait_for_update: 500
   });
   try {
-    var stored = localStorage.getItem('analytics-consent');
-    if (stored) {
-      var parsed = JSON.parse(stored);
-      if (parsed && parsed.status === 'accepted' && parsed.expiry && Date.now() < parsed.expiry) {
-        gtag('consent', 'update', {
-          ad_storage: 'granted',
-          ad_user_data: 'granted',
-          ad_personalization: 'granted',
-          analytics_storage: 'granted'
-        });
-      }
+    if (localStorage.getItem('igentx-cookie-consent') === 'rejected') {
+      gtag('consent', 'update', { analytics_storage: 'denied' });
     }
   } catch (e) {}
 })();`

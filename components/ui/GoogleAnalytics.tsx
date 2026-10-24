@@ -1,25 +1,20 @@
 'use client'
 
 import { Suspense, useEffect, useRef } from 'react'
-import { GoogleAnalytics } from '@next/third-parties/google'
+import Script from 'next/script'
 import { usePathname, useSearchParams } from 'next/navigation'
 import {
   GA_MEASUREMENT_ID,
   isGaConfigured,
-  setConsentDefaults,
   trackPageView,
-  updateAnalyticsConsent,
 } from '@/lib/analytics'
-import { useConsent } from '@/contexts/ConsentContext'
 
 /**
- * Google Analytics 4 via @next/third-parties/google.
+ * Google Analytics 4 for IGENTX.
  *
- * - Loads on every route from the language root layout when NEXT_PUBLIC_GA_ID is set.
- * - Consent Mode v2: default denied (cookieless pings), update to granted on accept.
- * - Fires page_view on App Router client-side navigations.
- *
- * Measurement ID: NEXT_PUBLIC_GA_ID (never hardcode).
+ * Consent Mode defaults and stored Reject are applied in the language layout
+ * inline script before this config runs. Config uses anonymize_ip.
+ * SPA page_view fires on App Router client navigations only.
  */
 function GaRoutePageViews() {
   const pathname = usePathname()
@@ -28,8 +23,7 @@ function GaRoutePageViews() {
 
   useEffect(() => {
     if (!isGaConfigured()) return
-    // Initial page_view is sent by gtag('config') from @next/third-parties.
-    // Only send again on client-side route changes.
+    // Initial page_view comes from gtag('config').
     if (isFirstPath.current) {
       isFirstPath.current = false
       return
@@ -43,27 +37,27 @@ function GaRoutePageViews() {
 }
 
 export default function GoogleAnalyticsWrapper() {
-  const { consent } = useConsent()
-
-  // Consent Mode defaults as early as possible on the client, then sync stored choice.
-  useEffect(() => {
-    if (!isGaConfigured()) return
-    setConsentDefaults()
-    if (consent === 'accepted') {
-      updateAnalyticsConsent(true)
-    } else if (consent === 'declined') {
-      updateAnalyticsConsent(false)
-    }
-  }, [consent])
-
   if (!isGaConfigured()) {
     return null
   }
 
+  const gaId = GA_MEASUREMENT_ID
+
   return (
     <>
-      {/* Always load the tag so Consent Mode cookieless pings can fire. */}
-      <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
+        strategy="afterInteractive"
+      />
+      <Script id="ga-config" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          window.gtag = window.gtag || gtag;
+          gtag('js', new Date());
+          gtag('config', '${gaId}', { anonymize_ip: true });
+        `}
+      </Script>
       <Suspense fallback={null}>
         <GaRoutePageViews />
       </Suspense>

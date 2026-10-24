@@ -3,9 +3,22 @@
  *
  * Measurement ID: process.env.NEXT_PUBLIC_GA_ID (set in Vercel / .env).
  * Do not hardcode a G- ID in source.
+ *
+ * Consent is opt-out (aligned with clayox.com): analytics_storage defaults to
+ * granted; ad_* stay denied. Accept/Reject update only analytics_storage.
  */
 
 export const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_ID?.trim() || ''
+
+/** localStorage: 'accepted' | 'rejected' */
+export const COOKIE_CONSENT_KEY = 'igentx-cookie-consent'
+
+/** localStorage: timestamp string; banner hidden for 30 days after dismiss/choice */
+export const COOKIE_BANNER_SEEN_KEY = 'igentx-cookie-banner-seen'
+
+export const COOKIE_BANNER_SEEN_TTL_MS = 30 * 24 * 60 * 60 * 1000
+
+export const OPEN_COOKIE_SETTINGS_EVENT = 'igentx:open-cookie-settings'
 
 export function isGaConfigured(): boolean {
   return Boolean(GA_MEASUREMENT_ID)
@@ -34,28 +47,53 @@ export function ensureGtagStub(): void {
 }
 
 /**
- * Google Consent Mode v2 defaults (denied) so cookieless pings can still fire
- * once the GA tag loads, until the visitor updates consent.
+ * Opt-out Consent Mode v2 defaults: analytics on, ads off.
+ * Call before gtag config. A stored Reject is applied separately.
  */
 export function setConsentDefaults(): void {
   ensureGtagStub()
   window.gtag?.('consent', 'default', {
+    analytics_storage: 'granted',
     ad_storage: 'denied',
     ad_user_data: 'denied',
     ad_personalization: 'denied',
-    analytics_storage: 'denied',
     wait_for_update: 500,
   })
 }
 
+/** Apply a stored Reject before config so later visits stay opted out. */
+export function applyStoredRejectBeforeConfig(): void {
+  if (typeof window === 'undefined') return
+  ensureGtagStub()
+  try {
+    if (localStorage.getItem(COOKIE_CONSENT_KEY) === 'rejected') {
+      window.gtag?.('consent', 'update', { analytics_storage: 'denied' })
+    }
+  } catch {
+    /* private mode / blocked storage */
+  }
+}
+
+/** Accept or Reject updates only analytics_storage (ads stay denied). */
 export function updateAnalyticsConsent(granted: boolean): void {
   ensureGtagStub()
   const value: GtagConsentState = granted ? 'granted' : 'denied'
   window.gtag?.('consent', 'update', {
-    ad_storage: value,
-    ad_user_data: value,
-    ad_personalization: value,
     analytics_storage: value,
+  })
+}
+
+/** Clear GA (_ga*) cookies after Reject. */
+export function clearGaCookies(): void {
+  if (typeof document === 'undefined') return
+  document.cookie.split(';').forEach((cookie) => {
+    const eqPos = cookie.indexOf('=')
+    const name = eqPos > -1 ? cookie.slice(0, eqPos).trim() : cookie.trim()
+    if (name.startsWith('_ga') || name.startsWith('_gid') || name.startsWith('_gat')) {
+      document.cookie = `${name}=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/`
+      document.cookie = `${name}=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=${window.location.hostname}`
+      document.cookie = `${name}=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=.${window.location.hostname}`
+    }
   })
 }
 
