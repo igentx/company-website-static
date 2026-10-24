@@ -1,46 +1,66 @@
 'use client'
 
-import { useEffect, useState } from 'react'
-import { GoogleAnalytics } from '@next/third-parties/google'
-import { useConsent } from '@/contexts/ConsentContext'
+import { Suspense, useEffect, useRef } from 'react'
+import Script from 'next/script'
+import { usePathname, useSearchParams } from 'next/navigation'
+import {
+  GA_MEASUREMENT_ID,
+  isGaConfigured,
+  trackPageView,
+} from '@/lib/analytics'
 
 /**
- * Google Analytics Component
- * 
- * Conditionally renders Google Analytics tracking script
- * Only loads when:
- * 1. NEXT_PUBLIC_GA_ID environment variable is set
- * 2. User has given consent for analytics tracking
- * 
- * Usage:
- * Add NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX to your .env.local file
+ * Google Analytics 4 for IGENTX.
+ *
+ * Consent Mode defaults and stored Reject are applied in the language layout
+ * inline script before this config runs. Config uses anonymize_ip.
+ * SPA page_view fires on App Router client navigations only.
  */
-export default function GoogleAnalyticsWrapper() {
-  const gaId = process.env.NEXT_PUBLIC_GA_ID
-  const { hasConsented, consent } = useConsent()
-  const [shouldLoad, setShouldLoad] = useState(false)
+function GaRoutePageViews() {
+  const pathname = usePathname()
+  const searchParams = useSearchParams()
+  const isFirstPath = useRef(true)
 
-  // Only render Google Analytics if GA ID is provided
-  if (!gaId) {
-    return null
-  }
-
-  // Wait for consent decision before loading
   useEffect(() => {
-    // Only load if user has explicitly accepted
-    if (consent === 'accepted') {
-      setShouldLoad(true)
-    } else if (consent === 'declined') {
-      setShouldLoad(false)
+    if (!isGaConfigured()) return
+    // Initial page_view comes from gtag('config').
+    if (isFirstPath.current) {
+      isFirstPath.current = false
+      return
     }
-    // If consent is null/pending, don't load (wait for user decision)
-  }, [consent, hasConsented])
+    const query = searchParams?.toString()
+    const pagePath = query ? `${pathname}?${query}` : pathname
+    trackPageView(pagePath)
+  }, [pathname, searchParams])
 
-  // Only load GA if user has consented
-  if (!shouldLoad) {
-    return null
-  }
-
-  return <GoogleAnalytics gaId={gaId} />
+  return null
 }
 
+export default function GoogleAnalyticsWrapper() {
+  if (!isGaConfigured()) {
+    return null
+  }
+
+  const gaId = GA_MEASUREMENT_ID
+
+  return (
+    <>
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
+        strategy="afterInteractive"
+      />
+      <Script id="ga-config" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          window.gtag = window.gtag || gtag;
+          gtag('js', new Date());
+          gtag('config', '${gaId}', { anonymize_ip: true });
+        `}
+      </Script>
+      <Suspense fallback={null}>
+        <GaRoutePageViews />
+      </Suspense>
+    </>
+  )
+}

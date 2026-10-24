@@ -246,6 +246,7 @@
             "_uid": "privacy-h4",
             "text": "Cookies and Tracking Technologies",
             "level": "h2",
+            "anchor": "cookies",
             "component": "blog_heading"
           },
           {
@@ -259,7 +260,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "We use cookies and similar technologies on this website. When you first visit, you may see a cookie consent banner that lets you accept or decline analytics cookies."
+                      "text": "We use cookies and similar technologies on this website. Analytics cookies are on by default under Google Consent Mode. You may see a small notice that lets you Accept or Reject analytics cookies, and you can reopen it any time from Cookie settings in the footer."
                     }
                   ]
                 },
@@ -268,7 +269,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Google Analytics: If you accept analytics cookies, we load Google Analytics to understand how visitors use our site. Google Analytics is only activated after you give consent. Your preference is stored in your browser local storage for up to 365 days."
+                      "text": "Google Analytics: When configured, we load Google Analytics 4 to understand how visitors use our site. Analytics storage starts granted; ad storage, ad user data, and ad personalisation stay denied. IP anonymisation is enabled. Choosing Reject updates analytics storage to denied and clears existing _ga cookies. Your choice is stored in browser local storage as igentx-cookie-consent."
                     }
                   ]
                 },
@@ -277,7 +278,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Microsoft Clarity: If enabled on our site, Microsoft Clarity may load session recording and heatmap tools when a Clarity project ID is configured. Clarity may load without waiting for cookie consent. Where required by law, we rely on our legitimate interest in understanding site usability, and you may contact us to object."
+                      "text": "Microsoft Clarity: If enabled on our site, Microsoft Clarity may load session recording and heatmap tools when a Clarity project ID is configured. Where required by law, we rely on our legitimate interest in understanding site usability, and you may contact us to object."
                     }
                   ]
                 },
@@ -295,7 +296,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "You can control cookies through your browser settings. Declining analytics cookies will prevent Google Analytics from loading, but some essential or performance-related technologies may still operate."
+                      "text": "You can also limit cookies through your browser settings. Rejecting analytics cookies turns off Google Analytics storage for this site; some essential or performance-related technologies may still operate."
                     }
                   ]
                 },
@@ -425,7 +426,7 @@
                           "content": [
                             {
                               "type": "text",
-                              "text": "Google: provides Google Analytics when you consent to analytics cookies."
+                              "text": "Google: provides Google Analytics 4 for traffic measurement (opt-out via Reject or Cookie settings)."
                             }
                           ]
                         }

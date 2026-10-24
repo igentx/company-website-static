@@ -23,7 +23,7 @@ export default function BlogHeading({ blok }: BlogHeadingProps) {
 
   const level = blok.level || 'h2'
   const HeadingTag = level as keyof JSX.IntrinsicElements
-  const headingId = slugifyHeading(blok.text || '')
+  const headingId = blok.anchor || slugifyHeading(blok.text || '')
 
   return (
     <div className={`py-4 ${alignmentClass}`}>
