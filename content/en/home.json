@@ -49,15 +49,15 @@
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "contact"
+              "cached_url": "/contact"
             },
             "cta_text": "Book a Free Consultation",
             "secondary_cta_link": {
               "id": "",
-              "url": "case-studies",
+              "url": "/case-studies",
               "linktype": "url",
               "fieldtype": "multilink",
-              "cached_url": "case-studies"
+              "cached_url": "/case-studies"
             },
             "secondary_cta_text": "View Our Work",
             "component": "hero_slide",
@@ -82,7 +82,7 @@
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "products/ai-customer-service-agent"
+              "cached_url": "/products/ai-customer-service-agent"
             },
             "cta_text": "Request a Demo",
             "component": "hero_slide",
@@ -133,7 +133,7 @@
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "services/ecommerce-development"
+              "cached_url": "/services/ecommerce-development"
             },
             "cta_text": "Explore Ecommerce",
             "component": "hero_slide",
@@ -158,7 +158,7 @@
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "services/seo"
+              "cached_url": "/services/seo"
             },
             "cta_text": "Explore SEO Services",
             "component": "hero_slide",
@@ -183,7 +183,7 @@
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "services/branding-graphic-design"
+              "cached_url": "/services/branding-graphic-design"
             },
             "cta_text": "Explore Branding",
             "component": "hero_slide",
@@ -268,15 +268,15 @@
           "url": "",
           "linktype": "story",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "primary_cta_text": "Book a Free Consultation",
         "secondary_cta_link": {
           "id": "",
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         },
         "secondary_cta_text": "View Case Studies"
       },
@@ -581,10 +581,10 @@
         "title": "AI Products & Platforms by IGENTX",
         "cta_link": {
           "id": "",
-          "url": "products",
+          "url": "/products",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "products"
+          "cached_url": "/products"
         },
         "cta_text": "View all products & solutions",
         "component": "igentx_products",
@@ -604,14 +604,38 @@
             "url": "https://www.clayox.com/"
           },
           "feature_pills": [
-            { "label": "Admissions", "icon": "admissions" },
-            { "label": "Attendance", "icon": "attendance" },
-            { "label": "Activity Feed", "icon": "activity_feed" },
-            { "label": "Family Portal", "icon": "parent_app" },
-            { "label": "Messaging", "icon": "messaging" },
-            { "label": "Billing", "icon": "billing" },
-            { "label": "Reports", "icon": "reports" },
-            { "label": "White-label", "icon": "parent_app" }
+            {
+              "label": "Admissions",
+              "icon": "admissions"
+            },
+            {
+              "label": "Attendance",
+              "icon": "attendance"
+            },
+            {
+              "label": "Activity Feed",
+              "icon": "activity_feed"
+            },
+            {
+              "label": "Family Portal",
+              "icon": "parent_app"
+            },
+            {
+              "label": "Messaging",
+              "icon": "messaging"
+            },
+            {
+              "label": "Billing",
+              "icon": "billing"
+            },
+            {
+              "label": "Reports",
+              "icon": "reports"
+            },
+            {
+              "label": "White-label",
+              "icon": "parent_app"
+            }
           ],
           "trust_banner": "Built for childcare centres to simplify operations and improve family engagement.",
           "cta_text": "Clayox childcare management software",
@@ -639,9 +663,15 @@
             "One-Line Integration"
           ],
           "stats": [
-            { "value": "Available in Minutes" },
-            { "value": "Multilingual support" },
-            { "value": "No Code Required" }
+            {
+              "value": "Available in Minutes"
+            },
+            {
+              "value": "Multilingual support"
+            },
+            {
+              "value": "No Code Required"
+            }
           ],
           "cta_text": "View Demo",
           "cta_link": {
@@ -649,7 +679,7 @@
             "url": "",
             "linktype": "story",
             "fieldtype": "multilink",
-            "cached_url": "products/ai-customer-service-agent"
+            "cached_url": "/products/ai-customer-service-agent"
           },
           "image": {
             "filename": "/assets/images/ai-customer-service.webp",
@@ -677,10 +707,10 @@
         "title": "Complete Digital Solutions",
         "cta_link": {
           "id": "",
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "cta_text": "Book a Free Consultation",
         "services": [
@@ -697,9 +727,9 @@
               "alt": "Web development"
             },
             "cta_link": {
-              "url": "services/web-development",
+              "url": "/services/web-development",
               "linktype": "url",
-              "cached_url": "services/web-development"
+              "cached_url": "/services/web-development"
             },
             "cta_text": "Explore Web Development",
             "is_popular": true
@@ -717,9 +747,9 @@
               "alt": "Customised software development"
             },
             "cta_link": {
-              "url": "services/custom-software-development",
+              "url": "/services/custom-software-development",
               "linktype": "url",
-              "cached_url": "services/custom-software-development"
+              "cached_url": "/services/custom-software-development"
             },
             "cta_text": "Explore Custom Software",
             "is_popular": false
@@ -737,9 +767,9 @@
               "alt": "Ecommerce development"
             },
             "cta_link": {
-              "url": "services/ecommerce-development",
+              "url": "/services/ecommerce-development",
               "linktype": "url",
-              "cached_url": "services/ecommerce-development"
+              "cached_url": "/services/ecommerce-development"
             },
             "cta_text": "Explore Ecommerce",
             "is_popular": false
@@ -757,9 +787,9 @@
               "alt": "SEO and growth services"
             },
             "cta_link": {
-              "url": "services/seo",
+              "url": "/services/seo",
               "linktype": "url",
-              "cached_url": "services/seo"
+              "cached_url": "/services/seo"
             },
             "cta_text": "Explore SEO",
             "is_popular": false
@@ -777,9 +807,9 @@
               "alt": "Branding and design"
             },
             "cta_link": {
-              "url": "services/branding-graphic-design",
+              "url": "/services/branding-graphic-design",
               "linktype": "url",
-              "cached_url": "services/branding-graphic-design"
+              "cached_url": "/services/branding-graphic-design"
             },
             "cta_text": "Explore Branding",
             "is_popular": false
@@ -797,9 +827,9 @@
               "alt": "AI solutions"
             },
             "cta_link": {
-              "url": "services/ai-solutions",
+              "url": "/services/ai-solutions",
               "linktype": "url",
-              "cached_url": "services/ai-solutions"
+              "cached_url": "/services/ai-solutions"
             },
             "cta_text": "Explore AI Solutions",
             "is_popular": false
@@ -1499,17 +1529,17 @@
         "demo_cta_description": "Explore our demo projects and see how AI-driven development can transform your business.",
         "demo_cta_primary_link": {
           "id": "",
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "demo_cta_secondary_link": {
           "id": "",
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         },
         "performance_description": "See how our AI-driven approach delivers measurable improvements in website performance and user experience.",
         "testimonials_description": "Hear from clients we have helped grow online",
@@ -1522,15 +1552,15 @@
         "description": "Whether you're launching a new website, building an AI-powered platform, modernising your ecommerce experience or creating a custom business application, our team is ready to help you turn ambitious ideas into measurable business results.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View Case Studies",
         "secondary_cta_link": {
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         }
       },
       {

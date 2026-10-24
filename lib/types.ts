@@ -41,6 +41,7 @@ export interface HeroBlok extends SbBlokData {
   cta_link?: {
     url: string
     linktype: string
+    cached_url?: string
   }
 }
 
@@ -571,11 +572,13 @@ export interface IGENTXPortfolioBlok extends SbBlokData {
   demo_cta_primary_link?: {
     url: string
     linktype: string
+    cached_url?: string
   }
   demo_cta_secondary?: string
   demo_cta_secondary_link?: {
     url: string
     linktype: string
+    cached_url?: string
   }
 }
 
@@ -866,6 +869,7 @@ export interface CaseStudyGridBlok extends SbBlokData {
   cta_link?: {
     url: string
     linktype: string
+    cached_url?: string
   }
 }
 
@@ -1275,6 +1279,7 @@ export interface ServiceDetailBlok extends SbBlokData {
   cta_button_link?: {
     url: string
     linktype: string
+    cached_url?: string
   }
 }
 

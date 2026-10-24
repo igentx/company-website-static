@@ -1,4 +1,5 @@
 import { IGENTXPortfolioBlok } from '@/lib/types'
+import { normalizeInternalHref } from '@/lib/utils'
 import Image from 'next/image'
 import Link from 'next/link'
 
@@ -166,7 +167,7 @@ export default function IGENTXPortfolio({ blok }: IGENTXPortfolioProps) {
                     )}
                     {caseStudy.case_study_url && (
                       <Link
-                        href={caseStudy.case_study_url}
+                        href={normalizeInternalHref(caseStudy.case_study_url)}
                         className="inline-flex items-center px-4 py-2 bg-gray-100 text-gray-800 text-sm font-medium rounded-lg hover:bg-gray-200 transition-colors"
                       >
                         <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden>
@@ -310,14 +311,9 @@ export default function IGENTXPortfolio({ blok }: IGENTXPortfolioProps) {
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 {blok.demo_cta_primary && (
                   <a
-                    href={
-                      !blok.demo_cta_primary_link?.url || blok.demo_cta_primary_link.url === '#'
-                        ? '#'
-                        : blok.demo_cta_primary_link.url.startsWith('http') ||
-                            blok.demo_cta_primary_link.url.startsWith('/')
-                          ? blok.demo_cta_primary_link.url
-                          : `/${blok.demo_cta_primary_link.url}`
-                    }
+                    href={normalizeInternalHref(
+                      blok.demo_cta_primary_link?.cached_url || blok.demo_cta_primary_link?.url
+                    )}
                     className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold rounded-xl hover:from-blue-600 hover:to-purple-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-300 transform hover:scale-105"
                   >
                     {blok.demo_cta_primary}
@@ -329,14 +325,9 @@ export default function IGENTXPortfolio({ blok }: IGENTXPortfolioProps) {
                 )}
                 {blok.demo_cta_secondary && (
                   <a
-                    href={
-                      !blok.demo_cta_secondary_link?.url || blok.demo_cta_secondary_link.url === '#'
-                        ? '#'
-                        : blok.demo_cta_secondary_link.url.startsWith('http') ||
-                            blok.demo_cta_secondary_link.url.startsWith('/')
-                          ? blok.demo_cta_secondary_link.url
-                          : `/${blok.demo_cta_secondary_link.url}`
-                    }
+                    href={normalizeInternalHref(
+                      blok.demo_cta_secondary_link?.cached_url || blok.demo_cta_secondary_link?.url
+                    )}
                     className="inline-flex items-center px-8 py-4 bg-white text-gray-700 font-semibold rounded-xl border border-gray-300 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 transition-all duration-300"
                   >
                     {blok.demo_cta_secondary}

@@ -58,13 +58,13 @@
             "cta_link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "contact"
+              "cached_url": "/contact"
             },
             "cta_text": "Book a Free Consultation",
             "secondary_cta_link": {
-              "url": "case-studies",
+              "url": "/case-studies",
               "linktype": "url",
-              "cached_url": "case-studies"
+              "cached_url": "/case-studies"
             },
             "secondary_cta_text": "View UAE Case Studies",
             "component": "hero_slide",
@@ -86,7 +86,7 @@
             "cta_link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "products/ai-customer-service-agent"
+              "cached_url": "/products/ai-customer-service-agent"
             },
             "cta_text": "Request a Demo",
             "component": "hero_slide",
@@ -112,9 +112,9 @@
             },
             "cta_text": "Clayox childcare management software",
             "secondary_cta_link": {
-              "url": "case-studies/bloomwave-learning-daycare",
+              "url": "/case-studies/bloomwave-learning-daycare",
               "linktype": "url",
-              "cached_url": "case-studies/bloomwave-learning-daycare"
+              "cached_url": "/case-studies/bloomwave-learning-daycare"
             },
             "secondary_cta_text": "Read BloomWave Case Study",
             "component": "hero_slide",
@@ -173,13 +173,13 @@
         "primary_cta_link": {
           "url": "",
           "linktype": "story",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "primary_cta_text": "Book a Free Consultation",
         "secondary_cta_link": {
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         },
         "secondary_cta_text": "View UAE Case Studies"
       },
@@ -293,10 +293,10 @@
         "title": "Childcare Management Software for UAE Centres",
         "cta_link": {
           "id": "",
-          "url": "products",
+          "url": "/products",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "products"
+          "cached_url": "/products"
         },
         "cta_text": "View all IGENTX products",
         "component": "igentx_products",
@@ -350,7 +350,7 @@
           "cta_link": {
             "url": "",
             "linktype": "story",
-            "cached_url": "contact"
+            "cached_url": "/contact"
           },
           "screenshot": {
             "filename": "/assets/images/clayox-dashboard.webp",
@@ -385,7 +385,7 @@
             "url": "",
             "linktype": "story",
             "fieldtype": "multilink",
-            "cached_url": "products/ai-customer-service-agent"
+            "cached_url": "/products/ai-customer-service-agent"
           },
           "image": {
             "filename": "/assets/images/ai-customer-service.webp",
@@ -828,10 +828,10 @@
         "columns": "3",
         "cta_link": {
           "id": "",
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "cta_text": "Book a Free Consultation",
         "services": [
@@ -848,7 +848,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "services/custom-software-development"
+              "cached_url": "/services/custom-software-development"
             },
             "featured_image": {
               "filename": "/assets/images/custom-software-development.webp",
@@ -874,7 +874,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "services/ai-solutions"
+              "cached_url": "/services/ai-solutions"
             },
             "featured_image": {
               "filename": "/assets/images/ai-solutions.webp",
@@ -906,7 +906,7 @@
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "services/web-development-uae"
+              "cached_url": "/services/web-development-uae"
             },
             "tags": "",
             "title": "Custom Web Development Services",
@@ -949,7 +949,7 @@
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "services/ecommerce-website-development-uae"
+              "cached_url": "/services/ecommerce-website-development-uae"
             },
             "tags": "",
             "title": "Ecommerce Development Solutions",
@@ -992,7 +992,7 @@
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "services/graphic-design-uae"
+              "cached_url": "/services/graphic-design-uae"
             },
             "tags": "",
             "title": "Branding & Graphic Design",
@@ -1035,7 +1035,7 @@
               "url": "",
               "linktype": "story",
               "fieldtype": "multilink",
-              "cached_url": "services/seo-service-uae"
+              "cached_url": "/services/seo-service-uae"
             },
             "tags": "",
             "title": "Search Engine Optimisation (SEO)",
@@ -1262,17 +1262,17 @@
         "demo_cta_description": "Explore our demo projects and see how AI-driven development can transform your business.",
         "demo_cta_primary_link": {
           "id": "",
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "demo_cta_secondary_link": {
           "id": "",
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         },
         "performance_description": "See how our AI-driven approach delivers measurable improvements in website performance and user experience.",
         "testimonials_description": "Hear from clients we have helped grow online",
@@ -1293,7 +1293,7 @@
         "cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "featured_blog": {
           "_uid": "card-local-seo",
@@ -1307,7 +1307,7 @@
           "link": {
             "url": "",
             "linktype": "story",
-            "cached_url": "blog/local-seo-dubai-uae-guide"
+            "cached_url": "/blog/local-seo-dubai-uae-guide"
           },
           "featured_image": {
             "filename": "/assets/blog/seo-og.webp",
@@ -1329,7 +1329,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/how-to-choose-best-web-development-agency-uae"
+              "cached_url": "/blog/how-to-choose-best-web-development-agency-uae"
             },
             "featured_image": {
               "filename": "/assets/blog/best-web-development-agency-uae-og.webp",
@@ -1350,7 +1350,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/importance-of-website-uae"
+              "cached_url": "/blog/importance-of-website-uae"
             },
             "featured_image": {
               "filename": "/assets/images/web-development-uae.webp",
@@ -1371,7 +1371,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/ai-in-web-development-uae"
+              "cached_url": "/blog/ai-in-web-development-uae"
             },
             "featured_image": {
               "filename": "/assets/images/ai-in-web-development.webp",
@@ -1392,7 +1392,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/web-development-uae"
+              "cached_url": "/blog/web-development-uae"
             },
             "featured_image": {
               "filename": "/assets/images/web-development-uae.webp",
@@ -1413,7 +1413,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/ai-customer-service-agent-uae"
+              "cached_url": "/blog/ai-customer-service-agent-uae"
             },
             "featured_image": {
               "filename": "/assets/images/igentchat.webp",
@@ -1434,7 +1434,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/clayox-childcare-management-software-guide"
+              "cached_url": "/blog/clayox-childcare-management-software-guide"
             },
             "featured_image": {
               "filename": "/assets/images/clayox-dashboard.webp",
@@ -1455,7 +1455,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/local-seo-dubai-uae-guide"
+              "cached_url": "/blog/local-seo-dubai-uae-guide"
             },
             "featured_image": {
               "filename": "/assets/blog/seo-og.webp",
@@ -1476,7 +1476,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/technical-seo-checklist-uae"
+              "cached_url": "/blog/technical-seo-checklist-uae"
             },
             "featured_image": {
               "filename": "/assets/blog/seo-banner.webp",
@@ -1497,7 +1497,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/ecommerce-website-development-dubai-uae"
+              "cached_url": "/blog/ecommerce-website-development-dubai-uae"
             },
             "featured_image": {
               "filename": "/assets/blog/ecommerce-og.webp",
@@ -1518,7 +1518,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/bilingual-website-development-uae"
+              "cached_url": "/blog/bilingual-website-development-uae"
             },
             "featured_image": {
               "filename": "/assets/images/web-development-uae.webp",
@@ -1539,7 +1539,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/custom-software-development-uae-guide"
+              "cached_url": "/blog/custom-software-development-uae-guide"
             },
             "featured_image": {
               "filename": "/assets/images/custom-software-development.webp",
@@ -1560,7 +1560,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/branding-uae-startups-guide"
+              "cached_url": "/blog/branding-uae-startups-guide"
             },
             "featured_image": {
               "filename": "/assets/blog/branding-og.webp",
@@ -1581,7 +1581,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/childcare-management-software-uae-guide"
+              "cached_url": "/blog/childcare-management-software-uae-guide"
             },
             "featured_image": {
               "filename": "/assets/images/clayox-hero.webp",
@@ -1602,7 +1602,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/opening-nursery-dubai-digital-tools"
+              "cached_url": "/blog/opening-nursery-dubai-digital-tools"
             },
             "featured_image": {
               "filename": "/assets/images/clayox-dashboard.webp",
@@ -1623,7 +1623,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/moduluxe-group-seo-case-study"
+              "cached_url": "/blog/moduluxe-group-seo-case-study"
             },
             "featured_image": {
               "filename": "/assets/images/moduluxegroup.webp",
@@ -1644,7 +1644,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/bloomwave-clayox-digital-transformation"
+              "cached_url": "/blog/bloomwave-clayox-digital-transformation"
             },
             "featured_image": {
               "filename": "/assets/images/bloomwave-homepage.jpg",
@@ -1674,7 +1674,7 @@
             "link": {
               "url": "/services/web-development-uae",
               "linktype": "url",
-              "cached_url": "services/web-development-uae"
+              "cached_url": "/services/web-development-uae"
             }
           },
           {
@@ -1685,7 +1685,7 @@
             "link": {
               "url": "/services/seo-service-uae",
               "linktype": "url",
-              "cached_url": "services/seo-service-uae"
+              "cached_url": "/services/seo-service-uae"
             }
           },
           {
@@ -1696,7 +1696,7 @@
             "link": {
               "url": "/services/ecommerce-website-development-uae",
               "linktype": "url",
-              "cached_url": "services/ecommerce-website-development-uae"
+              "cached_url": "/services/ecommerce-website-development-uae"
             }
           },
           {
@@ -1707,7 +1707,7 @@
             "link": {
               "url": "/services/graphic-design-uae",
               "linktype": "url",
-              "cached_url": "services/graphic-design-uae"
+              "cached_url": "/services/graphic-design-uae"
             }
           }
         ]
@@ -1854,9 +1854,9 @@
         "description": "Book a consultation for Clayox and centre operations, or talk to us about bilingual websites, ecommerce, AI enquiry assistants and full digital rollout for your business.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "Clayox childcare management software",
         "secondary_cta_link": {

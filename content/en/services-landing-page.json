@@ -55,7 +55,7 @@
         "cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "Explore services",
         "secondary_cta_link": {
@@ -193,9 +193,9 @@
               "alt": "Web development"
             },
             "cta_link": {
-              "url": "services/web-development",
+              "url": "/services/web-development",
               "linktype": "url",
-              "cached_url": "services/web-development"
+              "cached_url": "/services/web-development"
             },
             "cta_text": "Explore Web Development",
             "is_popular": true
@@ -213,9 +213,9 @@
               "alt": "Customised software development"
             },
             "cta_link": {
-              "url": "services/custom-software-development",
+              "url": "/services/custom-software-development",
               "linktype": "url",
-              "cached_url": "services/custom-software-development"
+              "cached_url": "/services/custom-software-development"
             },
             "cta_text": "Explore Custom Software",
             "is_popular": false
@@ -233,9 +233,9 @@
               "alt": "Ecommerce development"
             },
             "cta_link": {
-              "url": "services/ecommerce-development",
+              "url": "/services/ecommerce-development",
               "linktype": "url",
-              "cached_url": "services/ecommerce-development"
+              "cached_url": "/services/ecommerce-development"
             },
             "cta_text": "Explore Ecommerce",
             "is_popular": false
@@ -253,9 +253,9 @@
               "alt": "SEO and growth services"
             },
             "cta_link": {
-              "url": "services/seo",
+              "url": "/services/seo",
               "linktype": "url",
-              "cached_url": "services/seo"
+              "cached_url": "/services/seo"
             },
             "cta_text": "Explore SEO",
             "is_popular": false
@@ -273,9 +273,9 @@
               "alt": "Branding and design"
             },
             "cta_link": {
-              "url": "services/branding-graphic-design",
+              "url": "/services/branding-graphic-design",
               "linktype": "url",
-              "cached_url": "services/branding-graphic-design"
+              "cached_url": "/services/branding-graphic-design"
             },
             "cta_text": "Explore Branding",
             "is_popular": false
@@ -293,9 +293,9 @@
               "alt": "AI solutions"
             },
             "cta_link": {
-              "url": "services/ai-solutions",
+              "url": "/services/ai-solutions",
               "linktype": "url",
-              "cached_url": "services/ai-solutions"
+              "cached_url": "/services/ai-solutions"
             },
             "cta_text": "Explore AI Solutions",
             "is_popular": false
@@ -742,15 +742,15 @@
         "description": "Book a free consultation and our team will help you scope the right mix of web development, ecommerce, branding, SEO, custom software or AI integration for your goals.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View Case Studies",
         "secondary_cta_link": {
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         }
       },
       {

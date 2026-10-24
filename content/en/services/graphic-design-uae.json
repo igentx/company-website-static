@@ -68,7 +68,7 @@
           "url": "/contact",
           "linktype": "url",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "cta_text": "Book a Free Consultation",
         "duration": "From 1 week",
@@ -263,15 +263,15 @@
         "description": "Book a free consultation to discuss your positioning, multilingual deliverables and timeline. We scope projects from logo-only to full identity systems.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View Case Studies",
         "secondary_cta_link": {
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         }
       },
       {

@@ -1,4 +1,5 @@
 import { HeroBlok } from '@/lib/types'
+import { normalizeInternalHref } from '@/lib/utils'
 import Image from 'next/image'
 
 /**
@@ -11,7 +12,7 @@ interface HeroProps {
 
 export default function Hero({ blok }: HeroProps) {
   const backgroundImage = blok.background_image?.filename
-  const ctaUrl = blok.cta_link?.url || '#'
+  const ctaUrl = normalizeInternalHref(blok.cta_link?.cached_url || blok.cta_link?.url)
 
   return (
     <section

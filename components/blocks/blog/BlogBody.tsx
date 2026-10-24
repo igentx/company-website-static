@@ -1,5 +1,6 @@
 import { RichText } from '@/lib/blocks'
 import { BlogBodyBlok } from '@/lib/types'
+import { normalizeInternalHrefsInHtml } from '@/lib/utils'
 
 interface BlogBodyProps {
     blok: BlogBodyBlok
@@ -25,7 +26,9 @@ export default function BlogBody({ blok }: BlogBodyProps) {
                 ) : (
                     <div
                         className="text-gray-700 leading-relaxed"
-                        dangerouslySetInnerHTML={{ __html: blok.content as string }}
+                        dangerouslySetInnerHTML={{
+                          __html: normalizeInternalHrefsInHtml(blok.content as string),
+                        }}
                     />
                 )
             ) : null}

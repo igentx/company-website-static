@@ -17,9 +17,59 @@ const nextConfig: NextConfig = {
       },
       { source: '/en', destination: '/', permanent: true },
       { source: '/en/:path*', destination: '/:path*', permanent: true },
-      // Arabic locale was removed (no content/ar). Send historical /ar URLs to English equivalents.
+
+      // Legacy English crawl URLs (Google 404s) → live equivalents.
+      // Keep these before /ar/:path* so /ar/<legacy> can also collapse in one hop below.
+      {
+        source: '/case-studies-landing-page',
+        destination: '/case-studies',
+        permanent: true,
+      },
+      {
+        source: '/case-studies-landing-page/:path*',
+        destination: '/:path*',
+        permanent: true,
+      },
+      {
+        source: '/blog/services/:path*',
+        destination: '/services/:path*',
+        permanent: true,
+      },
+      { source: '/service', destination: '/services', permanent: true },
+      // /web-development-uae was never a real app route (docs example only).
+      // Live page is /services/web-development-uae.
+      {
+        source: '/web-development-uae',
+        destination: '/services/web-development-uae',
+        permanent: true,
+      },
+
+      // Arabic locale was removed (no content/ar). Prefer direct legacy→canonical
+      // mappings so /ar/<legacy> reaches a 200 in one hop, then fall back to strip /ar.
+      {
+        source: '/ar/case-studies-landing-page',
+        destination: '/case-studies',
+        permanent: true,
+      },
+      {
+        source: '/ar/case-studies-landing-page/:path*',
+        destination: '/:path*',
+        permanent: true,
+      },
+      {
+        source: '/ar/blog/services/:path*',
+        destination: '/services/:path*',
+        permanent: true,
+      },
+      { source: '/ar/service', destination: '/services', permanent: true },
+      {
+        source: '/ar/web-development-uae',
+        destination: '/services/web-development-uae',
+        permanent: true,
+      },
       { source: '/ar', destination: '/', permanent: true },
       { source: '/ar/:path*', destination: '/:path*', permanent: true },
+
       // Broken relative-link crawl paths → canonical blog posts
       {
         source: '/service/blog/:slug',

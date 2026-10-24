@@ -106,7 +106,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/how-to-choose-best-web-development-agency-uae"
+              "cached_url": "/blog/how-to-choose-best-web-development-agency-uae"
             },
             "featured_image": {
               "filename": "/assets/blog/best-web-development-agency-uae-og.webp",
@@ -127,7 +127,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/web-development-uae"
+              "cached_url": "/blog/web-development-uae"
             },
             "featured_image": {
               "filename": "/assets/images/web-development-uae.webp",
@@ -148,7 +148,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/ai-in-web-development-uae"
+              "cached_url": "/blog/ai-in-web-development-uae"
             },
             "featured_image": {
               "filename": "/assets/images/ai-in-web-development.webp",
@@ -778,7 +778,7 @@
           "url": "",
           "linktype": "story",
           "fieldtype": "multilink",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "cta_button_text": "Start Your Project",
         "cta_section_text": "Let us help you build a powerful digital presence that drives results in the UAE market.",
@@ -831,13 +831,13 @@
         "primary_cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View Case Studies",
         "secondary_cta_link": {
           "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         }
       }
     ],

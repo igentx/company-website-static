@@ -51,14 +51,29 @@
         "back_link": {
           "linktype": "story",
           "fieldtype": "multilink",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         },
         "component": "case_study_hero",
         "client_name": "DrDoor",
         "quick_stats": [
-          { "_uid": "dd-qs1", "value": "200%", "label": "Organic traffic", "component": "stat_item" },
-          { "_uid": "dd-qs2", "value": "96", "label": "Lighthouse score", "component": "stat_item" },
-          { "_uid": "dd-qs3", "value": "0.6s", "label": "Load time", "component": "stat_item" }
+          {
+            "_uid": "dd-qs1",
+            "value": "200%",
+            "label": "Organic traffic",
+            "component": "stat_item"
+          },
+          {
+            "_uid": "dd-qs2",
+            "value": "96",
+            "label": "Lighthouse score",
+            "component": "stat_item"
+          },
+          {
+            "_uid": "dd-qs3",
+            "value": "0.6s",
+            "label": "Load time",
+            "component": "stat_item"
+          }
         ],
         "featured_image": {
           "filename": "/assets/images/drdoor.webp",
@@ -98,19 +113,63 @@
             {
               "type": "paragraph",
               "content": [
-                { "text": "We built a new digital platform for DrDoor, focusing on ", "type": "text" },
-                { "text": "speed", "type": "text", "marks": [{ "type": "bold" }] },
-                { "text": ", ", "type": "text" },
-                { "text": "conversion", "type": "text", "marks": [{ "type": "bold" }] },
-                { "text": " and ", "type": "text" },
-                { "text": "SEO performance", "type": "text", "marks": [{ "type": "bold" }] },
-                { "text": ".", "type": "text" }
+                {
+                  "text": "We built a new digital platform for DrDoor, focusing on ",
+                  "type": "text"
+                },
+                {
+                  "text": "speed",
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "text": ", ",
+                  "type": "text"
+                },
+                {
+                  "text": "conversion",
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "text": " and ",
+                  "type": "text"
+                },
+                {
+                  "text": "SEO performance",
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "text": ".",
+                  "type": "text"
+                }
               ]
             },
             {
               "type": "paragraph",
               "content": [
-                { "text": "Core implementations:", "type": "text", "marks": [{ "type": "bold" }] }
+                {
+                  "text": "Core implementations:",
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
               ]
             },
             {
@@ -122,8 +181,19 @@
                     {
                       "type": "paragraph",
                       "content": [
-                        { "text": "Next.js + Storyblok architecture:", "type": "text", "marks": [{ "type": "bold" }] },
-                        { "text": " Built a high-speed, CMS-driven web platform that allows DrDoor to manage pages easily.", "type": "text" }
+                        {
+                          "text": "Next.js + Storyblok architecture:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Built a high-speed, CMS-driven web platform that allows DrDoor to manage pages easily.",
+                          "type": "text"
+                        }
                       ]
                     }
                   ]
@@ -134,8 +204,19 @@
                     {
                       "type": "paragraph",
                       "content": [
-                        { "text": "AI-enhanced SEO foundation:", "type": "text", "marks": [{ "type": "bold" }] },
-                        { "text": " Integrated AI tools for keyword mapping, structured metadata and local search targeting.", "type": "text" }
+                        {
+                          "text": "AI-enhanced SEO foundation:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Integrated AI tools for keyword mapping, structured metadata and local search targeting.",
+                          "type": "text"
+                        }
                       ]
                     }
                   ]
@@ -146,12 +227,45 @@
                     {
                       "type": "paragraph",
                       "content": [
-                        { "text": "Core Web Vitals optimisation:", "type": "text", "marks": [{ "type": "bold" }] },
-                        { "text": " Reduced load time from 3.2s to ", "type": "text" },
-                        { "text": "0.6s", "type": "text", "marks": [{ "type": "bold" }] },
-                        { "text": " and achieved a ", "type": "text" },
-                        { "text": "96% performance score", "type": "text", "marks": [{ "type": "bold" }] },
-                        { "text": " on Lighthouse.", "type": "text" }
+                        {
+                          "text": "Core Web Vitals optimisation:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Reduced load time from 3.2s to ",
+                          "type": "text"
+                        },
+                        {
+                          "text": "0.6s",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " and achieved a ",
+                          "type": "text"
+                        },
+                        {
+                          "text": "96% performance score",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " on Lighthouse.",
+                          "type": "text"
+                        }
                       ]
                     }
                   ]
@@ -162,8 +276,19 @@
                     {
                       "type": "paragraph",
                       "content": [
-                        { "text": "Local SEO for India:", "type": "text", "marks": [{ "type": "bold" }] },
-                        { "text": " Structured metadata, local search targeting and content optimised for manufacturing enquiries across India.", "type": "text" }
+                        {
+                          "text": "Local SEO for India:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Structured metadata, local search targeting and content optimised for manufacturing enquiries across India.",
+                          "type": "text"
+                        }
                       ]
                     }
                   ]
@@ -174,8 +299,19 @@
                     {
                       "type": "paragraph",
                       "content": [
-                        { "text": "Mailjet & Analytics integration:", "type": "text", "marks": [{ "type": "bold" }] },
-                        { "text": " Implemented contact workflows and real-time analytics dashboards for lead tracking.", "type": "text" }
+                        {
+                          "text": "Mailjet & Analytics integration:",
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "text": " Implemented contact workflows and real-time analytics dashboards for lead tracking.",
+                          "type": "text"
+                        }
                       ]
                     }
                   ]
@@ -201,8 +337,14 @@
         "project_date": "2025-07",
         "technologies": "Next.js, TypeScript, Tailwind CSS, Storyblok, Mailjet, Google Analytics, SEO Tools, Vercel",
         "service_links": [
-          { "label": "Web Development UAE", "url": "/services/web-development-uae" },
-          { "label": "SEO Services", "url": "/services/seo" }
+          {
+            "label": "Web Development UAE",
+            "url": "/services/web-development-uae"
+          },
+          {
+            "label": "SEO Services",
+            "url": "/services/seo"
+          }
         ],
         "project_images": [
           {
@@ -254,7 +396,7 @@
             "link": {
               "url": "/case-studies/moduluxe-group",
               "linktype": "url",
-              "cached_url": "case-studies/moduluxe-group"
+              "cached_url": "/case-studies/moduluxe-group"
             }
           },
           {
@@ -268,7 +410,7 @@
             "link": {
               "url": "/case-studies/bloomwave-learning-daycare",
               "linktype": "url",
-              "cached_url": "case-studies/bloomwave-learning-daycare"
+              "cached_url": "/case-studies/bloomwave-learning-daycare"
             }
           }
         ]
@@ -280,15 +422,15 @@
         "description": "Whether you need a performance-first website, SEO foundation or a CMS-driven website for global markets, our team helps businesses generate more qualified enquiries.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View all case studies",
         "secondary_cta_link": {
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         }
       }
     ],

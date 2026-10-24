@@ -54,7 +54,7 @@
         "cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "Explore products",
         "secondary_cta_link": {
@@ -160,13 +160,34 @@
             "url": "https://www.clayox.com/"
           },
           "feature_pills": [
-            { "label": "Admissions", "icon": "admissions" },
-            { "label": "Attendance", "icon": "attendance" },
-            { "label": "Activity Feed", "icon": "activity_feed" },
-            { "label": "Family Portal", "icon": "parent_app" },
-            { "label": "Messaging", "icon": "messaging" },
-            { "label": "Billing", "icon": "billing" },
-            { "label": "Reports", "icon": "reports" }
+            {
+              "label": "Admissions",
+              "icon": "admissions"
+            },
+            {
+              "label": "Attendance",
+              "icon": "attendance"
+            },
+            {
+              "label": "Activity Feed",
+              "icon": "activity_feed"
+            },
+            {
+              "label": "Family Portal",
+              "icon": "parent_app"
+            },
+            {
+              "label": "Messaging",
+              "icon": "messaging"
+            },
+            {
+              "label": "Billing",
+              "icon": "billing"
+            },
+            {
+              "label": "Reports",
+              "icon": "reports"
+            }
           ],
           "trust_banner": "Built for childcare centres to simplify operations and improve family engagement.",
           "cta_text": "Clayox childcare management software",
@@ -193,16 +214,22 @@
             "One-Line Integration"
           ],
           "stats": [
-            { "value": "Available in Minutes" },
-            { "value": "Multilingual" },
-            { "value": "No Code Required" }
+            {
+              "value": "Available in Minutes"
+            },
+            {
+              "value": "Multilingual"
+            },
+            {
+              "value": "No Code Required"
+            }
           ],
           "cta_text": "View Demo",
           "cta_link": {
             "url": "",
             "linktype": "story",
             "fieldtype": "multilink",
-            "cached_url": "products/ai-customer-service-agent"
+            "cached_url": "/products/ai-customer-service-agent"
           },
           "image": {
             "filename": "/assets/images/ai-customer-service.webp",
@@ -232,9 +259,9 @@
         "description": "Book a free consultation and our team will help you choose the right path: AI Customer Service Agent for your website, Clayox for your centre, or a custom build tailored to your goals.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         }
       },
       {

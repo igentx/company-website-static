@@ -1,5 +1,6 @@
 import { RichText, BlockRenderer } from '@/lib/blocks'
 import { ServiceDetailBlok } from '@/lib/types'
+import { normalizeInternalHref } from '@/lib/utils'
 import Link from 'next/link'
 
 interface ServiceDetailProps {
@@ -315,7 +316,9 @@ export default function ServiceDetail({ blok }: ServiceDetailProps) {
                         )}
                         {blok.cta_button_link && (
                             <div>
-                                {blok.cta_button_link.linktype === 'url' ? (
+                                {blok.cta_button_link.linktype === 'url' &&
+                                (blok.cta_button_link.url?.startsWith('http://') ||
+                                  blok.cta_button_link.url?.startsWith('https://')) ? (
                                     <a
                                         href={blok.cta_button_link.url}
                                         target="_blank"
@@ -339,11 +342,10 @@ export default function ServiceDetail({ blok }: ServiceDetailProps) {
                                     </a>
                                 ) : (
                                     <Link
-                                        href={
-                                          blok.cta_button_link.url?.startsWith('/')
-                                            ? blok.cta_button_link.url
-                                            : `/${blok.cta_button_link.url || ''}`
-                                        }
+                                        href={normalizeInternalHref(
+                                          blok.cta_button_link.cached_url ||
+                                            blok.cta_button_link.url
+                                        )}
                                         className="inline-flex items-center px-8 py-4 bg-white text-blue-900 font-bold rounded-xl hover:bg-gray-100 transition-all duration-300 shadow-xl"
                                     >
                                         {blok.cta_button_text || 'Get Started'}

@@ -49,14 +49,29 @@
         "back_link": {
           "linktype": "story",
           "fieldtype": "multilink",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         },
         "component": "case_study_hero",
         "client_name": "BloomWave Learning & Daycare",
         "quick_stats": [
-          { "_uid": "bw-qs1", "value": "24/7", "label": "AI enquiries", "component": "stat_item" },
-          { "_uid": "bw-qs2", "value": "2 weeks", "label": "Delivery", "component": "stat_item" },
-          { "_uid": "bw-qs3", "value": "1", "label": "Integrated platform", "component": "stat_item" }
+          {
+            "_uid": "bw-qs1",
+            "value": "24/7",
+            "label": "AI enquiries",
+            "component": "stat_item"
+          },
+          {
+            "_uid": "bw-qs2",
+            "value": "2 weeks",
+            "label": "Delivery",
+            "component": "stat_item"
+          },
+          {
+            "_uid": "bw-qs3",
+            "value": "1",
+            "label": "Integrated platform",
+            "component": "stat_item"
+          }
         ],
         "featured_image": {
           "filename": "/assets/images/bloomwave-homepage.jpg",
@@ -123,9 +138,18 @@
           "Tailwind CSS"
         ],
         "service_links": [
-          { "label": "Clayox childcare management software", "url": "https://www.clayox.com/" },
-          { "label": "AI Customer Service Agent", "url": "/products/ai-customer-service-agent" },
-          { "label": "Web Development UAE", "url": "/services/web-development-uae" }
+          {
+            "label": "Clayox childcare management software",
+            "url": "https://www.clayox.com/"
+          },
+          {
+            "label": "AI Customer Service Agent",
+            "url": "/products/ai-customer-service-agent"
+          },
+          {
+            "label": "Web Development UAE",
+            "url": "/services/web-development-uae"
+          }
         ],
         "project_images": [
           {
@@ -177,7 +201,7 @@
             "link": {
               "url": "/case-studies/moduluxe-group",
               "linktype": "url",
-              "cached_url": "case-studies/moduluxe-group"
+              "cached_url": "/case-studies/moduluxe-group"
             }
           },
           {
@@ -191,7 +215,7 @@
             "link": {
               "url": "/case-studies/dr-door",
               "linktype": "url",
-              "cached_url": "case-studies/dr-door"
+              "cached_url": "/case-studies/dr-door"
             }
           }
         ]
@@ -203,15 +227,15 @@
         "description": "Whether you need a parent-facing website, a 24/7 AI enquiry assistant or centre operations software, our team can deliver an integrated rollout tailored to your early learning centre.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "contact",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "View all case studies",
         "secondary_cta_link": {
-          "url": "case-studies",
+          "url": "/case-studies",
           "linktype": "url",
-          "cached_url": "case-studies"
+          "cached_url": "/case-studies"
         }
       }
     ],

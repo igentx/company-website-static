@@ -95,7 +95,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/web-development-uae"
+              "cached_url": "/blog/web-development-uae"
             },
             "featured_image": {
               "filename": "/assets/images/web-development-uae.webp",
@@ -116,7 +116,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/local-seo-dubai-uae-guide"
+              "cached_url": "/blog/local-seo-dubai-uae-guide"
             },
             "featured_image": {
               "filename": "/assets/blog/seo-og.webp",
@@ -137,7 +137,7 @@
             "link": {
               "url": "",
               "linktype": "story",
-              "cached_url": "blog/moduluxe-group-seo-case-study"
+              "cached_url": "/blog/moduluxe-group-seo-case-study"
             },
             "featured_image": {
               "filename": "/assets/images/moduluxegroup.webp",
@@ -153,7 +153,7 @@
         "cta_button_link": {
           "url": "/services/web-development-uae",
           "linktype": "url",
-          "cached_url": "services/web-development-uae"
+          "cached_url": "/services/web-development-uae"
         },
         "content_blocks": [
           {
@@ -270,13 +270,13 @@
         "primary_cta_link": {
           "url": "/contact",
           "linktype": "url",
-          "cached_url": "contact"
+          "cached_url": "/contact"
         },
         "secondary_cta_text": "Read Local SEO Guide",
         "secondary_cta_link": {
           "url": "/blog/local-seo-dubai-uae-guide",
           "linktype": "url",
-          "cached_url": "blog/local-seo-dubai-uae-guide"
+          "cached_url": "/blog/local-seo-dubai-uae-guide"
         }
       }
     ]

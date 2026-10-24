@@ -1,5 +1,6 @@
 import { BlockRenderer } from '@/lib/blocks'
 import { CaseStudyGridBlok } from '@/lib/types'
+import { normalizeInternalHref } from '@/lib/utils'
 
 /**
  * CaseStudyGrid component - Displays a grid of case study cards
@@ -105,12 +106,9 @@ export default function CaseStudyGrid({ blok }: CaseStudyGridProps) {
                     {blok.cta_text && blok.cta_link && (
                         <div className="mt-16 text-center">
                             <a
-                                href={
-                                  blok.cta_link.url?.startsWith('http') ||
-                                  blok.cta_link.url?.startsWith('/')
-                                    ? blok.cta_link.url || '#'
-                                    : `/${blok.cta_link.url || ''}`
-                                }
+                                href={normalizeInternalHref(
+                                  blok.cta_link.cached_url || blok.cta_link.url
+                                )}
                                 className="inline-flex items-center px-8 py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl"
                             >
                                 {blok.cta_text}

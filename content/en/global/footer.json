@@ -29,10 +29,10 @@
             "_uid": "da927ac6-ead3-466d-8d59-e1ad85e62857",
             "link": {
               "id": "",
-              "url": "privacy",
+              "url": "/privacy",
               "linktype": "url",
               "fieldtype": "multilink",
-              "cached_url": "privacy"
+              "cached_url": "/privacy"
             },
             "label": "Privacy Policy",
             "component": "footer_links"
@@ -41,10 +41,10 @@
             "_uid": "53f2fda6-db2f-47c2-bd71-56399140ccf1",
             "link": {
               "id": "",
-              "url": "terms",
+              "url": "/terms",
               "linktype": "url",
               "fieldtype": "multilink",
-              "cached_url": "terms"
+              "cached_url": "/terms"
             },
             "label": "Terms & Conditions",
             "component": "footer_links"
@@ -53,10 +53,10 @@
             "_uid": "legal-refund",
             "link": {
               "id": "",
-              "url": "refund-policy",
+              "url": "/refund-policy",
               "linktype": "url",
               "fieldtype": "multilink",
-              "cached_url": "refund-policy"
+              "cached_url": "/refund-policy"
             },
             "label": "Refund & Cancellation Policy",
             "component": "footer_links"
@@ -74,10 +74,10 @@
                 "label": "Clayox: AI-Powered Childcare Management System",
                 "link": {
                   "id": "",
-                  "url": "products/clayox",
+                  "url": "/products/clayox",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "products/clayox"
+                  "cached_url": "/products/clayox"
                 }
               },
               {
@@ -86,10 +86,10 @@
                 "label": "AI Customer Service Agent",
                 "link": {
                   "id": "",
-                  "url": "products/ai-customer-service-agent",
+                  "url": "/products/ai-customer-service-agent",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "products/ai-customer-service-agent"
+                  "cached_url": "/products/ai-customer-service-agent"
                 }
               }
             ]
@@ -108,7 +108,7 @@
                   "url": "/uae",
                   "linktype": "url",
                   "fieldtype": "multilink",
-                  "cached_url": "uae"
+                  "cached_url": "/uae"
                 }
               },
               {
@@ -117,10 +117,10 @@
                 "label": "Custom Software",
                 "link": {
                   "id": "",
-                  "url": "services/custom-software-development",
+                  "url": "/services/custom-software-development",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "services/custom-software-development"
+                  "cached_url": "/services/custom-software-development"
                 }
               },
               {
@@ -129,10 +129,10 @@
                 "label": "Web Development",
                 "link": {
                   "id": "",
-                  "url": "services/web-development",
+                  "url": "/services/web-development",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "services/web-development"
+                  "cached_url": "/services/web-development"
                 }
               },
               {
@@ -141,10 +141,10 @@
                 "label": "AI Solutions",
                 "link": {
                   "id": "",
-                  "url": "services/ai-solutions",
+                  "url": "/services/ai-solutions",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "services/ai-solutions"
+                  "cached_url": "/services/ai-solutions"
                 }
               },
               {
@@ -153,10 +153,10 @@
                 "label": "Ecommerce Development",
                 "link": {
                   "id": "",
-                  "url": "services/ecommerce-development",
+                  "url": "/services/ecommerce-development",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "services/ecommerce-development"
+                  "cached_url": "/services/ecommerce-development"
                 }
               },
               {
@@ -165,10 +165,10 @@
                 "label": "SEO",
                 "link": {
                   "id": "",
-                  "url": "services/seo",
+                  "url": "/services/seo",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "services/seo"
+                  "cached_url": "/services/seo"
                 }
               },
               {
@@ -177,10 +177,10 @@
                 "label": "Branding",
                 "link": {
                   "id": "",
-                  "url": "services/branding-graphic-design",
+                  "url": "/services/branding-graphic-design",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "services/branding-graphic-design"
+                  "cached_url": "/services/branding-graphic-design"
                 }
               }
             ]
@@ -196,10 +196,10 @@
                 "label": "Retail & Ecommerce",
                 "link": {
                   "id": "",
-                  "url": "services/ecommerce-development",
+                  "url": "/services/ecommerce-development",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "services/ecommerce-development"
+                  "cached_url": "/services/ecommerce-development"
                 }
               },
               {
@@ -208,10 +208,10 @@
                 "label": "Education & Childcare",
                 "link": {
                   "id": "",
-                  "url": "products/clayox",
+                  "url": "/products/clayox",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "products/clayox"
+                  "cached_url": "/products/clayox"
                 }
               },
               {
@@ -220,10 +220,10 @@
                 "label": "Real Estate",
                 "link": {
                   "id": "",
-                  "url": "case-studies",
+                  "url": "/case-studies",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "case-studies"
+                  "cached_url": "/case-studies"
                 }
               },
               {
@@ -232,10 +232,10 @@
                 "label": "Professional Services",
                 "link": {
                   "id": "",
-                  "url": "services/web-development",
+                  "url": "/services/web-development",
                   "linktype": "story",
                   "fieldtype": "multilink",
-                  "cached_url": "services/web-development"
+                  "cached_url": "/services/web-development"
                 }
               }
             ]
@@ -251,10 +251,10 @@
                 "label": "About",
                 "link": {
                   "id": "",
-                  "url": "about",
+                  "url": "/about",
                   "linktype": "url",
                   "fieldtype": "multilink",
-                  "cached_url": "about"
+                  "cached_url": "/about"
                 }
               },
               {
@@ -263,10 +263,10 @@
                 "label": "Contact",
                 "link": {
                   "id": "",
-                  "url": "contact",
+                  "url": "/contact",
                   "linktype": "url",
                   "fieldtype": "multilink",
-                  "cached_url": "contact"
+                  "cached_url": "/contact"
                 }
               }
             ]
@@ -282,7 +282,7 @@
                 "label": "Blog",
                 "link": {
                   "id": "",
-                  "url": "blog",
+                  "url": "/blog",
                   "linktype": "url",
                   "fieldtype": "multilink",
                   "cached_url": ""
@@ -294,7 +294,7 @@
                 "label": "Case Studies",
                 "link": {
                   "id": "",
-                  "url": "case-studies",
+                  "url": "/case-studies",
                   "linktype": "url",
                   "fieldtype": "multilink",
                   "cached_url": ""
@@ -306,7 +306,7 @@
                 "label": "Contact",
                 "link": {
                   "id": "",
-                  "url": "contact",
+                  "url": "/contact",
                   "linktype": "url",
                   "fieldtype": "multilink",
                   "cached_url": ""
