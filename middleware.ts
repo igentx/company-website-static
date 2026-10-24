@@ -1,22 +1,46 @@
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
 
-/**
- * Legacy crawl URLs → live English destinations (one hop).
- * Applied in middleware before the generic /ar strip so /ar legacy paths
- * do not bounce through an intermediate English legacy URL.
- */
-const LEGACY_DESTINATIONS: Record<string, string> = {
-  '/case-studies-landing-page': '/case-studies',
-  '/service': '/services',
-  '/web-development-uae': '/services/web-development-uae',
-  '/ar/case-studies-landing-page': '/case-studies',
-  '/ar/service': '/services',
-  '/ar/web-development-uae': '/services/web-development-uae',
-}
-
 function withoutTrailingSlash(pathname: string): string {
   return pathname.length > 1 && pathname.endsWith('/') ? pathname.slice(0, -1) : pathname
+}
+
+/**
+ * Map a path (already without /ar) to its live English destination.
+ * Returns null when the path does not need a legacy redirect.
+ *
+ * Order matters: /service/blog/* before /service/:path*, and exact /service
+ * before the catch-all.
+ */
+function resolveLegacyDestination(pathname: string): string | null {
+  const normalised = withoutTrailingSlash(pathname)
+
+  const exact: Record<string, string> = {
+    '/case-studies-landing-page': '/case-studies',
+    '/service': '/services',
+    '/web-development-uae': '/services/web-development-uae',
+  }
+  if (exact[normalised]) return exact[normalised]
+
+  // Keep existing /service/blog/* → /blog/* rule
+  if (normalised.startsWith('/service/blog/')) {
+    return normalised.replace(/^\/service\/blog/, '/blog') || '/blog'
+  }
+
+  // Other /service/:path* (e.g. /service/contact) → /:path*
+  if (normalised.startsWith('/service/')) {
+    return normalised.slice('/service'.length) || '/'
+  }
+
+  if (normalised.startsWith('/case-studies-landing-page/')) {
+    return normalised.replace(/^\/case-studies-landing-page/, '') || '/'
+  }
+
+  if (normalised.startsWith('/blog/services/')) {
+    return normalised.replace(/^\/blog\/services/, '/services')
+  }
+
+  return null
 }
 
 /**
@@ -37,51 +61,29 @@ function dollarPrefixRedirect(request: NextRequest): NextResponse | null {
 
   if (rest === null) return null
 
+  // Also collapse legacy segments after stripping the "$" prefix
+  const resolved = resolveLegacyDestination(rest) || rest
   const url = request.nextUrl.clone()
-  url.pathname = rest.startsWith('/') ? rest : `/${rest}`
+  url.pathname = resolved.startsWith('/') ? resolved : `/${resolved}`
   return NextResponse.redirect(url, 308)
 }
 
+/**
+ * English legacy crawl URLs → live paths in one hop.
+ */
 function legacyPathRedirect(request: NextRequest): NextResponse | null {
-  const { pathname } = request.nextUrl
-  const normalised = withoutTrailingSlash(pathname)
+  const destination = resolveLegacyDestination(request.nextUrl.pathname)
+  if (!destination) return null
 
-  const exact = LEGACY_DESTINATIONS[normalised]
-  if (exact) {
-    const url = request.nextUrl.clone()
-    url.pathname = exact
-    return NextResponse.redirect(url, 308)
-  }
-
-  // Nested historical prefixes (keep at least one path segment when present)
-  if (normalised.startsWith('/case-studies-landing-page/')) {
-    const url = request.nextUrl.clone()
-    url.pathname = normalised.replace(/^\/case-studies-landing-page/, '') || '/'
-    return NextResponse.redirect(url, 308)
-  }
-  if (normalised.startsWith('/ar/case-studies-landing-page/')) {
-    const url = request.nextUrl.clone()
-    url.pathname = normalised.replace(/^\/ar\/case-studies-landing-page/, '') || '/'
-    return NextResponse.redirect(url, 308)
-  }
-  if (normalised.startsWith('/blog/services/')) {
-    const url = request.nextUrl.clone()
-    url.pathname = normalised.replace(/^\/blog\/services/, '/services')
-    return NextResponse.redirect(url, 308)
-  }
-  if (normalised.startsWith('/ar/blog/services/')) {
-    const url = request.nextUrl.clone()
-    url.pathname = normalised.replace(/^\/ar\/blog\/services/, '/services')
-    return NextResponse.redirect(url, 308)
-  }
-
-  return null
+  const url = request.nextUrl.clone()
+  url.pathname = destination
+  return NextResponse.redirect(url, 308)
 }
 
 /**
- * Arabic locale content was removed. Redirect /ar and /ar/* to English in one hop
- * (before Next.js trailing-slash normalisation can turn /ar/ into /ar → /).
- * Legacy /ar mappings are handled above so they never fall through to a bare strip.
+ * Arabic locale content was removed. Strip /ar, then apply English legacy
+ * mappings to that stripped path in the same response so /ar legacy URLs
+ * never need a second hop (e.g. /ar/web-development-uae → /services/...).
  */
 function arabicToEnglishRedirect(request: NextRequest): NextResponse | null {
   const { pathname } = request.nextUrl
@@ -89,11 +91,13 @@ function arabicToEnglishRedirect(request: NextRequest): NextResponse | null {
     return null
   }
 
-  const englishPath =
+  const stripped =
     pathname === '/ar' || pathname === '/ar/' ? '/' : pathname.replace(/^\/ar/, '') || '/'
 
+  const destination = resolveLegacyDestination(stripped) || stripped
+
   const url = request.nextUrl.clone()
-  url.pathname = englishPath
+  url.pathname = destination
   return NextResponse.redirect(url, 308)
 }
 
@@ -104,10 +108,11 @@ export function middleware(request: NextRequest) {
   const dollarRedirect = dollarPrefixRedirect(request)
   if (dollarRedirect) return dollarRedirect
 
-  // Legacy mappings (including /ar legacy) before generic /ar strip
+  // English legacy first (covers /service/contact etc.)
   const legacyRedirect = legacyPathRedirect(request)
   if (legacyRedirect) return legacyRedirect
 
+  // /ar strip + legacy on stripped path in one hop
   const arabicRedirect = arabicToEnglishRedirect(request)
   if (arabicRedirect) return arabicRedirect
 
