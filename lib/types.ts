@@ -337,6 +337,65 @@ export interface IGENTXCtaBandBlok extends SbBlokData {
   }
 }
 
+// Childcare Digital Partnership page body (overview, plans, inclusions, extras)
+export interface IGENTXDigitalPartnershipTier {
+  name: string
+  subtitle?: string
+  price_annual: string
+  price_monthly_equivalent?: string
+  price_note?: string
+  features?: string | string[]
+  badge?: string
+  is_featured?: boolean
+  cta_text?: string
+  cta_link?: {
+    url: string
+    linktype: string
+    cached_url?: string
+  }
+}
+
+export interface IGENTXDigitalPartnershipBlok extends SbBlokData {
+  component: 'igentx_digital_partnership'
+  overview_badge?: string
+  overview_title?: string
+  overview_description?: string
+  overview_points?: string | string[]
+  pricing_title?: string
+  pricing_description?: string
+  billing_note?: string
+  stacking_note?: string
+  tiers?: IGENTXDigitalPartnershipTier[]
+  inclusions_title?: string
+  inclusions_description?: string
+  inclusions_table_caption?: string
+  inclusion_columns?: string[]
+  inclusion_rows?: {
+    label: string
+    values: string[]
+  }[]
+  inclusions_footnote?: string
+  extras_title?: string
+  extras?: {
+    title: string
+    description: string
+  }[]
+  demo_cta_text?: string
+  demo_cta_url?: string
+  demo_cta_link?: {
+    url: string
+    linktype: string
+    cached_url?: string
+  }
+  software_side_label?: string
+  software_side_url?: string
+  software_side_link?: {
+    url: string
+    linktype: string
+    cached_url?: string
+  }
+}
+
 // Trust Signal Item Block - Individual trust signal
 export interface TrustSignalItemBlok extends SbBlokData {
   component: 'trust_signal_item'
@@ -665,6 +724,7 @@ export interface PageBlok extends SbBlokData {
     | IGENTXPortfolioBlok
     | IGENTXCtaBandBlok
     | IGENTXPricingBlok
+    | IGENTXDigitalPartnershipBlok
   )[]
 }
 

@@ -50,6 +50,7 @@ import IGENTXProducts from '@/components/blocks/IGENTXProducts'
 import IGENTXServices from '@/components/blocks/IGENTXServices'
 import IGENTXPortfolio from '@/components/blocks/IGENTXPortfolio'
 import IGENTXPricing from '@/components/blocks/IGENTXPricing'
+import IGENTXDigitalPartnership from '@/components/blocks/IGENTXDigitalPartnership'
 import FAQ from '@/components/blocks/FAQ'
 import CaseStudyCard from '@/components/blocks/CaseStudyCard'
 import CaseStudyGrid from '@/components/blocks/CaseStudyGrid'
@@ -95,6 +96,7 @@ export const blockRegistry: Record<string, BlockComponent> = {
   igentx_portfolio: IGENTXPortfolio,
   igentx_cta_band: IGENTXCtaBand,
   igentx_pricing: IGENTXPricing,
+  igentx_digital_partnership: IGENTXDigitalPartnership,
   faq: FAQ,
   case_study_card: CaseStudyCard,
   case_study_grid: CaseStudyGrid,

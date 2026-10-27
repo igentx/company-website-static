@@ -112,6 +112,13 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
     keywords:
       'Clayox, childcare management software, IGENTX products, nursery management software',
   },
+  '/digital-partnership': {
+    title: 'IGENTX Childcare Digital Partnership | Done-for-You Digital Foundation',
+    description:
+      'Done-for-you digital foundation for childcare centres: Clayox, centre website, AI enquiry assistant, email, and SEO. UAE first, then GCC. Annual USD plans from $240.',
+    keywords:
+      'IGENTX childcare digital partnership, nursery website UAE, childcare digital agency, Clayox partnership, preschool SEO UAE',
+  },
   '/uae': {
     title: 'Digital Agency Dubai & Childcare Management Software UAE | IGENTX',
     description:
@@ -308,6 +315,7 @@ export function getSeoFallbackForSlug(storySlug: string): SeoFallback {
     'products-landing-page': '/products',
     'products/ai-customer-service-agent': '/products/ai-customer-service-agent',
     'products/clayox': '/products/clayox',
+    'digital-partnership': '/digital-partnership',
     'case-studies-landing-page': '/case-studies',
     'case-studies/web-development-uae-startup-moduluxe-group': '/case-studies/moduluxe-group',
     'case-studies/web-development-startup-dr-door': '/case-studies/dr-door',

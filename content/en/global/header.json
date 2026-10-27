@@ -158,6 +158,17 @@
                   "linktype": "url",
                   "cached_url": "/products/clayox"
                 }
+              },
+              {
+                "_uid": "nav-digital-partnership",
+                "label": "Childcare Digital Partnership",
+                "component": "navigation_items",
+                "children": [],
+                "link": {
+                  "url": "/digital-partnership",
+                  "linktype": "url",
+                  "cached_url": "/digital-partnership"
+                }
               }
             ],
             "component": "navigation_items"
