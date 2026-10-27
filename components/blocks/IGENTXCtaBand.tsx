@@ -65,6 +65,15 @@ export default function IGENTXCtaBand({ blok }: IGENTXCtaBandProps) {
                 href={secondaryHref}
                 variant="secondary"
               />
+            ) : isExternalHref(secondaryHref) ? (
+              <a
+                href={secondaryHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center px-8 py-4 border-2 border-white/40 text-white font-semibold rounded-xl hover:bg-white/10 transition-all duration-300"
+              >
+                {blok.secondary_cta_text}
+              </a>
             ) : (
               <Link
                 href={secondaryHref}

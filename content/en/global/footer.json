@@ -81,6 +81,18 @@
                 }
               },
               {
+                "_uid": "fl-digital-partnership",
+                "component": "footer_links",
+                "label": "Childcare Digital Partnership",
+                "link": {
+                  "id": "",
+                  "url": "/digital-partnership",
+                  "linktype": "url",
+                  "fieldtype": "multilink",
+                  "cached_url": "/digital-partnership"
+                }
+              },
+              {
                 "_uid": "fl-AI Customer Service Agent",
                 "component": "footer_links",
                 "label": "AI Customer Service Agent",
