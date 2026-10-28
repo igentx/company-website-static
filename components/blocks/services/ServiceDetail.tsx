@@ -64,8 +64,9 @@ export default function ServiceDetail({ blok }: ServiceDetailProps) {
             <div className="max-w-5xl mx-auto relative z-10">
                 {/* Overview Section */}
                 {blok.overview && (
-                    <div className="mb-16 p-8 bg-white/95 backdrop-blur-sm rounded-2xl shadow-xl">
-                        <div className="prose prose-lg max-w-none">
+                    <div className="mb-16 p-8 bg-white/95 backdrop-blur-sm rounded-2xl shadow-xl text-slate-700">
+                        {/* Light card must set its own text colour: body --foreground is near-white in dark colour-scheme. */}
+                        <div className="prose prose-lg max-w-none text-slate-700 [&_p]:text-slate-700 [&_a]:text-blue-700 [&_a]:underline [&_a]:font-medium hover:[&_a]:text-blue-800 [&_strong]:text-slate-800 [&_p+_p]:mt-4">
                             {typeof blok.overview === 'object' && blok.overview.type === 'doc' ? (
                                 <RichText doc={blok.overview} />
                             ) : (
@@ -296,7 +297,7 @@ export default function ServiceDetail({ blok }: ServiceDetailProps) {
 
                 {/* Content Blocks */}
                 {blok.content_blocks && blok.content_blocks.length > 0 && (
-                    <div className="mb-16 p-8 bg-white/95 backdrop-blur-sm rounded-2xl shadow-xl">
+                    <div className="mb-16 p-8 bg-white/95 backdrop-blur-sm rounded-2xl shadow-xl text-slate-700 [&_a]:text-blue-700 [&_a]:underline hover:[&_a]:text-blue-800">
                         {blok.content_blocks.map((block) => (
                             <BlockRenderer key={block._uid} blok={block} />
                         ))}
