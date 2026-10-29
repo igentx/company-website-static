@@ -37,7 +37,18 @@ const nextConfig: NextConfig = {
         destination: '/services/:path*',
         permanent: true,
       },
+      // /service rules: exact pluralisation, then blog crawl paths, then strip prefix.
       { source: '/service', destination: '/services', permanent: true },
+      {
+        source: '/service/blog/:slug',
+        destination: '/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/service/:path*',
+        destination: '/:path*',
+        permanent: true,
+      },
       // /web-development-uae was never a real app route (docs example only).
       // Live page is /services/web-development-uae.
       {
@@ -51,7 +62,8 @@ const nextConfig: NextConfig = {
       { source: '/%24/:path*', destination: '/:path*', permanent: true },
 
       // Arabic locale was removed (no content/ar). Prefer direct legacy→canonical
-      // mappings so /ar/<legacy> reaches a 200 in one hop, then fall back to strip /ar.
+      // mappings so /ar/<legacy> reaches a 200 in one hop. Middleware also strips
+      // /ar then applies the same English legacy map in one response.
       {
         source: '/ar/case-studies-landing-page',
         destination: '/case-studies',
@@ -69,6 +81,16 @@ const nextConfig: NextConfig = {
       },
       { source: '/ar/service', destination: '/services', permanent: true },
       {
+        source: '/ar/service/blog/:slug',
+        destination: '/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/ar/service/:path*',
+        destination: '/:path*',
+        permanent: true,
+      },
+      {
         source: '/ar/web-development-uae',
         destination: '/services/web-development-uae',
         permanent: true,
@@ -77,11 +99,6 @@ const nextConfig: NextConfig = {
       { source: '/ar/:path*', destination: '/:path*', permanent: true },
 
       // Broken relative-link crawl paths → canonical blog posts
-      {
-        source: '/service/blog/:slug',
-        destination: '/blog/:slug',
-        permanent: true,
-      },
       {
         source: '/blog/blog/:slug',
         destination: '/blog/:slug',
