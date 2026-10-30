@@ -75,7 +75,7 @@
           {
             "_uid": "slide-02-ai-agent",
             "title": "Your AI Employee That Never Sleeps",
-            "summary": "Transform your website into a 24/7 sales and support assistant. Our AI Customer Service Agent answers questions instantly, qualifies leads, supports multiple languages, and integrates with your existing website in minutes.",
+            "summary": "Transform your website into a sales and support assistant that works outside office hours. Our AI Customer Service Agent answers questions instantly, qualifies leads, supports multiple languages, and integrates with your existing website in minutes.",
             "category": "AI Solutions",
             "cta_link": {
               "id": "",
@@ -218,7 +218,7 @@
           {
             "_uid": "32b3dd10-d0d3-41b0-9b5d-a54a50def1db",
             "label": "Support",
-            "value": "24/7",
+            "value": "Ongoing",
             "component": "trust_signal_item"
           },
           {
@@ -378,9 +378,9 @@
           {
             "_uid": "m5",
             "component": "trust_band_metric",
-            "value": "24/7",
+            "value": "Ongoing",
             "label": "Customer Support",
-            "description": "Always here when you need us",
+            "description": "Support from the team that built your site",
             "icon_key": "support"
           }
         ]
@@ -599,6 +599,10 @@
           "title": "Clayox",
           "tagline": "Complete Childcare Management Platform",
           "description": "Clayox gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform, with white-label branding on each dedicated deployment.",
+          "secondary_link": {
+            "text": "IGENTX Childcare Digital Partnership",
+            "url": "/childcare-digital-partnership"
+          },
           "brand_link": {
             "text": "Clayox",
             "url": "https://www.clayox.com/"
@@ -654,7 +658,7 @@
         "ai_product": {
           "badge_text": "AI Solution",
           "title": "AI Customer Service Agent",
-          "description": "Turn your website into a 24/7 AI sales and support assistant that answers questions instantly, captures contact details naturally in chat, and saves enquiries to your admin dashboard for team review.",
+          "description": "Turn your website into an AI sales and support assistant that works outside office hours that answers questions instantly, captures contact details naturally in chat, and saves enquiries to your admin dashboard for team review.",
           "feature_pills": [
             "Instant Replies",
             "Learns Your Content",
@@ -821,7 +825,7 @@
             "description": "Practical AI integrations that automate support, qualify leads and save time.",
             "problem": "Teams spend hours answering repetitive questions while prospects leave without getting answers.",
             "solution": "AI customer service agents, workflow automation and intelligent features trained on your business content.",
-            "outcome": "24/7 automated support, faster lead qualification and reduced operational overhead.",
+            "outcome": "Automated support outside office hours, faster lead qualification and reduced operational overhead.",
             "image": {
               "filename": "/assets/images/ai-solutions.webp",
               "alt": "AI solutions"
@@ -832,6 +836,26 @@
               "cached_url": "/services/ai-solutions"
             },
             "cta_text": "Explore AI Solutions",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-childcare-partnership",
+            "component": "service_item",
+            "title": "IGENTX Childcare Digital Partnership",
+            "description": "Website, hosting, professional email, SEO and an AI enquiry assistant for nurseries, with Clayox included.",
+            "problem": "Nurseries juggle separate suppliers for their website, email, search and centre software.",
+            "solution": "One annual package from IGENTX: a premium centre website, mailboxes on your domain, SEO and GEO support, and Clayox for 25 students.",
+            "outcome": "One accountable partner for your centre's digital foundation.",
+            "image": {
+              "filename": "/assets/images/clayox-dashboard.webp",
+              "alt": "IGENTX Childcare Digital Partnership"
+            },
+            "cta_link": {
+              "url": "/childcare-digital-partnership",
+              "linktype": "url",
+              "cached_url": "/childcare-digital-partnership"
+            },
+            "cta_text": "Explore the Partnership",
             "is_popular": false
           }
         ],
@@ -1302,7 +1326,7 @@
             "results": [
               {
                 "_uid": "bw1",
-                "value": "24/7",
+                "value": "After hours",
                 "metric": "AI Enquiries",
                 "component": "result_metric"
               },
@@ -1328,7 +1352,7 @@
             "category": "Full Solution",
             "live_url": "https://bloomwave.ae",
             "component": "case_study_item",
-            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform.",
+            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with an AI enquiry assistant and Clayox centre operations platform.",
             "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nClayox",
             "case_study_url": "/case-studies/bloomwave-learning-daycare",
             "industry": "Childcare & Education",

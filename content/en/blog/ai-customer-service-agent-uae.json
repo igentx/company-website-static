@@ -10,7 +10,7 @@
         "title": "AI Customer Service Agent for UAE Websites | IGENTX",
         "author": "IGENTX Digital Team",
         "og_type": "article",
-        "keywords": "ai customer service agent uae, ai chatbot dubai, ai lead generation uae, multilingual chatbot uae, website chat support dubai, 24/7 ai assistant uae, customer support automation",
+        "keywords": "ai customer service agent uae, ai chatbot dubai, ai lead generation uae, multilingual chatbot uae, website chat support dubai, ai enquiry assistant uae, customer support automation",
         "og_image": {
           "filename": "/assets/og/ai-customer-service-agent-uae-og.webp",
           "alt": "AI customer service agent for UAE websites | IGENTX",
@@ -20,7 +20,7 @@
         "og_title": "AI Customer Service Agent for UAE Websites | IGENTX",
         "component": "seo",
         "publisher": "IGENTX",
-        "description": "IGENTX AI Customer Service Agent: 24/7 multilingual enquiry assistant for UAE websites that helps teams capture qualified leads. Book a Free Consultation",
+        "description": "IGENTX AI Customer Service Agent: multilingual enquiry assistant that answers outside office hours for UAE websites that helps teams capture qualified leads. Book a Free Consultation",
         "article_tags": "ai customer service agent uae, ai lead generation dubai, multilingual ai chatbot, website assistant uae, igentx ai products",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/blog/ai-customer-service-agent-uae",
@@ -195,7 +195,7 @@
                       "type": "text"
                     },
                     {
-                      "text": "24/7 support",
+                      "text": "Support outside office hours",
                       "type": "text",
                       "marks": [
                         {
@@ -1054,7 +1054,7 @@
                       ]
                     },
                     {
-                      "text": " with 24/7 multilingual support",
+                      "text": " with multilingual support outside office hours",
                       "type": "text"
                     }
                   ]
@@ -1108,7 +1108,7 @@
                   },
                   "content": [
                     {
-                      "text": "6- Operate 24/7",
+                      "text": "6- Operate outside office hours",
                       "type": "text",
                       "marks": [
                         {
@@ -1426,7 +1426,7 @@
           },
           {
             "_uid": "b9e5616b-d484-40a0-ae3c-751e01302a4a",
-            "text": "We built AI Customer Service Agent to give every UAE business a powerful 24/7 support and sales engine - powered by AI.",
+            "text": "We built AI Customer Service Agent to give every UAE business a powerful support and sales engine that works outside office hours - powered by AI.",
             "author": "",
             "component": "blog_quote",
             "author_role": "",
@@ -1547,7 +1547,7 @@
         "author_bio": "The IGENTX Digital Team writes practical guides on web development, AI, SEO and digital growth. We combine hands-on delivery experience with outcome-first advice for businesses in the UAE and worldwide.",
         "show_toc": true,
         "key_takeaways": [
-          "AI enquiry assistants can answer questions 24/7 in multiple languages.",
+          "AI enquiry assistants can answer questions outside office hours in multiple languages.",
           "Lead capture works best when visitors can chat naturally and contact details are saved to your dashboard for team review.",
           "Deploying an AI agent on your website typically requires a single line of integration code."
         ]
@@ -1586,7 +1586,7 @@
         "_uid": "cta-ai-customer-service-agent-uae",
         "component": "igentx_cta_band",
         "title": "Ready to turn these insights into results?",
-        "description": "Book a free consultation with IGENTX. We help businesses in the UAE and worldwide build high-performance websites, AI solutions and growth strategies.",
+        "description": "Book a Free Consultation with IGENTX. We help businesses in the UAE and worldwide build high-performance websites, AI solutions and growth strategies.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",

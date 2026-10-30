@@ -33,7 +33,7 @@
         },
         "twitter_title": "Case Studies | IGENTX Success Stories",
         "article_author": "IGENTX",
-        "og_description": "Real projects with measurable outcomes: organic traffic growth, 24/7 AI enquiries, platform launches and performance-first websites.",
+        "og_description": "Real projects with measurable outcomes: organic traffic growth, AI enquiries outside office hours, platform launches and performance-first websites.",
         "article_section": "Case Studies",
         "robots_nosnippet": false,
         "robots_noarchive": false,
@@ -199,7 +199,7 @@
             "results": [
               {
                 "_uid": "bw1",
-                "value": "24/7",
+                "value": "After hours",
                 "metric": "AI Enquiries",
                 "component": "result_metric"
               },
@@ -225,7 +225,7 @@
             "category": "Full Solution",
             "live_url": "https://bloomwave.ae",
             "component": "case_study_item",
-            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform.",
+            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with an AI enquiry assistant and Clayox centre operations platform.",
             "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nClayox",
             "case_study_url": "/case-studies/bloomwave-learning-daycare",
             "industry": "Childcare & Education",
@@ -426,14 +426,14 @@
             "_uid": "cs-faq-q5",
             "component": "faq_item",
             "question": "Can IGENTX deliver a website and AI agent together?",
-            "answer": "Yes. The BloomWave case study is an example of a combined rollout: marketing website, 24/7 AI enquiry assistant and Clayox centre operations platform delivered by one team. We regularly combine web development with AI solutions when it supports lead capture and operational efficiency.",
+            "answer": "Yes. The BloomWave case study is an example of a combined rollout: marketing website, AI enquiry assistant and Clayox centre operations platform delivered by one team. We regularly combine web development with AI solutions when it supports lead capture and operational efficiency.",
             "category": "AI Solutions"
           },
           {
             "_uid": "cs-faq-q6",
             "component": "faq_item",
             "question": "How do I get a proposal for a similar project?",
-            "answer": "Book a free consultation through our contact page or email hello@igentx.com. We will discuss your goals, audience, timeline and budget, then recommend the right mix of web development, SEO, AI integration or custom software for your business.",
+            "answer": "Book a Free Consultation through our contact page or email hello@igentx.com. We will discuss your goals, audience, timeline and budget, then recommend the right mix of web development, SEO, AI integration or custom software for your business.",
             "category": "General"
           }
         ]

@@ -187,7 +187,7 @@
           {
             "_uid": "childcare-management-software-uae-guide-b-2",
             "component": "blog_body",
-            "content": "<p>Enquiries arrive from your website, walk-ins, referrals and campaigns. Software should centralise leads on an admin board with clear status tracking and one-click conversion to admissions.</p><p>Look for <strong>embeddable enquiry and admission forms</strong> you can place on your existing website. These forms capture interest and consent: they are not a hosted visit-booking page. Some centres also deploy an optional <strong>AI website enquiry assistant</strong> that answers common questions 24/7.</p><p>Important: AI conversations should be reviewed by your team, and qualified enquiries converted to pipeline leads <strong>manually</strong>. Do not assume automatic CRM creation without staff oversight.</p>"
+            "content": "<p>Enquiries arrive from your website, walk-ins, referrals and campaigns. Software should centralise leads on an admin board with clear status tracking and one-click conversion to admissions.</p><p>Look for <strong>embeddable enquiry and admission forms</strong> you can place on your existing website. These forms capture interest and consent: they are not a hosted visit-booking page. Some centres also deploy an optional <strong>AI website enquiry assistant</strong> that answers common questions outside office hours.</p><p>Important: AI conversations should be reviewed by your team, and qualified enquiries converted to pipeline leads <strong>manually</strong>. Do not assume automatic CRM creation without staff oversight.</p>"
           },
           {
             "_uid": "childcare-management-software-uae-guide-img-2",
@@ -220,7 +220,7 @@
           {
             "_uid": "childcare-management-software-uae-guide-b-4",
             "component": "blog_body",
-            "content": "<p>Request references from similar centre sizes in your region. Pilot with one classroom or programme before full rollout. Train front desk and teachers separately: they use different parts of the system daily.</p><p><a href=\"https://www.clayox.com/\">Clayox childcare management software</a> is built by IGENTX for early childhood education centres worldwide, with dedicated deployments and Admin, Teacher and Family portals. Read how <a href=\"/case-studies/bloomwave-learning-daycare\">BloomWave Learning and Daycare</a> combined website, enquiry capture and Clayox in one rollout.</p><p><a href=\"/contact\">Book a free consultation</a> to compare your shortlist or plan a Clayox demo for your UAE centre.</p>"
+            "content": "<p>Request references from similar centre sizes in your region. Pilot with one classroom or programme before full rollout. Train front desk and teachers separately: they use different parts of the system daily.</p><p><a href=\"https://www.clayox.com/\">Clayox childcare management software</a> is built by IGENTX for early childhood education centres worldwide, with dedicated deployments and Admin, Teacher and Family portals. Read how <a href=\"/case-studies/bloomwave-learning-daycare\">BloomWave Learning and Daycare</a> combined website, enquiry capture and Clayox in one rollout, or see the <a href=\"/childcare-digital-partnership\">IGENTX Childcare Digital Partnership</a>.</p><p><a href=\"/contact\">Book a Free Consultation</a> to compare your shortlist or plan a Clayox demo for your UAE centre.</p>"
           }
         ]
       },
@@ -265,7 +265,7 @@
         "_uid": "childcare-management-software-uae-guide-cta",
         "component": "igentx_cta_band",
         "title": "Need help choosing centre software in the UAE?",
-        "description": "Book a free consultation to walk through your admissions, operations and billing requirements with the IGENTX team.",
+        "description": "Book a Free Consultation to walk through your admissions, operations and billing requirements with the IGENTX team.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",

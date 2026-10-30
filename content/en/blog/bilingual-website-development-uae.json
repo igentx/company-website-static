@@ -220,7 +220,7 @@
           {
             "_uid": "bilingual-website-development-uae-b-4",
             "component": "blog_body",
-            "content": "<p>Next.js with static generation or ISR delivers fast bilingual pages at scale. Pair with a CMS that supports field-level translation workflows so marketing teams can update both languages without developer bottlenecks.</p><p><a href=\"/services/web-development-uae\">IGENTX web development in the UAE</a> includes bilingual architecture, RTL theming and SEO setup. <a href=\"/contact\">Book a free consultation</a> to plan your English and Arabic site.</p>"
+            "content": "<p>Next.js with static generation or ISR delivers fast bilingual pages at scale. Pair with a CMS that supports field-level translation workflows so marketing teams can update both languages without developer bottlenecks.</p><p><a href=\"/services/web-development-uae\">IGENTX web development in the UAE</a> includes bilingual architecture, RTL theming and SEO setup. <a href=\"/contact\">Book a Free Consultation</a> to plan your English and Arabic site.</p>"
           }
         ]
       },
@@ -265,7 +265,7 @@
         "_uid": "bilingual-website-development-uae-cta",
         "component": "igentx_cta_band",
         "title": "Ready for a bilingual site that ranks in both languages?",
-        "description": "Book a free consultation to plan your English and Arabic website structure, content and launch roadmap.",
+        "description": "Book a Free Consultation to plan your English and Arabic website structure, content and launch roadmap.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",

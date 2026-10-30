@@ -64,31 +64,32 @@
           "is_external_url": false
         },
         "featured_image_opacity": 70,
-        "quick_features": "Software from $240/year for 20 students (annual billing)\nWebsite, AI enquiry assistant, email, and SEO via Digital Partnership\nEnglish UI with AI translation into 100+ languages including Arabic\nBilling supports AED and VAT\nRuns as a PWA today (no native app yet)\nNo online payment gateway yet",
-        "pricing_preview": "From $240 / year"
+        "quick_features": "Software from $0.99 per student per month (USD, billed annually), minimum 20 students\nWebsite, hosting, email and AI enquiry assistant through the IGENTX Childcare Digital Partnership\nEnglish UI with AI translation into 100+ languages including Arabic\nBilling in AED and other GCC currencies with configurable VAT\nRuns as a PWA today (no native app yet)\nNo online card payments yet",
+        "pricing_preview": "From $0.99 / student / month"
       },
       {
         "_uid": "dm-summary-001",
         "component": "service_detail",
-        "overview": "<p>Clayox helps early childhood education centres run admissions, attendance, daily care updates, family messaging, and invoice-first billing from one platform. Each centre gets a dedicated deployment so operations stay organised without juggling spreadsheets and disconnected tools.</p><p>For the complete product experience, visit <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>. That is the primary Clayox website. This IGENTX page is only a concise summary for people exploring our products.</p><p>Prices in USD. Clayox software alone starts at $240/year ($20/mo equivalent) for 20 students. A website, AI enquiry assistant (Starter and up), email, and SEO are available through the <a href=\"/digital-partnership\">IGENTX Childcare Digital Partnership</a> (software-side details also on <a href=\"https://www.clayox.com/digital-partnership\">clayox.com/digital-partnership</a>). The Clayox interface is English, with AI message translation into 100+ languages including Arabic. Billing supports AED and VAT.</p><p>Clayox is a progressive web app today, not a native mobile app, and there is no online payment gateway yet. To walk through Clayox or a partnership plan, <a href=\"https://www.clayox.com/contact\">book a Clayox demo</a> or talk to IGENTX.</p>",
+        "overview": "<p>Clayox helps early childhood education centres run admissions, attendance, daily care updates, family messaging, and invoice-first billing from one platform. Each centre gets a dedicated deployment so operations stay organised without juggling spreadsheets and disconnected tools.</p><p>For the complete product experience, visit <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>. That is the primary Clayox website. This IGENTX page is only a concise summary for people exploring our products.</p><p>Prices in USD. Clayox software on its own is from $0.99 per student per month, billed annually, with a minimum of 20 students. See <a href=\"https://www.clayox.com/pricing\">Clayox pricing</a> for full terms. A website, hosting, professional email, SEO and an AI enquiry assistant (Starter and up) are available through the <a href=\"/childcare-digital-partnership\">IGENTX Childcare Digital Partnership</a>. The Clayox interface is English, with AI message translation into 100+ languages including Arabic. Billing supports AED and other GCC currencies (SAR, QAR, KWD, BHD, OMR) with configurable VAT.</p><p>Clayox is a progressive web app today, not a native mobile app, and online card payments are not available yet. To plan Clayox alongside a centre website or AI enquiry work, <a href=\"/contact\">Book a Free Consultation</a> with IGENTX.</p>",
         "what_you_get_title": "At a glance",
-        "what_you_get": "Software from $240/year for 20 students (annual billing)\nDigital partnership adds website, AI enquiry assistant, email, and SEO\nEnglish UI plus AI translation into 100+ languages including Arabic\nAED and VAT-ready billing\nPWA access on web and mobile (no native app yet)\nInvoice-first billing without an online payment gateway yet\nBook a demo on clayox.com"
+        "what_you_get": "Software from $0.99 per student per month (USD, billed annually), minimum 20 students\nIGENTX Childcare Digital Partnership adds website, hosting, email, SEO and AI enquiry assistant\nEnglish UI plus AI translation into 100+ languages including Arabic\nBilling in AED and other GCC currencies with configurable VAT\nPWA access on web and mobile (no native app yet)\nInvoice-first billing without online card payments yet\nBook a Free Consultation with IGENTX"
       },
       {
         "_uid": "dm-cta-band-001",
         "component": "igentx_cta_band",
         "title": "Explore Clayox or the Digital Partnership",
-        "description": "Visit clayox.com for product details, book a Clayox demo, or review the IGENTX Childcare Digital Partnership for website, AI enquiry assistant, email, and SEO packages.",
-        "primary_cta_text": "Book a Clayox Demo",
+        "description": "Visit clayox.com for product details, explore the IGENTX Childcare Digital Partnership for your website, email and search, or Book a Free Consultation with IGENTX.",
+        "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
-          "url": "https://www.clayox.com/contact",
-          "linktype": "url"
-        },
-        "secondary_cta_text": "Childcare Digital Partnership",
-        "secondary_cta_link": {
-          "url": "/digital-partnership",
+          "url": "/contact",
           "linktype": "url",
-          "cached_url": "/digital-partnership"
+          "cached_url": "/contact"
+        },
+        "secondary_cta_text": "IGENTX Childcare Digital Partnership",
+        "secondary_cta_link": {
+          "url": "/childcare-digital-partnership",
+          "linktype": "url",
+          "cached_url": "/childcare-digital-partnership"
         }
       }
     ],

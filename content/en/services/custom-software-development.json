@@ -218,7 +218,7 @@
         "_uid": "cs-cta-001",
         "component": "igentx_cta_band",
         "title": "Ready to build software that fits your business?",
-        "description": "Book a free consultation to discuss your workflows, integrations and goals. We will scope a realistic roadmap from MVP to full platform.",
+        "description": "Book a Free Consultation to discuss your workflows, integrations and goals. We will scope a realistic roadmap from MVP to full platform.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",

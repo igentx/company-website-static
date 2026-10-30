@@ -1,0 +1,367 @@
+{
+  "slug": "childcare-digital-partnership",
+  "name": "IGENTX Childcare Digital Partnership",
+  "published_at": "2026-10-30T00:00:00.000Z",
+  "content": {
+    "_uid": "dp-page-001",
+    "component": "page",
+    "body": [
+      {
+        "_uid": "dp-seo-001",
+        "component": "seo",
+        "title": "IGENTX Childcare Digital Partnership for Nurseries",
+        "description": "Website, hosting, professional email, SEO and an AI enquiry assistant for nurseries and early learning centres, in one annual plan from IGENTX. Book a Free Consultation.",
+        "keywords": "IGENTX childcare digital partnership, nursery website and SEO package, nursery digital partner, digital services for nurseries",
+        "canonical_url": "https://www.igentx.com/childcare-digital-partnership",
+        "robots_index": true,
+        "robots_follow": true,
+        "og_type": "website",
+        "og_title": "IGENTX Childcare Digital Partnership",
+        "og_description": "One partner for your nursery's website, email, SEO and enquiries. Annual plans in USD.",
+        "og_image": {
+          "filename": "/assets/images/clayox-dashboard.webp",
+          "alt": "IGENTX Childcare Digital Partnership",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "twitter_card_type": "summary_large_image",
+        "twitter_title": "IGENTX Childcare Digital Partnership",
+        "twitter_description": "One partner for your nursery's website, email, SEO and enquiries. Annual plans in USD.",
+        "twitter_image": {
+          "filename": "/assets/images/clayox-dashboard.webp",
+          "alt": "IGENTX Childcare Digital Partnership",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "structured_data_type": "Service",
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"Service\",\n      \"@id\": \"https://www.igentx.com/childcare-digital-partnership#service\",\n      \"name\": \"IGENTX Childcare Digital Partnership\",\n      \"serviceType\": \"Digital services for nurseries\",\n      \"description\": \"Website, hosting, professional email, SEO and an AI enquiry assistant for nurseries and early learning centres, with Clayox childcare management software for 25 students, in one annual package delivered by IGENTX.\",\n      \"url\": \"https://www.igentx.com/childcare-digital-partnership\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\",\n        \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\",\n        \"address\": {\n          \"@type\": \"PostalAddress\",\n          \"addressLocality\": \"Kozhikode\",\n          \"addressRegion\": \"Kerala\",\n          \"addressCountry\": \"IN\"\n        }\n      }\n    },\n    {\n      \"@type\": \"BreadcrumbList\",\n      \"itemListElement\": [\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 1,\n          \"name\": \"Home\",\n          \"item\": \"https://www.igentx.com/\"\n        },\n        {\n          \"@type\": \"ListItem\",\n          \"position\": 2,\n          \"name\": \"Childcare Digital Partnership\",\n          \"item\": \"https://www.igentx.com/childcare-digital-partnership\"\n        }\n      ]\n    }\n  ]\n}"
+      },
+      {
+        "_uid": "dp-hero-001",
+        "component": "service_hero",
+        "title": "IGENTX Childcare Digital Partnership for Nurseries",
+        "subtitle": "Your nursery's website, hosting, professional email, search visibility and enquiry handling, planned and looked after by one team. IGENTX works with nurseries and early learning centres so you can focus on children and families, not on managing five different suppliers.",
+        "badge_text": "For nurseries and early learning centres",
+        "cta_text": "Book a Free Consultation",
+        "cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "/contact"
+        },
+        "secondary_cta_text": "Clayox pricing",
+        "secondary_cta_link": {
+          "url": "https://www.clayox.com/pricing",
+          "linktype": "url"
+        },
+        "back_link": {
+          "url": "/products/clayox",
+          "linktype": "url",
+          "cached_url": "/products/clayox"
+        },
+        "back_link_label": "Back to Clayox",
+        "featured_image": {
+          "alt": "Clayox childcare management dashboard",
+          "filename": "/assets/images/clayox-dashboard.webp",
+          "fieldtype": "asset",
+          "is_external_url": false
+        },
+        "featured_image_opacity": 70,
+        "quick_features": "Annual plans in USD with monthly equivalents\nPremium centre website with hosting and SSL\nAI enquiry assistant from Starter, reviewed by your team\nProfessional mailboxes on your own domain\nSEO and GEO support at your package level\nClayox for 25 students in every package",
+        "pricing_preview": "From $468 / year"
+      },
+      {
+        "_uid": "dp-body-001",
+        "component": "igentx_digital_partnership",
+        "overview_badge": "One partner for your centre",
+        "overview_title": "What the partnership includes",
+        "overview_description": "A clear, mobile-friendly website built around what parents look for, tailored to your centre with colours matched to your logo, your own or custom-created images, and copy written for your centre. Enquiry forms send new enquiries into Clayox, and your team stays in control of every enquiry.",
+        "overview_points": "Premium centre website with hosting and SSL\nEnquiry forms connected to Clayox\nAI enquiry assistant on Starter, Plus and Growth, reviewed by your team\nProfessional mailboxes: 5, 10 or 30 by package\nSEO and GEO support at your package level\nGoogle Business Profile support on Growth\nWebsite maintenance time on Plus and Growth\nClayox childcare management for 25 students",
+        "demo_cta_text": "Book a Free Consultation",
+        "demo_cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "/contact"
+        },
+        "software_side_label": "partnership packages and pricing",
+        "software_side_link": {
+          "url": "https://www.clayox.com/digital-partnership",
+          "linktype": "url"
+        },
+        "pricing_title": "Plans",
+        "pricing_description": "All plans are billed annually in USD. Monthly figures are equivalents of the annual price; there is no month-to-month payment option. Cloud usage for your Clayox deployment is included in the partnership package price.",
+        "billing_note": "Each plan includes everything in the plan below it. Each partnership covers one centre.",
+        "stacking_note": "Clayox software on its own is a separate offering: from $0.99 per student per month, billed annually, minimum 20 students. It does not include a website, hosting, email, the AI enquiry assistant, SEO or maintenance.",
+        "tiers": [
+          {
+            "name": "Starter",
+            "subtitle": "Digital Essentials",
+            "price_annual": "$468/year",
+            "price_monthly_equivalent": "$39/mo equivalent",
+            "features": "Clayox for 25 students\nPremium centre website\nHosting and SSL\nEnquiry forms connected to Clayox\nAI enquiry assistant\n5 professional mailboxes\nBasic SEO setup",
+            "cta_text": "Book a Free Consultation",
+            "cta_link": {
+              "url": "/contact",
+              "linktype": "url",
+              "cached_url": "/contact"
+            }
+          },
+          {
+            "name": "Plus",
+            "subtitle": "Complete Digital Foundation",
+            "price_annual": "$708/year",
+            "price_monthly_equivalent": "$59/mo equivalent",
+            "features": "Everything in Starter\nClayox for 25 students\n10 professional mailboxes in total\nOngoing SEO and GEO support\n1 hour website maintenance per month",
+            "cta_text": "Book a Free Consultation",
+            "cta_link": {
+              "url": "/contact",
+              "linktype": "url",
+              "cached_url": "/contact"
+            },
+            "is_featured": true,
+            "badge": "Popular"
+          },
+          {
+            "name": "Growth",
+            "subtitle": "Digital Growth",
+            "price_annual": "$1,188/year",
+            "price_monthly_equivalent": "$99/mo equivalent",
+            "features": "Everything in Plus\nClayox for 25 students\n30 professional mailboxes in total\nMore active SEO and GEO support\nGoogle Business Profile support\n3 hours website maintenance per month",
+            "cta_text": "Book a Free Consultation",
+            "cta_link": {
+              "url": "/contact",
+              "linktype": "url",
+              "cached_url": "/contact"
+            }
+          },
+          {
+            "name": "Enterprise",
+            "subtitle": "Custom Digital Partnership",
+            "price_annual": "Custom",
+            "price_monthly_equivalent": "Tailored proposal",
+            "features": "Custom scope for one centre\nTailored Clayox, mailbox and maintenance allotments\nSEO, GEO and website work sized to your centre",
+            "cta_text": "Book a Free Consultation",
+            "cta_link": {
+              "url": "/contact",
+              "linktype": "url",
+              "cached_url": "/contact"
+            }
+          }
+        ],
+        "inclusions_title": "What each plan includes",
+        "inclusions_description": "Higher plans include everything in the plan below.",
+        "inclusions_table_caption": "Childcare Digital Partnership plan comparison",
+        "inclusion_columns": [
+          "Starter",
+          "Plus",
+          "Growth",
+          "Enterprise"
+        ],
+        "inclusion_rows": [
+          {
+            "label": "Clayox childcare management",
+            "values": [
+              "25 students",
+              "25 students",
+              "25 students",
+              "Tailored"
+            ]
+          },
+          {
+            "label": "Additional students",
+            "values": [
+              "$0.99 / student / month",
+              "$0.99 / student / month",
+              "$0.99 / student / month",
+              "Tailored"
+            ]
+          },
+          {
+            "label": "Centre website, hosting and SSL",
+            "values": [
+              "Included",
+              "Included",
+              "Included",
+              "Tailored"
+            ]
+          },
+          {
+            "label": "Enquiry forms connected to Clayox",
+            "values": [
+              "Included",
+              "Included",
+              "Included",
+              "Included"
+            ]
+          },
+          {
+            "label": "AI enquiry assistant",
+            "values": [
+              "Included",
+              "Included",
+              "Included",
+              "Tailored"
+            ]
+          },
+          {
+            "label": "Professional mailboxes",
+            "values": [
+              "5",
+              "10",
+              "30",
+              "Custom"
+            ]
+          },
+          {
+            "label": "Additional mailboxes",
+            "values": [
+              "$0.49 / mailbox / month",
+              "$0.49 / mailbox / month",
+              "$0.49 / mailbox / month",
+              "Custom"
+            ]
+          },
+          {
+            "label": "SEO and GEO",
+            "values": [
+              "Basic setup",
+              "Ongoing support",
+              "More active support",
+              "Sized to your centre"
+            ]
+          },
+          {
+            "label": "Google Business Profile support",
+            "values": [
+              "Not included",
+              "Not included",
+              "Included",
+              "Tailored"
+            ]
+          },
+          {
+            "label": "Website maintenance",
+            "values": [
+              "Not included",
+              "1 hour / month",
+              "3 hours / month",
+              "Custom"
+            ]
+          }
+        ],
+        "inclusions_footnote": "Website maintenance hours do not roll over to the next month. We do not guarantee search rankings, traffic or enquiry outcomes.",
+        "extras_title": "Extras and what is quoted separately",
+        "extras": [
+          {
+            "title": "Additional students",
+            "description": "$0.99 per student per month, billed annually with the package."
+          },
+          {
+            "title": "Additional mailboxes",
+            "description": "$0.49 per mailbox per month."
+          },
+          {
+            "title": "Website maintenance",
+            "description": "Plus includes 1 hour and Growth includes 3 hours of website maintenance time per month. Starter does not include maintenance hours. Hours do not roll over to the next month, and work beyond your monthly hours is quoted separately."
+          },
+          {
+            "title": "Quoted separately",
+            "description": "Website work beyond the included customisation, and SEO or GEO work beyond your package inclusions."
+          }
+        ]
+      },
+      {
+        "_uid": "dp-faq-001",
+        "component": "faq",
+        "faq_title": "Frequently asked questions",
+        "faq_description": "Clear answers about plans, billing, maintenance and what IGENTX delivers.",
+        "background_color": "dark",
+        "initial_visible_count": 13,
+        "faqs": [
+          {
+            "question": "What is the IGENTX Childcare Digital Partnership?",
+            "answer": "It is an annual package that brings together a nursery website, hosting, professional email, search visibility work and an AI enquiry assistant, with Clayox childcare management software for 25 students, delivered and supported by IGENTX.",
+            "category": "Overview"
+          },
+          {
+            "question": "Who is the partnership for?",
+            "answer": "Nurseries, preschools and early learning centres that want a professional online presence without building an in-house digital team. Each partnership covers one centre.",
+            "category": "Overview"
+          },
+          {
+            "question": "Are prices in USD or AED?",
+            "answer": "All partnership prices are in USD and billed annually. Monthly figures are equivalents, not a monthly payment option. Full software pricing is on clayox.com/pricing.",
+            "category": "Billing"
+          },
+          {
+            "question": "Is cloud usage included?",
+            "answer": "Yes. Cloud usage for your Clayox deployment is included in the partnership package price.",
+            "category": "Billing"
+          },
+          {
+            "question": "Can we buy Clayox software on its own?",
+            "answer": "Yes. Clayox software on its own is a separate offering, from $0.99 per student per month, billed annually, with a minimum of 20 students. It does not include a website, hosting, email, the AI enquiry assistant, SEO or maintenance.",
+            "category": "Billing"
+          },
+          {
+            "question": "What happens if we have more than 25 students?",
+            "answer": "Starter, Plus and Growth include Clayox for 25 students. Additional students are $0.99 per student per month, billed annually with the package.",
+            "category": "Billing"
+          },
+          {
+            "question": "Can we add more mailboxes?",
+            "answer": "Yes. Additional mailboxes are $0.49 per mailbox per month.",
+            "category": "Billing"
+          },
+          {
+            "question": "What does website maintenance cover?",
+            "answer": "Plus includes 1 hour and Growth includes 3 hours of website maintenance time per month. Starter does not include maintenance hours. Hours do not roll over to the next month, and work beyond your monthly hours is quoted separately.",
+            "category": "Maintenance"
+          },
+          {
+            "question": "Does the AI enquiry assistant create admissions automatically?",
+            "answer": "No. It answers families on your website, and your team reviews conversations in Clayox and decides which enquiries move into admissions.",
+            "category": "AI"
+          },
+          {
+            "question": "Can one partnership cover more than one centre?",
+            "answer": "No. Each partnership, including Enterprise, covers one centre.",
+            "category": "Overview"
+          },
+          {
+            "question": "Can you guarantee we will rank first on Google?",
+            "answer": "No. Nobody can honestly guarantee rankings, enquiries or recommendations in AI search tools. We follow search engine guidelines, build strong foundations and report clearly on what we do.",
+            "category": "SEO"
+          },
+          {
+            "question": "Where is IGENTX based?",
+            "answer": "IGENTX is based in Kozhikode, Kerala, India, and works with centres remotely through video calls, email and messaging.",
+            "category": "Overview"
+          },
+          {
+            "question": "How do we get started?",
+            "answer": "Book a Free Consultation and we will talk through your centre's needs and the right package.",
+            "category": "Overview"
+          }
+        ]
+      },
+      {
+        "_uid": "dp-cta-001",
+        "component": "igentx_cta_band",
+        "title": "Ready to give your nursery a stronger digital foundation?",
+        "description": "Talk to IGENTX about your website, email, search visibility and enquiries.",
+        "primary_cta_text": "Book a Free Consultation",
+        "primary_cta_link": {
+          "url": "/contact",
+          "linktype": "url",
+          "cached_url": "/contact"
+        },
+        "secondary_cta_text": "Explore Clayox",
+        "secondary_cta_link": {
+          "url": "/products/clayox",
+          "linktype": "url",
+          "cached_url": "/products/clayox"
+        }
+      }
+    ]
+  }
+}

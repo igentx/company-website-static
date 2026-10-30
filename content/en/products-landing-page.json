@@ -20,7 +20,7 @@
         "og_title": "IGENTX Products | AI Agent & Clayox",
         "component": "seo",
         "publisher": "IGENTX",
-        "description": "IGENTX products: AI Customer Service Agent for 24/7 website support and lead capture, plus Clayox for childcare centre operations. Book a Free Consultation",
+        "description": "IGENTX products: AI Customer Service Agent for website support outside office hours and lead capture, plus Clayox for childcare centre operations. Book a Free Consultation",
         "article_tags": "AI chatbot, customer service agent, childcare software, nursery management, igentx products",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/products",
@@ -38,18 +38,18 @@
         "robots_nosnippet": false,
         "robots_noarchive": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "Explore IGENTX software products: 24/7 AI customer service for websites and Clayox for admissions, attendance, and family communication.",
+        "twitter_description": "Explore IGENTX software products: AI customer service for websites and Clayox for admissions, attendance, and family communication.",
         "structured_data_type": "WebSite",
         "article_modified_time": "",
         "article_published_time": "2025-10-26 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ItemList\",\n  \"name\": \"IGENTX Products\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"Product\",\n      \"name\": \"AI Customer Service Agent\",\n      \"description\": \"24/7 multilingual AI support agent trained on your content with one-line website integration.\"\n    },\n    {\n      \"@type\": \"Product\",\n      \"name\": \"Clayox\",\n      \"description\": \"Childcare management platform for admissions, attendance, family communication, and billing.\"\n    }\n  ]\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"ItemList\",\n  \"name\": \"IGENTX Products\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"Product\",\n      \"name\": \"AI Customer Service Agent\",\n      \"description\": \"multilingual AI support agent that answers outside office hours trained on your content with one-line website integration.\"\n    },\n    {\n      \"@type\": \"Product\",\n      \"name\": \"Clayox\",\n      \"description\": \"Childcare management platform for admissions, attendance, family communication, and billing.\"\n    }\n  ]\n}"
       },
       {
         "_uid": "pl-hero-001",
         "component": "service_hero",
         "badge_text": "Built by IGENTX",
         "title": "Software products built to drive growth",
-        "summary": "From a 24/7 AI sales and support assistant for your website to a complete childcare centre management platform, IGENTX builds software that captures leads, reduces workload and helps teams scale with confidence.",
+        "summary": "From an AI sales and support assistant that works outside office hours for your website to a complete childcare centre management platform, IGENTX builds software that captures leads, reduces workload and helps teams scale with confidence.",
         "cta_text": "Book a Free Consultation",
         "cta_link": {
           "url": "/contact",
@@ -155,6 +155,10 @@
           "title": "Clayox",
           "tagline": "Complete Childcare Management Platform",
           "description": "Clayox gives childcare centres everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform.",
+          "secondary_link": {
+            "text": "IGENTX Childcare Digital Partnership",
+            "url": "/childcare-digital-partnership"
+          },
           "brand_link": {
             "text": "Clayox",
             "url": "https://www.clayox.com/"
@@ -205,7 +209,7 @@
         "ai_product": {
           "badge_text": "AI Solution",
           "title": "AI Customer Service Agent",
-          "description": "Turn your website into a 24/7 AI sales and support assistant that answers questions instantly, captures contact details naturally in chat, and saves enquiries to your admin dashboard for team review.",
+          "description": "Turn your website into an AI sales and support assistant that works outside office hours that answers questions instantly, captures contact details naturally in chat, and saves enquiries to your admin dashboard for team review.",
           "feature_pills": [
             "Instant Replies",
             "Learns Your Content",
@@ -256,7 +260,7 @@
         "_uid": "pl-cta-band-001",
         "component": "igentx_cta_band",
         "title": "Not sure which product fits your business?",
-        "description": "Book a free consultation and our team will help you choose the right path: AI Customer Service Agent for your website, Clayox for your centre, or a custom build tailored to your goals.",
+        "description": "Book a Free Consultation and our team will help you choose the right path: AI Customer Service Agent for your website, Clayox for your centre, or a custom build tailored to your goals.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",
@@ -275,7 +279,7 @@
             "_uid": "pl-faq-q1",
             "component": "faq_item",
             "question": "What products does IGENTX offer?",
-            "answer": "IGENTX currently offers two live products: AI Customer Service Agent, a 24/7 website chat assistant for businesses, and Clayox, a childcare centre management platform for early childhood education providers. More AI-powered products are in development.",
+            "answer": "IGENTX currently offers two live products: AI Customer Service Agent, a website chat assistant for businesses, and Clayox, a childcare centre management platform for early childhood education providers. More AI-powered products are in development.",
             "category": "General"
           },
           {
@@ -317,7 +321,7 @@
             "_uid": "pl-faq-q7",
             "component": "faq_item",
             "question": "Can I try a product before committing?",
-            "answer": "Yes. You can explore the AI Customer Service Agent demo on its product page, visit https://www.clayox.com for Clayox, or book a free consultation with IGENTX to see which product fits your goals and walk through setup options.",
+            "answer": "Yes. You can explore the AI Customer Service Agent demo on its product page, visit https://www.clayox.com for Clayox, or Book a Free Consultation with IGENTX to see which product fits your goals and walk through setup options.",
             "category": "General"
           },
           {

@@ -165,9 +165,9 @@
                 "component": "navigation_items",
                 "children": [],
                 "link": {
-                  "url": "/digital-partnership",
+                  "url": "/childcare-digital-partnership",
                   "linktype": "url",
-                  "cached_url": "/digital-partnership"
+                  "cached_url": "/childcare-digital-partnership"
                 }
               }
             ],

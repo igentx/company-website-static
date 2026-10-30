@@ -19,6 +19,8 @@ function resolveLegacyDestination(pathname: string): string | null {
     '/case-studies-landing-page': '/case-studies',
     '/service': '/services',
     '/web-development-uae': '/services/web-development-uae',
+    '/digital-partnership': '/childcare-digital-partnership',
+    '/services/childcare-digital-partnership': '/childcare-digital-partnership',
   }
   if (exact[normalised]) return exact[normalised]
 

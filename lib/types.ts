@@ -473,6 +473,10 @@ export interface FeaturedProductBlok {
     text: string
     url: string
   }
+  secondary_link?: {
+    text: string
+    url: string
+  }
   feature_pills?: ProductFeaturePill[]
   trust_banner?: string
   cta_text?: string

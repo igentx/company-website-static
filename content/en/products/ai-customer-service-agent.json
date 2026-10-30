@@ -7,7 +7,7 @@
     "body": [
       {
         "_uid": "ee48c556-c803-42a5-822e-a2588c25c558",
-        "title": "AI Customer Service Agent | 24/7 Website Chatbot | IGENTX",
+        "title": "AI Customer Service Agent | AI Website Chatbot | IGENTX",
         "author": "",
         "og_type": "website",
         "keywords": "AI customer service agent, website chatbot, AI support widget, RAG chatbot, multilingual chatbot",
@@ -20,7 +20,7 @@
         "og_title": "AI Customer Service Agent | IGENTX",
         "component": "seo",
         "publisher": "",
-        "description": "Turn your website into a 24/7 AI sales and support assistant. RAG-trained, multilingual, one-line setup for growing businesses. Book a Free Consultation",
+        "description": "Turn your website into an AI sales and support assistant that works outside office hours. RAG-trained, multilingual, one-line setup for growing businesses. Book a Free Consultation",
         "article_tags": "",
         "robots_index": true,
         "canonical_url": "https://www.igentx.com/products/ai-customer-service-agent",
@@ -33,21 +33,21 @@
         },
         "twitter_title": "AI Customer Service Agent | IGENTX",
         "article_author": "",
-        "og_description": "24/7 AI support agent with conversational lead capture. Contact details and chat summaries saved to your dashboard. Multilingual, one-line integration, deployable worldwide.",
+        "og_description": "AI support agent that answers outside office hours with conversational lead capture. Contact details and chat summaries saved to your dashboard. Multilingual, one-line integration, deployable worldwide.",
         "article_section": "",
         "robots_noarchive": false,
         "robots_nosnippet": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "Add intelligent 24/7 customer support to your website with IGENTX AI Agent: RAG-trained, multilingual, one-line integration.",
+        "twitter_description": "Add intelligent customer support outside office hours to your website with IGENTX AI Agent: RAG-trained, multilingual, one-line integration.",
         "structured_data_type": "Product",
         "article_modified_time": "",
         "article_published_time": "",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"name\": \"AI Customer Service Agent\",\n  \"brand\": \"IGENTX\",\n  \"description\": \"AI-powered customer service agent for websites with 24/7 responses and one-line integration.\",\n  \"applicationCategory\": \"AI Chatbot, Customer Support Software\"\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"name\": \"AI Customer Service Agent\",\n  \"brand\": \"IGENTX\",\n  \"description\": \"AI-powered customer service agent for websites with responses outside office hours and one-line integration.\",\n  \"applicationCategory\": \"AI Chatbot, Customer Support Software\"\n}"
       },
       {
         "_uid": "05f85a8c-bc0a-4675-be26-3993f753554e",
         "title": "AI Customer Service Agent for Modern Businesses",
-        "summary": "Transform your website into a 24/7 sales and support assistant. Our AI Customer Service Agent answers questions instantly, captures contact details naturally in chat, saves enquiries to your admin dashboard, and integrates with your existing website in minutes.",
+        "summary": "Transform your website into a sales and support assistant that works outside office hours. Our AI Customer Service Agent answers questions instantly, captures contact details naturally in chat, saves enquiries to your admin dashboard, and integrates with your existing website in minutes.",
         "category": "AI Solutions",
         "cta_link": {
           "url": "/contact",
@@ -145,9 +145,9 @@
           {
             "_uid": "m-247",
             "component": "trust_band_metric",
-            "value": "24/7",
+            "value": "After hours",
             "label": "Availability",
-            "description": "Always-on customer support",
+            "description": "Customer support outside office hours",
             "icon_key": "support"
           },
           {
@@ -176,12 +176,12 @@
             "_uid": "debcbd1d-2673-46a1-9d81-0fac4c1f1fe5",
             "icon": {
               "filename": "/assets/icons/ai-agent-feature.svg",
-              "alt": "24/7 support",
+              "alt": "Support outside office hours",
               "fieldtype": "asset"
             },
             "title": "Always Available",
             "component": "differentiator_feature",
-            "highlight": "24/7 coverage",
+            "highlight": "Out-of-hours coverage",
             "description": "Your customers get immediate answers day or night without waiting for human agents."
           },
           {
@@ -319,7 +319,7 @@
         "igentx_approach_points": [
           {
             "_uid": "iap1",
-            "text": "Instant answers 24/7 from your verified content",
+            "text": "Instant answers outside office hours from your verified content",
             "enabled": true,
             "component": "speed_comparison_point"
           },
@@ -612,8 +612,8 @@
       {
         "_uid": "ai-cta-band-001",
         "component": "igentx_cta_band",
-        "title": "Transform Your Website into a 24/7 Sales and Support Assistant",
-        "description": "Book a free consultation to see how the AI Customer Service Agent can increase leads, reduce support workload and improve customer satisfaction on your website.",
+        "title": "Transform Your Website into a Sales and Support Assistant That Works Outside Office Hours",
+        "description": "Book a Free Consultation to see how the AI Customer Service Agent can increase leads, reduce support workload and improve customer satisfaction on your website.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",
@@ -627,7 +627,7 @@
           {
             "_uid": "faq-what",
             "question": "What is an AI Customer Service Agent?",
-            "answer": "An AI Customer Service Agent is an automated chat assistant that answers customer questions instantly using artificial intelligence. It handles enquiries, provides support and guides users 24/7 using your business content.",
+            "answer": "An AI Customer Service Agent is an automated chat assistant that answers customer questions instantly using artificial intelligence. It handles enquiries, provides support and guides users outside office hours using your business content.",
             "category": "AI Solutions",
             "component": "faq_item"
           },

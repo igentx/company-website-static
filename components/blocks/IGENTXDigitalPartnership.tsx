@@ -29,12 +29,12 @@ export default function IGENTXDigitalPartnership({ blok }: Props) {
   const tiers = Array.isArray(blok.tiers) ? blok.tiers : []
   const inclusionRows = Array.isArray(blok.inclusion_rows) ? blok.inclusion_rows : []
   const extras = Array.isArray(blok.extras) ? blok.extras : []
-  const inclusionColumns = blok.inclusion_columns || ['Standalone', 'Starter', 'Plus', 'Growth']
+  const inclusionColumns = blok.inclusion_columns || ['Starter', 'Plus', 'Growth', 'Enterprise']
 
   const demoHref = resolveHref(blok.demo_cta_link?.url || blok.demo_cta_url)
   const softwareHref = resolveHref(blok.software_side_link?.url || blok.software_side_url)
-  const demoLabel = blok.demo_cta_text || 'Book a Clayox Demo'
-  const softwareLabel = blok.software_side_label || 'Clayox digital partnership details'
+  const demoLabel = blok.demo_cta_text || 'Book a Free Consultation'
+  const softwareLabel = blok.software_side_label || 'partnership packages and pricing'
 
   return (
     <div>
