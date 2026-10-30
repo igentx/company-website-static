@@ -86,10 +86,10 @@
                 "label": "Childcare Digital Partnership",
                 "link": {
                   "id": "",
-                  "url": "/digital-partnership",
+                  "url": "/childcare-digital-partnership",
                   "linktype": "url",
                   "fieldtype": "multilink",
-                  "cached_url": "/digital-partnership"
+                  "cached_url": "/childcare-digital-partnership"
                 }
               },
               {

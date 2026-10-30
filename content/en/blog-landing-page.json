@@ -108,7 +108,7 @@
             "_uid": "topic-ai",
             "component": "blog_topic_link",
             "title": "AI Customer Service Agent",
-            "description": "24/7 multilingual enquiry assistant with one-line website integration.",
+            "description": "multilingual enquiry assistant that answers outside office hours with one-line website integration.",
             "link": {
               "url": "/products/ai-customer-service-agent",
               "linktype": "url",
@@ -490,7 +490,7 @@
             "_uid": "card-ai-agent",
             "component": "blog_card",
             "title": "AI Customer Service Agent with Smart Lead Generation",
-            "excerpt": "Automate your website chat and lead generation with the IGENTX AI Customer Service Agent. 24/7 multilingual support built for UAE businesses and global brands.",
+            "excerpt": "Automate your website chat and lead generation with the IGENTX AI Customer Service Agent. Multilingual support outside office hours built for UAE businesses and global brands.",
             "category": "AI",
             "author_name": "IGENTX Digital Team",
             "publish_date": "2025-11-30",
@@ -575,7 +575,7 @@
         "_uid": "blog-cta-001",
         "component": "igentx_cta_band",
         "title": "Ready to put these insights into action?",
-        "description": "Book a free consultation with our team. We will help you plan a website, AI solution or growth strategy tailored to your business goals.",
+        "description": "Book a Free Consultation with our team. We will help you plan a website, AI solution or growth strategy tailored to your business goals.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",

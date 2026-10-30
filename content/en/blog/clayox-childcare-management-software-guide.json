@@ -273,7 +273,7 @@
           {
             "_uid": "dm-b-ai",
             "component": "blog_body",
-            "content": "<p>Some centres also deploy an <strong>AI website enquiry assistant</strong> on their public website. This is optional and environment-gated for Clayox subscribers. The assistant answers common questions 24/7 and helps capture enquiry intent through conversation.</p><p>Important: conversations are <strong>reviewed by admins</strong> and qualified enquiries are converted to pipeline leads manually. The assistant does not auto-create CRM records. For a standalone AI agent that integrates with any website, see the <a href=\"/products/ai-customer-service-agent\">IGENTX AI Customer Service Agent</a>.</p>"
+            "content": "<p>Some centres also deploy an <strong>AI website enquiry assistant</strong> on their public website. It is part of the <a href=\"/childcare-digital-partnership\">IGENTX Childcare Digital Partnership</a> from Starter upwards and is not included with Clayox software on its own. The assistant answers common parent questions outside office hours and helps capture enquiry intent through conversation.</p><p>Important: conversations are <strong>reviewed by admins</strong> and qualified enquiries are converted to pipeline leads manually. The assistant does not auto-create CRM records. For a standalone AI agent that integrates with any website, see the <a href=\"/products/ai-customer-service-agent\">IGENTX AI Customer Service Agent</a>.</p>"
           },
           {
             "_uid": "dm-h-bloomwave",
@@ -302,7 +302,7 @@
           {
             "_uid": "dm-b-evaluate",
             "component": "blog_body",
-            "content": "<p>When comparing childcare management platforms, ask vendors:</p><ol><li>Does the product cover your full workflow from lead to billing, or only part of it?</li><li>Can families and teachers use dedicated portals on mobile, not just admins?</li><li>How are roles and permissions handled for front desk, billing and classroom staff?</li><li>Is billing invoice-first with clear parent statements and regional tax support?</li><li>What does onboarding look like for your centre size and programme structure?</li><li>Can you embed enquiry forms on your existing website without rebuilding everything?</li></ol><p>If you want a platform built for early childhood education centres, visit <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>. For rollout support, <a href=\"/contact\">book a free consultation</a> with IGENTX.</p>"
+            "content": "<p>When comparing childcare management platforms, ask vendors:</p><ol><li>Does the product cover your full workflow from lead to billing, or only part of it?</li><li>Can families and teachers use dedicated portals on mobile, not just admins?</li><li>How are roles and permissions handled for front desk, billing and classroom staff?</li><li>Is billing invoice-first with clear parent statements and regional tax support?</li><li>What does onboarding look like for your centre size and programme structure?</li><li>Can you embed enquiry forms on your existing website without rebuilding everything?</li></ol><p>If you want a platform built for early childhood education centres, visit <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>. For a website, email and search alongside Clayox, see the <a href=\"/childcare-digital-partnership\">IGENTX Childcare Digital Partnership</a>, or <a href=\"/contact\">Book a Free Consultation</a> with IGENTX.</p>"
           }
         ]
       },
@@ -354,7 +354,7 @@
         "_uid": "cta-clayox-guide",
         "component": "igentx_cta_band",
         "title": "Ready to modernise your centre operations?",
-        "description": "Book a free consultation with IGENTX to discuss Clayox rollout, website integration or a full digital foundation like BloomWave.",
+        "description": "Book a Free Consultation with IGENTX to discuss Clayox rollout, website integration or a full digital foundation like BloomWave.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",

@@ -56,6 +56,27 @@ const nextConfig: NextConfig = {
         destination: '/services/web-development-uae',
         permanent: true,
       },
+      // Childcare Digital Partnership hub moved to the approved URL (30 Oct 2026)
+      {
+        source: '/digital-partnership',
+        destination: '/childcare-digital-partnership',
+        permanent: true,
+      },
+      {
+        source: '/services/childcare-digital-partnership',
+        destination: '/childcare-digital-partnership',
+        permanent: true,
+      },
+      {
+        source: '/ar/digital-partnership',
+        destination: '/childcare-digital-partnership',
+        permanent: true,
+      },
+      {
+        source: '/ar/childcare-digital-partnership',
+        destination: '/childcare-digital-partnership',
+        permanent: true,
+      },
 
       // Broken "$"-prefixed crawls from bad relative links
       { source: '/\\$/:path*', destination: '/:path*', permanent: true },
@@ -152,6 +173,7 @@ const nextConfig: NextConfig = {
       { source: '/products', destination: '/en/products' },
       { source: '/products/ai-customer-service-agent', destination: '/en/products/ai-customer-service-agent' },
       { source: '/products/clayox', destination: '/en/products/clayox' },
+      { source: '/childcare-digital-partnership', destination: '/en/childcare-digital-partnership' },
       { source: '/case-studies', destination: '/en/case-studies' },
       { source: '/case-studies/moduluxe-group', destination: '/en/case-studies/web-development-uae-startup-moduluxe-group' },
       { source: '/case-studies/dr-door', destination: '/en/case-studies/web-development-startup-dr-door' },

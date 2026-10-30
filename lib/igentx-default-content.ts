@@ -233,7 +233,7 @@ export const igentxDefaultPageContent = {
       trust_signals: [
         { value: '3x', label: 'Faster Delivery' },
         { value: '99+', label: 'Core Web Vitals Score' },
-        { value: '24/7', label: 'Customer Support' },
+        { value: 'Ongoing', label: 'Customer Support' },
         { value: '95%', label: 'Customer Satisfaction' },
       ],
     },
@@ -278,8 +278,8 @@ export const igentxDefaultPageContent = {
         {
           title: 'WhatsApp + AI Chatbots that Convert',
           description:
-            'Engage visitors instantly with automated WhatsApp and AI chatbot integration, delivering 24/7 customer support.',
-          highlight: '24/7 Support',
+            'Engage visitors instantly with automated WhatsApp and AI chatbot integration, supporting customers outside office hours.',
+          highlight: 'Out-of-Hours Support',
         },
       ],
       uae_signals_title: 'Trusted by UAE Businesses',
@@ -606,7 +606,7 @@ export const igentxDefaultPageContent = {
           price_note: 'Starting price',
           features: [
             'Custom Enterprise Website',
-            'Advanced Multi-lingual (Unlimited Languages)',
+            'Advanced Multi-lingual (Multiple Languages)',
             'AI Chatbot + Automation (Lead Capture, FAQ)',
             'Performance Dashboard + Analytics',
             'Dedicated Priority Support (6 Months Included)',
@@ -692,7 +692,7 @@ export const defaultContactContent = {
       type: 'whatsapp',
       label: 'WhatsApp',
       value: '+91 99951 04422',
-      subtitle: '⚡ Instant response - Available 24/7',
+      subtitle: '⚡ Instant response - Available outside office hours',
       show_value: false, // Hide number for privacy
       highlight: true, // Make this card stand out
       whatsapp_message: 'Hello! I would like to inquire about your web development services.',

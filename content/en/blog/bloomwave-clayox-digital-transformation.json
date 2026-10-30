@@ -49,7 +49,7 @@
         "_uid": "bloomwave-clayox-digital-transformation-hero",
         "component": "blog_hero",
         "title": "BloomWave: Digital Transformation with Website, AI Enquiries and Clayox",
-        "excerpt": "BloomWave Learning and Daycare needed a professional web presence, 24/7 parent enquiries and centre operations software. IGENTX delivered bloomwave.ae, an AI enquiry assistant and Clayox in one coordinated rollout for the Abu Dhabi centre.",
+        "excerpt": "BloomWave Learning and Daycare needed a professional web presence, parent enquiry handling outside office hours and centre operations software. IGENTX delivered bloomwave.ae, an AI enquiry assistant and Clayox in one coordinated rollout for the Abu Dhabi centre.",
         "category": "Products",
         "author_name": "IGENTX Digital Team",
         "publish_date": "2026-07-23",
@@ -198,7 +198,7 @@
           {
             "_uid": "bloomwave-clayox-digital-transformation-b-2",
             "component": "blog_body",
-            "content": "<p>BloomWave deployed an <strong>IGENTX AI enquiry assistant</strong> on the website to answer common parent questions 24/7. The assistant helps capture enquiry intent through conversation when staff are unavailable.</p><p>Qualified conversations are <strong>reviewed by centre admins</strong> and converted to pipeline leads manually. The assistant does not auto-create enrolments or CRM records without staff oversight. Embeddable enquiry forms on the site complement chat for structured lead capture.</p>"
+            "content": "<p>BloomWave deployed an <strong>IGENTX AI enquiry assistant</strong> on the website to answer common parent questions outside office hours. The assistant helps capture enquiry intent through conversation when staff are unavailable.</p><p>Qualified conversations are <strong>reviewed by centre admins</strong> and converted to pipeline leads manually. The assistant does not auto-create enrolments or CRM records without staff oversight. Embeddable enquiry forms on the site complement chat for structured lead capture.</p>"
           },
           {
             "_uid": "bloomwave-clayox-digital-transformation-h-3",
@@ -227,7 +227,7 @@
           {
             "_uid": "bloomwave-clayox-digital-transformation-b-4",
             "component": "blog_body",
-            "content": "<p>BloomWave shows that early learning centres benefit when website, enquiry capture and operations software share one delivery partner and timeline. Parents experience consistent communication; staff avoid duplicate data entry across disconnected systems.</p><p><a href=\"/case-studies/bloomwave-learning-daycare\">Read the full BloomWave case study</a>, explore <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>, or <a href=\"/contact\">book a free consultation</a> with IGENTX to plan your centre's digital foundation.</p>"
+            "content": "<p>BloomWave shows that early learning centres benefit when website, enquiry capture and operations software share one delivery partner and timeline. Parents experience consistent communication; staff avoid duplicate data entry across disconnected systems.</p><p><a href=\"/case-studies/bloomwave-learning-daycare\">Read the full BloomWave case study</a>, explore the <a href=\"/childcare-digital-partnership\">IGENTX Childcare Digital Partnership</a> or <a href=\"https://www.clayox.com/\">Clayox childcare management software</a>, or <a href=\"/contact\">Book a Free Consultation</a> with IGENTX to plan your centre's digital foundation.</p>"
           }
         ]
       },

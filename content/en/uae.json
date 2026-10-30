@@ -42,7 +42,7 @@
         "twitter_description": "Clayox for UAE childcare centres. Web development, ecommerce, branding and SEO for growing businesses across the Emirates.",
         "structured_data_type": "Custom",
         "article_published_time": "2025-10-26 00:00",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"Service\",\n      \"serviceType\": \"Digital Agency Services\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\",\n        \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      },\n      \"hasOfferCatalog\": {\n        \"@type\": \"OfferCatalog\",\n        \"name\": \"IGENTX UAE Services and Products\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Web Development UAE\",\n              \"url\": \"https://www.igentx.com/services/web-development-uae\",\n              \"description\": \"Bilingual, high-performance websites for Dubai, Abu Dhabi and the Emirates.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Ecommerce Development UAE\",\n              \"url\": \"https://www.igentx.com/services/ecommerce-website-development-uae\",\n              \"description\": \"UAE ecommerce with local payment gateways and Arabic catalogues.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Branding and Graphic Design UAE\",\n              \"url\": \"https://www.igentx.com/services/graphic-design-uae\",\n              \"description\": \"Brand identity and marketing creative for UAE businesses.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"SEO Services UAE\",\n              \"url\": \"https://www.igentx.com/services/seo-service-uae\",\n              \"description\": \"Technical and local SEO for Dubai and UAE search visibility.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"AI Solutions\",\n              \"url\": \"https://www.igentx.com/services/ai-solutions\",\n              \"description\": \"AI integrations, automation and intelligent workflows for business growth.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Software Development\",\n              \"url\": \"https://www.igentx.com/services/custom-software-development\",\n              \"description\": \"Bespoke web applications and internal tools tailored to your workflows.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"AI Customer Service Agent\",\n              \"url\": \"https://www.igentx.com/products/ai-customer-service-agent\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"description\": \"24/7 multilingual AI enquiry assistant with RAG and one-line website integration.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"Clayox\",\n              \"url\": \"https://www.clayox.com/\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"areaServed\": {\n                \"@type\": \"Country\",\n                \"name\": \"United Arab Emirates\"\n              },\n              \"description\": \"Childcare centre management software for nurseries and preschools: admissions, attendance, family messaging, activity feed and invoice-first billing.\"\n            }\n          }\n        ]\n      }\n    },\n    {\n      \"@type\": \"SoftwareApplication\",\n      \"name\": \"Clayox\",\n      \"url\": \"https://www.clayox.com/\",\n      \"applicationCategory\": \"BusinessApplication\",\n      \"operatingSystem\": \"Web\",\n      \"description\": \"Childcare management platform by IGENTX for nurseries, preschools and early learning centres in the UAE and worldwide. Admissions, attendance, messaging and billing in one system.\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      }\n    }\n  ]\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@graph\": [\n    {\n      \"@type\": \"Service\",\n      \"serviceType\": \"Digital Agency Services\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\",\n        \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      },\n      \"hasOfferCatalog\": {\n        \"@type\": \"OfferCatalog\",\n        \"name\": \"IGENTX UAE Services and Products\",\n        \"itemListElement\": [\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Web Development UAE\",\n              \"url\": \"https://www.igentx.com/services/web-development-uae\",\n              \"description\": \"Bilingual, high-performance websites for Dubai, Abu Dhabi and the Emirates.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Ecommerce Development UAE\",\n              \"url\": \"https://www.igentx.com/services/ecommerce-website-development-uae\",\n              \"description\": \"UAE ecommerce with local payment gateways and Arabic catalogues.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Branding and Graphic Design UAE\",\n              \"url\": \"https://www.igentx.com/services/graphic-design-uae\",\n              \"description\": \"Brand identity and marketing creative for UAE businesses.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"SEO Services UAE\",\n              \"url\": \"https://www.igentx.com/services/seo-service-uae\",\n              \"description\": \"Technical and local SEO for Dubai and UAE search visibility.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"AI Solutions\",\n              \"url\": \"https://www.igentx.com/services/ai-solutions\",\n              \"description\": \"AI integrations, automation and intelligent workflows for business growth.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"Service\",\n              \"name\": \"Custom Software Development\",\n              \"url\": \"https://www.igentx.com/services/custom-software-development\",\n              \"description\": \"Bespoke web applications and internal tools tailored to your workflows.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"AI Customer Service Agent\",\n              \"url\": \"https://www.igentx.com/products/ai-customer-service-agent\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"description\": \"multilingual AI enquiry assistant that answers outside office hours with RAG and one-line website integration.\"\n            }\n          },\n          {\n            \"@type\": \"Offer\",\n            \"itemOffered\": {\n              \"@type\": \"SoftwareApplication\",\n              \"name\": \"Clayox\",\n              \"url\": \"https://www.clayox.com/\",\n              \"applicationCategory\": \"BusinessApplication\",\n              \"operatingSystem\": \"Web\",\n              \"areaServed\": {\n                \"@type\": \"Country\",\n                \"name\": \"United Arab Emirates\"\n              },\n              \"description\": \"Childcare centre management software for nurseries and preschools: admissions, attendance, family messaging, activity feed and invoice-first billing.\"\n            }\n          }\n        ]\n      }\n    },\n    {\n      \"@type\": \"SoftwareApplication\",\n      \"name\": \"Clayox\",\n      \"url\": \"https://www.clayox.com/\",\n      \"applicationCategory\": \"BusinessApplication\",\n      \"operatingSystem\": \"Web\",\n      \"description\": \"Childcare management platform by IGENTX for nurseries, preschools and early learning centres in the UAE and worldwide. Admissions, attendance, messaging and billing in one system.\",\n      \"provider\": {\n        \"@type\": \"Organization\",\n        \"name\": \"IGENTX\",\n        \"url\": \"https://www.igentx.com\"\n      },\n      \"areaServed\": {\n        \"@type\": \"Country\",\n        \"name\": \"United Arab Emirates\"\n      }\n    }\n  ]\n}"
       },
       {
         "_uid": "uae-hero-001",
@@ -80,7 +80,7 @@
           },
           {
             "_uid": "uae-slide-02",
-            "title": "24/7 AI Enquiry Assistant for UAE Websites",
+            "title": "AI Enquiry Assistant for UAE Websites",
             "summary": "Capture leads outside office hours with our AI Customer Service Agent. Answers visitor questions instantly in English and Arabic, trained on your content and ready to deploy on any website in minutes.",
             "category": "AI Solutions",
             "cta_link": {
@@ -145,7 +145,7 @@
           {
             "_uid": "uae-ts-3",
             "label": "Support",
-            "value": "24/7",
+            "value": "Ongoing",
             "component": "trust_signal_item"
           },
           {
@@ -281,9 +281,9 @@
           {
             "_uid": "m5",
             "component": "trust_band_metric",
-            "value": "24/7",
+            "value": "Ongoing",
             "label": "Customer Support",
-            "description": "Always here when you need us",
+            "description": "Support from the team that built your site",
             "icon_key": "support"
           }
         ]
@@ -311,6 +311,10 @@
           "title": "Clayox",
           "tagline": "Complete Childcare Management Platform",
           "description": "Clayox gives nurseries, preschools and early learning centres in the UAE and worldwide everything they need to manage admissions, attendance, parent communication, billing and daily operations from one secure platform. Each centre runs on a dedicated deployment.",
+          "secondary_link": {
+            "text": "IGENTX Childcare Digital Partnership",
+            "url": "/childcare-digital-partnership"
+          },
           "brand_link": {
             "text": "Clayox",
             "url": "https://www.clayox.com/"
@@ -360,7 +364,7 @@
         "ai_product": {
           "badge_text": "AI Solution",
           "title": "AI Customer Service Agent",
-          "description": "Turn your UAE website into a 24/7 enquiry assistant that answers questions instantly in English and Arabic, captures contact details naturally in chat, and saves enquiries to your admin dashboard for team review.",
+          "description": "Turn your UAE website into an enquiry assistant that works outside office hours that answers questions instantly in English and Arabic, captures contact details naturally in chat, and saves enquiries to your admin dashboard for team review.",
           "feature_pills": [
             "Instant Replies",
             "Learns Your Content",
@@ -1097,7 +1101,7 @@
             "results": [
               {
                 "_uid": "bw1",
-                "value": "24/7",
+                "value": "After hours",
                 "metric": "AI Enquiries",
                 "component": "result_metric"
               },
@@ -1123,7 +1127,7 @@
             "category": "Full Solution",
             "live_url": "https://bloomwave.ae",
             "component": "case_study_item",
-            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform.",
+            "description": "How IGENTX helped BloomWave Learning & Daycare launch bloomwave.ae with an AI enquiry assistant and Clayox centre operations platform.",
             "technologies": "Next.js\nStoryblok\nIGENTX AI Agent\nClayox",
             "case_study_url": "/case-studies/bloomwave-learning-daycare",
             "industry": "Childcare & Education",
@@ -1405,7 +1409,7 @@
             "_uid": "card-ai-agent",
             "component": "blog_card",
             "title": "AI Customer Service Agent with Smart Lead Generation",
-            "excerpt": "Automate your website chat and lead generation with the IGENTX AI Customer Service Agent. 24/7 multilingual support built for UAE businesses and global brands.",
+            "excerpt": "Automate your website chat and lead generation with the IGENTX AI Customer Service Agent. Multilingual support outside office hours built for UAE businesses and global brands.",
             "category": "AI",
             "author_name": "IGENTX Digital Team",
             "publish_date": "2025-11-30",
@@ -1730,7 +1734,7 @@
             "_uid": "uae-faq-dm-bundle",
             "component": "faq_item",
             "question": "Can we combine a website, AI enquiries and Clayox?",
-            "answer": "Yes. IGENTX delivered this for BloomWave Learning and Daycare in Abu Dhabi: bloomwave.ae for parent trust, a 24/7 AI enquiry assistant for after-hours lead capture, and Clayox for admissions and daily centre operations. One team can scope and roll out the full stack for your centre.",
+            "answer": "Yes. IGENTX delivered this for BloomWave Learning and Daycare in Abu Dhabi: bloomwave.ae for parent trust, an AI enquiry assistant for after-hours lead capture, and Clayox for admissions and daily centre operations. One team can scope and roll out the full stack for your centre.",
             "category": "Daycare Software"
           },
           {

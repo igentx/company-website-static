@@ -111,9 +111,9 @@
           {
             "_uid": "ai-m1",
             "component": "trust_band_metric",
-            "value": "24/7",
+            "value": "After hours",
             "label": "Automation",
-            "description": "Always-on AI assistance",
+            "description": "AI assistance outside office hours",
             "icon_key": "support"
           },
           {
@@ -227,7 +227,7 @@
         "_uid": "ai-svc-cta-001",
         "component": "igentx_cta_band",
         "title": "Ready to explore custom AI for your business?",
-        "description": "Book a free consultation to scope custom AI integrations, or explore our AI Customer Service Agent for a fast, productised starting point on your website.",
+        "description": "Book a Free Consultation to scope custom AI integrations, or explore our AI Customer Service Agent for a fast, productised starting point on your website.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",
@@ -259,7 +259,7 @@
             "_uid": "ai-faq-q2",
             "component": "faq_item",
             "question": "What is the difference between custom AI and your AI Customer Service Agent product?",
-            "answer": "The AI Customer Service Agent is a productised website assistant with one-line integration, ideal for 24/7 support and lead capture. Custom AI solutions are scoped to your specific workflows, internal tools, data sources and product requirements. Many clients start with the product and expand into custom integrations as needs grow.",
+            "answer": "The AI Customer Service Agent is a productised website assistant with one-line integration, ideal for support outside office hours and lead capture. Custom AI solutions are scoped to your specific workflows, internal tools, data sources and product requirements. Many clients start with the product and expand into custom integrations as needs grow.",
             "category": "General"
           },
           {

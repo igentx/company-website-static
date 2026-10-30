@@ -112,6 +112,17 @@ export default function FeaturedProductCard({ product }: FeaturedProductCardProp
             </div>
           )}
 
+          {product.secondary_link?.text && product.secondary_link.url && (
+            <p className="mb-6 text-sm">
+              <Link
+                href={product.secondary_link.url}
+                className="font-medium text-purple-600 underline decoration-purple-200 underline-offset-2 hover:text-purple-800"
+              >
+                {product.secondary_link.text}
+              </Link>
+            </p>
+          )}
+
           {product.cta_text && ctaHref && (
             <div className="mt-auto">
               {ctaIsExternal ? (

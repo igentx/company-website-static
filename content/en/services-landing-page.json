@@ -169,9 +169,9 @@
           {
             "_uid": "m5",
             "component": "trust_band_metric",
-            "value": "24/7",
+            "value": "Ongoing",
             "label": "Customer Support",
-            "description": "Always here when you need us",
+            "description": "Support from the team that built your site",
             "icon_key": "support"
           }
         ]
@@ -287,7 +287,7 @@
             "description": "Practical AI integrations that automate support, qualify leads and save time.",
             "problem": "Teams spend hours answering repetitive questions while prospects leave without getting answers.",
             "solution": "AI customer service agents, workflow automation and intelligent features trained on your business content.",
-            "outcome": "24/7 automated support, faster lead qualification and reduced operational overhead.",
+            "outcome": "Automated support outside office hours, faster lead qualification and reduced operational overhead.",
             "image": {
               "filename": "/assets/images/ai-solutions.webp",
               "alt": "AI solutions"
@@ -298,6 +298,26 @@
               "cached_url": "/services/ai-solutions"
             },
             "cta_text": "Explore AI Solutions",
+            "is_popular": false
+          },
+          {
+            "_uid": "svc-childcare-partnership",
+            "component": "service_item",
+            "title": "IGENTX Childcare Digital Partnership",
+            "description": "Website, hosting, professional email, SEO and an AI enquiry assistant for nurseries, with Clayox included.",
+            "problem": "Nurseries juggle separate suppliers for their website, email, search and centre software.",
+            "solution": "One annual package from IGENTX: a premium centre website, mailboxes on your domain, SEO and GEO support, and Clayox for 25 students.",
+            "outcome": "One accountable partner for your centre's digital foundation.",
+            "image": {
+              "filename": "/assets/images/clayox-dashboard.webp",
+              "alt": "IGENTX Childcare Digital Partnership"
+            },
+            "cta_link": {
+              "url": "/childcare-digital-partnership",
+              "linktype": "url",
+              "cached_url": "/childcare-digital-partnership"
+            },
+            "cta_text": "Explore the Partnership",
             "is_popular": false
           }
         ],
@@ -739,7 +759,7 @@
         "_uid": "sl-cta-band-001",
         "component": "igentx_cta_band",
         "title": "Not sure where to start?",
-        "description": "Book a free consultation and our team will help you scope the right mix of web development, ecommerce, branding, SEO, custom software or AI integration for your goals.",
+        "description": "Book a Free Consultation and our team will help you scope the right mix of web development, ecommerce, branding, SEO, custom software or AI integration for your goals.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",

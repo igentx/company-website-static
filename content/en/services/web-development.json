@@ -243,8 +243,8 @@
             },
             "title": "WhatsApp + AI Chatbots that Convert",
             "component": "differentiator_feature",
-            "highlight": "24/7 Support",
-            "description": "Engage visitors instantly with automated WhatsApp and AI chatbot integration, delivering 24/7 customer support."
+            "highlight": "Out-of-Hours Support",
+            "description": "Engage visitors instantly with automated WhatsApp and AI chatbot integration, supporting customers outside office hours."
           }
         ],
         "component": "why_choose_igentx",
@@ -390,7 +390,7 @@
           },
           {
             "_uid": "955b068b-bdde-4504-b570-0e0583168bda",
-            "answer": "The Enterprise web package offers custom integrations (CRM, ERP, APIs), unlimited pages, enterprise hosting, 50+ business emails, SLA-backed support, multilingual CMS, and dedicated project management. Customise everything based on your needs.",
+            "answer": "The Enterprise web package offers custom integrations (CRM, ERP, APIs), a page count scoped to your project, enterprise hosting, 50+ business emails, SLA-backed support, multilingual CMS, and dedicated project management. Customise everything based on your needs.",
             "question": "What does the enterprise project include?",
             "component": "faq_item"
           },

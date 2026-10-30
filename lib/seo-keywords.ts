@@ -101,23 +101,23 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/products/ai-customer-service-agent': {
     title: 'AI Customer Service Agent for Websites | IGENTX',
     description:
-      '24/7 AI chat widget trained on your content. RAG-powered, multilingual, lightweight embed | under 7KB loader.',
+      'AI chat widget trained on your content, answering outside office hours. RAG-powered, multilingual, lightweight embed | under 7KB loader.',
     keywords:
       'AI customer service agent, RAG website chatbot, multilingual AI support widget, AI chat widget',
   },
   '/products/clayox': {
     title: 'Clayox by IGENTX | Childcare Management Software',
     description:
-      'Short IGENTX overview of Clayox childcare management software. Pricing from $1 per student per month (USD). Full product details at clayox.com.',
+      'Short IGENTX overview of Clayox childcare management software. From $0.99 per student per month (USD, billed annually), minimum 20 students. Full details at clayox.com.',
     keywords:
       'Clayox, childcare management software, IGENTX products, nursery management software',
   },
-  '/digital-partnership': {
-    title: 'IGENTX Childcare Digital Partnership | Done-for-You Digital Foundation',
+  '/childcare-digital-partnership': {
+    title: 'IGENTX Childcare Digital Partnership for Nurseries',
     description:
-      'Done-for-you digital foundation for childcare centres: Clayox, centre website, AI enquiry assistant, email, and SEO. UAE first, then GCC. Annual USD plans from $240.',
+      'Website, hosting, professional email, SEO and an AI enquiry assistant for nurseries and early learning centres, in one annual plan from IGENTX. Book a Free Consultation.',
     keywords:
-      'IGENTX childcare digital partnership, nursery website UAE, childcare digital agency, Clayox partnership, preschool SEO UAE',
+      'IGENTX childcare digital partnership, nursery website and SEO package, nursery digital partner, digital services for nurseries',
   },
   '/uae': {
     title: 'Digital Agency Dubai & Childcare Management Software UAE | IGENTX',
@@ -148,7 +148,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/case-studies/bloomwave-learning-daycare': {
     title: 'BloomWave: Integrated Web, AI Enquiries & Centre Operations | IGENTX Case Study',
     description:
-      'How BloomWave Learning & Daycare launched bloomwave.ae with a 24/7 AI enquiry assistant and Clayox centre operations platform in one integrated rollout.',
+      'How BloomWave Learning & Daycare launched bloomwave.ae with an AI enquiry assistant and Clayox centre operations platform in one integrated rollout.',
     keywords: 'childcare centre digital transformation UAE, BloomWave, Clayox case study',
   },
   '/blog': {
@@ -252,7 +252,7 @@ const SEO_BY_PATH: Record<string, SeoFallback> = {
   '/blog/ai-customer-service-agent-uae': {
     title: 'AI Customer Service Agent for UAE Websites | IGENTX',
     description:
-      'The IGENTX AI Customer Service Agent is a 24/7 enquiry assistant for UAE websites. Instantly answer customer queries in multiple languages, and help your team capture qualified leads through manual follow-up.',
+      'The IGENTX AI Customer Service Agent is an enquiry assistant for UAE websites that answers outside office hours. Instantly answer customer queries in multiple languages, and help your team capture qualified leads through manual follow-up.',
     keywords: 'AI customer service agent UAE, AI chatbot Dubai, multilingual AI chatbot, website assistant UAE',
   },
   '/blog/how-to-choose-best-web-development-agency-uae': {
@@ -315,7 +315,7 @@ export function getSeoFallbackForSlug(storySlug: string): SeoFallback {
     'products-landing-page': '/products',
     'products/ai-customer-service-agent': '/products/ai-customer-service-agent',
     'products/clayox': '/products/clayox',
-    'digital-partnership': '/digital-partnership',
+    'childcare-digital-partnership': '/childcare-digital-partnership',
     'case-studies-landing-page': '/case-studies',
     'case-studies/web-development-uae-startup-moduluxe-group': '/case-studies/moduluxe-group',
     'case-studies/web-development-startup-dr-door': '/case-studies/dr-door',

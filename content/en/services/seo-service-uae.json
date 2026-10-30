@@ -39,7 +39,7 @@
         "robots_noarchive": false,
         "robots_nosnippet": false,
         "twitter_card_type": "summary_large_image",
-        "twitter_description": "SEO for UAE businesses: local search, technical audits, and multilingual content strategy. Book a free consultation for a tailored plan.",
+        "twitter_description": "SEO for UAE businesses: local search, technical audits, and multilingual content strategy. Book a Free Consultation for a tailored plan.",
         "structured_data_type": "Service",
         "article_published_time": "2025-10-27 00:00",
         "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Service\",\n  \"serviceType\": \"Search Engine Optimisation in UAE\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\",\n    \"logo\": \"https://www.igentx.com/assets/logos/igentx-logo-01.svg\"\n  },\n  \"areaServed\": {\n    \"@type\": \"Country\",\n    \"name\": \"United Arab Emirates\"\n  },\n  \"description\": \"SEO services for UAE businesses including on-page optimisation, technical audits, keyword strategy, and local SEO.\"\n}"
@@ -237,7 +237,7 @@
         "_uid": "seo-uae-cta-001",
         "component": "igentx_cta_band",
         "title": "Ready to improve your UAE search visibility?",
-        "description": "Book a free consultation for a local SEO overview, multilingual keyword opportunities and a realistic growth plan for your UAE markets.",
+        "description": "Book a Free Consultation for a local SEO overview, multilingual keyword opportunities and a realistic growth plan for your UAE markets.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",
@@ -311,7 +311,7 @@
             "_uid": "seo-uae-faq-q8",
             "component": "faq_item",
             "question": "How do I get started with IGENTX SEO in the UAE?",
-            "answer": "Book a free consultation via our contact form or WhatsApp. We will review your site, discuss your UAE markets and share a scoped proposal within 24 hours.",
+            "answer": "Book a Free Consultation via our contact form or WhatsApp. We will review your site, discuss your UAE markets and share a scoped proposal within 24 hours.",
             "category": "Process"
           }
         ]

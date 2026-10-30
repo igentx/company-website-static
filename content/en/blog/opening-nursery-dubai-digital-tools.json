@@ -220,7 +220,7 @@
           {
             "_uid": "opening-nursery-dubai-digital-tools-b-4",
             "component": "blog_body",
-            "content": "<p>Sequence rollout: website and forms first, operations software configured with programmes and fees, staff trained on admissions and daily workflows, then marketing campaigns. Document who owns enquiries, billing and parent communication.</p><p><a href=\"/case-studies/bloomwave-learning-daycare\">BloomWave Learning and Daycare</a> worked with IGENTX on an integrated launch. <a href=\"/contact\">Book a free consultation</a> to plan digital tools for your Dubai nursery opening.</p>"
+            "content": "<p>Sequence rollout: website and forms first, operations software configured with programmes and fees, staff trained on admissions and daily workflows, then marketing campaigns. Document who owns enquiries, billing and parent communication.</p><p><a href=\"/case-studies/bloomwave-learning-daycare\">BloomWave Learning and Daycare</a> worked with IGENTX on an integrated launch. The <a href=\"/childcare-digital-partnership\">IGENTX Childcare Digital Partnership</a> brings the website, email, search and Clayox together. <a href=\"/contact\">Book a Free Consultation</a> to plan digital tools for your Dubai nursery opening.</p>"
           }
         ]
       },
@@ -265,7 +265,7 @@
         "_uid": "opening-nursery-dubai-digital-tools-cta",
         "component": "igentx_cta_band",
         "title": "Planning your nursery launch?",
-        "description": "Book a free consultation to map your digital stack from website through centre operations.",
+        "description": "Book a Free Consultation to map your digital stack from website through centre operations.",
         "primary_cta_text": "Book a Free Consultation",
         "primary_cta_link": {
           "url": "/contact",
