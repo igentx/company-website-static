@@ -15,7 +15,7 @@ const CIRCUIT_BG_STYLE = {
 
 const REASSURANCE_METRICS = [
   {
-    value: '24h',
+    value: '1 day',
     label: 'Response Time',
     description: 'We follow up within one business day',
     iconKey: 'clock' as const,

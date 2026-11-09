@@ -145,7 +145,7 @@
           {
             "_uid": "uae-ts-3",
             "label": "Support",
-            "value": "Ongoing",
+            "value": "within 1 business day",
             "component": "trust_signal_item"
           },
           {
@@ -281,7 +281,7 @@
           {
             "_uid": "m5",
             "component": "trust_band_metric",
-            "value": "Ongoing",
+            "value": "within 1 business day",
             "label": "Customer Support",
             "description": "Support from the team that built your site",
             "icon_key": "support"

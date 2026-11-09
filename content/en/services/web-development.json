@@ -498,7 +498,7 @@
           },
           {
             "_uid": "45a57fb2-0e2c-48df-9957-3ac638ff97d4",
-            "answer": "You can request a quote through our contact form (Mailjet integrated) or via WhatsApp chat directly from our website. Our team will respond within 24 hours.",
+            "answer": "You can request a quote through our contact form (Mailjet integrated) or via WhatsApp chat directly from our website. Our team will respond within 1 business day.",
             "question": "How do I request a quote?",
             "component": "faq_item"
           },
@@ -516,7 +516,7 @@
           },
           {
             "_uid": "33a598d4-63c6-40e9-ba81-3fde0a251bf5",
-            "answer": "Simply contact us via the form or WhatsApp. We’ll discuss your goals, suggest the right scope, and share a timeline and proposal within 24 hours.",
+            "answer": "Simply contact us via the form or WhatsApp. We’ll discuss your goals, suggest the right scope, and share a timeline and proposal within 1 business day.",
             "question": "How can I get started with IGENTX?",
             "component": "faq_item"
           },

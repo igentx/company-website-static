@@ -453,7 +453,7 @@ This schema uses the **new generic form builder** with nested `form_field` block
   "component": "contact_page",
   "badge_text": "💬 We're Here to Help",
   "title": "Get In Touch With Us",
-  "description": "Have questions? We'd love to hear from you. Send us a message and we'll respond within 24 hours.",
+  "description": "Have questions? We'd love to hear from you. Send us a message and we'll respond within 1 business day.",
   
   "contact_cards_title": "Contact Information",
   "contact_cards": [
@@ -463,7 +463,7 @@ This schema uses the **new generic form builder** with nested `form_field` block
       "type": "whatsapp",
       "label": "WhatsApp",
       "value": "+971501234567",
-      "subtitle": "Available 24/7 - Fastest Response",
+      "subtitle": "Fastest Response",
       "show_value": false,
       "highlight": true,
       "whatsapp_message": "Hello! I would like to inquire about your services."
@@ -484,7 +484,7 @@ This schema uses the **new generic form builder** with nested `form_field` block
       "type": "email",
       "label": "Email",
       "value": "hello@igentx.com",
-      "subtitle": "We respond within 24 hours",
+      "subtitle": "We respond within 1 business day",
       "show_value": true,
       "highlight": false
     },
@@ -572,7 +572,7 @@ This schema uses the **new generic form builder** with nested `form_field` block
         }
       ],
       "submit_button_text": "Send Message",
-      "success_message": "Thank you! We'll respond within 24 hours.",
+      "success_message": "Thank you! We'll respond within 1 business day.",
       "error_message": "Error sending message. Please try again.",
       "email_subject": "New Contact Form Submission - IGENTX",
       "email_body_description": "You have received a new contact form submission from your website.",

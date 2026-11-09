@@ -27,7 +27,7 @@ IGENTX Technologies is an Indian sole proprietorship and an AI-first technology 
 | Years of Experience | 10+ | Delivering innovation since 2014 |
 | Client Satisfaction | 100% | Long-term partnerships built on trust |
 | Multi-Country Support | Global | Global presence with local expertise |
-| Customer Support | 24/7 | Always here when you need us |
+| Customer Support | Within 1 business day | Support from the team that built your site |
 
 ## Services
 

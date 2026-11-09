@@ -4,7 +4,7 @@
 
 **Book a Free Consultation**
 
-Tell us about your project. We will connect you with the right specialist and follow up within 24 hours with a tailored proposal.
+Tell us about your project. We will connect you with the right specialist and follow up within 1 business day with a tailored proposal.
 
 ## Contact Details
 
@@ -22,12 +22,12 @@ Tell us about your project. We will connect you with the right specialist and fo
 | Email | No |
 | Message | No |
 
-**Success message:** Thank you! We will get back to you within 24 hours.
+**Success message:** Thank you! We will get back to you within 1 business day.
 
 ## Sales & Support
 
 - Talk to our team for tailored proposals: web, ecommerce, branding, SEO, custom software and software products.
-- Typical response time: within 24 hours on business days.
+- Typical response time: within 1 business day.
 - WhatsApp enquiries often receive a faster reply.
 
 ## Channels (priority order)

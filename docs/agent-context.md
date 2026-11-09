@@ -40,9 +40,11 @@ Use **conservative, defensible** homepage trust-band values unless leadership ap
 | Client satisfaction | 100% (backed by published case study endorsements) |
 | Combined team experience | 10+ years (label: Years of Experience) |
 | Multi-country support | Global |
-| Support | Customer Support (subtitle: Available 24/7) |
+| Customer support | within 1 business day (label: Customer Support) |
 
 Do not inflate volume metrics (e.g. 50+ projects, 20+ industries) without verified evidence.
+
+Do not claim 24/7 human or team support. "24/7" is only accurate for the AI Customer Service Agent and AI enquiry assistant, which run around the clock.
 
 ### Trust band
 

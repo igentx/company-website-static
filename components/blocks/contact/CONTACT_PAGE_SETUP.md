@@ -150,7 +150,7 @@ The Contact Page system provides:
     "subtitle": {
       "type": "text",
       "pos": 3,
-      "description": "Additional info displayed below the value (e.g., 'Available 24/7')"
+      "description": "Additional info displayed below the value (e.g., 'Fastest response')"
     },
     "show_value": {
       "type": "boolean",
@@ -360,7 +360,7 @@ Click "Add Contact Card" and add the following:
 - Type: `whatsapp`
 - Label: `WhatsApp`
 - Value: `+971 50 123 4567`
-- Subtitle: `Available 24/7`
+- Subtitle: `Fastest response`
 - WhatsApp Message: `Hello! I would like to inquire about your services.`
 
 **Phone Card:**
@@ -373,7 +373,7 @@ Click "Add Contact Card" and add the following:
 - Type: `email`
 - Label: `Email`
 - Value: `hello@yourdomain.com`
-- Subtitle: `We respond within 24 hours`
+- Subtitle: `We respond within 1 business day`
 
 **Location Card:**
 - Type: `location`
@@ -500,7 +500,7 @@ Make specific contact methods stand out:
     "highlight": true,          // ✨ Featured
     "show_value": false,        // 🔒 Private
     "label": "WhatsApp Us",
-    "subtitle": "Available 24/7 - Fastest Response"
+    "subtitle": "Fastest Response"
   },
   {
     "type": "phone",

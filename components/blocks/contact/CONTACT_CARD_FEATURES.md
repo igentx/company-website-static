@@ -19,7 +19,7 @@ Quick reference for privacy and highlighting features in contact cards.
 ┌─────────────────────────────────┐
 │  💬  WhatsApp                   │
 │      +971 50 123 4567           │
-│      Available 24/7             │
+│      Fastest response           │
 └─────────────────────────────────┘
 ```
 
@@ -28,7 +28,7 @@ Quick reference for privacy and highlighting features in contact cards.
 ┌─────────────────────────────────┐
 │  💬  WhatsApp                   │
 │      Click to contact →         │
-│      Available 24/7             │
+│      Fastest response           │
 └─────────────────────────────────┘
 ```
 
@@ -54,7 +54,7 @@ Quick reference for privacy and highlighting features in contact cards.
 ╔═════════════════════════════════╗
 ║ 💬  WHATSAPP  [Recommended]     ║
 ║     Click to contact →          ║
-║     Available 24/7              ║
+║     Fastest response            ║
 ╚═════════════════════════════════╝
 ```
 - Gradient blue background (from-blue-50 to-indigo-50)
@@ -86,7 +86,7 @@ Quick reference for privacy and highlighting features in contact cards.
   "type": "whatsapp",
   "label": "WhatsApp Us",
   "value": "+971501234567",
-  "subtitle": "Available 24/7 - Fastest Response",
+  "subtitle": "Fastest Response",
   "show_value": false,    // 🔒 Hide number
   "highlight": true,      // ✨ Stand out
   "whatsapp_message": "Hello! I'd like to inquire about your services."
@@ -128,7 +128,7 @@ Quick reference for privacy and highlighting features in contact cards.
   "type": "email",
   "label": "Email",
   "value": "hello@igentx.com",
-  "subtitle": "We respond within 24 hours",
+  "subtitle": "We respond within 1 business day",
   "show_value": true,
   "highlight": false
 }
@@ -163,7 +163,7 @@ Quick reference for privacy and highlighting features in contact cards.
     "show_value": false,
     "highlight": false,
     "label": "Email",
-    "subtitle": "Response in 24h"
+    "subtitle": "Response in 1 business day"
   }
 ]
 ```
@@ -206,7 +206,7 @@ Quick reference for privacy and highlighting features in contact cards.
       "type": "whatsapp",
       "label": "WhatsApp",
       "value": "+971501234567",
-      "subtitle": "Available 24/7 - احصل على رد فوري",
+      "subtitle": "Fastest Response - أسرع وسيلة للتواصل",
       "show_value": false,
       "highlight": true,
       "whatsapp_message": "Hello! I would like to inquire about your services. مرحبا! أود الاستفسار عن خدماتكم"
@@ -223,7 +223,7 @@ Quick reference for privacy and highlighting features in contact cards.
       "type": "email",
       "label": "Email / البريد",
       "value": "hello@company.ae",
-      "subtitle": "Response within 24 hours",
+      "subtitle": "Response within 1 business day",
       "show_value": true,
       "highlight": false
     },

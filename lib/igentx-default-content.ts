@@ -233,7 +233,7 @@ export const igentxDefaultPageContent = {
       trust_signals: [
         { value: '3x', label: 'Faster Delivery' },
         { value: '99+', label: 'Core Web Vitals Score' },
-        { value: 'Ongoing', label: 'Customer Support' },
+        { value: 'within 1 business day', label: 'Customer Support' },
         { value: '95%', label: 'Customer Satisfaction' },
       ],
     },
@@ -471,19 +471,6 @@ export const igentxDefaultPageContent = {
           ],
           technologies: ['Next.js', 'Storyblok', 'Tailwind CSS', 'TypeScript', 'Vercel'],
         },
-        {
-          title: 'Dubai Restaurant Chain - Digital Transformation',
-          description:
-            'Complete branding and e-commerce solution with multilingual support and WhatsApp integration',
-          category: 'Full Solution',
-          results: [
-            { value: '200%', metric: 'Online Orders' },
-            { value: '24/7', metric: 'Customer Support' },
-            { value: '50%', metric: 'Cost Reduction' },
-            { value: '4.8★', metric: 'Customer Rating' },
-          ],
-          technologies: ['Shopify', 'WhatsApp API', 'AI Chatbot', 'Payment Gateway'],
-        },
       ],
       show_performance_comparison: true,
       performance_title: 'Before vs After: Real Performance Impact',
@@ -681,7 +668,7 @@ export const defaultContactContent = {
   badge_text: '💬 We\'re Here to Help',
   title: 'Get In Touch With Us',
   description:
-    'Have a project in mind or questions about our services? We\'d love to hear from you. Reach out to us through any of the channels below, and our team will get back to you within 24 hours.',
+    'Have a project in mind or questions about our services? We\'d love to hear from you. Reach out to us through any of the channels below, and our team will get back to you within 1 business day.',
 
   // Contact Cards
   contact_cards_title: 'Contact Information',
@@ -826,7 +813,7 @@ export const defaultContactContent = {
       ],
       submit_button_text: 'Send Message',
       success_message:
-        'Thank you for contacting us! We\'ll get back to you within 24 hours.',
+        'Thank you for contacting us! We\'ll get back to you within 1 business day.',
       error_message:
         'Oops! Something went wrong. Please try again or contact us directly at hello@igentx.com',
       email_subject: 'New Contact Form Submission - IGENTX',

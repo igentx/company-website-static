@@ -621,7 +621,7 @@ Responsive Design
 SEO Optimized
 Fast Performance
 Mobile-First Approach
-24/7 Support
+Post-Launch Support
 ```
 
 This will render as a bullet list with checkmarks in the UI.

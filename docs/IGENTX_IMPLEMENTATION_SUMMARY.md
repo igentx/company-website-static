@@ -112,7 +112,7 @@ I've successfully created a killer website structure and content strategy for IG
 
 ### Hero Section
 - **Headline**: "AI-Driven Web & Branding Solutions for Fast-Growing Businesses in the UAE"
-- **Trust Signals**: 3x Faster Delivery, 99% Performance Score, 24/7 UAE Support
+- **Trust Signals**: 3x Faster Delivery, 99% Performance Score, Customer Support within 1 business day
 - **Dual CTAs**: Free Consultation + See Packages
 
 ### Pricing Packages

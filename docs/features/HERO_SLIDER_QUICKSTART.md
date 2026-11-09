@@ -111,7 +111,7 @@ Secondary CTA Text: Learn More
 Secondary CTA Link: /services
 
 Trust Signals:
-  - Add trust_signal_item: Value "24/7", Label "Support"
+  - Add trust_signal_item: Value "within 1 business day", Label "Support"
   - Add trust_signal_item: Value "100%", Label "Money Back"
 ```
 

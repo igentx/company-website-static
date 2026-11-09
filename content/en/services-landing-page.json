@@ -169,7 +169,7 @@
           {
             "_uid": "m5",
             "component": "trust_band_metric",
-            "value": "Ongoing",
+            "value": "within 1 business day",
             "label": "Customer Support",
             "description": "Support from the team that built your site",
             "icon_key": "support"

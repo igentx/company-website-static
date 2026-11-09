@@ -277,7 +277,7 @@ Quick Features:
 Primary CTA: "Claim Offer" → /pricing
 Secondary CTA: "Learn More" → /services
 Trust Signals:
-  - Value: "24/7" Label: "Support"
+  - Value: "within 1 business day" Label: "Support"
   - Value: "100%" Label: "Money Back Guarantee"
 ```
 

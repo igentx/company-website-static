@@ -24,7 +24,7 @@ A: Click "Book a Free Consultation" at https://www.igentx.com/contact or email h
 A: Yes. The initial consultation is free with no obligation. We will discuss your goals, suggest a practical approach, and share a tailored proposal if there is a good fit. There is no pressure to proceed.
 
 **Q: How quickly will you respond?**
-A: We aim to respond within 24 hours on business days. WhatsApp enquiries often receive a faster reply. For urgent projects, mention your timeline in your message.
+A: We aim to respond within 1 business day. WhatsApp enquiries often receive a faster reply. For urgent projects, mention your timeline in your message.
 
 **Q: What should I include in my message?**
 A: A brief overview of your business, what you want to achieve, your timeline, and any budget range. Links to your current website or references you admire are also helpful.
