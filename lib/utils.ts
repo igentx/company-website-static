@@ -31,7 +31,21 @@ export function normalizeInternalHref(path?: string | null, fallback = '#'): str
   ) {
     return path
   }
-  return path.startsWith('/') ? path : `/${path}`
+  // Stray "$" prefixes previously produced crawlable /$/... URLs.
+  const withoutDollar = path.replace(/^\/?\$\/?/, '')
+  if (withoutDollar !== path && !withoutDollar) return '/'
+  return withoutDollar.startsWith('/') ? withoutDollar : `/${withoutDollar}`
+}
+
+/**
+ * Resolve a Storyblok-style multilink to a root-absolute href.
+ * Falls back to `cached_url` when `url` is empty.
+ */
+export function resolveMultilinkHref(
+  link?: { url?: string | null; cached_url?: string | null } | null,
+  fallback = '#'
+): string {
+  return normalizeInternalHref(link?.url || link?.cached_url, fallback)
 }
 
 /**

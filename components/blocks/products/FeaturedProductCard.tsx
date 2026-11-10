@@ -1,6 +1,7 @@
 import { FeaturedProductBlok } from '@/lib/types'
 import Image from 'next/image'
 import Link from 'next/link'
+import { normalizeInternalHref } from '@/lib/utils'
 import {
   ArrowRightIcon,
   FeaturePillIcon,
@@ -27,7 +28,7 @@ function FeaturedProductDescription({ product }: { product: FeaturedProductBlok 
     <p className="text-gray-600 leading-relaxed mb-6">
       {description.slice(0, linkIndex)}
       <a
-        href={brandLink.url}
+        href={normalizeInternalHref(brandLink.url)}
         target="_blank"
         rel="noopener noreferrer"
         className="font-medium text-purple-600 underline decoration-purple-200 underline-offset-2 hover:text-purple-800 hover:decoration-purple-400 transition-colors"
@@ -115,7 +116,7 @@ export default function FeaturedProductCard({ product }: FeaturedProductCardProp
           {product.secondary_link?.text && product.secondary_link.url && (
             <p className="mb-6 text-sm">
               <Link
-                href={product.secondary_link.url}
+                href={normalizeInternalHref(product.secondary_link.url)}
                 className="font-medium text-purple-600 underline decoration-purple-200 underline-offset-2 hover:text-purple-800"
               >
                 {product.secondary_link.text}

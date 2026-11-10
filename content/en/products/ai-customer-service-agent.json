@@ -39,10 +39,10 @@
         "robots_nosnippet": false,
         "twitter_card_type": "summary_large_image",
         "twitter_description": "Add intelligent customer support outside office hours to your website with IGENTX AI Agent: RAG-trained, multilingual, one-line integration.",
-        "structured_data_type": "Product",
+        "structured_data_type": "Custom",
         "article_modified_time": "",
         "article_published_time": "",
-        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"name\": \"AI Customer Service Agent\",\n  \"brand\": \"IGENTX\",\n  \"description\": \"AI-powered customer service agent for websites with responses outside office hours and one-line integration.\",\n  \"applicationCategory\": \"AI Chatbot, Customer Support Software\"\n}"
+        "structured_data_custom": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SoftwareApplication\",\n  \"name\": \"AI Customer Service Agent\",\n  \"applicationCategory\": \"BusinessApplication\",\n  \"operatingSystem\": \"Web\",\n  \"brand\": { \"@type\": \"Brand\", \"name\": \"IGENTX\" },\n  \"description\": \"AI-powered customer service agent for websites with responses outside office hours and one-line integration.\",\n  \"url\": \"https://www.igentx.com/products/ai-customer-service-agent\",\n  \"provider\": {\n    \"@type\": \"Organization\",\n    \"name\": \"IGENTX\",\n    \"url\": \"https://www.igentx.com\"\n  }\n}"
       },
       {
         "_uid": "05f85a8c-bc0a-4675-be26-3993f753554e",

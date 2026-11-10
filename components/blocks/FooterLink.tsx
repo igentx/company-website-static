@@ -1,6 +1,7 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
+import { resolveMultilinkHref } from '@/lib/utils'
 
 /**
  * Footer Link component - Individual footer navigation link
@@ -13,6 +14,7 @@ interface FooterLinkProps {
     link: {
       url: string
       linktype: string
+      cached_url?: string
     }
     [key: string]: unknown
   }
@@ -35,7 +37,7 @@ export default function FooterLink({ blok }: FooterLinkProps) {
   return (
     <li>
       <a
-        href={getLanguageAwareUrl(blok.link?.url || '#')}
+        href={getLanguageAwareUrl(resolveMultilinkHref(blok.link))}
         className="text-gray-300 hover:text-white transition-colors"
       >
         {blok.lable}
