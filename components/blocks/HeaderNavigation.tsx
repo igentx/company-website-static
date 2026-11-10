@@ -8,6 +8,7 @@ import { HeaderBlok, NavigationItemBlok } from '@/lib/types'
 import { useState, useEffect } from 'react'
 import Image from 'next/image'
 import { usePathname } from 'next/navigation'
+import { resolveMultilinkHref } from '@/lib/utils'
 
 /** Pages with a light background from the top need solid header styling immediately. */
 function isLightHeaderPage(pathname: string | null): boolean {
@@ -70,9 +71,9 @@ export default function HeaderNavigation({ blok }: HeaderNavigationProps) {
 
   // Resolve the best URL available from Storyblok multilink
   const resolveItemUrl = (item?: NavigationItem) => {
-    const rawUrl = item?.link?.url || (item as any)?.link?.cached_url || ''
-    if (!rawUrl) return '#'
-    return getLanguageAwareUrl(rawUrl)
+    const href = resolveMultilinkHref((item as any)?.link)
+    if (href === '#') return '#'
+    return getLanguageAwareUrl(href)
   }
 
   return (

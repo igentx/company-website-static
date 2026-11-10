@@ -143,7 +143,7 @@
                 "component": "navigation_items",
                 "children": [],
                 "link": {
-                  "url": "",
+                  "url": "/products/ai-customer-service-agent",
                   "linktype": "story",
                   "cached_url": "/products/ai-customer-service-agent"
                 }
@@ -190,7 +190,7 @@
                 "component": "navigation_items",
                 "children": [],
                 "link": {
-                  "url": "",
+                  "url": "/services/custom-software-development",
                   "linktype": "story",
                   "cached_url": "/services/custom-software-development"
                 }
@@ -201,7 +201,7 @@
                 "component": "navigation_items",
                 "children": [],
                 "link": {
-                  "url": "",
+                  "url": "/services/web-development",
                   "linktype": "story",
                   "cached_url": "/services/web-development"
                 }
@@ -212,7 +212,7 @@
                 "component": "navigation_items",
                 "children": [],
                 "link": {
-                  "url": "",
+                  "url": "/services/ai-solutions",
                   "linktype": "story",
                   "cached_url": "/services/ai-solutions"
                 }
@@ -223,7 +223,7 @@
                 "component": "navigation_items",
                 "children": [],
                 "link": {
-                  "url": "",
+                  "url": "/services/ecommerce-development",
                   "linktype": "story",
                   "cached_url": "/services/ecommerce-development"
                 }
@@ -234,7 +234,7 @@
                 "component": "navigation_items",
                 "children": [],
                 "link": {
-                  "url": "",
+                  "url": "/services/seo",
                   "linktype": "story",
                   "cached_url": "/services/seo"
                 }
@@ -245,7 +245,7 @@
                 "component": "navigation_items",
                 "children": [],
                 "link": {
-                  "url": "",
+                  "url": "/services/branding-graphic-design",
                   "linktype": "story",
                   "cached_url": "/services/branding-graphic-design"
                 }
@@ -296,7 +296,7 @@
             "_uid": "76dbcf51-c131-42be-97db-40e5e61141bd",
             "link": {
               "id": "865d1bbc-e884-4edc-8b7c-0ed7b14b2514",
-              "url": "",
+              "url": "/contact",
               "linktype": "story",
               "fieldtype": "multilink",
               "cached_url": "/contact"

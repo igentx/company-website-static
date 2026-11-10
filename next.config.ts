@@ -45,8 +45,8 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
-        source: '/service/:path*',
-        destination: '/:path*',
+        source: '/service/:path+',
+        destination: '/:path+',
         permanent: true,
       },
       // /web-development-uae was never a real app route (docs example only).
@@ -107,8 +107,8 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
-        source: '/ar/service/:path*',
-        destination: '/:path*',
+        source: '/ar/service/:path+',
+        destination: '/:path+',
         permanent: true,
       },
       {

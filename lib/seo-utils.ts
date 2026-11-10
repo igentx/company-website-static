@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { absoluteAssetUrl } from './blog-utils'
+import { getSiteBaseUrl } from './site-url'
 import { SEOBlok } from './types'
 
 /** Site-wide fallback when a page SEO block has no og_image filename. */
@@ -335,14 +336,22 @@ export function generateStructuredData(
         image: seoData.og_image?.filename,
       }
 
+    // Google requires offers, review or aggregateRating on Product; we publish none of those.
     case 'Product':
       return {
         '@context': 'https://schema.org',
-        '@type': 'Product',
+        '@type': 'SoftwareApplication',
         name: seoData.title,
         description: seoData.description,
         url: currentUrl,
         image: seoData.og_image?.filename,
+        applicationCategory: 'BusinessApplication',
+        operatingSystem: 'Web',
+        provider: {
+          '@type': 'Organization',
+          name: siteName,
+          url: getSiteBaseUrl(),
+        },
       }
 
     case 'Event':
