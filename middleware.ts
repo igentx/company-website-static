@@ -29,9 +29,9 @@ function resolveLegacyDestination(pathname: string): string | null {
     return normalised.replace(/^\/service\/blog/, '/blog') || '/blog'
   }
 
-  // Other /service/:path* (e.g. /service/contact) → /:path*
+  // Other /service/:path* (e.g. /service/seo) → /services/:path*
   if (normalised.startsWith('/service/')) {
-    return normalised.slice('/service'.length) || '/'
+    return `/services${normalised.slice('/service'.length)}` || '/services'
   }
 
   if (normalised.startsWith('/case-studies-landing-page/')) {

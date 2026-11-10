@@ -37,7 +37,7 @@ const nextConfig: NextConfig = {
         destination: '/services/:path*',
         permanent: true,
       },
-      // /service rules: exact pluralisation, then blog crawl paths, then strip prefix.
+      // /service rules: exact pluralisation, then blog crawl paths, then pluralise nested paths.
       { source: '/service', destination: '/services', permanent: true },
       {
         source: '/service/blog/:slug',
@@ -46,7 +46,7 @@ const nextConfig: NextConfig = {
       },
       {
         source: '/service/:path+',
-        destination: '/:path+',
+        destination: '/services/:path+',
         permanent: true,
       },
       // /web-development-uae was never a real app route (docs example only).
@@ -108,7 +108,7 @@ const nextConfig: NextConfig = {
       },
       {
         source: '/ar/service/:path+',
-        destination: '/:path+',
+        destination: '/ar/services/:path+',
         permanent: true,
       },
       {
